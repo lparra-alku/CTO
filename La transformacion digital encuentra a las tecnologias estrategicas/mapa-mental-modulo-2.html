@@ -1,0 +1,285 @@
+<title>Tecnologías Estratégicas</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600;700&display=swap">
+<style>
+:root{
+  --ground:#F6F7F9; --surface:#FFFFFF; --sunken:#EDF0F4;
+  --ink:#151A21; --ink-2:#3D4753; --ink-3:#6B7684; --line:#D9DEE6;
+  --c1:#0B6E64; --c1-bg:#E4F1EE;
+  --c2:#1D4ED8; --c2-bg:#E4EAFC;
+  --c3:#9A3412; --c3-bg:#FBEBE2;
+  --c4:#6D28D9; --c4-bg:#EEE8FB;
+  --c5:#A21457; --c5-bg:#FAE4EE;
+  --flag:#8A5A00; --flag-bg:#FBF1DC; --flag-line:#E4C77E;
+  --star:#0B6E64; --star-bg:#E4F1EE;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#4FD1BE; --c1-bg:#0E2B28;
+  --c2:#8AB0FF; --c2-bg:#121F3A;
+  --c3:#F0A87A; --c3-bg:#2E1A11;
+  --c4:#BFA3FF; --c4-bg:#211537;
+  --c5:#F58FBC; --c5-bg:#31101F;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}}
+:root[data-theme="dark"]{
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#4FD1BE; --c1-bg:#0E2B28;
+  --c2:#8AB0FF; --c2-bg:#121F3A;
+  --c3:#F0A87A; --c3-bg:#2E1A11;
+  --c4:#BFA3FF; --c4-bg:#211537;
+  --c5:#F58FBC; --c5-bg:#31101F;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  line-height:1.5;padding:clamp(20px,4vw,52px) clamp(14px,4vw,44px) 72px;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(22px,3vw,34px)}
+
+header{display:flex;flex-direction:column;gap:10px;padding-bottom:20px;border-bottom:2px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:"IBM Plex Serif",Georgia,serif;font-weight:700;margin:0;
+  font-size:clamp(28px,5.2vw,44px);letter-spacing:-.02em;text-wrap:balance;line-height:1.12}
+.sub{color:var(--ink-2);max-width:62ch;font-size:15.5px;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2);
+  background:var(--sunken);border:1px solid var(--line);border-radius:3px;padding:4px 9px}
+
+.branch{display:grid;grid-template-columns:minmax(150px,200px) 1fr;gap:clamp(14px,2.4vw,30px);
+  align-items:start}
+.stem{position:sticky;top:20px;display:flex;flex-direction:column;gap:7px;
+  padding:13px 15px;border-radius:4px;background:var(--bg);border-left:4px solid var(--hue)}
+.stem .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--hue);font-weight:600}
+.stem h2{font-family:"IBM Plex Serif",Georgia,serif;font-size:18px;font-weight:600;margin:0;
+  line-height:1.24;text-wrap:balance;color:var(--ink)}
+.stem p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.42}
+
+.nodes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));
+  padding-left:clamp(12px,1.6vw,20px);border-left:1px dashed var(--line)}
+.node{background:var(--surface);border:1px solid var(--line);border-radius:4px;
+  padding:13px 15px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.node h3{margin:0;font-size:12.5px;font-weight:600;letter-spacing:.01em;color:var(--hue);
+  display:flex;align-items:baseline;gap:7px}
+.node h3 .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-3);
+  letter-spacing:.06em;font-weight:500}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+li{font-size:13.5px;color:var(--ink-2);padding-left:13px;position:relative;line-height:1.42}
+li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:1.5px;background:var(--hue);opacity:.65}
+li b{color:var(--ink);font-weight:600}
+.seq{counter-reset:s;gap:5px}
+.seq li{padding-left:24px}
+.seq li::before{counter-increment:s;content:counter(s);width:auto;height:auto;background:none;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--hue);font-weight:600;
+  top:1px;opacity:1}
+
+.flag,.star{border-radius:4px;padding:15px 17px;display:flex;flex-direction:column;gap:7px}
+.flag{background:var(--flag-bg);border:1px solid var(--flag-line)}
+.star{background:var(--star-bg);border:1px solid var(--star);border-left-width:4px}
+.flag .lbl,.star .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;font-weight:600}
+.flag .lbl{color:var(--flag)} .star .lbl{color:var(--star)}
+.flag h3,.star h3{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.flag p,.star p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:74ch}
+.flag b,.star b{color:var(--ink)}
+
+.rank{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));margin-top:3px}
+.rk{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:10px 12px;
+  display:flex;flex-direction:column;gap:3px}
+.rk .p{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--star);font-weight:600}
+.rk .t{font-size:13px;font-weight:600;color:var(--ink)}
+.rk .d{font-size:12px;color:var(--ink-3);line-height:1.38}
+
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--ink-3);font-size:12.5px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;font-family:"IBM Plex Mono",monospace}
+@media (max-width:720px){
+  .branch{grid-template-columns:1fr;gap:12px}
+  .stem{position:static;border-left-width:4px}
+  .nodes{padding-left:0;border-left:none}
+}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="eyebrow">Chief Digital Transformation Officer · SC 1.2 · 10 h</div>
+  <h1>La Transformación Digital encuentra a las Tecnologías Estratégicas</h1>
+  <p class="sub">Mapa del módulo completo: cinco lecciones, de cómo se arquitecta un negocio digital a cómo se decide cuándo adoptar una tecnología.</p>
+  <div class="meta">
+    <span class="chip">Evaluación 40 %</span>
+    <span class="chip">Reto 60 %</span>
+    <span class="chip">Experto: José “Pepe” Tam · Softtek</span>
+  </div>
+</header>
+
+<section class="branch" style="--hue:var(--c1);--bg:var(--c1-bg)">
+  <div class="stem"><div class="n">LECCIÓN 1</div><h2>Diseñado digital</h2><p>CISR del MIT Sloan — Jeanne Ross</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Los cinco componentes <span class="tag">Ross 2019</span></h3>
+      <ul>
+        <li><b>Conocimiento de los clientes</b> — experimentar y aprender qué valoran</li>
+        <li><b>Columna vertebral operativa</b> — la mayoría no la tiene sólida</li>
+        <li><b>Plataforma digital</b> — unidades reutilizables</li>
+        <li><b>Rendición de cuentas</b> — autonomía con alineación</li>
+        <li><b>Plataforma de desarrollo externo</b> — terceros, datos compartidos</li>
+      </ul>
+      <ul><li style="color:var(--ink-3)">Tres son plataformas; dos son capacidades organizacionales</li></ul>
+    </div>
+    <div class="node"><h3>La hoja de ruta</h3>
+      <ul class="seq">
+        <li>Arreglar la columna vertebral</li>
+        <li>No posponer la plataforma digital</li>
+        <li>Sincronizar cliente con plataforma</li>
+        <li>Asignar responsabilidades</li>
+        <li>Seguir aprendiendo y construyendo</li>
+      </ul>
+    </div>
+    <div class="node"><h3>Columna vertebral</h3>
+      <ul><li><b>Flexibilidad</b> — cambios de demanda, tecnología y mercado</li>
+        <li><b>Seguridad</b> — ciberseguridad como componente crítico</li>
+        <li><b>Interoperabilidad</b> — comunicación efectiva y colaboración</li></ul>
+    </div>
+    <div class="node"><h3>Plataforma interna / externa</h3>
+      <ul><li><b>Interna</b> — datos, comunicación, colaboración</li>
+        <li><b>Externa</b> — clientes, proveedores, socios</li>
+        <li>Ambas: interoperabilidad, ciberseguridad y <b>personalización</b></li>
+        <li><b>Escucha activa</b> — recopilación continua, ajuste en tiempo real</li></ul>
+    </div>
+  </div>
+</section>
+
+<div class="flag">
+  <div class="lbl">Error en el material — verificado</div>
+  <h3>Digitización y “ser digital” están invertidos</h3>
+  <p>El PDF dice que lo digital es eficiencia operativa y la digitalización son las ofertas. En Ross es al revés: <b>digitización = eficiencia operativa</b> (la columna vertebral), <b>ser digital = crear ofertas nuevas</b>. Le dedicó un artículo titulado <i>“Don’t Confuse Digital with Digitization”</i>. En la evaluación, responde la versión del curso.</p>
+</div>
+
+<section class="branch" style="--hue:var(--c2);--bg:var(--c2-bg)">
+  <div class="stem"><div class="n">LECCIÓN 2</div><h2>Tres digitalizaciones</h2><p>No hay una, hay tres puertas de entrada</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Basada en procesos</h3>
+      <ul><li><b>BPM</b> — filosofía de mejora continua, no herramienta</li>
+        <li><b>EDM</b> — gestión documental electrónica</li>
+        <li><b>OCR</b> — impreso a dato procesable</li>
+        <li><b>RPA</b> — robots de software</li>
+        <li><b>Integración</b> — servicios web, ESB</li>
+        <li><b>XR</b> (VR · AR · MR), <b>impresión 3D</b>, seguridad de datos</li></ul>
+    </div>
+    <div class="node"><h3>Basada en datos <span class="tag">cadena BI</span></h3>
+      <ul class="seq"><li>Recopilación</li><li>Almacenamiento</li><li>Procesamiento</li><li>Análisis</li>
+        <li>Generación de información</li><li>Decisiones informadas</li><li>Implementación</li>
+        <li>Evaluación y retroalimentación ↺</li></ul>
+      <ul><li><b>BI</b> pasado y presente · <b>Operational Intelligence</b> tiempo real · <b>Big Data</b> patrones ocultos</li>
+        <li>Ciencia de datos → Analítica predictiva → <b>Machine Learning</b></li></ul>
+    </div>
+    <div class="node"><h3>Basada en sensores</h3>
+      <ul><li><b>Sensores OT</b> — temperatura, presión, flujo, químicos <i>en procesos industriales</i></li>
+        <li>Control de maquinaria, PLC, energía, infraestructura crítica</li>
+        <li><b>Convergencia IT/OT</b></li>
+        <li><b>IIoT</b> — la estrella es el <b>mantenimiento predictivo</b></li></ul>
+    </div>
+  </div>
+</section>
+
+<section class="branch" style="--hue:var(--c3);--bg:var(--c3-bg)">
+  <div class="stem"><div class="n">LECCIÓN 3</div><h2>RPA y automatización cognitiva</h2><p>Del robot de reglas al que entiende</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Los cinco tipos</h3>
+      <ul><li><b>De pantalla</b> — emula la interacción humana con la interfaz</li>
+        <li><b>De procesos</b> — flujos completos entre sistemas</li>
+        <li><b>Cognitiva</b> — datos no estructurados con IA</li>
+        <li><b>De chatbots</b> — conversaciones</li>
+        <li><b>De análisis de datos</b> — informes y predicción</li></ul>
+    </div>
+    <div class="node"><h3>Proceso común <span class="tag">9 pasos</span></h3>
+      <ul class="seq"><li>Identificación de tareas</li><li>Análisis de procesos</li><li>Diseño de flujo</li>
+        <li>Diseño del bot</li><li>Pruebas</li><li>Implementación</li><li>Monitoreo</li>
+        <li>Gestión de excepciones</li><li>Optimización continua</li></ul>
+      <ul><li style="color:var(--ink-3)">Los saltados: pruebas y excepciones</li></ul>
+    </div>
+    <div class="node"><h3>Cognitivas vs. tradicionales</h3>
+      <ul><li>Capacidades: <b>NLP</b>, visión por computadora, decisión con datos, <b>aprendizaje automático</b></li>
+        <li>Solo el <b>aprendizaje automático</b> explica mejorar con el tiempo</li>
+        <li>Tradicionales: UiPath, Blue Prism, Automation Anywhere</li>
+        <li>Cognitivas: IBM Watson, Google Cloud AI, Azure Cognitive</li>
+        <li>Banca y finanzas → <b>detección de fraudes</b></li>
+        <li><b>Hiperautomatización</b> — ecosistema automatizado inteligente</li></ul>
+    </div>
+  </div>
+</section>
+
+<div class="star">
+  <div class="lbl">★ Lo que solo dice la entrevista — y no está en ningún PDF</div>
+  <h3>Las cinco tecnologías en orden de prioridad, según Pepe Tam</h3>
+  <div class="rank">
+    <div class="rk"><span class="p">01 · EMPEZAR AQUÍ</span><span class="t">Robots de software (RPA)</span><span class="d">“El low-hanging fruit”. Caso de negocio inmediato.</span></div>
+    <div class="rk"><span class="p">02</span><span class="t">IA en todas sus modalidades</span><span class="d">Asistentes que predicen, recomiendan y detectan fallas.</span></div>
+    <div class="rk"><span class="p">03</span><span class="t">Sensores / IoT</span><span class="d">Monitorear → automatizar → semiautónomo → autónomo.</span></div>
+    <div class="rk"><span class="p">04</span><span class="t">Realidad aumentada y virtual</span><span class="d">Capacitación, expertos remotos, marketing experiencial.</span></div>
+    <div class="rk"><span class="p">05</span><span class="t">Nube y blockchain</span><span class="d">Infraestructura on demand; trazabilidad y antifraude.</span></div>
+  </div>
+  <p style="margin-top:6px"><b>El argumento del Excel:</b> “las empresas somos excelentes, y por eso somos Excel — queremos eliminar las <b>excelencias</b>”. Cuenta tus horas de Excel al mes × 12: vas a encontrar <b>8 a 10 excelencias</b> que consumen <b>10 000 a 20 000 horas</b> al año — <b>10 a 20 millones de pesos</b>.</p>
+</div>
+
+<section class="branch" style="--hue:var(--c4);--bg:var(--c4-bg)">
+  <div class="stem"><div class="n">LECCIÓN 4</div><h2>Gen AI por industrias</h2><p>Qué es, dónde se usa y cuánto cuesta</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Qué es</h3>
+      <ul><li><b>IA</b> resuelve tareas específicas; <b>Gen AI</b> crea contenido original</li>
+        <li><b>Modelo fundacional</b> → entrenado con datos sin etiquetar</li>
+        <li><b>LLM</b> = tipo de modelo fundacional, miles de millones de parámetros</li></ul>
+    </div>
+    <div class="node"><h3>Adopción <span class="tag">Gartner 2023</span></h3>
+      <ul><li><b>4 %</b> usando · <b>15 %</b> piloteando · <b>70 %</b> investigando</li>
+        <li>Más de <b>1 700 M €</b> invertidos por fondos</li>
+        <li style="color:var(--ink-3)">Datos de enero 2023 — refrescar antes de citarlos</li></ul>
+    </div>
+    <div class="node"><h3>Casos por industria</h3>
+      <ul><li><b>Financiero</b> — Morgan Stanley con GPT-4</li>
+        <li><b>Salud</b> — Mass General Brigham</li>
+        <li><b>Retail</b> — Tesco · <b>Transporte</b> — Maersk</li>
+        <li><b>Manufactura</b> — reducir paro no programado</li>
+        <li>Johnson (fármacos) · Spotify (playlists) · RH (Copysmith)</li></ul>
+    </div>
+    <div class="node"><h3>Decidir la inversión</h3>
+      <ul><li><b>Impacto</b> — visión, beneficios, objetivo, adopción</li>
+        <li><b>Procesos e infraestructura</b> — datos disponibles y habilidades</li>
+        <li><b>Políticas</b> — protección y quién responde por los outputs</li>
+        <li>Premisa de costo: <b>entre más personalizas, más caro</b> — de <span style="font-family:'IBM Plex Mono',monospace">$</span> a <span style="font-family:'IBM Plex Mono',monospace">$$$$$$$$$$$$$</span></li></ul>
+    </div>
+  </div>
+</section>
+
+<section class="branch" style="--hue:var(--c5);--bg:var(--c5-bg)">
+  <div class="stem"><div class="n">LECCIÓN 5</div><h2>Las tres herramientas de Gartner</h2><p>¿En qué fase está? ¿Cuándo invierto? ¿Qué miro?</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Hype Cycle <span class="tag">¿en qué fase?</span></h3>
+      <ul class="seq"><li>Lanzamiento</li><li>Pico de expectativas sobredimensionadas</li>
+        <li>Abismo de desilusión</li><li>Rampa de consolidación</li><li>Meseta de productividad</li></ul>
+      <ul><li>Meseta = adopción de <b>20 % a 30 %</b> de la audiencia potencial</li></ul>
+    </div>
+    <div class="node"><h3>IT Market Clock <span class="tag">¿cuándo invierto?</span></h3>
+      <ul class="seq"><li>Ventaja — riesgo alto, monitoreo constante</li><li>Elección — ya mercantilizada</li>
+        <li>Costo — planear migración</li><li>Reemplazo — retirar y reinvertir</li></ul>
+      <ul><li>Invertir en el <b>rango intermedio</b></li>
+        <li>Corresponde con el Hype Cycle en <b>Ventaja y Elección</b></li></ul>
+    </div>
+    <div class="node"><h3>Radar de Impacto <span class="tag">¿qué miro?</span></h3>
+      <ul><li><b>Impacto · Madurez · Dinamicidad · Preparación</b></li>
+        <li>Produce <b>estrategia, plan de innovación y roadmap</b></li>
+        <li>Rangos: ahora · 1-3 · 3-6 · 6-8 años</li>
+        <li style="color:var(--ink-3)">El distractor cambia “preparación” por “nivel de innovación”</li></ul>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <span>Mapa de estudio · módulo 2</span>
+  <span>Tec de Monterrey · The Learning Gate</span>
+  <span>Sept 2026</span>
+</footer>
+</div>

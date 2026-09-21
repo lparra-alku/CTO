@@ -1,0 +1,103 @@
+
+--- p1 ---
+Cognitivas
+RPAs
+La Automatización Cognitiva lleva a la 
+automatización hacia un paso más allá al incorporar 
+capacidades de inteligencia artificial (IA).
+
+--- p2 ---
+Las RPAs cognitivas, también conocidas como RPA 
+inteligente o automatización cognitiva, representan 
+una evolución en la tecnología de automatización de 
+procesos robóticos (RPA). A diferencia de las RPAs 
+tradicionales, que se centran en la automatización de tareas 
+repetitivas y basadas en reglas, las RPAs cognitivas incorporan la 
+capacidad de las máquinas para comprender y procesar datos 
+no estructurados, como texto, voz o imágenes, de manera similar a 
+como lo haría un ser humano. Utilizan técnicas de procesamiento de 
+lenguaje natural, visión por computadora y aprendizaje 
+automático para realizar tareas más avanzadas, como el análisis de 
+sentimientos, la clasificación de documentos y la toma de decisiones 
+basada en datos. Puede manejar datos complejos y adaptarse a 
+situaciones cambiantes, ideal para tareas más complejas y decisiones 
+comerciales. 
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Características clave de las RPAs cognitivas
+A continuación, se exploran algunas características 
+clave y ejemplos de aplicaciones de las RPAs 
+cognitivas:
+• Procesamiento de lenguaje natural (NLP, por 
+las siglas en inglés de Natural Language 
+Processing): Las RPAs cognitivas pueden 
+comprender y procesar texto en lenguaje natural. 
+Esto les permite analizar documentos, correos 
+electrónicos, chats y otros tipos de comunicación 
+escrita.
+• Visión por computadora: Las RPAs cognitivas 
+pueden analizar y reconocer imágenes y objetos. Esto 
+se utiliza en aplicaciones como el reconocimiento de 
+caracteres en documentos o la identificación de 
+elementos en imágenes médicas.
+• Toma de decisiones basada en datos: Las RPAs 
+cognitivas pueden utilizar datos e información para 
+tomar decisiones, como la clasificación de 
+documentos, la evaluación de riesgos o la 
+recomendación de acciones.
+• Aprendizaje automático: Estas RPAs pueden 
+aprender y mejorar con el tiempo a medida que se 
+les alimenta con más datos. Esto las hace eficaces 
+en la detección de patrones y tendencias.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+de RPAs cognitivas:
+Ejemplos de aplicaciones
+• Procesamiento de facturas: Las RPAs cognitivas pueden analizar 
+facturas entrantes, extraer información clave y clasificarlas 
+automáticamente. Esto agiliza el proceso de contabilidad y reduce los 
+errores.
+• Gestión de correos electrónicos: Las RPAs cognitivas pueden 
+clasificar y enrutar correos electrónicos a departamentos relevantes o 
+responder preguntas frecuentes automáticamente.
+• Detección de fraudes: En la banca y las instituciones financieras, las 
+RPAs cognitivas pueden identificar patrones sospechosos en las 
+transacciones y alertar sobre posibles fraudes.
+• Atención al cliente: Las RPAs cognitivas pueden proporcionar 
+respuestas automáticas a preguntas de clientes en línea a través de 
+chatbots, mejorando la eficiencia de la atención al cliente.
+• Análisis de datos no estructurados: Las RPAs cognitivas pueden 
+analizar grandes cantidades de datos no estructurados, como 
+comentarios de clientes, opiniones en redes sociales o registros médicos, 
+para extraer información valiosa y tendencias.
+• Automatización de procesos de recursos humanos: Las RPAs 
+cognitivas pueden ayudar en la selección de personal, revisando 
+currículos y comparando habilidades con requisitos de trabajo.
+Las RPAs cognitivas ofrecen un nivel avanzado de automatización y análisis 
+de datos, lo que las convierte en herramientas valiosas para una amplia 
+gama de aplicaciones en diversas industrias. Su capacidad para 
+comprender y procesar datos no estructurados les permite abordar tareas 
+complejas que van más allá de las capacidades de las RPAs tradicionales.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Reflexiones finales
+Ahora que identificaste las RPAs cognitivas, 
+¿cómo podrías aprovecharlas dentro de tu 
+organización?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5

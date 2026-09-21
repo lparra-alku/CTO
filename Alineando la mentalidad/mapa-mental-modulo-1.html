@@ -1,0 +1,253 @@
+<title>Alineando la Mentalidad</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600;700&display=swap">
+<style>
+:root{
+  --ground:#F7F7F5; --surface:#FFFFFF; --sunken:#EEEEEA;
+  --ink:#1A1915; --ink-2:#48453D; --ink-3:#77736A; --line:#DEDCD4;
+  --c1:#1F6F5C; --c1-bg:#E3F0EB;
+  --c2:#8A5212; --c2-bg:#F8EDDD;
+  --c3:#1B4F8A; --c3-bg:#E2ECF7;
+  --c4:#96203C; --c4-bg:#F9E4E8;
+  --c5:#57338F; --c5-bg:#EDE6F7;
+  --flag:#8A5A00; --flag-bg:#F9F0DA; --flag-line:#E2C67C;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#14130F; --surface:#1B1A16; --sunken:#232220;
+  --ink:#F0EEE7; --ink-2:#BFBBB0; --ink-3:#8C8779; --line:#33312B;
+  --c1:#63CCAF; --c1-bg:#0F2A23;
+  --c2:#E0AE63; --c2-bg:#2C2012;
+  --c3:#7FB2EA; --c3-bg:#121F30;
+  --c4:#EE8199; --c4-bg:#2F1219;
+  --c5:#B79BE8; --c5-bg:#1F1630;
+  --flag:#E3BC6E; --flag-bg:#292113; --flag-line:#56451F;
+}}
+:root[data-theme="dark"]{
+  --ground:#14130F; --surface:#1B1A16; --sunken:#232220;
+  --ink:#F0EEE7; --ink-2:#BFBBB0; --ink-3:#8C8779; --line:#33312B;
+  --c1:#63CCAF; --c1-bg:#0F2A23;
+  --c2:#E0AE63; --c2-bg:#2C2012;
+  --c3:#7FB2EA; --c3-bg:#121F30;
+  --c4:#EE8199; --c4-bg:#2F1219;
+  --c5:#B79BE8; --c5-bg:#1F1630;
+  --flag:#E3BC6E; --flag-bg:#292113; --flag-line:#56451F;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  line-height:1.5;padding:clamp(20px,4vw,52px) clamp(14px,4vw,44px) 72px;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(22px,3vw,34px)}
+header{display:flex;flex-direction:column;gap:10px;padding-bottom:20px;border-bottom:2px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:"IBM Plex Serif",Georgia,serif;font-weight:700;margin:0;font-size:clamp(28px,5.2vw,44px);
+  letter-spacing:-.02em;text-wrap:balance;line-height:1.12}
+.sub{color:var(--ink-2);max-width:62ch;font-size:15.5px;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2);background:var(--sunken);
+  border:1px solid var(--line);border-radius:3px;padding:4px 9px}
+.branch{display:grid;grid-template-columns:minmax(150px,200px) 1fr;gap:clamp(14px,2.4vw,30px);align-items:start}
+.stem{position:sticky;top:20px;display:flex;flex-direction:column;gap:7px;padding:13px 15px;
+  border-radius:4px;background:var(--bg);border-left:4px solid var(--hue)}
+.stem .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--hue);font-weight:600}
+.stem h2{font-family:"IBM Plex Serif",Georgia,serif;font-size:18px;font-weight:600;margin:0;line-height:1.24;
+  text-wrap:balance;color:var(--ink)}
+.stem p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.42}
+.nodes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));
+  padding-left:clamp(12px,1.6vw,20px);border-left:1px dashed var(--line)}
+.node{background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:13px 15px;
+  display:flex;flex-direction:column;gap:8px;min-width:0}
+.node h3{margin:0;font-size:12.5px;font-weight:600;color:var(--hue);display:flex;align-items:baseline;gap:7px}
+.node h3 .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-3);letter-spacing:.06em;font-weight:500}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+li{font-size:13.5px;color:var(--ink-2);padding-left:13px;position:relative;line-height:1.42}
+li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:1.5px;background:var(--hue);opacity:.65}
+li b{color:var(--ink);font-weight:600}
+.pairs{display:flex;flex-direction:column;gap:5px}
+.pair{display:grid;grid-template-columns:1fr auto 1fr;gap:8px;align-items:center;
+  background:var(--sunken);border-radius:3px;padding:6px 9px}
+.pair .a{font-size:12.5px;color:var(--ink-2)}
+.pair .arrow{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--hue)}
+.pair .b{font-size:12.5px;font-weight:600;color:var(--ink);text-align:right}
+.split{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+.sp{background:var(--sunken);border-radius:3px;padding:9px 11px;display:flex;flex-direction:column;gap:2px}
+.sp .k{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--hue);font-weight:600;letter-spacing:.06em}
+.sp .v{font-size:12.5px;color:var(--ink-2);line-height:1.38}
+.sp .v b{color:var(--ink)}
+.flag{background:var(--flag-bg);border:1px solid var(--flag-line);border-radius:4px;padding:15px 17px;
+  display:flex;flex-direction:column;gap:7px}
+.flag .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;
+  font-weight:600;color:var(--flag)}
+.flag h3{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.flag p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:74ch}
+.flag b{color:var(--ink)}
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--ink-3);font-size:12.5px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;font-family:"IBM Plex Mono",monospace}
+@media (max-width:720px){
+  .branch{grid-template-columns:1fr;gap:12px}
+  .stem{position:static}
+  .nodes{padding-left:0;border-left:none}
+  .pair{grid-template-columns:1fr auto;grid-template-areas:"a arrow" "b b"}
+  .pair .b{text-align:left}
+}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="eyebrow">Chief Digital Transformation Officer · SC 1.1 · 10 h</div>
+  <h1>Alineando la Mentalidad de Transformación Digital</h1>
+  <p class="sub">Mapa del módulo completo. La tesis que lo atraviesa: la transformación digital no empieza en la tecnología, empieza en el modelo operativo, la propuesta de valor y la mentalidad.</p>
+  <div class="meta"><span class="chip">Reto CS 1.1 · 100 pts</span><span class="chip">5 pasos</span><span class="chip">Tec de Monterrey</span></div>
+</header>
+
+<section class="branch" style="--hue:var(--c1);--bg:var(--c1-bg)">
+  <div class="stem"><div class="n">LECCIÓN 2</div><h2>Qué es la transformación digital</h2><p>Y quién la lidera de verdad</p></div>
+  <div class="nodes">
+    <div class="node"><h3>La tesis del módulo</h3>
+      <ul><li>No es adoptar tecnología: es actualizar el <b>modelo operativo</b> y la <b>propuesta de valor</b></li>
+        <li>Primero el negocio, después procesos, personas y tecnología</li>
+        <li>El <b>CEO lidera</b>; el <b>CIO habilita</b> y mide</li>
+        <li><b>86 %</b> de los CEOs ya lo creía en 2014</li></ul>
+    </div>
+    <div class="node"><h3>Cada CXO lo ve desde su dolor</h3>
+      <ul><li><b>CFO</b> — papel, consolidación, costeo ABC, “¿me reemplaza un robot?”</li>
+        <li><b>CTO</b> — no se renuevan todas las plantas a la vez; integrar lo que ya hay + IoT</li>
+        <li><b>CIO</b> — presupuesto, proveedores, riesgos y métricas</li></ul>
+    </div>
+    <div class="node"><h3>Las tecnologías</h3>
+      <ul><li><b>SMACIT</b> — Social, Mobile, Analytics, Cloud, IoT <span style="color:var(--ink-3)">(de <i>smack</i>: te abofetean)</span></li>
+        <li>Las <b>7 del WEF</b>: IA · vehículos autónomos · Big Data y nube · fabricación bajo demanda y 3D · IoT · robots y drones · redes sociales</li></ul>
+    </div>
+    <div class="node"><h3>El dato que ordena todo <span class="tag">McKinsey 2017</span></h3>
+      <ul><li>Digitalización promedio de las industrias: <b>37 %</b></li>
+        <li>De 31 % (bienes empaquetados) a 62 % (medios)</li>
+        <li><b>Ninguna industria estaba cerca de terminar</b></li></ul>
+    </div>
+  </div>
+</section>
+
+<section class="branch" style="--hue:var(--c2);--bg:var(--c2-bg)">
+  <div class="stem"><div class="n">LECCIÓN 3</div><h2>Los cinco sectores</h2><p>Cada uno con su propio reto</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Comercio y consumo</h3>
+      <ul><li><b>90 %</b> usa el celular incluso comprando en tienda</li>
+        <li><b>51 %</b> investiga en línea y compra en físico</li>
+        <li><b>86 %</b> pagaría más por mejor experiencia</li>
+        <li>Dos tercios del consumidor final son <b>Millennial y Gen Z</b></li></ul>
+    </div>
+    <div class="node"><h3>Financiero</h3>
+      <ul><li>Banca <b>2.0</b> (en línea) → <b>3.0</b> (IA e hiperpersonalización) → <b>abierta</b></li>
+        <li><b>Neobanks</b> — sin sucursales, sobre banco licenciado</li>
+        <li>Regla <b>8 / 18 / 30 s</b>: a los 30 segundos se va el <b>80 %</b></li></ul>
+    </div>
+    <div class="node"><h3>Industrial</h3>
+      <div class="split">
+        <div class="sp"><span class="k">INDUSTRIA 4.0</span><span class="v">Conectividad · inteligencia · <b>automatización flexible</b></span></div>
+        <div class="sp"><span class="k">INDUSTRIA 5.0</span><span class="v">Sostenible · centrada en la persona · <b>resiliente</b></span></div>
+      </div>
+      <ul><li>La 5.0 <b>no reemplaza</b> a la 4.0, la complementa</li></ul>
+    </div>
+    <div class="node"><h3>Servicios</h3>
+      <ul><li>E-commerce transfronterizo: <b>250 a 350 mil millones</b> de dólares a 2025</li>
+        <li>Torres de control logístico, drones, entrega autónoma</li>
+        <li>Tendencias 2030: journey digitalizado · ESG · datos · DTC · cadena de valor</li></ul>
+    </div>
+  </div>
+</section>
+
+<section class="branch" style="--hue:var(--c3);--bg:var(--c3-bg)">
+  <div class="stem"><div class="n">LECCIÓN 4</div><h2>El mundo conectado</h2><p>Deuda digital y cultura</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Mercado ↔ Empresa</h3>
+      <div class="pairs">
+        <div class="pair"><span class="a">Economía digital</span><span class="arrow">→</span><span class="b">Propuesta de valor</span></div>
+        <div class="pair"><span class="a">Competencia digital</span><span class="arrow">→</span><span class="b">Modelo operativo</span></div>
+        <div class="pair"><span class="a">Clientes digitales</span><span class="arrow">→</span><span class="b">Personas y cultura</span></div>
+      </div>
+    </div>
+    <div class="node"><h3>Deuda digital</h3>
+      <ul><li>Las deficiencias que impiden conectar <b>procesos, personas y productos</b></li>
+        <li>Obstaculiza integración, colaboración e interacción con el cliente</li>
+        <li>Contraste: <b>4.8 horas diarias</b> en apps en la vida personal</li></ul>
+    </div>
+    <div class="node"><h3>Cultura digital <span class="tag">WEF 2021</span></h3>
+      <ul><li><b>Colaborativo</b> — romper silos</li>
+        <li><b>Basado en datos</b> — decidir con evidencia</li>
+        <li><b>Centrado en el consumidor</b></li>
+        <li><b>Innovador</b> — probar y tomar riesgos</li></ul>
+    </div>
+    <div class="node"><h3>Experiencias</h3>
+      <ul><li><b>“Wow”</b> — el cliente no pide más tecnología, pide soluciones para la que ya tiene</li>
+        <li><b>Figital</b> — lo físico se extiende a lo digital y viceversa</li>
+        <li>Scan &amp; go, realidad aumentada en tienda, pantallas interactivas</li></ul>
+    </div>
+  </div>
+</section>
+
+<section class="branch" style="--hue:var(--c4);--bg:var(--c4-bg)">
+  <div class="stem"><div class="n">LECCIÓN 5</div><h2>Entornos VUCA y BANI</h2><p>El problema y su respuesta</p></div>
+  <div class="nodes">
+    <div class="node"><h3>VUCA → VECA <span class="tag">fines de los 80</span></h3>
+      <div class="pairs">
+        <div class="pair"><span class="a">Volatility</span><span class="arrow">→</span><span class="b">Visión</span></div>
+        <div class="pair"><span class="a">Uncertainty</span><span class="arrow">→</span><span class="b">Entendimiento</span></div>
+        <div class="pair"><span class="a">Complexity</span><span class="arrow">→</span><span class="b">Claridad</span></div>
+        <div class="pair"><span class="a">Ambiguity</span><span class="arrow">→</span><span class="b">Agilidad</span></div>
+      </div>
+    </div>
+    <div class="node"><h3>BANI → REAC <span class="tag">Cascio 2018</span></h3>
+      <div class="pairs">
+        <div class="pair"><span class="a">Brittle</span><span class="arrow">→</span><span class="b">Resiliencia</span></div>
+        <div class="pair"><span class="a">Anxious</span><span class="arrow">→</span><span class="b">Empatía</span></div>
+        <div class="pair"><span class="a">Non-linear</span><span class="arrow">→</span><span class="b">Adaptabilidad</span></div>
+        <div class="pair"><span class="a">Incomprehensible</span><span class="arrow">→</span><span class="b">Colaboración</span></div>
+      </div>
+    </div>
+    <div class="node"><h3>La idea que más vale</h3>
+      <ul><li>Cascio: <b>la fragilidad nace de maximizar la eficiencia</b></li>
+        <li>Exprimir un sistema hasta la última gota lo acerca a su punto de quiebre</li>
+        <li>Por eso la resiliencia exige <b>holgura</b>, no solo respaldo</li>
+        <li><b>Reskilling</b> y soft skills como capacidad permanente</li></ul>
+    </div>
+  </div>
+</section>
+
+<div class="flag">
+  <div class="lbl">Lo que el curso no dice</div>
+  <h3>VECA tiene autor, y REAC no es de Cascio</h3>
+  <p><b>VECA es el VUCA Prime de Bob Johansen (2007)</b>, publicado en <i>Get There Early</i> — el mismo libro que el curso lista sin conectarlo. Y las respuestas que Cascio propone a BANI son <b>resiliencia y holgura, empatía y atención plena, contexto y flexibilidad, transparencia e intuición</b>. En 2025 Cascio y Johansen publicaron juntos <i>Navigating the Age of Chaos</i>: los dos marcos ya convergieron.</p>
+</div>
+
+<section class="branch" style="--hue:var(--c5);--bg:var(--c5-bg)">
+  <div class="stem"><div class="n">LECCIÓN 6</div><h2>Transformación dual</h2><p>Operar e innovar al mismo tiempo</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Empresas ambidiestras</h3>
+      <div class="split">
+        <div class="sp"><span class="k">EXPLOTAR · 90-99 %</span><span class="v">Negocio tradicional. Bajo riesgo, <b>mayor rendimiento</b>. Ejecución lineal.</span></div>
+        <div class="sp"><span class="k">EXPLORAR · 1-10 %</span><span class="v">Innovación radical. Alto riesgo, <b>menor rendimiento</b>. Experimentación iterativa.</span></div>
+      </div>
+      <ul><li>Dos unidades <b>separadas en operación, integradas en la dirección</b></li></ul>
+    </div>
+    <div class="node"><h3>A · B · C</h3>
+      <ul><li><b>Transformación A</b> — reinventar el negocio de hoy: eficiencia operativa, EBITDA, digitalizar procesos</li>
+        <li><b>Transformación B</b> — crear el negocio de mañana: modelo digital nuevo, MTP, moonshot</li>
+        <li><b>Enlace de capacidad C</b> — el laboratorio, montado sobre el saber hacer, patentes, sistemas y cultura que ya tienes</li></ul>
+    </div>
+    <div class="node"><h3>Los casos</h3>
+      <ul><li><b>Amazon</b> — de librería a AWS, Alexa, Whole Foods</li>
+        <li><b>Ford</b> — Hackett dirigió la B (Smart Mobility) y eso lo hizo CEO para ejecutar la A</li>
+        <li><b>Cemex</b> — Cemex Way → CemexGo</li>
+        <li><b>LEGO</b> — CAD 3D y co-creación (A) · videojuegos, cine y metaverso (B)</li></ul>
+    </div>
+    <div class="node"><h3>El mecanismo de fracaso</h3>
+      <ul><li><b>“Sucking sound of the core”</b> — el negocio que factura se traga el tiempo del que todavía no</li>
+        <li>Por eso el laboratorio necesita <b>presupuesto y tiempo protegido</b></li>
+        <li>Regla de Maier: <b>tres meses</b> y se acelera o se detiene</li></ul>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <span>Mapa de estudio · módulo 1</span>
+  <span>Tec de Monterrey · The Learning Gate</span>
+  <span>Sept 2026</span>
+</footer>
+</div>

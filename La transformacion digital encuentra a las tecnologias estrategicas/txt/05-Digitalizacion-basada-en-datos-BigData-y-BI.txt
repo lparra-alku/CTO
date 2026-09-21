@@ -1,0 +1,192 @@
+
+--- p1 ---
+La digitalización basada en datos es una estrategia basada en el poder de 
+los datos para impulsar la toma de decisiones, optimizar procesos y 
+mejorar la experiencia del cliente.
+Big Data y Business Intelligence 
+Digitalización basada 
+en datos: 
+
+--- p2 ---
+La digitalización basada en datos recopila 
+información de diversas fuentes: desde el 
+comportamiento del cliente en línea hasta la operación de 
+los sistemas y maquinaria de una empresa. Estos datos se convierten 
+en tesoros de información que pueden ayudar a comprender a los clientes, 
+detectar tendencias del mercado y prever necesidades futuras.
+Posteriormente, se puede realizar el análisis de datos mediante herramientas 
+avanzadas de inteligencia artificial y aprendizaje automático, ya que ayudan a 
+descubrir patrones y oportunidades, lo que permitirá anticipar la demanda del 
+mercado, optimizar los procesos internos y personalizar la oferta de productos 
+y servicios.
+Entonces la digitalización basada en datos también lleva a la automatización 
+de procesos, puesto que los flujos de trabajo automatizados permiten reducir 
+errores, acelerar tareas y mejorar la productividad. Esto se traduce en brindar 
+un servicio más rápido y eficiente a los clientes, mejorando su experiencia y 
+alcanzando la excelencia 
+operacional.
+Al adoptar esta estrategia, no 
+solo estarás mejorando la 
+eficiencia operativa, sino 
+también creando una ventaja 
+competitiva al ofrecer a tus 
+clientes lo que desean, incluso 
+antes de que lo sepan.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+La Inteligencia de Negocios o Business Intelligence (BI) se centra en la 
+recopilación, análisis y presentación de datos para ayudar a las 
+organizaciones a tomar decisiones informadas y estratégicas. Su objetivo es 
+convertir datos en información significativa, lo que implica la extracción y 
+transformación de datos de diversas fuentes, como bases de datos, sistemas 
+empresariales y aplicaciones, para luego analizarlos y presentarlos de manera 
+comprensible. 
+La BI permite transformar una gran cantidad de datos, generados por la 
+digitalización de procesos, en información valiosa que ayuda a comprender el 
+rendimiento actual y pasado de una empresa, así como prever tendencias 
+futuras, lo que es esencial para la toma de decisiones empresariales.
+ 
+También proporciona una visión completa del estado de la empresa a los 
+líderes empresariales, gracias a la recopilación, análisis y visualización de 
+datos, con lo cual se pueden identificar tendencias, áreas de mejora, 
+oportunidades de crecimiento, amenazas de potencial y áreas de enfoque 
+para la optimización de procesos.
+Por esta razón, la BI es una herramienta valiosa para la planificación, la 
+presupuestación y la evaluación de la efectividad de las estrategias 
+empresariales.
+Por lo tanto, la tecnología relacionada con la Inteligencia de Negocios (BI) ha 
+evolucionado significativamente en los últimos años, permitiendo el acceso 
+más rápido y fácil a los datos a través de informes y paneles. De esta manera, 
+Análisis de Datos y Business Intelligence
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+La cadena de valor para la 
+Inteligencia de Negocios es una 
+estructura que describe el proceso de 
+generación de valor a partir de los 
+datos en una organización. Esta 
+cadena de valor se compone de varias 
+etapas clave que abarcan desde la 
+recopilación de datos hasta la toma 
+de decisiones informadas. A 
+continuación se presenta un desglose 
+de estas etapas:
+Cadena de valor para la 
+Inteligencia de Negocios
+se ofrece una visión clara del 
+rendimiento operativo y financiero de 
+una organización; incluso, las 
+herramientas de BI modernas 
+incluyen análisis avanzados y 
+visualización de datos, lo cual facilita 
+la identificación de patrones y 
+tendencias de diversos asuntos de 
+interés.
+ Recopilación de datos 
+Esta etapa implica la recopilación de 
+datos de múltiples fuentes. Esto 
+puede incluir datos internos 
+(transacciones comerciales, datos de 
+clientes y registros de empleados)      
+y externos (fuentes de datos públicos 
+o de terceros) de la organización.
+  Almacenamiento de datos
+Los datos recopilados se almacenan 
+en un entorno centralizado, como un 
+almacén de datos o data lake. Para 
+ello, la organización puede utilizar 
+bases de datos, sistemas de archivos 
+o soluciones en la nube para 
+almacenar los datos de manera 
+segura y accesible.
+  Procesamiento de datos
+En esta etapa, los datos se procesan y 
+transforman para que sean útiles en 
+el análisis. Para ello, se requiere la 
+limpieza de datos, la agregación, la 
+normalización y la creación de 
+modelos de datos.
+  Análisis de datos
+Una vez que los datos se han 
+procesado, se utilizan herramientas 
+de análisis y visualización de datos 
+para identificar patrones, tendencias 
+y conocimientos. Estas herramientas 
+permiten a los profesionales de BI 
+explorar datos y generar informes 
+interactivos.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+   Generación de información
+Los resultados del análisis se traducen en información valiosa, como métricas 
+clave, informes de rendimiento, cuadros de mando y paneles de control que 
+ayudan a los tomadores de decisiones a comprender el estado actual de la 
+organización.
+   Toma de decisiones informadas
+La información generada a partir de los datos analizados se utiliza para tomar 
+decisiones estratégicas en la organización. Por ende, los líderes y gerentes 
+deben basar sus elecciones en datos concretos en lugar de suposiciones o 
+intuiciones.
+    Implementación de acciones
+Las decisiones tomadas se implementan en la organización. Esto puede incluir 
+ajustes operativos, estratégicos y tácticos basados en la información obtenida a 
+través del análisis de datos.
+    Evaluación y retroalimentación
+La cadena de valor para la 
+inteligencia de negocios es un ciclo 
+continuo. Después de la 
+implementación de acciones, se 
+evalúa su impacto y se recopilan 
+retroalimentaciones para ajustar 
+estrategias y decisiones futuras.
+FEEDBACK
+5/5
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Por otra parte, la Inteligencia Operativa (Operational Intelligence) se basa en la 
+recopilación de datos en tiempo real de diversas fuentes, como sensores, 
+sistemas de información y aplicaciones, los cuales se analizan al instante para 
+obtener información valiosa sobre el rendimiento operativo. 
+La capacidad de acceder a datos en tiempo real permite a las organizaciones 
+detectar problemas, tomar decisiones y optimizar procesos de manera 
+inmediata.
+ 
+Mientras tanto, la Big Data se refiere al procesamiento y análisis de conjuntos 
+masivos de datos que van más allá de las capacidades de las herramientas 
+tradicionales. Por lo cual, se utiliza para identificar patrones, tendencias y 
+conocimientos ocultos en grandes cantidades de información.
+La combinación de Inteligencia 
+Operativa y Big Data es poderosa, ya 
+que permite a las organizaciones 
+obtener información en tiempo real 
+sobre su rendimiento y tomar 
+decisiones basadas en datos en un 
+nivel completamente nuevo. Esta 
+combinación es especialmente 
+valiosa en industrias como la 
+logística, la atención médica, la 
+manufactura y la banca, donde la 
+toma de decisiones precisa y rápida 
+es esencial.
+Operational Intelligence y Big Data
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones
+¿Qué tipo de inteligencia se lleva a cabo en tu empresa u 
+organización?, ¿cómo se saca provecho de los datos e 
+información? 
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

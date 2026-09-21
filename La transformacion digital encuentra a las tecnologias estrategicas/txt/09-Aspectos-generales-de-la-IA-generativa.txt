@@ -1,0 +1,108 @@
+
+--- p1 ---
+Aspectos generales
+de la inteligencia artificial 
+generativa
+¿Conoces la diferencia entre inteligencia artificial e 
+inteligencia artificial generativa? Te invitamos a 
+descubrir la respuesta y algunos aspectos generales 
+sobre la Gen AI.
+
+--- p2 ---
+Para iniciar esta lección es importante identificar qué es 
+la Inteligencia Artificial (IA) y cómo se diferencia de la 
+Inteligencia Artificial generativa (Gen AI, por su nombre en 
+inglés Generative Artificial Intelligence). 
+La Inteligencia Artificial es un campo de la informática que se centra en 
+desarrollar sistemas y programas capaces de realizar tareas que 
+normalmente requieren inteligencia humana. Estas tareas incluyen el 
+aprendizaje, la resolución de problemas, el reconocimiento de patrones, la 
+toma de decisiones y el procesamiento del lenguaje natural. Los sistemas 
+de IA buscan emular la capacidad cognitiva humana y mejorar la eficiencia 
+en la ejecución de tareas específicas.
+Por otro lado, la Gen AI es una subcategoría de la IA que se especializa en 
+la creación de contenido original y autónomo (música, imágenes o texto) 
+basándose en patrones aprendidos durante su entrenamiento.
+En pocas palabras la diferencia radica 
+en el propósito y el alcance de sus 
+funciones. Mientras la IA aborda 
+tareas específicas, la Gen AI se 
+destaca por su capacidad para crear 
+contenido completamente nuevo, 
+introduciendo un elemento de 
+creatividad y originalidad que va más 
+allá de la replicación de tareas 
+existentes.
+Modelos fundacionales y Large 
+Language Model (LLM) 
+Es importante destacar que la IA 
+generativa utiliza una variedad de 
+técnicas y modelos para lograr su 
+objetivo, un claro ejemplo son los 
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+2
+
+--- p3 ---
+modelos fundacionales, que no son más 
+que grandes modelos de IA que 
+funcionan mediante el uso de 
+algoritmos de aprendizaje automático 
+para analizar y aprender de grandes 
+cantidades de datos sin etiquetar. A 
+través de este proceso de 
+entrenamiento, los modelos adquieren 
+conocimientos y patrones subyacentes 
+en los datos, lo que les permite generar 
+contenido nuevo y realizar tareas 
+específicas.
+De acuerdo con lo anterior, un  Large 
+Language Model (LLM) es un tipo de 
+modelo fundacional, que consiste en 
+modelos de aprendizaje automático que 
+pueden considerar miles de millones de 
+parámetros y tienen muchos usos 
+posibles en el campo de la IA 
+generativa, ya que pueden generar 
+contenido basado en indicaciones de 
+entrada en lenguaje humano; lo que los 
+convierte en herramientas poderosas 
+para la creación de texto, traducción y 
+otras aplicaciones relacionadas con el 
+procesamiento del lenguaje natural. Un 
+ejemplo destacado es GPT-3 
+(Generative, Pre-trained Transformer 
+3).
+Debido a su potencial para resolver 
+problemas en ámbitos tan variados 
+como la atención médica (realización de 
+diagnósticos) o el marketing (análisis 
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+3
+
+--- p4 ---
+de sentimientos), diversas empresas de todos los tamaños 
+han invertido en la creación de soluciones con ayuda de los 
+LLM. De acuerdo con el vicepresidente de Investigación de 
+Innovación Tecnológica de Garner, Brian Burke (2023), las 
+compañías de inversión han destinado más de 1700 millones de euros a 
+proyectos de inteligencia artificial generativa, con énfasis en 
+descubrimiento de medicamentos y codificación asistida por IA. Burke 
+también advierte sobre amenazas como deepfakes y enfatiza la 
+importancia de la colaboración con expertos en seguridad, así como la 
+implementación de guías para lograr un uso ético y responsable con la 
+finalidad de reducir riesgos. 
+Ante este auge en el uso de las Gen AI y otras tecnologías emergentes, a lo 
+largo de esta lección revisarás distintos ejemplos en diversos ámbitos como 
+la Salud, las Finanzas, la Educación, Recursos humanos, Retail e incluso 
+Manufactura. 
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+4
+
+--- p5 ---
+Y tú ¿cómo podrías implementar la Gen AI en un proceso de 
+transformación digital dentro de tu empresa?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+5

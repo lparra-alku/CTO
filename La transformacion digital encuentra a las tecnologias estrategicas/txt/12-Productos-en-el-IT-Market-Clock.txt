@@ -1,0 +1,71 @@
+
+--- p1 ---
+Cuando una tecnología recién sale al mercado, tiene un bajo grado de 
+mercantilización y de ventaja, pero eso cambia según vaya avanzando. 
+Conoce cómo se rastrean estos productos.
+IT Market Clock 
+Productos en el
+
+--- p2 ---
+Como viste anteriormente, el grado de 
+mercantilización del producto se mide de acuerdo 
+a los ejes del IT Market Clock que van desde el 
+centro hacia la periferia y suele funcionar de esta 
+manera: cuando es una tecnología emergente, no está mercantilizada, 
+pero conforme se acerca a la generalización se mercantiliza. El 
+momento ideal de las empresas en general es invertir en esta tecnología cuando 
+está en un rango intermedio, es decir, ni tan mercantilizado ni obsoleto. De esta 
+manera, representaría tanto un ahorro como una oportunidad. 
+Gartner utiliza las mismas claves de simbolización que en el Hype Cycle 
+Market, reemplazando solo la obsolescencia por el fin de vida, de forma que:
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+2
+
+--- p3 ---
+Así que imagina que hay cuatro tecnologías: Producto A, Servicio I, Servicio J y 
+Producto N.
+Inicio del mercado
+Producto N
+Producto A
+Servicio I
+Servicio J
+Cenit de la industrialización
+Ventaja
+Elección
+Reemplazo
+Costo
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+3
+
+--- p4 ---
+1. El Producto A ha iniciado su ciclo de vida. Se encuentra en la fase de 
+Ventaja y, según el símbolo que lo acompaña, su próximo cambio será hacia 
+la fase de Elección en un periodo de 2 a 5 años, siguiendo las manecillas del 
+reloj. Debido a que esta tecnología ha nacido recientemente, representa un 
+riesgo también, por lo que es aconsejable que las empresas lleven un 
+monitoreo constante de su camino y evolución.
+2. El Servicio I, por su parte, muestra que ha alcanzado un grado nivel de 
+mercantilización, de acuerdo con la distancia con la que se posiciona de la 
+esfera central. Además, se encuentra en la fase de Elección y su próximo 
+cambio será en un periodo de 5 a 10 años.
+3. El Servicio J se encuentra en la fase de Costo, pero cambiará dentro de los 
+próximos 2 años. Es recomendable que, en este momento, la empresa 
+comience a organizar un plan de migración a otra tecnología.
+ 
+4. Y, finalmente, el Producto N se encuentra en la fase de Reemplazo, lo 
+que abre la puerta para retirarlo de las organizaciones y liberar recursos para 
+reinvertir. 
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+4
+
+--- p5 ---
+Reflexiones
+¿Tu organización es pionera en la adopción de 
+tecnologías emergentes?, ¿en qué etapa del IT Market 
+Clock de Gartner suelen implementarlas en sus 
+procesos?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+5

@@ -1,0 +1,133 @@
+
+--- p1 ---
+El uso de la inteligencia artificial generativa se ha extendido a lo largo de 
+distintas áreas de la industria, como son los servicios financieros, la salud, 
+la educación, el retail, la manufactura y el transporte.
+en las industrias
+Casos de uso 
+
+--- p2 ---
+• IA en primera línea: Las interfaces de chat impulsadas por IA ayudan a 
+que los empleados de atención al cliente obtengan información importante 
+de manera más rápida.
+• Cumplimiento y seguimiento regulatorio: Brinda asistencia para 
+verificar la comunicación con los clientes, de acuerdo a los códigos internos y 
+el reglamento.
+• Servicio al cliente personalizado: Hacen recomendaciones para los 
+agentes de centros de contacto y gestores de relaciones basados en el perfil, 
+las necesidades y las expectativas del cliente.
+• Gestor de reclamo: Sugerencias y explicaciones individualizadas para los 
+reclamos de cobertura, así como razones amigables para denegar solicitudes.
+Por ejemplo, Morgan Stanley está entregando GPT-4 para ayudar a sus asesores 
+financieros.
+La inteligencia artificial generativa ha abierto una gran cantidad de 
+posibilidades dentro de la industria, por eso su uso se extiende cada vez más 
+permitiendo el apoyo de la tecnología para facilitar ciertas actividades y 
+mejorar algunos procesos.
+Servicios financieros:
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+2
+
+--- p3 ---
+• Autoclasificación conversacional del paciente y control de 
+síntomas: El chatbot sugiere y guía a los pacientes según los síntomas 
+agudos, la gestión de condiciones crónicas, actividades de salud y bienestar o 
+necesidades de salud conductual.
+• Autocomposición de mensajes clínicos: Respuestas automáticas 
+basadas en el contenido y el tono del mensaje del paciente, el historial clínico 
+accesible y el tono y preferencias del clínico.
+• Descubrimiento de literatura científica: Los LLMs ayudan a los 
+científicos a identificar búsquedas relevantes, extraer insights, agregar 
+descubrimientos y generar nuevas hipótesis.
+• Asistente de codificación para el desarrollo de mainframe: Permite 
+a los desarrolladores de software generar, testear y depurar fragmentos de 
+código en lenguajes comunes para las tecnologías.
+• Análisis consultivo para la salud de la población: Los usuarios 
+preguntan con lenguaje simple sobre reportes o dashboards en tema de la 
+salud pública, costos y actividades de cuidado.
+Por ejemplo, Mass General Brigham, un sistema de salud en los Estados 
+Unidos, está probando la inteligencia artificial generativa para los mensajes del 
+portal de pacientes y las notas clínicas.
+Salud y ciencias de vida:
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+3
+
+--- p4 ---
+• Tutores estudiantiles: Interfaces de usuario conversacionales que 
+permiten el aprendizaje personalizado.
+• Entrenamiento de lenguaje: Compañero de lectura y habla con IA.
+• Asistente de facultad: Acelera la creación de quizzes, test, materiales de 
+presentación, currícula, planes de lección, retroalimentación y cartas de 
+recomendación de estudiantes.
+• Asistente de estudiante virtual: Interfaz de chat para datos integrados 
+de los estudiantes.
+• Reclutamiento, enrolamiento y persistencia de estudiante: Incluye 
+motivar a los estudiantes para completar el curso.
+Educación:
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+4
+
+--- p5 ---
+• Búsqueda mejorada y ventas adicionales: Mejora las habilidades de 
+los clientes para encontrar lo que están usando y animar a realizar compras 
+de mayor volumen o con elementos agregados.
+• Sentimiento del consumidor en redes sociales: Monitoreo rápido de 
+cliente y de contenido influencer en redes sociales, localiza trends y 
+sentimientos, predice resultados e informa futuras decisiones.
+• Optimización de la cadena de suministro: Mejora predicciones de 
+abastecimiento y adquisiciones, logística, transportación y colaboración con 
+proveedores.
+• Interfaz de chat conversacional: Interacción con clientes y asociados, lo 
+que puede facilitar la transacción y permitir que los clientes conversen a 
+través de la plataforma de su elección.
+• Contratación e incorporación: Mejora el reclutamiento y la capacitación 
+a través de experiencias individuales interactivas.
+Por ejemplo, Tesco usa la inteligencia artificial generativa y otras tecnologías 
+para mejorar la experiencia del cliente, predecir la demanda, analizar la 
+conducta del consumidor y prevenir los fraudes.
+Retail:
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+5
+
+--- p6 ---
+• Educación y entrenamiento: Dirige a un empleado, con o sin 
+conocimientos técnicos relevantes, para que verifique en la lengua de su 
+preferencia una máquina de la fábrica.
+• Innovación de producto: Sugiere empaquetados e ingredientes 
+alternativos basados en el sentimiento del usuario, según sus patrones de 
+tendencias y compras.
+• Interacción con producto digital: Descarga nuevos comportamientos y 
+habilidades a los productos digitales basados en la retroalimentación de voz.
+• Servicio de producto: Ayuda a humanos y agentes de IA en el diagnóstico 
+continuo de problemas; ordena partes, completa mantenimiento 
+programado o programa las necesidades de servicio recomendadas. La meta 
+es reducir el tiempo de inactividad no programado.
+Manufactura:
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+6
+
+--- p7 ---
+• Interacción con cliente: Uso de chatbots de LLM.
+• Estimado de daño del vehículo para reclamos de seguro: Ayuda a la 
+cámara de un smartphone a identificar de manera precisa los daños, incluso 
+si la visibilidad y el contraste es débil.
+• Estimado de valores de reventa de vehículos: Usa inteligencia 
+artificial generativa en la visión de la computadora para permitir a la cámara 
+de un smartphone evaluar el valor adecuadamente.
+• Evaluación de condición mecánica: Permite evaluaciones más precisas.
+Por ejemplo, Maersk usa ChatGPT en su sitio web para autogenerar preguntas y 
+mejorar la exactitud de búsqueda.
+Transporte:
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+7
+
+--- p8 ---
+Reflexiones
+Según el sector en el que se desenvuelve tu organización, 
+¿qué uso de la inteligencia artificial generativa podría ser 
+funcional para tu empresa?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+8

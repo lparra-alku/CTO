@@ -1,0 +1,93 @@
+
+--- p1 ---
+La Transformación Digital 
+encuentra a las Tecnologías Emergentes
+¿Qué vas a aprender?  
+Qué es el Diseñado Digital, según 
+el CISR del MIT Sloan, así como su 
+impacto en el diseño de negocios 
+digitales.
+Los principales ejemplos de 
+transformación digital empoderada 
+con Inteligencia Artificial (IA) 
+generativa en diferentes industrias.
+Cómo aplicar los diferentes tipos 
+de digitalización: basado en 
+procesos, datos y sensores.
+Cuáles son los principales tipos de 
+Robot Process Automation 
+(RPA) al interior de una organización.
+Muchas empresas no tienen en claro la relevancia e implicaciones de las tecnologías 
+emergentes en los procesos de transformación digital. Por eso, en este curso conocerás:
+Así que te damos la  
+bienvenida al curso  
+“La transformación digital encuentra 
+a las tecnologías emergentes”.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p2 ---
+Material de consulta
+Ross, J. W., Beath, C. M., & Mocker, M. (2019). Designed for Digital: How 
+to Architect your business for Sustained success. The MIT Press. 
+Weill, P., & Woerner, S. L. (2018). What’s your digital business model?: 
+Six questions to help you build the Next-Generation Enterprise. 
+Harvard Business Review Press. 
+Woerner, S. L., Weill, P., & Sebastian, I. M. (2022). Future ready: The 
+Four Pathways to Capturing Digital Value. Harvard Business 
+Review Press. 
+Diseñado Digital – CISR Sloan MIT
+Kale, V. (2019). Digital transformation of enterprise architecture. CRC   
+Press eBooks.  
+Perkin, N., & Abraham, P. (2021). Building the Agile business through digital 
+transformation. Kogan Page. 
+Raskino, M., & Waller, G. (2016). Digital to the core: remastering leadership 
+for your industry, your enterprise, and yourself. Taylor & Francis. 
+Uhl, A., & Gollenia, L. A. (2020). Digital Enterprise Transformation: A 
+Business-Driven approach to leveraging innovative IT. Routledge. 
+Digitalización y tipos de optimización de operaciones 
+usando tecnologías digitales y emergentes
+
+--- p3 ---
+Material de consulta
+Bornet, P.  Barkin, I. & Wirtz, J. (2021). Intelligent Automation: Welcome 
+to the world of hyperautomation. British Library
+Langmann, C. & Turi, D. (2022). Robotic Process Automation (RPA) - 
+Digitization and Automation. Springer Gabler.
+Murdoch, R. (2018). Robotic Process Automation: Guide to Building 
+Software Robots, Automate Repetitive Tasks & Become an RPA 
+Consultant. Richard Murdoch & RPA Ultra
+Taulli, T. (2020). The Robotic Process Automation Handbook: A guide to 
+Implementing RPA systems. APRESS 
+Robot Process Automation y Automatización 
+Cognitiva
+Boden, M. A. (2018). Artificial Intelligence: A Very Short Introduction. 
+Oxford University Press.
+Wiles, J. (26 de enero de 2023). Más allá de ChatGPT: el futuro de la IA 
+generativa para empresas. Gartner (blog). https://www.gartner.mx/
+es/articulos/mas-alla-de-chatgpt-el-futuro-de-la-ia-generativa-para-
+empresas
+Ejemplos reales, por Industrias, de uso de Gen AI con 
+tecnologías emergentes para digitalizar
+
+--- p4 ---
+Gartner (s.f.). Hype Cycle de Gartner. Gartner México. https://www.
+gartner.mx/es/metodologias/hype-cycle
+Gartner (24 de marzo de 2022). Gartner Hype Cycles, Explained. 
+[Archivo de Video]. YouTube. https://www.youtube.com/
+watch?v=jB1RDz9jaj0
+Gartner (19 de enero de 2023). The 2023 Gartner Emerging Technologies 
+and Trends Impact Radar shows product leaders where to 
+capitalize on market opportunities. https://www.gartner.com/en/
+articles/4-emerging-technologies-you-need-to-know-about
+Gartner (13 de junio de 2023). The Gartner Hype Cycle, Generative AI 
+and the Future of AI. [Archivo de Video]. YouTube. https://www.
+youtube.com/watch?v=BrBBsxhb0b0
+Gratas, B. (02 de marzo de 2023). 50 datos y estadísticas de ChatGPT que 
+debes conocer. Invgate. Recuperado el 22 de noviembre de 2023, de: 
+https://blog.invgate.com/es/estadisticas-de-chatgpt
+Usando Gartner Hype Cycle, Market Clock y 
+el Radar de Tecnologías Emergentes
+Material de consulta
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.

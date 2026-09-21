@@ -1,0 +1,147 @@
+
+--- p1 ---
+(Parte 2)
+Tecnologías para la 
+digitalización basada 
+en procesos 
+Conoce seis herramientas tecnológicas más para la 
+digitalización basada en procesos, en las que la 
+integración de sistemas y aplicaciones resulta esencial.
+
+--- p2 ---
+Prosigamos con la revisión de otras tecnologías para 
+digitalizar basadas en proceso, las cuales complementan 
+a las revisadas previamente:
+La integración de sistemas es la conexión sin problemas de diversas 
+aplicaciones y plataformas utilizadas en una organización, esto permite que 
+los datos fluyan de manera eficiente a través de todos los sistemas, 
+eliminando la duplicación de datos y la necesidad de entrada manual.
+Las tecnologías de integración, 
+como los servicios web y los 
+sistemas de Gestión de la 
+Integración Empresarial 
+también conocidos como 
+Enterprise Service Bus (ESB) 
+son esenciales para la 
+automatización de procesos y la 
+digitalización exitosa.
+La Extended Reality (XR) es un avance tecnológico sobre la interacción 
+humana. Este término engloba la Realidad Virtual (VR), la Realidad 
+Aumentada (AR) y la Realidad Mixta (MR), ofreciendo una amplia gama de 
+experiencias que van desde la inmersión total en mundos virtuales hasta la 
+superposición de elementos digitales en el mundo real.
+Hay que considerar que la XR está transformando la forma de interactuar 
+con la información y el entorno que nos rodea. Desde la capacitación y 
+simulación en entornos virtuales hasta aplicaciones de realidad aumentada 
+que enriquecen nuestras experiencias cotidianas, la XR está expandiendo 
+los límites de lo posible.
+INTEGRATION
+Integración de sistemas
+Extended Reality (XR)
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Con visores de realidad virtual, gafas de realidad 
+aumentada y dispositivos de realidad mixta, los usuarios 
+pueden explorar mundos digitales, interactuar con 
+objetos virtuales y acceder a información en tiempo real 
+de una manera sin precedentes, ya sea para juegos y 
+entretenimiento, educación, medicina, diseño o 
+comunicación, la XR promete revolucionar múltiples 
+industrias y permitir una mayor interconexión entre el 
+mundo físico y el digital.
+A medida que la tecnología XR evoluciona, su potencial para experiencias 
+emocionantes y prácticas se expande, prometiendo un futuro en el que la 
+realidad extendida sea una parte integral de nuestras vidas.
+La Realidad Virtual o Virtual Reality (VR) es una puerta a la creatividad 
+sin límites y está revolucionando la forma en que las empresas operan y se 
+comunican, ya que facilita la comprensión de aplicaciones prácticas: desde 
+la colaboración en equipo en entornos virtuales hasta la capacitación de 
+empleados.
+Realidad Virtual (VR)
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+La Realidad Aumentada o Aumented Reality (AR) es una tecnología que ha 
+revolucionado la forma en que interactuamos con el mundo que nos rodea. 
+Al combinar elementos digitales con el entorno físico, la realidad 
+aumentada enriquece las experiencias cotidianas de maneras 
+sorprendentes.
+A través de aplicaciones en dispositivos móviles y gafas especiales, los 
+usuarios pueden ver información adicional superpuesta en el mundo real. 
+Esto puede incluir desde etiquetas informativas sobre objetos hasta juegos 
+interactivos y aplicaciones de 
+navegación.
+Una de las características más 
+atractivas de la realidad 
+aumentada es su capacidad para 
+mejorar la comprensión y la 
+interacción. Por ejemplo, en la 
+educación, los estudiantes 
+pueden explorar modelos 3D de 
+anatomía en tiempo real o ver 
+representaciones visuales de 
+conceptos complejos.
+Actualmente, los artistas y desarrolladores están 
+utilizando realidad virtual para crear experiencias visuales 
+y auditivas impresionantes: desde explorar mundos 
+subacuáticos hasta viajar por el espacio exterior. Por lo 
+cual, la Realidad Virtual brinda la oportunidad de 
+explorar mundos virtuales, aprender de manera inmersiva 
+y desatar la creatividad al interior de tu organización.
+Realidad Aumentada (AR)
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+La impresión 3D, también conocida como fabricación aditiva, 
+es una tecnología revolucionaria que está transformando la 
+forma en que creamos objetos y productos. En lugar de los 
+métodos tradicionales de sustracción de material, donde se 
+corta o moldea una pieza a partir de un bloque, la impresión 3D construye 
+objetos capa por capa, añadiendo material de manera gradual.
+Esta tecnología ofrece beneficios significativos, como una mayor 
+personalización en el diseño, una reducción del desperdicio de material y 
+una mayor eficiencia en la fabricación.
+Por lo tanto, la impresión 3D se ha convertido en una herramienta 
+poderosa en una amplia gama de industrias: desde la medicina, donde se 
+pueden imprimir prótesis personalizadas, hasta la aeroespacial, donde se 
+utilizan piezas impresas en 3D para crear componentes más ligeros y 
+eficientes.
+De esta manera, la impresión 3D está redefiniendo la fabricación, 
+acelerando la innovación y permitiendo la creación de objetos complejos y 
+personalizados de manera más accesible que nunca. A medida que esta 
+tecnología continúa evolucionando, es interesante imaginar las 
+posibilidades que ofrecerá en el futuro.
+Ante todos estos avances tecnológicos, la digitalización de procesos plantea 
+desafíos de seguridad y cumplimiento normativo. Por lo que han surgido 
+tecnologías de seguridad de datos, como las soluciones de cifrado y las 
+plataformas de gestión de identidades, las cuales resultan fundamentales 
+para proteger la información sensible. Además, las organizaciones deben 
+cumplir con regulaciones y estándares específicos de su industria, lo que 
+requiere tecnologías de cumplimiento normativo y auditoría.
+3D printing - Additive Manufacturing
+Tecnologías de seguridad de datos
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Reflexiones finales
+Ahora que conoces diversas tecnologías para 
+digitalizar con base en procesos, ¿cuál te resulta 
+más interesante?
+¿Qué tipo de tecnología convendría implementar 
+en tu empresa u organización?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

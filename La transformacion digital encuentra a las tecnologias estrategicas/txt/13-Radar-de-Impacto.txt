@@ -1,0 +1,179 @@
+
+--- p1 ---
+Impacto
+Radar de 
+A modo de complemento del Hype Cycle y el IT 
+Market Clock, Gartner también desarrolla 
+anualmente el Radar de Impacto de tecnologías 
+emergentes.
+
+--- p2 ---
+Gartner (2023) trabaja con base en una serie de 
+características para encontrar las tecnologías emergentes. 
+Toma como punto de partida el nivel de impacto de la 
+tecnología, su grado de madurez, qué tan dinámicos 
+son sus cambios y si ya se encuentran listas en el 
+mercado para ser compradas. En función a eso, ofrece una estrategia, un 
+plan de innovación y el roadmap que las empresas podrían seguir para 
+adoptarlas.
+Impacto
+Madurez
+Dinamicidad
+Preparación
+Estrategia
+Plan de innovación
+Roadmap
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+2
+
+--- p3 ---
+Gartner (2023) ofreció un Radar de Impacto para las 
+tecnologías emergentes del 2023. Consta de 4 cuadrantes, 
+donde se agrupan las tecnologías según el impacto y el 
+campo en el que se desarrollan. 
+Este radar consta de 4 rangos que parten del centro hacia la periferia, los 
+cuales se clasifican según el color y miden la madurez que tienen en el 
+ahora (rango más apegado al centro) o en un futuro de entre 6 y 8 años 
+(rango más apegado a la periferia).
+A su vez, el círculo que acompaña al nombre de la tecnología tiene distinto 
+tamaño para ilustrar el impacto que tienen en la industria: entre más 
+pequeño el círculo, más pequeño su impacto y así proporcionalmente.
+Ha
+bil
+it
+ad
+or
+e
+s 
+crí
+tic
+os
+T
+r
+a
+n
+s
+p
+ar
+e
+n
+ci
+a 
+y 
+pr
+iv
+ac
+id
+a
+d
+R
+ev
+ol
+uc
+ió
+n 
+d
+e
+ 
+pr
+od
+uc
+tiv
+id
+a
+d
+  
+   
+   
+ M
+u
+n
+d
+o 
+i
+n
+t
+eli
+ge
+nt
+e
+Responsible AI
+Decentralized Identity
+Digital Ethics
+Human-Centered AI
+Smart Space
+Metaverse
+Multimodal UI
+Digital Twins
+Synthetic Data
+Edge Computer
+Vision
+Model
+Compression
+Self-Supervised
+Learning
+Neuromorphic
+Computing
+Knowledge
+Graphs
+Hyperautomation
+in Security
+Blockchain
+Hyperscale
+Edge Computing
+Web3
+Foundation
+Models
+Tokenization
+6G
+Edge AI
+Intelligent
+Aplications
+Generative AI
+Spatial Computing
+Digital Human
+(AI Avatars)
+Rango
+6 a 8 años
+3 a 6 años
+1 a 3 años
+Ahora (0 a 1 año)
+Impacto
+Bajo
+Medio
+Alto
+Muy alto
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+3
+
+--- p4 ---
+Si tu compañía tuviera intenciones de hacer un radar de 
+tecnologías emergentes, pueden usar el de Gartner como 
+base. Los cuadrantes en los que se agrupan las 
+tecnologías pueden dividirse según sean los propósitos de 
+la organización y lo que busquen en las tecnologías. Esta 
+herramienta, así como las dos que vimos anteriormente, son flexibles y 
+funcionan de manera conjunta para permitirle a las empresas tener una 
+visión más clara y completa acerca de lo que ocurre a su alrededor. De esta 
+manera, podrán tomar decisiones informadas y útiles para las 
+innovaciones en cualquier área.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+4
+
+--- p5 ---
+Reflexiones finales
+¿En tu organización han usado alguna vez el 
+Radar de Impacto de tecnologías emergentes?, 
+¿de qué manera se toman las decisiones para 
+adoptar una nueva tecnología?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+5

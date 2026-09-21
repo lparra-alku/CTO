@@ -1,0 +1,151 @@
+
+--- p1 ---
+basada en sensores
+Digitalización 
+La digitalización basada en sensores es una 
+tendencia tecnológica que ha transformado la forma 
+en que recopilamos datos y monitoreamos el 
+entorno.
+
+--- p2 ---
+Los sensores son dispositivos electrónicos capaces de 
+detectar y medir información física, química o biológica y 
+convertirla en señales digitales que pueden ser 
+procesadas y analizadas por sistemas informáticos. Esto 
+ha tenido un impacto significativo en diversas industrias 
+y aplicaciones, como las que presentaremos a 
+continuación:
+Los Sensores de Tecnología Operativa u Operational Technology (OT) 
+desempeñan un papel fundamental en la supervisión y el control de 
+sistemas industriales y de infraestructuras críticas. Estos sensores están 
+diseñados específicamente para entornos industriales y se utilizan en una 
+variedad de aplicaciones para recopilar datos en tiempo real y garantizar 
+el funcionamiento seguro y eficiente de sistemas y equipos. Te 
+presentamos un vistazo a las aplicaciones y características de los Sensores 
+de Tecnología Operativa:
+ Operational Technology Sensors, OT
+Monitorización de procesos industriales: 
+Los sensores OT se utilizan para medir variables clave en procesos 
+industriales, tales como la temperatura, la presión, el flujo, la humedad y la 
+concentración de sustancias químicas. Estos datos son fundamentales para 
+garantizar la calidad del producto y la eficiencia de la producción.
+Control de maquinaria y equipos: 
+Los sensores se utilizan para supervisar y controlar la maquinaria en 
+fábricas y plantas industriales. Pueden detectar anomalías, vibraciones 
+excesivas o desviaciones en el rendimiento de los equipos, lo que permite 
+tomar medidas preventivas antes de que ocurran fallos graves.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Automatización y control de procesos: 
+Los sensores OT son esenciales en sistemas de 
+automatización y control industrial, ya que proporcionan 
+datos en tiempo real que permiten a los controladores 
+lógicos programables (PLC), y otros sistemas de control, 
+tomar decisiones y ajustar parámetros automáticamente.
+Seguridad y monitoreo ambiental: 
+Los sensores se utilizan para garantizar la seguridad en entornos 
+industriales, como la detección de fugas de gases peligrosos o la 
+supervisión de condiciones ambientales críticas, como la calidad del aire y 
+la temperatura.
+Gestión de la energía: 
+Los sensores OT se aplican en la gestión de la energía para medir el consumo 
+y la eficiencia energética de las instalaciones industriales. Esto ayuda a 
+identificar oportunidades de ahorro de energía y reducción de costos.
+Infraestructuras críticas: 
+Los sensores OT son esenciales para la supervisión y el control de 
+infraestructuras críticas como plantas de energía, redes de agua y sistemas 
+de transporte. Ayudan a garantizar la operatividad y la seguridad de estas 
+infraestructuras.
+Integración con tecnología de la información (IT): 
+La convergencia de la Tecnología de la Información (TI) y la Tecnología 
+Operativa (OT) permite una mejor gestión de los datos y un mayor control 
+en entornos industriales. Los sensores OT se integran con sistemas de TI 
+para un monitoreo y análisis más eficaces.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Los sensores están en el corazón del Internet de las cosas o Internet of 
+Things (IoT), permitiendo la conexión y comunicación de dispositivos y 
+sistemas en tiempo real, como en hogares inteligentes, ciudades 
+inteligentes, agricultura de precisión y más. Considera que esta 
+revolucionaria tecnología conecta dispositivos y objetos cotidianos a través 
+de internet, permitiéndoles recopilar y compartir datos, así como realizar 
+acciones específicas de manera autónoma.
+El IoT ha transformado la forma en que interactuamos con nuestro entorno 
+y ha habilitado una amplia gama de aplicaciones en diversas industrias. 
+Revisemos los aspectos clave de esta tecnología:
+Internet de las cosas (IoT)
+Conectividad: 
+En el IoT, los dispositivos, sensores y objetos se conectan a través de 
+internet o redes inalámbricas. Esto permite que los datos se transmitan de 
+manera continua y que los dispositivos se comuniquen entre sí.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Sensores y recolección de datos:
+Los dispositivos IoT están equipados con sensores que 
+pueden medir una amplia variedad de datos, como 
+temperatura, humedad, ubicación, movimiento y más, los 
+cuales recopilan en tiempo real y los transmiten a una 
+plataforma central.
+Plataformas de gestión: 
+Los datos recopilados se gestionan en plataformas de IoT, las cuales 
+almacenan, procesan y analizan los datos para extraer información valiosa.
+Aplicaciones variadas: 
+El IoT tiene aplicaciones en diversas industrias, desde el hogar inteligente y 
+la atención médica hasta la agricultura de precisión y la gestión de la 
+cadena de suministro. Por ejemplo, en el hogar inteligente, los termostatos 
+conectados pueden ajustar automáticamente la temperatura según las 
+preferencias del usuario; mientras que en la agricultura, los sensores 
+pueden monitorear la humedad del suelo para optimizar el riego.
+Automatización y toma de decisiones: 
+El IoT permite la automatización de acciones basadas en datos en tiempo 
+real. Por ejemplo, un sistema de iluminación inteligente puede ajustar la 
+intensidad de la luz según la luz natural detectada por sensores.
+Eficiencia y ahorro de costos: 
+En las empresas, el IoT se utiliza para aumentar la eficiencia operativa y 
+reducir costos. Por ejemplo, el seguimiento de activos y la gestión de 
+inventarios se optimizan mediante la monitorización en tiempo real.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Como es posible observar el Internet de las Cosas ha transformado nuestra 
+forma de vida y la manera en que operan las empresas, desde dispositivos 
+domésticos inteligentes hasta aplicaciones industriales avanzadas, el IoT ha 
+abierto un mundo de posibilidades y sigue evolucionando a medida que se 
+exploran nuevas aplicaciones y tecnologías.
+Seguridad y privacidad: 
+La seguridad y la privacidad son consideraciones clave en el 
+IoT, ya que los datos sensibles se transmiten a través de 
+redes. Se implementan medidas de seguridad, como cifrado 
+y autenticación, para proteger la integridad de los datos.
+Crecimiento continuo: 
+El IoT sigue creciendo a medida que más dispositivos se incorporan a la red 
+y se desarrollan nuevas aplicaciones. Se espera que el número de 
+dispositivos IoT conectados a nivel mundial siga aumentando en los 
+próximos años.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones finales
+¿En tu empresa u organización emplean 
+sensores de Tecnología Operativa (OT)?, ¿de 
+qué manera se podría utilizar el Internet de las 
+Cosas (IoT) en tu empresa u organización?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

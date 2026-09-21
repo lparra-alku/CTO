@@ -1,0 +1,132 @@
+
+--- p1 ---
+Reconoce las diferencias y similitudes de los dos tipos de RPAs que tienes 
+para realizar una transformación digital en tu empresa.
+¿qué es la Híper 
+Automatización? 
+Comparativa entre 
+RPAs y RPAs 
+Cognitivas y
+
+--- p2 ---
+Comparativa entre RPAs y RPAs Cognitivas
+Característica
+RPAs
+RPAs Cognitivas
+Enfoque 
+principal
+Automatización de tareas 
+repetitivas y estructuradas 
+mediante reglas predefinidas.
+Automatización de tareas complejas que 
+involucran procesamiento de datos no 
+estructurados y toma de decisiones basada 
+en la inteligencia artificial.
+Tipo de 
+tareas
+Ideal para tareas manuales, 
+repetitivas y basadas en reglas.
+Aborda tareas más complejas que 
+requieren comprensión y procesamiento de 
+datos no estructurados.
+Interacción 
+con datos
+Trabaja principalmente con datos 
+estructurados y reglas 
+predefinidas.
+Capacidad para comprender, analizar y 
+actuar sobre datos no estructurados, como 
+imágenes, texto sin formato y patrones 
+complejos.
+Nivel de 
+inteligencia
+Limitada inteligencia, sigue reglas 
+predefinidas sin aprendizaje 
+continuo.
+Mayor inteligencia, con capacidad para 
+aprender y adaptarse a medida que se 
+enfrenta a nuevos datos y situaciones.
+Toma de 
+decisiones
+Decisiones basadas en reglas y 
+lógica predefinidas.
+Toma de decisiones más complejas y 
+contextualmente informadas gracias a la 
+inteligencia artificial y el aprendizaje 
+automático.
+Ejemplos de 
+aplicación
+Automatización de procesos de 
+entrada de datos, generación de 
+informes, etc.
+Procesamiento de lenguaje natural, 
+reconocimiento de imágenes, análisis de 
+datos no estructurados, entre otros.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Este cuadro comparativo 
+destaca las diferencias clave 
+entre la Automatización 
+Robótica de Procesos (RPA) 
+y la Automatización 
+Cognitiva (RPA Cognitiva), 
+resaltando sus enfoques, 
+capacidades y ejemplos de 
+aplicación.
+3
+Característica
+RPAs
+RPAs Cognitivas
+Beneficios 
+clave
+Mejora la eficiencia, reduce 
+errores y libera a los empleados 
+de tareas repetitivas.
+Automatización de procesos complejos, 
+manejo de datos no estructurados y mejora 
+en la toma de decisiones.
+Ejemplos de 
+herramientas
+UiPath, Blue Prism, Automation 
+Anywhere.
+IBM Watson, Google Cloud AI, Microsoft 
+Azure Cognitive Services.
+Despliegue 
+común
+Ampliamente utilizado en diversos 
+sectores para la automatización 
+de procesos rutinarios.
+En áreas como atención al cliente, análisis 
+de datos complejos y procesos que 
+requieren comprensión contextual.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+4
+Ahora es momento que identifiques un elemento crucial en la 
+transformación digital apoyado en las RPAs, la Híper Automatización. Esta va 
+más allá de la automatización básica, se trata de que integres tecnologías 
+avanzadas, como inteligencia artificial, aprendizaje automático y procesamiento 
+del lenguaje natural, para crear un ecosistema automatizado inteligente.
+La Automatización Robótica de Procesos (RPA) es tu aliada más cercana en este 
+proceso de transformación digital. Aquí la adaptabilidad es clave, y la Híper 
+Automatización se ajusta a tus necesidades. Desde recursos humanos hasta 
+finanzas, tú decides dónde y cómo implementarla. Tu poder de 
+personalización es la esencia de esta revolución, permitiéndote optimizar 
+procesos de acuerdo con tus requisitos específicos. 
+La Híper Automatización no es solo una herramienta; es tu socio en la 
+búsqueda de un futuro laboral más inteligente, eficiente y gratificante
+Híper Automatización
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Reflexiones
+¿Cómo podrías aprovechar un ecosistema automatizado 
+inteligente en tu organización?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5

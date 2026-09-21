@@ -1,0 +1,221 @@
+
+--- p1 ---
+Inversión necesaria
+para implementar la 
+inteligencia artificial generativa
+Para implementar la inteligencia artificial generativa 
+en una organización, se necesitan considerar ciertos 
+puntos y, a partir de ellos, abordar los costos.
+
+--- p2 ---
+Antes de que una empresa decida implementar la 
+inteligencia artificial generativa para sus procesos, debe 
+considerar ciertos puntos para definir si es viable la inversión o 
+no. Estos puntos se pueden dividir en tres grandes áreas: 
+impacto, procesos e infraestructura, y políticas. En cada 
+una, la empresa debe preguntarse qué consecuencias, buenas y malas, 
+traerá la implementación de la Gen AI. A continuación, puedes ver una 
+guía de cada una:
+Impacto
+Visión: ¿De qué manera las capacidades creadas por la Gen AI 
+impactarán nuestra estrategia como empresa?
+Beneficios: ¿Qué nuevas oportunidades y capacidades presentará la 
+Gen AI?
+Objetivo: ¿Qué tratamos de obtener como ganancia al aplicar la Gen 
+AI a este problema?
+Adopción: ¿Cómo reaccionará el equipo al uso de la Gen AI?
+Procesos e infraestructura
+Inversionistas: ¿Quién tendrá más impacto con la implementación de 
+Gen AI?
+Procesos: ¿Cuáles procesos tendremos que crear o transformar?
+Arquitectura del sistema: ¿Cómo entrenaremos a la Gen AI para 
+aprovechar nuestra infraestructura existente?
+Datos: ¿Cuáles datos están disponibles para alimentar la Gen AI?, ¿cuántos 
+hay?, ¿son lo suficientemente profundos (por ejemplo, metadatos)?
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+2
+
+--- p3 ---
+Habilidades: ¿Qué habilidades 
+son necesarias para iterar y 
+colaborar con esta herramienta?
+Políticas
+Protección: ¿Cómo 
+protegeremos los datos 
+confidenciales y la propiedad 
+privada?, ¿qué revelaciones 
+necesitaremos hacer?
+Prevención: ¿Quién será 
+responsable de los outputs de la 
+Gen AI?, ¿a qué grado? Además, 
+¿qué estructuras de gobernanza 
+necesitamos detectar y 
+responder cuando actúe de 
+maneras inesperadas?
+A partir de estas preguntas, se 
+puede decidir si la implementación 
+de la Gen AI es adecuada o no 
+según las características de la 
+organización. Y, posteriormente, se 
+define el costo de la 
+implementación, el cual puede ir 
+desde casi nada hasta muchos 
+millones de dólares, dependiendo 
+del caso de uso que se le dará, la 
+escala a la que se proyectará, los 
+requerimientos de la empresa 
+y la intención de riesgo.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+3
+
+--- p4 ---
+Por ejemplo, las empresas pequeñas y medianas 
+podrían usar las versiones gratis de aplicaciones 
+hospedadas en servidores abiertos al público, como las de 
+OpenAI, o pagar tarifas bajas de suscripción. Mientras que hay 
+otras organizaciones, como aquellas más grandes o que 
+requieran analizar sus propios datos o que busquen invertir en 
+procesos significativos o disruptivos, que necesitarán niveles más 
+altos de seguridad, IP y protecciones de privacidad, lo que quiere un rango 
+de servicios más especializados. 
+Gartner sugiere un framework para la adopción de la inteligencia artificial 
+generativa, cuya premisa es “entre más personalizas, mayor es su costo”. 
+Un ejemplo de este framework y su desglose es el siguiente:
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+4
+
+--- p5 ---
+Tipo de 
+contenido 
+deseado
+Nivel de 
+control 
+empresarial
+Solución 
+necesaria
+Tecnologías 
+requeridas/
+recomendadas
+Costo
+Texto no 
+sensitivo
+No se 
+necesitan 
+controles
+ChatGPT
+Aplicaciones 
+hospedadas 
+en OpenAI
+Mínimo
+PII/IP 
+empresarial 
+incluida
+LLM con 
+privacidad
+LLM API 
+accedido vía 
+marco de 
+aplicación
+Instancias en 
+la nube con 
+LLM APIs
+Ajuste de 
+modelo fino 
+para mejorar 
+el uso y 
+rendimiento
+LLM con 
+privacidad, 
+políticas, 
+datos y capas 
+de modelo 
+añadidos
+LLM 
+modificado 
+con 
+aprendizaje 
+de 
+transferencia 
+y capas 
+añadidas 
+para ajustar 
+los outputs 
+del modelo
+Modelo 
+personalizable 
+con licencia, 
+modelo 
+propietario, 
+datos y 
+plataformas 
+ML
+$
+Datos 
+empresariales y 
+modelos de 
+instrucción 
+necesarios
+LLM con 
+privacidad, 
+políticas y 
+datos
+LLM API con 
+privacidad, 
+políticas e 
+inyección de 
+datos por 
+incidente 
+estandarizados
+Instancias en la 
+nube con LLM 
+APIs, ingeniería 
+de prompt, 
+políticas 
+personalizadas y 
+bases de datos 
+indexados
+$$$$
+$$$$$$$
+Modelo 
+personalizado 
+creado para 
+un uso de 
+caso único
+Modelo 
+diferenciado 
+personalizado 
+alojado en la 
+empresa
+LLM 
+personalizado 
+que usa los 
+datos 
+accesibles de 
+la empresa
+Modelo 
+propietario 
+personable, 
+con datos y 
+plataforma ML
+$$$$$$$$$$
+$$$
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+5
+
+--- p6 ---
+Reflexiones finales
+Según las necesidades de tu empresa, ¿les es 
+viable construir un modelo de Gen AI 
+personalizado o un modelo abierto les es 
+suficiente?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+6
