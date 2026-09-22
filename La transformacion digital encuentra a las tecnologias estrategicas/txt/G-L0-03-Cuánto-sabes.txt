@@ -1,0 +1,80 @@
+# L0 · Cuánto sabes
+Genially 656a144f17a4440014ac18f4
+
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que ayudes a Paulina a resolver los siguientes cuestionamientos.
+Paulina se encuentra afinando los detalles para implementar la digitalización basada en datos en la segmentación de clientes de TechSolutions, pero antes debe resolver algunas dudas sobre el alcance, la ejecución y las repercusiones del proceso de digitalización, ¿puedes ayudarla? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Cuál sería la primera acción que Paulina debe realizar para proponer la digitalización del proceso de segmentación de clientes en TechSolutions?
+Generar hallazgos a partir de datos sobre las necesidades y preferencias de los clientes
+Implementar tecnologías emergentes sin previa planificación
+Ignorar las opiniones del equipo directivo
+Cambiar radicalmente la estructura organizativa
+¡Correcto!
+Paulina debe iniciar el proceso recolectando datos detallados sobre las necesidades y preferencias de los clientes, lo cual sirve para generar hallazgos del cliente (customer insights).
+¡Incorrecto!
+Paulina primero se debe centrar en entender las necesidades de los clientes.
+Paulina tampoco ignorará las opiniones del equipo, primero se debe centrar en entender las necesidades de los clientes.
+Paulina no propondrá un cambio radical, primero se debe centrar en entender las necesidades de los clientes.
+¿Qué tecnologías emergentes debe emplear Paulina para la digitalización basada en datos de la segmentación de clientes de TechSolutions?
+Internet Industrial de las Cosas (IIoT) y Cómputo en la nube
+Inteligencia Artificial (IA) y Aprendizaje Automático
+Realidad Virtual (VR) y Realidad Aumentada (AR)
+Blockchain y Criptomonedas
+Paulina debe utilizar tecnologías emergentes como la Inteligencia Artificial (IA) y el Aprendizaje Automático (Machine Learning) para la segmentación de los clientes.
+Las tecnologías que corresponden a la digitalización basada en datos son la Inteligencia Artificial (IA) y el Aprendizaje automático (Machine Learning) .
+El Blockchain y las criptomonedas no corresponden a tecnologías para la digitalización basada en datos.
+El Internet Industrial de las Cosas (IIoT) y el cómputo en la nube no corresponden a tecnologías propias de la digitalización basada en datos.
+¿En qué consiste la digitalización basada en datos que plantea Paulina para segmentar el mercado en TechSolutions?
+Transformar información analógica a digital para emplearla en la toma de decisiones estratégicas
+Utilizar solo tecnologías emergentes sin recopilar información detallada
+Cambiar la infraestructura tecnológica sin analizar datos
+Vender los datos de los clientes a terceros
+La digitalización basada en datos que propone Paulina implica transformar información analógica a digital y utilizarla de manera estratégica para mejorar la eficiencia y la toma de decisiones.
+Recuerda que la digitalización basada en datos implica transformar información analógica a digital para utilizarla en decisiones estratégicas.
+Vender los datos a terceros no representa la digitalización basada en datos.
+Utilizar tecnologías emergentes sin recopilar información detallada no representa la digitalización basada en datos.
+Si Paulina decidiera implementar una Robot Process Automation en los procesos de recopilación, almacenamiento y análisis de datos, ¿cuál sería la principal ventaja de la automatización inteligente?
+Mejora en la eficiencia y rapidez de los procesos
+Mayor énfasis en tareas rutinarias y repetitivas
+Incremento de la probabilidad de errores humanos
+Disminución de la escalabilidad de los sistemas
+La principal ventaja de la Robot Process Automation (RPA) es la mejora en la eficiencia y rapidez de los procesos al automatizar tareas repetitivas.
+La RPA tiene como objetivo liberar a los empleados de tareas rutinarias, mejorando la eficiencia y rapidez de los procesos.
+La RPA tiene como objetivo liberar a los empleados de tareas rutinarias, no incrementar la probabilidad de errores humanos.
+La RPA tiene como objetivo liberar a los empleados de tareas rutinarias, no disminuir la escalabilidad de los sistemas de información.
+¿Cuál sería el principal beneficio de aplicar la digitalización basada en datos para la segmentación automatizada de clientes en TechSolutions?
+Aumento de la satisfacción del cliente a partir de soluciones personalizadas
+Complejidad adicional en la toma de decisiones estratégicas
+Aumento de la venta de las soluciones digitales
+Reducción de la calidad de los servicios
+La principal ventaja de la digitalización basada en datos en la segmentación de clientes es el aumento de la satisfacción del cliente por medio de soluciones personalizadas.
+Recuerda que la principal ventaja de la digitalización basada en datos es aumentar la satisfacción del cliente por medio de soluciones personalizadas.
+La digitalización basada en datos no reduce la calidad de los servicios proporcionados.
+La digitalización basada en datos no aumenta la complejidad en las decisiones estratégicas.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Respuesta para cuatro opciones
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

@@ -1,0 +1,65 @@
+# L2 · Pruébate
+Genially 654ad18d5daca90011c0ba03
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a la empresa World of Things a resolver algunas problemáticas.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+World of Things, empresa dedicada al comercio de productos y servicios electrónicos, llevará a cabo su reunión mensual sobre la mejora de productividad y procesos. En este caso, el objetivo de la reunión es dialogar sobre las formas de optimizar la satisfacción del cliente en los diferentes puntos de contacto. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+La tienda en línea de World of Things genera más ventas mensuales que las tiendas físicas. ¿Cuál de las siguientes es una propuesta a tomar en cuenta?
+Mejorar la oferta de productos y servicios en la tienda física, ofreciendo descuentos y promociones
+Construir experiencias omnicanal que permitan una misma experiencia en tienda física y online
+Cerrar las tiendas físicas para reducir ese costo
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+¡Correcto!
+En Comercio es clave construir experiencias omnicanal, donde el cliente pueda empezar en línea y terminar en la tienda, pudiendo interactuar con diferentes canales digitales y físicos.
+¡Incorrecto!
+La respuesta correcta es construir experiencias omnicanal que permitan una misma experiencia en tienda física y online. Recuerda que las tiendas físicas no deben ser el único medio para llegar a los consumidores, por lo que las empresas deben brindar experiencias únicas a sus clientes físicos en canales digitales también.
+A pesar de las buenas reseñas, la mayor queja de los clientes de la tienda en línea es que los productos tardan mucho en llegar. ¿Cuál sugerencia es la menos adecuada?
+Implementar diferentes niveles de servicio de entrega, incluyendo uno exprés que garantice entrega en máximo 24 horas
+Invertir en soluciones innovadoras para los envíos, como impresiones 3D o drones de entrega
+Eliminar los envíos y ofrecer la opción de recoger en tienda cuando el cliente desee
+La transformación digital requiere cambiar, adaptarse y transformarse. No hacer nada es quedarse en el pasado y pronto los clientes buscarán otras opciones.
+La respuesta correcta es eliminar los envíos y ofrecer la opción de recoger en tienda cuando el cliente desee. Recuerda que las soluciones innovadoras, aunque incluyan un costo extra, son ideales para mantenerse vigentes, pues los clientes actuales buscan una buena experiencia, no necesariamente lo más barato.
+Durante la fabricación de productos, World of Things no ha implementado las tres características principales de la Industria 5.0, las cuales son:
+Sostenible, centrada en la persona y resiliente
+Digital, centrada en la persona y flexible
+Sostenible, conectada y flexible
+Con estas tres características, la Industria 5.0 busca impulsar una relación entre la tecnología, el entorno y las personas.
+Recuerda que la Industria 5.0 tiene como características principales ser sostenible, centrada en la persona y resiliente.
+Las últimas semanas, la tienda en línea de World of Things ha presentado un retraso de minuto y medio para llevar al cliente al checkout. ¿Cuál de las siguientes opiniones tiene una visión para la transformación digital?
+“Tenemos que arreglarlo, pero no es prioridad. Está en la ventana de espera, aunque podría molestarse un poco”
+“Después de 30 segundos, los clientes desisten e intentan por otro lado. Tenemos que arreglarlo”
+“Un minuto y medio no es mucho, no es prioridad solucionarlo”
+En promedio, el cliente en el segundo 0 está interesado; en el segundo 8, se fastidia; en el segundo 18, se molesta; después de 30 segundos, abandona.
+La respuesta correcta es “Después de 30 segundos, los clientes desisten e intentan por otro lado. Tenemos que arreglarlo”. Recuerda que en promedio, el cliente en el segundo 0 está interesado; en el segundo 8, se fastidia; en el segundo 18, se molesta; después de 30 segundos, abandona.
+Los gerentes de tiendas físicas de World of Things reportan que muchos clientes suelen checar información del producto en línea, incluso cuando están en la tienda. ¿Cuál es el porcentaje promedio de compras influidas por investigación en línea?
+Entre el 60 % y 90 %
+Entre el 30 % y 60 %
+Menos del 30 %
+Entre el 60 % y 90 % de las compras físicas son influidas por la investigación en línea que hace el cliente antes de finalizar la compra.
+Recuerda que entre el 60 % y 90 % de las compras físicas son influidas por la investigación en línea que hace el cliente antes de finalizar la compra.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

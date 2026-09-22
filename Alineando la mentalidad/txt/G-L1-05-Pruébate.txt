@@ -1,0 +1,61 @@
+# L1 · Pruébate
+Genially 6542cdb650180600114afe65
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a la empresa World of Things a resolver algunas problemáticas.
+En la empresa World of Things, dedicada a la venta minorista de componentes electrónicos para computadora, tienen programada una reunión con los chief de cada departamento para hablar de sus estrategias actuales alrededor de la transformación digital. Ayúdalos a tener una visión más clara de su panorama. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Comienzan definiendo quién debería ser el encargado de implementar la transformación digital en la empresa. Tú les dices que es:
+¡Correcto!
+El CEO es el encargado de manejar estratégicamente la transformación digital en la empresa. Las tecnologías lo habilitan, pero la transformación es del negocio.
+¡Incorrecto!
+La respuesta correcta es el CEO . Recuerda que las tecnologías la habilitan, pero la transformación es del negocio, por eso el CEO es el encargado de manejar estratégicamente la transformación digital en la empresa.
+Todos los involucrados están definiendo dónde tiene que iniciar la transformación digital en la empresa, a lo que tú sabes que es en:
+En el modelo operativo y propuesta de valor
+En las tecnologías emergentes
+En los dispositivos conectados
+La transformación digital tiene que suceder dentro del negocio, comenzando en el modelo operativo y la propuesta de valor para trasladarse en las personas, procesos y tecnologías involucradas.
+La respuesta correcta es modelo operativo y propuesta de valor . Recuerda que la transformación digital tiene que suceder dentro del negocio, comenzando en el modelo operativo y la propuesta de valor para trasladarse en las personas, procesos y tecnologías involucradas.
+Todos se encargan de hacer una lluvia de ideas sobre las tecnologías clave en la transformación digital y su impacto en las empresas. ¿Cuál de las siguientes descartas?
+Programas de calendario y agendas electrónicas
+Vehículos autónomos
+Robots y drones
+El World Economic Forum (2018) identificó las siete tecnologías clave y, entre ellas, se encuentran vehículos autónomos, robots y drones, pero los programas de calendario y agendas electrónicas no.
+La respuesta correcta es Programas de calendario y agendas electrónicas . Los programas de calendario y agendas electrónicas no están dentro de las siete tecnologías clave identificadas por el World Economic Forum (2018).
+Se encuentran definiendo las responsabilidades del CIO en la transformación digital de la empresa, selecciona la opción que NO corresponde a sus responsabilidades:
+Tomar decisiones informadas relacionadas a las tecnologías y a los procesos, tiempos y personal de la empresa
+Manejar estratégicamente el uso de las tecnologías en la organización
+Liderar la estrategia de transformación digital
+El CEO es quien lidera la estrategia de transformación digital, basándose en el manejo estratégico de las tecnologías y las decisiones inteligentes respecto a tecnologías, procesos, tiempos y personal, responsabilidades que sí están bajo el cargo del CIO.
+La respuesta correcta es Liderar la estrategia de transformación digital . El CIO se encarga de manejar estratégicamente el uso de las tecnologías y de tomar decisiones informadas relacionadas a las tecnologías, procesos, tiempos y personal, mientras el CEO es quien lidera la estrategia de transformación digital.
+Finalmente, entre el CEO, la CTO y el CFO de World of Things tratan de definir en qué consiste la transformación digital. ¿Cómo la definirías tú?
+Conectar a pesar de las barreras geográficas con gente de otro lado del mundo, tomando los medios y las redes sociales como base
+Adaptar la estrategia empresarial para actualizar el modelo operativo en un mundo conectado
+Adoptar las tecnologías emergentes para eficientizar e innovar procesos
+La transformación digital no consiste solo en adoptar las tecnologías emergentes, sino en adaptar el modelo operativo y la propuesta de valor del negocio hacia un mundo digital.
+La respuesta correcta es Adaptar la estrategia empresarial para actualizar el modelo operativo en un mundo conectado . Recuerda que la transformación digital no consiste solo en adoptar las tecnologías emergentes, sino en adaptar el modelo operativo y la propuesta de valor del negocio hacia un mundo digital.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

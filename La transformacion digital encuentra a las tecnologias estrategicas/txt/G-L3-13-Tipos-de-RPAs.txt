@@ -1,0 +1,21 @@
+# L3 · Tipos de RPAs
+Genially 655d2dbcc9a4620012dd48f6
+
+La versatilidad de la tecnología de Robot Process Automation (RPA) permite su uso en una amplia variedad de industrias y departamentos, desde finanzas y recursos humanos hasta atención al cliente y logística.
+La RPA se centra en la automatización de tareas repetitivas y basadas en reglas. Utiliza software de robots para imitar las acciones humanas en sistemas digitales, como la entrada de datos, la extracción de información de documentos o la navegación en aplicaciones de software. Estos robots pueden trabajar 24/7 sin errores y sin necesidad de descanso, lo que aumenta la eficiencia y reduce los costos operativos.
+Es importante que reconozcas que las RPAs se han vuelto populares en diversas industrias debido a su capacidad para aumentar la eficiencia y reducir costos. Existen varios tipos de RPAs, cada uno con sus propias aplicaciones y ventajas. A continuación, exploraremos algunos de los tipos de RPA más comunes y proporcionaremos ejemplos de su utilización.
+RPA de pantalla: Este tipo de RPA automatiza tareas emulando la interacción humana con la interfaz de usuario de una aplicación. Puede realizar clics, ingresar datos y navegar por sistemas como lo haría un empleado.
+RPA de procesos: Este enfoque de RPA se centra en la automatización de flujos de trabajo completos, a menudo en sistemas empresariales complejos. Puede orquestar múltiples tareas y decisiones a través de diferentes aplicaciones.
+RPA cognitiva: Las RPAs cognitivas utilizan inteligencia artificial para comprender y procesar datos no estructurados. Pueden analizar texto, imágenes y voz para realizar tareas avanzadas, como la extracción de información de documentos no estandarizados.
+RPA de chatbots : Este tipo de RPA se utiliza en la creación y gestión de chatbots . Puede automatizar conversaciones con clientes o empleados en línea, proporcionando respuestas rápidas y precisas a preguntas comunes.
+RPA de análisis de datos : Las RPAs de análisis de datos se centran en la recopilación y el análisis de datos para generar informes y tomar decisiones basadas en datos. Pueden extraer información de múltiples fuentes y realizar análisis complejos.
+Gracias por tu respuesta
+¿Cuáles RPAs ya conocías?, ¿cuáles utilizan en tu organización?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Una RPA de pantalla se utiliza para extraer información de facturas en un proceso de contabilidad, automatizando la entrada de datos.
+Una RPA cognitiva se aplica en la clasificación de correos electrónicos en función de su contenido y prioridad.
+Una RPA de procesos se utiliza en la gestión de pedidos en línea, desde la recepción del pedido hasta la facturación y la entrega.
+Un sitio web de comercio electrónico podría utilizar una RPA de chatbot para responder a preguntas de los clientes sobre productos y procesos de compra.
+Una RPA de análisis de datos se utiliza en la gestión de inventarios para predecir la demanda y optimizar las existencias.
+La RPA es altamente escalable y se utiliza en una variedad de industrias para agilizar procesos y liberar a los empleados de tareas mundanas.

@@ -1,0 +1,11 @@
+# L3 · Ideas para llevar
+Genially 6632efa33ead6f0014be4c5e
+
+Ideas para llevar
+Continúa con tu aprendizaje en la siguien te lección.
+Descarga la versión impresa en el apartado Archivos adjuntos.
+El proceso común de una RPA sigue varios pasos, desde la identificación de tareas hasta la optimización continua. Incluye la selección de tareas repetitivas y basadas en reglas, análisis detallado de procesos, diseño de flujo de trabajo, desarrollo del bot, pruebas, implementación, monitoreo y mantenimiento, gestión de excepciones y optimización continua.
+La Automatización Cognitiva integra inteligencia artificial (IA) para llevar la automatización a un nivel más avanzado. Se basa en la capacidad de las máquinas para comprender y procesar datos no estructurados, como texto, voz o imágenes.
+Las RPAs cognitivas, evolución de las RPAs tradicionales, incorporan capacidades de inteligencia artificial para comprender datos no estructurados. Dentro de sus características clave incluyen el procesamiento de lenguaje natural (NLP), visión por computadora, aprendizaje automático y toma de decisiones basada en datos.
+La combinación de tecnologías de Automatización de Procesos Robóticos (RPA) y RPAs cognitivas ha revolucionado la gestión operativa en diversas industrias. Mientras las RPAs tradicionales son eficaces para automatizar tareas repetitivas, las RPAs cognitivas destacan al comprender y procesar datos no estructurados, siendo ideales para tareas avanzadas que demandan análisis de datos complejos y toma de decisiones basada en datos.
+La RPA se centra en la automatización de tareas repetitivas y basadas en reglas mediante el uso de software de robots. Estos robots imitan acciones humanas en entornos digitales, como la entrada de datos, la extracción de información y la navegación en aplicaciones.

@@ -1,0 +1,421 @@
+
+--- p1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alineando la mentalidad de 
+Transformación digital en 
+una Organización 
+Lección 2: ¿Qué entienden las 
+Organizaciones por Transformación 
+Digital? 
+ 
+Introducción 
+Uno de los grandes retos actuales para las empresas es entender qué es la 
+transformación digital y cómo debe implementarse para tener resultados 
+positivos; sin embargo, llegar a un consenso al respecto es complejo, pues 
+no hay una sola ruta.  
+ 
+Muchos creen que la transformación digital es solo tecnología, pero ¿cómo 
+nombrar solo unas cuantas? Otros creen que tiene que ver con la 
+innovación, pero ¿saben qué cambiar? y, además, ¿cuál es la razón detrás 
+del cambio?  
+ 
+La idea de la transformación digital comenzó durante la cuarta revolución 
+industrial con un artículo del World Economic Forum en 2015, donde hacen 
+un wake up call y nos invitan a darnos cuenta de que la vida ha 
+evolucionado y que no es solo una moda, sino que el mundo ya cambió, lo 
+que cambia el mindset y, por supuesto, la cultura. De ahí la importancia de 
+que las empresas se sumen a este cambio.  
+ 
+
+--- p2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ahora bien, ¿cuál es nuestro papel como miembros de una organización?, 
+¿qué renovaciones debemos adoptar?, ¿bajo qué circunstancias? y, sobre 
+todo, ¿cómo entender la transformación digital?  
+ 
+Comencemos con esta lección y conoce los puntos de vista de los líderes 
+de las empresas y estrategias y tecnologías digitales partícipes en la 
+transformación digital.   
+ 
+Transformación digital 
+Se cree que la transformación digital consiste solo en adaptar las 
+tecnologías emergentes para eficientar procesos en las organizaciones; 
+sin embargo, aunque esta es una parte importante de la transformación 
+digital, no es la principal. 
+Las tecnologías emergentes hacen posible la transformación, pero la 
+transformación digital tiene que suceder dentro del negocio, en la 
+actualización del modelo operativo para que sea capaz de operar en un 
+mundo digital y entregar una experiencia conectada a los clientes externos 
+e internos. Entonces, la transformación digital sucede primero desde el 
+modelo operativo y la propuesta de valor del negocio y, después, en los 
+procesos, personas y tecnologías involucradas en la organización.  
+ 
+El contexto actual se encuentra en constante evolución, por lo que 
+existe una responsabilidad de estar al tanto de las nuevas tecnologías 
+y herramientas que pueden no solo traer beneficios para la empresa, 
+sino también para los clientes y las personas involucradas en cada 
+interacción.  
+ 
+Ahora bien, ¿quién es el responsable de la transformación digital? 
+Tomando en cuenta las diferentes personas encargadas de tomar 
+decisiones en las empresas, podemos aventurarnos con que cada uno 
+piensa distinto. Por ejemplo, un CEO solía pensar: “si mi empresa es líder 
+y voy a la cabeza, ¿por qué cambiar?” porque no se daban cuenta de que 
+en las empresas había una tercera o hasta cuarta generación de 
+
+--- p3 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+empleados más jóvenes, cuya prioridad era que las empresas fueran 
+digitales para alcanzar el ritmo digital de la cotidianidad que rodeaba a los 
+clientes.  
+ 
+Para 2014, la US CEO Survey de PwC demostró que el 86 % de los CEO 
+creían que la tecnología transformaría sus negocios (McCarthy, 
+2014). A varios años de esa encuesta, podemos afirmar que 
+implementar la tecnología es indispensable para la sobrevivencia del 
+negocio.  
+ 
+Pero cada chief de la empresa piensa en las dificultades que se 
+encontraría al mudar sus procesos hacia lo digital, pensando en lo que sí 
+tienen y lo que podrían costear, tanto en lo económico como en los 
+tiempos:  
+Mientras el CFO se podría preguntar si su rol será reemplazado por un 
+robot, también cuestiona el uso excesivo de papel y la falta de un Shared 
+Service en la organización.   
+  
+Para una transformación digital en el área de Finanzas, se necesitan 
+procesos de consolidación, escenarios predictivos y un costeo ABC.   
+ 
+Por otro lado, el CTO sabe que no es posible realizar una renovación de 
+activos de todas las plantas al mismo tiempo, pues se necesita tiempo y 
+dinero. Pero se puede comenzar con estrategias para integrar las 
+generaciones tecnológicas con las que ya se cuentan, además de una 
+automatización de Internet of Things (IoT).  
+ 
+El CIO, por su parte, es quien tiene que manejar estratégicamente el uso de 
+las tecnologías en la organización, tomando decisiones informadas 
+relacionadas a las tecnologías y a los procesos, tiempos y personal de la 
+empresa. Es una pieza clave para la transformación digital, pues con base 
+en sus labores y las decisiones de las tecnologías a habilitar, el CEO lidera 
+
+--- p4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+un equipo para crear una estrategia de implementación de la 
+transformación digital en el negocio.  
+ 
+Necesita planear y conocer el presupuesto para implementar las 
+tecnologías digitales requeridas en la empresa, gestionando 
+estrategias, proveedores, equipos, proyectos, riesgos. Después, 
+evaluará las métricas y el rendimiento que estas tecnologías llevaron a 
+la empresa para seguir innovando e ir adoptando otras más.  
+ 
+Conociendo esto, ¿cómo lleva a cabo cada chief su rol en tu organización 
+para implementar una transformación digital?  
+ 
+ 
+Estrategias y tecnologías digitales 
+¿De qué se habla cuando se habla de la transformación digital?, ¿cuáles 
+son las tecnologías que están provocando esta revolución digital?  
+ 
+La transformación digital impacta en todos los sectores, pero en grados 
+variables. Por ejemplo, de acuerdo con McKinsey & Company (2017), la 
+transformación digital ha impactado desde el sector de bienes 
+empaquetados hasta el de medios y entretenimiento, pero con un 31 % y 
+62 % respectivamente. Dentro de estos dos extremos, es posible encontrar 
+industrias de servicios financieros, telecomunicaciones y de minoristas, 
+entre otros.   
+
+--- p5 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De acuerdo con la gráfica anterior (McKinsey & Company, 2017), existe un 
+impacto promedio de lo digital en el 37 % de las industrias. Pero ¿de qué se 
+habla cuando se habla de la transformación digital?, ¿cuáles son las 
+tecnologías que están provocando esta revolución digital? 
+ 
+Jeanne Ross, exmiembro del Centro de Investigación de Sistemas del MIT 
+(MITCISR), decía que las tecnologías son smacit, haciendo un juego de 
+palabras con las iniciales de las tecnologías clave y el verbo smack en 
+inglés, el cual se traduce como “abofetear”, pues irrumpen no solo en el 
+negocio, sino en todos los ámbitos de la vida personal y profesional como 
+si nos abofetearan (Mittenberg, 2020). Ahora bien, el término también 
+funciona por ser un acrónimo de las tecnologías digitales disruptivas 
+actualmente, las cuales son:  
+Social  
+Mobile  
+Analytics  
+Could  
+
+--- p6 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Internet of Things  
+  
+Pero no solo son las smacit, sino que también hay:  
+Artificial Intelligence  
+Blockchain  
+Augmented Reality  
+Biometrics  
+Autonomous Vehicles  
+5G  
+Cellular Agriculture   
+Brain-Computer Interfaces  
+DNA based  
+Clustered Regularly Interspaced Short Palindromic  
+Repeats  
+  
+Partiendo de esto, tomemos en cuenta que el World Economic Forum 
+[WEF] (2018) identificó las siete tecnologías clave que tienen un papel 
+protagónico en el impacto a las industrias, las cuales son:  
+ 
+● Inteligencia artificial. Junto con el aprendizaje automático, la IA 
+tiene grandes beneficios en la automatización de procesos, 
+respuesta inmediata en el servicio al cliente e incremento de 
+ciberseguridad, por ejemplo.  
+● Vehículos autónomos. Los vehículos autónomos tienen relevancia 
+en la manera en que innovan las operaciones de las empresas, 
+como en el transporte y logística, la manufactura y las 
+experiencias mejoradas.  
+● Análisis Big Data y la nube. Las empresas pueden acelerar, 
+eficientizar y flexibilizar operaciones, además de que permite una 
+mejor toma de decisiones, pues ayuda a predecir tendencias, 
+identificar oportunidades y detectar patrones.   
+● Fabricación bajo demanda e impresiones 3D. Existe un cambio 
+muy importante en la manera en la que se diseñan, producen y 
+distribuyen los proyectos, lo que permite elevar los niveles de 
+
+--- p7 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+personalización, reducir costos y aumentar tiempos de 
+comercialización.  
+● Internet de las cosas y dispositivos conectados. Los sensores 
+conectados a las cosas posibilitan recopilar datos en tiempo real 
+para monitorear, predecir, controlar y crear experiencias 
+interconectadas para los usuarios.  
+● Robots y drones. Gracias a los robots y drones se eficientizan, 
+precisan y automatizan varios procesos de las empresas, lo que 
+permite reducir costos, mejorar calidad y crear nuevos productos y 
+servicios.  
+● Redes sociales y plataformas. Estas son herramientas clave para 
+la comunicación de cliente-empresa, pues facilitan la interacción, 
+apoyan la colaboración y permiten recopilar datos. Además, con 
+ayuda de otras tecnologías, es posible personalizar experiencias, 
+anticipar requerimientos y entender mejor las necesidades del 
+cliente.  
+  
+El WEF (2018) aclara que esta lista no incluye a las tecnologías 
+emergentes, pues sus casos de uso fueron menores comparados a las 
+tecnologías anteriores, como podría ser la situación de Blockchain, 
+además tenemos que estar atento a la Automatización cognitiva, la 
+Inteligencia Artificial Generativa, el CRISPRI, la conectividad 6G y otras 
+más que brindarán posibilidades exponenciales para crear nuevas 
+experiencias digitales. Por eso es importante no descartar las tecnologías 
+emergentes en las empresas, recordando que siempre hay que ir un paso 
+adelante. 
+ 
+¿A qué sector pertenece tu industria?, ¿cómo le han hecho frente a la 
+transformación digital?, ¿cuáles tecnologías son clave para su 
+transformación?  
+ 
+En los últimos años, las nuevas tecnologías digitales han llegado a nuestra 
+cotidianidad para brindar soluciones asequibles al mundo con sensores 
+neurotecnológicos más avanzados, biotecnología y hasta nuevos 
+
+--- p8 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+materiales, como el grafeno. Estas tecnologías digitales habilitan 
+experiencias, permiten que el mundo se vuelva autónomo y colaborativo, 
+aumentan la confianza al prescindir de intermediarios, facilitan la toma de 
+decisiones informadas y crean experiencias inmersivas. Además, estas 
+mismas tecnologías crean posibilidades para nuevas tecnologías de valor, 
+es decir, escalan de tal manera que es válido llamarlas tecnologías 
+exponenciales. 
+ 
+Ideas para llevar 
+Ahora ya sabes que:  
+ 
+● La transformación digital no consiste solo en adaptar las tecnologías 
+emergentes para eficientizar e innovar procesos, sino en la 
+actualización de modelo operativo y propuesta de valor del negocio. 
+● El CEO lidera la transformación digital en la organización.  
+● La transformación digital impacta en todos los sectores, pero en 
+grados variables.   
+● Las industrias con más impacto de transformación digital son: 
+Financiera, Manufactura, Consumo, Comercio y Medios y 
+entretenimiento.   
+● El WEF (2018) propone que las siete tecnologías clave en la 
+transformación digital son la IA, los vehículos autónomos, el Big Data 
+y la nube, la fabricación bajo demanda e impresiones 3D, el IoT y 
+dispositivos conectados, robots y drones y redes sociales.  
+ 
+ 
+Material de apoyo 
+Código utilizado 
+
+--- p9 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● https://github.com/Audraggc/DSSC2.2/blob/main/The%20Learnin
+g%20Gate%20-%20M2%20-%20Contenido%20Tema%201.ipynb 
+● https://github.com/Audraggc/DSSC2.2/blob/main/The%20Learnin
+g%20Gate%20-%20M2%20-
+%20Salas%20de%20Pruebas%20del%20Contenido.ipynb 
+ 
+Bibliografía 
+Los contenidos de esta lección están basados en la siguiente bibliografía: 
+● Gale, M. y Aarons, C. (2017). The Digital Helix: Transforming Your 
+Organization's DNA to Thrive in the Digital Age. Greenleaf Book Group 
+Llc.  
+● Gupta, S. (2018). Driving Digital Strategy: A Guide to Reimagining 
+Your Business. Harvard Business Review Press.  
+● Kane, G. C, Palmer, D., Phillips, A. N., Kiron, D. y Buckley, N. (2015). 
+Strategy, not Technology, Drives Digital Transformation. MIT SLOAN 
+Management 
+Review. 
+[Archivo 
+PDF]. 
+https://www2.deloitte.com/content/dam/Deloitte/fr/Documents/s
+trategy/dup_strategy-not-technology-drives-digital-
+transformation.pdf  
+● McKinsey & Company. (2017). Digital McKinsey: Insights. 
+Reinvention through digital. McKinsey Practice Publications.  
+● McCarthy, N. (2014). 86% of U.S. CEOs Believe Technology Will 
+Transform 
+Their 
+Business. 
+Statista. 
+https://www.statista.com/chart/1980/trends-that-will-transform-
+business-over-the-next-five-years/   
+● Mittenberg, C. (04 de noviembre de 2020). Center for the 
+Management of IT Webinar: Author Jeanne Ross on Digital 
+Transformation. UVA McIntire. Recuperado el 12 de octubre de 
+2023, 
+de 
+https://experience.mcintire.virginia.edu/news/cmit-
+webinar-jeanne-ross-on-digital-transformation/   
+
+--- p10 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● Westerman, G., Bonnet, D. y McAfee, A. (2014). Leading Digital: 
+Turning Technology Into Business Transformation. Harvard Business 
+Review Press.  
+● World Economic Forum. (Mayo 2018). Digital transformation 
+initiative. Executive Summary. https://report.weforum.org/digital-
+transformation/wp-content/blogs.dir/94/mp/files/pages/files/dti-
+executive-summary-20180510.pdf   
+● World Economic Forum. (17 de julio de 2020). 
+Digital 
+Transformation: Powering the Great Reset. 
+[Archivo PDF]. 
+https://www.weforum.org/reports/digital-transformation-
+powering-the-great-reset/   
+● World Economic Forum. (20 de octubre de 2020). The Future of Jobs 
+Report 2020. [Archivo PDF]. https://www.weforum.org/reports/the-
+future-of-jobs-report-2020/   
+● World Economic Forum. (29 de junio de 2021). Digital Culture: The 
+Driving 
+Force 
+of 
+Digital 
+Transformation. 
+[Archivo 
+PDF]. 
+https://www.weforum.org/reports/digital-culture-the-driving-force-
+of-digital-transformation/   
+● World Economic Forum. (02 de diciembre de 2022). Future 
+Readiness of SMEs and Mid-Sized Companies: A Year On. [Archivo 
+PDF]. https://www.weforum.org/reports/future-readiness-of-smes-
+and-mid-sized-companies-a-year-on/   
+ 
+ 
+ 
+ 

@@ -1,0 +1,28 @@
+# L3 · Proceso común de RPA
+Genially 655d2dcb8da61e00112becd0
+
+Proceso común
+La optimización continua y la adaptación a cambios en los procesos comerciales son aspectos clave de una implementación exitosa de RPA.
+Toma en cuenta que las RPAs tienen sus procesos bien definidos, pero existe un proceso común para trabajar con ellas. A continuación, exploraremos dicho proceso común.
+Identificación de Tareas : Identificar y seleccionar las tareas o procesos que son repetitivos, basados en reglas y susceptibles de ser automatizados.
+Análisis de Proyectos : Analizar a fondo los procesos seleccionados para comprender las reglas, excepciones y flujos de trabajo involucrados.
+Diseño de Flujo de Trabajo : Crear un diseño detallado del flujo de trabajo automatizado.
+Diseño del Bot : Desarrollar el robot o bots que ejecutarán las tareas automatizadas.
+Implementación : Implementar el robot en el entorno de producción.
+Pruebas : Realizar pruebas exhaustivas del robot para garantizar que funcione correctamente en diferentes escenarios y maneje excepciones de manera adecuada.
+Monitoreo y Mantenimiento : Supervisar el desempeño del robot en producción para asegurarse de que esté ejecutando las tareas de manera precisa y eficiente.
+Gestión de Excepciones: Establecer mecanismos para gestionar situaciones excepcionales o errores que puedan ocurrir durante la ejecución automatizada.
+Optimización Continua: Buscar oportunidades de optimización continua en el proceso automatizado.
+Gracias por tu respuesta
+¿Tu organización lleva este proceso iterativo con sus RPAs?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Realizar ajustes y actualizaciones según sea necesario.
+Esto puede implicar pruebas en entornos de desarrollo y entornos simulados de producción.
+Esto puede incluir la identificación de nuevas tareas para la automatización o la mejora de la eficiencia del flujo de trabajo existente.
+Esto incluye la secuencia de acciones, decisiones lógicas y cualquier interacción necesaria con sistemas externos.
+Esto implica una revisión detallada de las acciones realizadas por los usuarios.
+Esto generalmente implica la configuración de scripts o procesos de grabación, dependiendo de la plataforma RPA utilizada.
+Estos pueden incluir procesos de entrada de datos, reconciliación de información, extracción de datos de formularios, etc.
+Esto puede incluir la integración con sistemas existentes y la programación para ejecutar tareas en horarios específicos.
+Esto puede incluir la generación de alertas o la intervención manual cuando sea necesario.

@@ -1,0 +1,17 @@
+# L3 · Aplicaciones de RPA Cognitivas en la industria
+Genially 655d2e042111940011fd78e1 → 655d2dff388c630011a0bd88
+
+Aplicaciones de RPA
+Cognitivas en la industria
+Las tecnologías de automatización de procesos robóticos cognitivos (RPAs Cognitivas) han cambiado la forma en que las organizaciones gestionan sus operaciones en diversas industrias.
+CODIGO NO BORRAR
+Banca y Finanzas
+Las RPAs cognitivas se aplican en la detección de fraude en tiempo real, la automatización de la toma de decisiones de inversión y la gestión de activos financieros.
+En la atención médica, las RPAs cognitivas pueden analizar registros médicos no estructurados, como informes de imágenes médicas o historiales clínicos. También se utilizan en la detección temprana de enfermedades y en la telemedicina.
+Manufactura
+En la industria manufacturera, las RPAs cognitivas pueden mejorar el control de calidad al analizar imágenes y sensores, predecir tiempos de inactividad en la producción y optimizar la cadena de suministro.
+Retail y Comercio Electrónico
+En el comercio minorista, las RPAs cognitivas pueden proporcionar asistencia virtual personalizada a los clientes, analizar el comportamiento de compra y predecir tendencias de demanda.
+Recursos Humanos
+Las RPAs cognitivas pueden automatizar respuestas a consultas de clientes, ofrecer asistencia en línea con chatbots inteligentes y mejorar la satisfacción del cliente.
+Continúa con el estudio de la lección.

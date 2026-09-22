@@ -1,0 +1,12 @@
+# L0 · Historia
+Genially 656a14dd2c16090014c25b07 → 656a14e02c16090014c25ca2
+
+La Transformación Digital encuentra a las Tecnologías Emergentes
+Sumérgete en la historia de TechSolutions y descubre los aprendizajes que este curso tiene para ti. ¡Comienza tu viaje!
+CODIGO NO BORRAR
+TechSolutions acaba de emprender un emocionante viaje hacia la transformación digital. En una reunión directiva, le pidieron a la líder de TI, Paulina, mejorar la segmentación del mercado usando tecnologías emergentes.
+Para ello, era necesario una comprensión profunda de los clientes corporativos de TechSolutions con información a detalle de sus necesidades, preferencias y comportamientos respecto a soluciones de TI y software. Paulina consideró que las tecnologías emergentes podían emplearse en la digitalización basada en datos para la segmentación de clientes.
+Paulina generó una estrategia de digitalización que contemplara nuevas herramientas para recopilar, analizar y utilizar datos de manera más efectiva. Tanto la Inteligencia Artificial (IA) como el aprendizaje automático (Machine Learning) han ayudado a prever las necesidades de los clientes y anticipar las tendencias del mercado.
+Conclusión
+Con la segmentación automatizada de clientes, TechSolutions pudo ofrecer soluciones personalizadas, brindar un servicio centrado en el usuario y aumentar la satisfacción de sus clientes. Esto muestra cómo la visión estratégica y la implementación adecuada de tecnologías emergentes pueden impulsar el crecimiento empresarial a partir de la digitalización basada en datos.
+Continúa con el siguiente recurso y ayuda a Paulina a responder el cuestionario.

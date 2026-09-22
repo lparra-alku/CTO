@@ -1,0 +1,96 @@
+
+--- p1 ---
+Ideas para llevar
+Recuerda que:
+Las nuevas generaciones de clientes 
+buscan esfuerzos físicos y digitales 
+enfocados hacia la personalización y la 
+respuesta inmediata y en tiempo real.
+Se estima que las preferencias por lo 
+digital aumenten al doble, pues dos 
+tercios de los consumidores finales son 
+Millennials y Generación Z. 
+La disrupción de la industria financiera 
+ha traído facilidades como prescindir 
+de la moneda física, acumular capital, 
+prevenir riesgos al tramitar préstamos y 
+la democratización de los fondos.
+La Industria 5.0 busca impulsar la 
+relación entre tecnología, personas y 
+procesos. Sus características principales 
+son: sostenibilidad, centrado en la 
+persona y resiliencia.
+Se espera que el e-commerce 
+transfronterizo mundial alcance un 
+ingreso anual de entre 250 y 350 billones 
+de dólares en 2025 (Van Heel et al., 
+2014), por lo que se necesitan nuevos 
+modelos de negocios para servicios de 
+transporte y logística, los cuales deben 
+ser impulsados por el uso de Analítica de 
+datos e Inteligencia Artificial.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Ejemplos de transformación digital en diferentes sectores industriales
+
+--- p2 ---
+Bibliografía
+Advanced Factories. (24 de noviembre de 2022). ¿Qué es la industria 5.0 y cuáles son sus 3 
+principales características? Advanced Factories. Recuperado el 26 de septiembre de 2023, de 
+https://www.advancedfactories.com/industria-5-0-caracteristicas/ 
+Benković, S., Labus, A., Milosavljević, M. (Eds.). (2023). Digital Transformation of the Financial 
+Industry: Approaches and Applications. Springer.
+Hamdan, A., Harraf, A., Buallay, A., Arora, P. y Alsabatin, H. (Eds.). (2023). From Industry 4.0 to 
+Industry 5.0: Mapping the Transitions. Springer.
+Heinemann, G. (2022). Intelligent Retail: The Future of Stationary Retail. Springer.
+Leonard, J. (10 de marzo de 2015). The First Step on the Road to Becoming a Multi-Channel 
+DMarketing Expert. Business 2 Community. https://www.business2community.com/
+marketing/first-step-road-becoming-multi-channel-marketing-expert-01177942 
+Martin, C. (2018). Digital Transformation 3.0: The New Business-To-Consumer Connections of the 
+Internet of Things. CreateSpace Independent Publishing Platform.
+Mobey Forum. (16 de junio de 2016). Predictive Analytics in the Financial industry – The art of what, 
+how and why. [White Paper]. https://mobeyforum.org/predictive-analytics-financial-industry-
+art/ 
+Magestore. (s.f.). Chapter 1: Prepare your omnichannel approach on Magento. https://www.
+magestore.com/magento-omnichannel-guide/prepare-omnichannel-retail-magento/ 
+Sandhu, K. (Ed.). (2021). Emerging Challenges, Solutions, and Best Practices for Digital Enterprise 
+Transformation. Business Science Reference.
+
+--- p3 ---
+Bibliografía
+Sprinklr. (s.f.). The Survival Guide to Customer Experience. [Archivo PDF]. Client Experience Group. 
+https://clienteg.com/survival-guide-customer-experience/
+Statista Research Department. (16 de agosto de 2023). Revenue of e-commerce worldwide in 2022, 
+by country. Statista. https://www.statista.com/forecasts/1283912/global-revenue-of-the-e-
+commerce-market-country
+Retail Economics. (01 de marzo de 2023). 40 Future Retail Trends to 2030 - Retail Economics. 
+[Archivo de Video]. YouTube. https://www.youtube.com/watch?v=5gPY2ApHHVU 
+Van Heel, B. Lukic, V. Leeuwis, E. (18 de septiembre de 2014). Cross-Border E-Commerce Makes the 
+World Flatter. Boston Consulting Group. https://www.bcg.com/publications/2014/post-parcel-
+sales-channel-transformation-cross-border-e-commerce 
+Vailshery, L. S. (27 de julio de 2023). Number of Internet of Things (IoT) connected devices 
+worldwide from 2019 to 2023, with forecasts from 2022 to 2030. Statista. Recuperado el 27 de 
+septiembre de 2023, de https://www.statista.com/statistics/1183457/iot-connected-devices-
+worldwide/ 
+Vision IAS. (25 de marzo de 2023). Neobanks: The future of banking. [Archivo de Video]. YouTube. 
+https://www.youtube.com/watch?v=be4cF6QW_2g 
+Urbach, N., Röglinger, M., Kautz, K., Alias, R. A., Saunders, C. y Wiener, M. (Eds.). (2021). 
+Digitalization Cases Vol. 2. Mastering Digital Transformation for Global Business. Springer.
+Urbach, N. y Ahlemann, F. (2018). It Management in the Digital Age: A Roadmap for the It 
+Department of the Future.  Springer.
+Winkelhake, U. (2021). The Digital Transformation of the Automotive Industry: Catalysts, Roadmap, 
+Practice. (2da edición). Springer.
+
+--- p4 ---
+Bibliografía
+World Economic Forum. (Enero de 2016). Digital Transformation of Industries: Logistics Industry. 
+[White Paper]. https://report.weforum.org/digital-transformation/wp-content/blogs.dir/94/
+mp/files/pages/files/dti-logistics-industry-white-paper.pdf 
+World Economic Forum. (10 de enero de 2019). Fourth Industrial Revolution. Beacons of Technology 
+and Innovation in Manufacturing. [White Paper]. https://www3.weforum.org/docs/WEF_4IR_
+Beacons_of_Technology_and_Innovation_in_Manufacturing_report_2019.pdf 
+World Economic Forum. (22 de marzo de 2019). World Economic Forum | Centre for the Fourth 
+Industrial Revolution Network. [Archivo de Video]. YouTube. https://www.youtube.com/
+watch?v=d0DMFadnioo 
+World Economic Forum. (20 de junio de 2023). The Future of Manufacturing | Ep 2 | Jay Lee: 
+Driving Change Through Innovation. [Archivo de Video]. YouTube. https://www.youtube.com/
+watch?v=rXDq2XOX1eg 

@@ -1,0 +1,168 @@
+
+--- p1 ---
+El gran desafío del sector financiero siempre ha sido 
+alcanzar la inmediatez y la personalización para 
+satisfacer las necesidades de los clientes. Gracias a 
+la ayuda de lo digital, lo ha logrado.
+Financiero
+Sector:
+
+--- p2 ---
+El sector financiero también se ve impactado por lo 
+digital. Antes, los bancos dependían de las sucursales, 
+pero ahí se encontraba su desafío principal: ¿cómo lograr 
+inmediatez? Los clientes necesitaban respuestas 
+instantáneas y los bancos no podían dárselas, así que 
+cambiaron su enfoque y pusieron al cliente en el centro, 
+lo que los llevó a construir la Banca 2.0.  
+La Banca 2.0 comienza a utilizar la tecnología y pone 
+plataformas en línea a disposición del cliente, quien 
+puede acceder a su cuenta para realizar movimientos y consultas sin 
+necesidad de acudir a una sucursal física. Esto le permite a los bancos 
+brindar un servicio más ágil, personalizado y cómodo y, de esta manera, 
+mejorar la experiencia de cliente. 
+Posteriormente, llega la Banca 3.0, la cual ofrece una experiencia mucho 
+más vanguardista, pues integra la IA, aprendizaje automático y 
+automatización avanzada para mejorar los procesos, apoyar en la toma de 
+decisiones y crear soluciones hiperpersonalizadas para los clientes. 
+Y, actualmente, nos encontramos frente a la Banca abierta, que es un 
+enfoque que promueve la mejora de las ofertas financieras, posibilitando 
+compartir productos, servicios y datos de clientes a instituciones bancarias 
+autorizadas. Mediante esta apertura, el cliente tiene más opciones entre las 
+cuales elegir la que más le convenga para sus servicios financieros, 
+aumentando la personalización y eficiencia individual para cada cliente.
+Además, los Neobanks están adquiriendo mucha fuerza. Un Neobank es 
+una fintech que ofrece servicios bancarios tradicionales, pero operando 
+exclusivamente en línea, sin necesidad ni intenciones de tener 
+sucursales físicas. Debido a su naturaleza digital, trabajan con tecnologías 
+innovadoras que les permiten ofrecer mejores soluciones, como 
+automatizaciones y Blockchain. Normalmente, operan colaborando con 
+bancos autorizados para ofrecer todos los servicios como un banco 
+tradicional. Gracias a que no operan físicamente, pueden reducir sus 
+costos en tarifas, lo que se traduce como beneficio para el cliente 
+(Vision IAS, 2023).
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+La industria financiera pasó por un nivel de disrupción mayor que el de 
+muchas otras industrias y lo digital introduce nuevas posibilidades, tanto 
+para las bancas como para los clientes. Esto ha traído facilidades para 
+pagar con el celular olvidando la moneda física, acumular capital, obtener 
+préstamos previniendo riesgos con IA, participar en la democratización de 
+los fondos, entre más opciones. Los sistemas se modernizaron y 
+aprovechan distintos enfoques de trabajo digitales.
+Sin embargo, también existen retos en la banca digital. La tendencia en el 
+mercado en general es tener acceso a aplicaciones fáciles, inteligentes y 
+alcanzables por cualquier canal. En el segundo 0 del inicio de una 
+transacción, el cliente está interesado; si la página o la aplicación tarda 
+alrededor de 8 segundos en cargar, ya está fastidiado; si en 18 segundos 
+sigue sin cargar, ya se siente molesto; y después de 30 segundos, el 80 % de 
+los clientes abandonarán la página e intentarán por otro lado. Es decir, los 
+clientes no solo esperan realizar sus procesos, sino que toda la 
+interfaz que interviene para ello tiene que ser individualizada y 
+personalizada; hay una expectativa instantánea que tiene que 
+concluirse, de lo contrario, el cliente prefiere marcharse. 
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Vista general del 
+cliente
+Retención
+Servicio
+Contacto
+Desencadenante 
+de acción en 
+tiempo real
+La siguiente 
+acción 
+recomendada
+Un cliente con una 
+cuenta de ahorros tiene 
+una posibilidad más 
+alta de abandono.
+El cliente aprecia el 
+servicio rápido y 
+directo, por lo que usa 
+la función de chat 
+dentro de la app varias 
+veces.
+De esta manera, la banca digital brinda una solución inmediata y 
+personalizada, generando un sentimiento de satisfacción y confianza en el 
+cliente. 
+Un cliente que ha 
+tenido una cuenta con 
+balance positivo 
+durante uno o dos 
+años.
+El cliente lee las 
+condiciones de su 
+cuenta de ahorros en la 
+app.
+El cliente pasa más de 
+dos minutos dentro de 
+diferentes secciones 
+de la app.
+El balance de la cuenta 
+del cliente disminuye 
+considerablemente por 
+primera vez en todo 
+ese tiempo.
+A través de la app, el 
+banco ofrece una 
+promoción especial 
+que incluye un cálculo 
+de las posibles 
+ganancias.
+Una opción de chat 
+directo aparece en su 
+pantalla: “¿Te puedo 
+ayudar?”
+El banco le notifica al 
+cliente sobre un 
+posible balance 
+negativo y le explica las 
+consecuencias.
+Las ganancias 
+convencen al cliente y 
+transfiere sus fondos a 
+la nueva cuenta de 
+ahorro.
+El cliente tiene una 
+experiencia positiva 
+gracias a la atención 
+proactiva a través de 
+su canal preferido.
+El cliente aprecia el 
+servicio y transfiere 
+dinero adicional para 
+evitar el balance 
+negativo.
+Efecto deseado
+Para que los bancos logren cumplir esas expectativas, 
+necesitan más interfaces y apoyarse del uso de la IA para 
+predecir cómo retener, servir y contactar con el cliente. El 
+Mobey Forum (2016) ejemplifica cómo puede funcionar 
+el análisis predictivo para encontrar las mejores acciones 
+que aseguren una retención, un servicio y un contacto a 
+clientes exitoso.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Reflexiones finales
+¿Alguna vez has tenido una experiencia con un 
+banco digital, ya sea desde lo profesional o lo 
+personal?, ¿cómo fue?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

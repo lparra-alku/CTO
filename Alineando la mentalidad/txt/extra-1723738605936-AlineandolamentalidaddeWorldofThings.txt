@@ -1,0 +1,558 @@
+
+--- p1 ---
+Alineando la 
+mentalidad de 
+World of Things 
+Apliquemos lo aprendido 
+
+--- p2 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+2
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+En este manual de ejercicios usarás lo aprendido sobre la 
+mentalidad hacia la transformación digital para resolver una serie 
+de misiones que pondrán a prueba tus conocimientos y habilidades 
+adquiridas. 
+Responde cada uno de los ejercicios en este archivo interactivo, 
+sigue las instrucciones de cada uno de ellos. 
+Una vez terminados tus ejercicios, ve al final del manual para revisar 
+las respuestas correctas y compáralas con las tuyas. Puedes regresar 
+a los ejercicios para aprovechar la retroalimentación.
+
+--- p3 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+3
+¿Recuerdas el caso de World of Things? La empresa dedicada al 
+comercio de productos y servicios electrónicos, donde Jorge, el 
+CEO, quería implementar una transformación digital. Se dio cuenta 
+de que lo primero que tenía que hacer era alinear la mentalidad 
+de la organización y caminar hacia la digitalización de una manera 
+adecuada.
+Pero para conseguir que la mentalidad de todas las personas 
+involucradas en World of Things esté alineada hacia la misma meta, 
+tiene que hacerles saber lo importante que es la transformación 
+digital para mantenerse vigentes como empresa y, además, brindar 
+experiencias únicas, tanto para los colaboradores internos, como 
+ellos, como para los colaboradores externos y los clientes. 
+Para lograrlo, Jorge elaboró una capacitación que se dividiría 
+en dos partes: primero con los líderes de cada equipo quienes, a 
+su vez, hablarían con los colaboradores a su cargo, y la segunda 
+parte consistiría en una capacitación complementaria de todos los 
+miembros de la empresa. 
+Introducción
+
+--- p4 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+4
+Instrucciones: Lee con atención las siguientes frases y selecciona las que describan mejor cómo te percibes. 
+Por eso, Jorge necesita de tu apoyo como líder en transformación digital, así que lo acompañarás durante 4 misiones, donde realizarás 2 
+ejercicios en cada una, pues es momento de que apliques tus conocimientos sobre la Alineación de mentalidad de transformación digital en una 
+organización para ayudar a World of Things. Pero antes, reflexiona sobre los aprendizajes que has adquirido hasta ahora.
+Autoevaluación
+Conozco las estrategias y tecnologías digitales que tienen un alto impacto para la transformación digital en las 
+organizaciones.
+Reconozco el impacto de la aplicación de lo digital en diferentes sectores, como de Comercio, de Consumo, Financiero, 
+Industrial y de Servicios.
+Entiendo lo que es vivir en un “mundo conectado” y lo que la gente espera de sus experiencias con las empresas.
+Identifico las “deudas digitales” de algunas empresas, tanto con sus colaboradores como con sus clientes.
+Conozco las características de los entornos VUCA y BANI, así como las maneras de enfrentarlos con mentalidad y 
+acciones VECA y REAC.
+Diferencio la Transformación A, la Transformación B y el Enlace de Capacidades C en los esfuerzos de las 
+organizaciones.
+
+--- p5 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+5
+Si marcaste todos los elementos, ¡felicidades! Estás listo para poner en práctica tus conocimientos. Si dejaste elementos sin marcar, te 
+invitamos a revisar de nuevo los contenidos del módulo de conocimiento.
+
+--- p6 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+6
+Misión 1: Alineando la mentalidad
+Propósito: Demostrar las bases de la transformación digital, como la 
+mentalidad de la C-Suite, los responsables de la implementación y las 
+tecnologías clave para su éxito.
+En la primera parte de la capacitación, Jorge convocó en una 
+reunión a los miembros de la C-Suite de World of Things y 
+quiso partir de las concepciones que tenían sobre lo que era la 
+transformación digital y con lo que contaban actualmente en la 
+empresa, con el objetivo de estar en sintonía con las dudas y los 
+malos entendidos.
+
+--- p7 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+7
+En un primer ejercicio, Jorge pidió a toda la C-Suite (CIO, CFO, 
+CTO y él mismo como CEO) que escribieran en un papelito lo que 
+pensaban de la implementación de transformación digital. Ayúdalo 
+a relacionar el comentario con cada puesto, anotando el puesto 
+correspondiente en la columna derecha.
+Misión 1: Ejercicio 1
+Banco de respuestas
+A)	
+CFO
+B)	
+CIO
+C)	
+CTO
+D)	
+CEO
+
+--- p8 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+8
+Revisar respuestas >
+“Sé que necesitamos procesos de consolidación, escenarios predictivos y un costeo ABC, 
+pero también me pregunto si es posible que mi rol sea reemplazado por un robot.”
+“Podemos comenzar con estrategias para integrar los recursos tecnológicos con los que ya 
+contamos, pero realizar una renovación en todas las plantas al mismo tiempo no es posible; 
+necesitamos tiempo y dinero.”
+“Para comenzar, es necesario liderar un equipo que alinee su mentalidad hacia el mismo 
+objetivo, donde todos tengan en claro qué es la transformación digital y por qué es importante 
+para nosotros como empresa.”
+“Primero necesito conocer el presupuesto para implementar las tecnologías y así planear, 
+gestionar estrategias, proveedores, equipos, proyectos y riesgos posibles. Después, evaluaría 
+las métricas para conocer los resultados.”
+Yo pienso que... 
+Quién lo piensa: 
+
+--- p9 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+9
+Ahora, Jorge pidió que mencionaran cuáles de las tecnologías 
+que tenían en World of Things consideraban que eran parte de 
+las tecnologías clave para el impacto digital en las organizaciones. 
+De las siguientes cinco, ayuda a Jorge a marcar en la columna 
+derecha las que sí son tecnologías clave según el World Economic 
+Forum (2018).
+Misión 1: Ejercicio 2
+Inteligencia Artificial
+Análisis de Big Data y la nube
+Agendas electrónicas
+Revisar respuestas >
+Redes sociales y plataformas
+Servicio de telecomunicaciones
+¿Cuáles son tecnologías clave? 
+
+--- p10 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+10
+Gracias a tu ayuda, Jorge identificó en dónde radican las dudas y 
+los malos entendidos sobre la transformación digital en el equipo. A 
+partir de esto puede trabajar para alinear la mentalidad de los demás 
+hacia la misma meta y asegurarse de que la implementación vaya a 
+ser exitosa.
+
+--- p11 ---
+Alineando la mentalidad de World of Things
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+¡Vas en camino! Terminaste tu 
+primera misión enfocada a la 
+mentalidad inicial de un equipo que 
+implementará la transformación 
+digital, aún tienes tres más por 
+resolver. 
+Continúa con el material para 
+completar cada una de ellas. 
+
+--- p12 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+12
+Misión 2: Necesidades digitales
+Propósito: Mostrar las necesidades del mercado actual y descubrir lo que una 
+empresa necesita para satisfacer las necesidades, tanto de clientes como de 
+colaboradores.
+Una vez que Jorge ha aclarado las dudas de los demás miembros de 
+la C-Suite de World of Things, quiere ahondar en lo que ellos saben 
+sobre el cliente actual y cómo se maneja el mercado. Tiene como 
+propósito aclarar el panorama junto con sus colegas, para que los 
+próximos esfuerzos vayan dirigidos a un mercado moderno, que es el 
+que, finalmente, adquirirá sus productos o servicios.
+
+--- p13 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+13
+Jorge le pidió a sus colegas que dijeran cómo interactúa el mercado actual con los productos o servicios que se les ofrecía. Al final, rescató 
+5 enunciados que consideró importantes, pero 2 de ellos son falsos. Ayúdalo a seleccionar los enunciados falsos marcándolos en la 
+columna derecha.
+Misión 2: Ejercicio 1
+La decisión de compra está más influenciada por la información del producto y el marketing que por las opiniones 
+y reseñas de los usuarios. 
+El mercado actual busca experiencias personalizadas, inmediatas y en tiempo real.
+Los clientes pagarán más si eso incluye una mejor experiencia de compra.
+Los clientes prefieren hacer compras en línea, por lo que las tiendas físicas van a desaparecer.
+El 80 % de los clientes abandonarán una página web o una aplicación móvil si después de 30 
+segundos no obtienen respuesta de carga.
+Revisar respuestas >
+¿Cuáles son enunciados falsos sobre el mercado actual?
+
+--- p14 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+14
+Como siguiente actividad, Jorge les habló de las deudas digitales en el contexto de transformación digital. Para dejar más en claro en lo que 
+consistían, les pidió que dijeran cuál era una de las deudas digitales en World of Things. De las siguientes opciones que dieron, ayuda a Jorge 
+a seleccionar la que sí es un ejemplo de deuda digital.
+Misión 2: Ejercicio 2
+Hace un par de años, World of Things pagaba a sus empleados poco menos del promedio salarial en su rama. 
+Aunque eso ya se solucionó y ahora los sueldos están por encima del promedio, ese periodo permanece como una 
+deuda digital.
+El porcentaje de la empresa que le pertenece a los accionistas, a quienes tienen que devolverles su inversión con 
+rendimientos fructíferos para que decidan volver a invertir en World of Things.
+La cantidad de procesos internos repetitivos y tediosos que tienen que realizarse de manera manual, para los cuales 
+no se han implementado tecnologías automatizadas, aunque ya existen y son útiles.
+Revisar respuestas >
+¿Cuál es una deuda digital?
+
+--- p15 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+15
+Ahora, Jorge es capaz de saber desde cuál enfoque puede abordar la 
+digitalización del mercado actual y de los activos de la empresa, para 
+que todos los colaboradores sean conscientes de lo que el cliente 
+moderno y digital necesita. De esta manera, se va acercando hacia la 
+meta de alinear la mentalidad de su equipo hacia la transformación 
+digital.
+
+--- p16 ---
+Alineando la mentalidad de World of Things
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+¡Muy bien! Terminaste tu segunda 
+misión enfocada al mercado digital, 
+aún tienes dos más por resolver. 
+Continúa con el material para 
+completar cada una de ellas. 
+
+--- p17 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+17
+Misión 3: Entornos complejos
+Propósito: Reconocer cuáles son las características de los entornos 
+complejos y de qué manera se puede hacerles frente.
+Una vez que los colegas de Jorge han entendido claramente qué es 
+la transformación digital y qué es lo que espera el mercado actual 
+de una empresa como World of Things, Jorge puede proceder a 
+hablarles del tipo de entorno en el que operan y qué estrategias 
+tienen que desarrollar para hacer una implementación exitosa. 
+
+--- p18 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+18
+V
+U
+C
+A
+Revisar respuestas >
+Jorge sabe la importancia de conocer el entorno para estar preparados frente a cualquier situación que pueda presentarse. Por eso, 
+recapituló con sus colegas lo que es un entorno VUCA. Ayúdalo a explicarlo escribiendo en el espacio en blanco las características 
+correspondientes de acuerdo a cada sigla:
+Misión 3: Ejercicio 1
+¿Cuál es la característica que señala? 
+
+--- p19 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+19
+En esta ocasión, les pidió que relacionaran las características de 
+un ambiente BANI con las acciones necesarias para enfrentarlo. 
+Ayúdalo a completar el ejercicio de prueba escribiendo en el 
+espacio en blanco la acción correspondiente de los ambientes 
+BANI. Una vez realizado, escribe en el último espacio el acróstico 
+según las siglas de cada acción.
+Misión 3: Ejercicio 2
+Brittle
+Anxious
+Non-linear
+Incomprehensible
+Característica BANI
+Acción para hacerle frente
+Revisar respuestas >
+Banco de respuestas:
+Adaptabilidad
+Colaboración
+Resiliencia
+Empatía
+Acróstico resultante:
+
+--- p20 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+20
+Gracias a tu ayuda, Jorge y su equipo en World of Things están 
+cada vez más cerca de tener una mentalidad alineada hacia la 
+transformación digital. Ahora son capaces de identificar los entornos 
+en los que se desenvuelven y cómo responder a ellos para estar 
+preparados incluso para las situaciones imprevistas o repentinas. 
+
+--- p21 ---
+Alineando la mentalidad de World of Things
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+ ¡Sigue así! Terminaste tu tercera 
+misión enfocada en los entornos 
+complejos. 
+Continúa con el material para 
+completarla.
+
+--- p22 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+22
+Misión 4: Transformación e innovación
+Propósito: Completar las amenazas y beneficios de los portafolios Explorar y 
+Explotar en una empresa y clasificar las características de la Transformación 
+A, Transformación B y el Enlace de Capacidades C en una empresa.
+Jorge y todo su equipo sabe que World of Things ha sido una 
+empresa que ha escalado hacia el éxito desde el principio. Su modelo 
+de negocio fue innovador desde que abrieron la empresa y se han 
+mantenido liderando ventas en su sector. Sin embargo, Jorge sabe 
+que lo que sigue es seguir innovando. Por ello, hablará con su equipo 
+acerca de la Transformación A, la Transformación B y el Enlace de 
+Capacidades C.
+
+--- p23 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+23
+En un portafolio de Explorar, entre
+riesgo de inversión, habrá                                                    rendimiento.
+Actualmente, World of Things dedica el 1 % de su capital al portafolio de Explorar y el 99 % al portafolio de Explotar. Quiere aumentar ese 
+porcentaje, pero sabe que debe plantearle a la C-Suite la proporción de riesgo e inversión. Ayúdalo a hacer la relación correcta entre los 
+dos portafolios escribiendo en el espacio en blanco lo que corresponde.
+Misión 4: Ejercicio 1
+Banco de respuestas:
+Mayor
+Menor
+Mayor
+Menor
+En un portafolio de Explotar, entre
+riesgo de inversión, habrá                                                    rendimiento.
+Revisar respuestas >
+
+--- p24 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+24
+World of Things se dedica a la manufacturación y venta de productos electrónicos y servicios de software a través de tiendas físicas y online. 
+Jorge les pide a sus compañeros que brinden ideas para una Transformación B que mantenga a la empresa como líder en su rama. Ayúdalo a 
+seleccionar la opción más adecuada en la columna izquierda.
+Misión 4: Ejercicio 2
+Ampliar la gama de productos y servicios, haciendo convenios con más marcas para ser intermediario en la venta.
+Extender su oferta física a más países, pues su presencia física se ha limitado a la República Mexicana.
+Ofrecer servicios de mantenimiento, reparación y asesoramiento de software y hardware.
+Cerrar las tiendas físicas y concentrarse en ventas online y en la creación de contenido para redes sociales que 
+atraigan más público.
+Revisar respuestas >
+¿Cuál es la mejor idea para la Transformación B en World of Things? 
+
+--- p25 ---
+Alineando la mentalidad de World of Things
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+ Con esto, Jorge ha abierto la 
+conversación hacia la importancia de 
+las transformaciones en la empresa 
+y de lo indispensable que es seguir 
+innovando, incluso si se encuentran 
+entre los líderes empresariales de su 
+industria. 
+¡Lo lograste! Terminaste todas las 
+misiones.
+
+--- p26 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+26
+Cierre
+Gracias a tu ayuda, Jorge logró identificar los puntos débiles del equipo y aclarar ciertas dudas y malentendidos que podrían haberse 
+generado. Además, como equipo, lograron señalar la importancia de mantenerse en constante observación y cambio, pues el mundo se 
+transforma rápidamente, así como las tendencias y lo que los clientes buscan.
+A partir de todo lo que ha establecido Jorge en esta capacitación con su equipo, sabe que está listo para hablar de la importancia de la 
+transformación para completar una digitalización exitosa. Después de esta primera parte, está listo para programar una reunión con todos los 
+líderes de la empresa e involucrarlos a todos con la mentalidad puesta en un objetivo principal: la transformación digital.
+A lo largo de las misiones, comprendiste que:
+● 	Tanto la C-Suite como los roles técnicos de la empresa están involucrados en la transformación digital y aclarar las dudas, así como 
+alinear la mentalidad, es indispensable para asegurar una implementación exitosa en la empresa.
+●  Conocer al cliente moderno es indispensable para saber cómo dirigirse a él y ser capaz de satisfacer sus necesidades, pues la 
+digitalización ha transformado la manera en la que interactúan la empresa y el consumidor.
+●	 El mundo actual es impredecible y está en constante cambio, por lo que una empresa debe saber cómo actuar y aunque no tendrá un 
+plan preestablecido, sí tendrá las herramientas para enfrentar los sucesos inesperados.
+●	 Una empresa, aunque ya sea exitosa y líder en su rama, necesita siempre explorar distintas alternativas para ofrecer nuevos 
+servicios y productos para sus clientes, pues conforme el mundo se globaliza nacen nuevas necesidades a cubrir.
+A continuación, podrás cotejar las respuestas correctas con las que marcaste en tus ejercicios. Al finalizar la retroalimentación, realizarás un 
+reto como actividad evaluable en la que tendrás que aplicar lo aprendido en este curso y, posteriormente, deberás entregar en plataforma la 
+evidencia solicitada.
+
+--- p27 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+27
+Misión 1 / Ejercicio 1
+Retroalimentación: Cada chief de la C-Suite verá y evaluará el impacto de la transformación digital desde el rubro que le compete, pero 
+recuerda que es el CEO quien liderará al equipo para alinearse a la mentalidad de transformación digital y lograr los objetivos, basándose en la 
+evaluación y las decisiones del CIO. 
+< Regresar a la misión
+Retroalimentación
+“Sé que necesitamos procesos de consolidación, escenarios predictivos y un costeo ABC, 
+pero también me pregunto si es posible que mi rol sea reemplazado por un robot.”
+“Podemos comenzar con estrategias para integrar los recursos tecnológicos con los que ya 
+contamos, pero realizar una renovación en todas las plantas al mismo tiempo no es posible; 
+necesitamos tiempo y dinero.”
+“Para comenzar, es necesario liderar un equipo que alinee su mentalidad hacia el mismo 
+objetivo, donde todos tengan en claro qué es la transformación digital y por qué es importante 
+para nosotros como empresa.”
+“Primero necesito conocer el presupuesto para implementar las tecnologías y así planear, 
+gestionar estrategias, proveedores, equipos, proyectos y riesgos posibles. Después, evaluaría 
+las métricas para conocer los resultados.”
+A) CFO 
+C) CTO 
+D) CEO 
+B) CIO 
+Respuesta correcta:  
+Yo pienso que... 
+
+--- p28 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+28
+Misión 1 / Ejercicio 2
+Retroalimentación: El WEF (2018) señala 7 tecnologías clave 
+para el impacto digital en las organizaciones, las cuales son la IA, 
+IoT y dispositivos conectados, el análisis de Big Data y la nube, 
+robots y drones, las redes sociales y plataformas, fabricación bajo 
+demanda e impresión 3D, y los vehículos autónomos. 
+< Regresar a la misión
+Inteligencia Artificial
+Análisis de Big Data y la nube
+Agendas electrónicas
+Redes sociales y plataformas
+Servicio de telecomunicaciones
+¿Cuáles son tecnologías clave? 
+
+--- p29 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+29
+La decisión de compra está más influenciada por la información del producto y el marketing que por las opiniones 
+y reseñas de los usuarios. 
+El mercado actual busca experiencias personalizadas, inmediatas y en tiempo real.
+Los clientes pagarán más si eso incluye una mejor experiencia de compra.
+Los clientes prefieren hacer compras en línea, por lo que las tiendas físicas van a desaparecer.
+El 80 % de los clientes abandonarán una página web o una aplicación móvil si después de 30 
+segundos no obtienen respuesta de carga.
+Misión 2 / Ejercicio 1
+Retroalimentación: Lo digital no es solo una tendencia, sino que se ha vuelto una realidad que ha cambiado la manera en la que el mercado 
+interactúa con la marca. La personalización y la digitalización centradas en el cliente han impactado el comportamiento del consumidor, 
+cambiando qué compran, cómo lo hacen y qué experiencia esperan durante el proceso. 
+< Regresar a la misión
+¿Cuáles son enunciados falsos sobre el mercado actual?
+
+--- p30 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+30
+Misión 2 / Ejercicio 2
+< Regresar a la misión
+Hace un par de años, World of Things pagaba a sus empleados poco menos del promedio salarial en su rama. 
+Aunque eso ya se solucionó y ahora los sueldos están por encima del promedio, ese periodo permanece como una 
+deuda digital.
+El porcentaje de la empresa que le pertenece a los accionistas, a quienes tienen que devolverles su inversión con 
+rendimientos fructíferos para que decidan volver a invertir en World of Things.
+La cantidad de procesos internos repetitivos y tediosos que tienen que realizarse de manera manual, para los cuales 
+no se han implementado tecnologías automatizadas, aunque ya existen y son útiles.
+Retroalimentación: La deuda digital se refiere a aquellas deficiencias en una empresa que evitan que exista una conexión digital entre 
+procesos, personas y productos, lo que obstaculiza la plena implementación, integración y aprovechamiento de las tecnologías.  
+¿Cuál es una deuda digital?
+
+--- p31 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+31
+Misión 3 / Ejercicio 1
+< Regresar a la misión
+Retroalimentación: Los dilemas estratégicos modernos a los 
+que se enfrentan las organizaciones son complejos y desordenados, 
+amenazantes, enigmáticos y confusos, hay dos o más opciones para 
+entenderlos y, en cierta medida, se vuelven irresolubles. Por eso, es 
+necesario saber identificar las características de un entorno VUCA.  
+V
+U
+C
+A
+Volatility 
+Misión 3 / Ejercicio 2
+Uncertainty 
+Complexity 
+Ambiguity 
+Brittle
+Anxious
+Non-linear
+Incomprehensible
+Característica BANI
+RESPUESTAS
+Acción para hacerle frente
+Resiliencia 
+Empatía 
+Adaptabilidad 
+Colaboración  
+Retroalimentación: Actualmente, hacerle frente a un entorno 
+VUCA no es suficiente, sino que las empresas tienen que aprender 
+a lidiar con ambientes BANI. Para lograrlo, pueden responder a 
+cada característica BANI con acciones REAC, es decir, Resiliencia, 
+Adaptabilidad, Colaboración y Empatía. 
+REAC
+< Regresar a la misión
+RESPUESTAS: ¿Cuál es la característica que señala? 
+Acróstico resultante:
+
+--- p32 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+32
+Misión 4 / Ejercicio 1
+Retroalimentación: Recuerda que en un portafolio de 
+Explorar se busca que haya innovación, por eso entre mayor 
+riesgo, habrá menor rendimiento; mientras que en un 
+portafolio de Explotar se busca mantener lo que la empresa ha 
+construido, por lo que entre menor riesgo de inversión, habrá 
+mayor rendimiento. 
+< Regresar a la misión
+En un portafolio de Explorar, entre
+riesgo de inversión, habrá                                                    rendimiento.
+En un portafolio de Explotar, entre
+riesgo de inversión, habrá                                                    rendimiento.
+Mayor
+Menor
+Menor
+Mayor
+
+--- p33 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Alineando la mentalidad de World of Things
+33
+Misión 4 / Ejercicio 2
+< Regresar a la misión
+Ampliar la gama de productos y servicios, haciendo convenios con más marcas para ser intermediario en la venta.
+Extender su oferta física a más países, pues su presencia física se ha limitado a la República Mexicana.
+Ofrecer servicios de mantenimiento, reparación y asesoramiento de software y hardware.
+Cerrar las tiendas físicas y concentrarse en ventas online y en la creación de contenido para redes sociales que 
+atraigan más público.
+Retroalimentación: La Transformación B comienza a partir de las oportunidades adyacentes, en este caso, World of Things se expandirá 
+para resolver problemas de los clientes existentes y atraer clientes nuevos, lo que transforma el modelo operativo y la propuesta de valor para 
+el consumidor, moviéndose transversalmente en el negocio. 
+¿Cuál es la mejor idea para la Transformación B en World of Things? 

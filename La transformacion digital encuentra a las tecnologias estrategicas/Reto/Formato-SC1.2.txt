@@ -1,0 +1,170 @@
+﻿Reto | Hacia la digitalización de mi organización
+
+
+Entregable final del reto
+Documento editable por el participante
+
+
+
+Nombre del participante:
+
+Indicaciones:
+Genera una copia de este documento y edítala con tu nombre de la siguiente manera: tunombre_Reto_CS1.2
+
+Al finalizar el reto, conviértelo en archivo PDF y súbelo como evidencia presionando el botón “Añadir publicación”.
+
+El archivo entregable será evaluado con base en el cumplimiento de los requerimientos y a su contenido.
+
+
+
+
+Instrucciones:
+Para que el camino hacia la transformación digital sea tomado con éxito, es importante que las organizaciones estén seguras de que sus equipos de IT tengan en claro cómo aplicar las nuevas herramientas, tecnologías y metodologías que se necesitarán. Además, estas tecnologías emergentes, indispensables para la transformación digital, se encuentran en constante actualización y cambio, por lo que es posible que los equipos tengan dudas constantes. El papel de un líder en transformación digital es conocer y reconocer las necesidades de los colaboradores, de los clientes y de la misma organización en general. En este reto te acercarás a tu organización, comenzarás desde su estado actual y escalarás hacia un plan que la dirigirá hacia una nueva era digital.
+
+
+PASO 1. Digitalización actual de mi organización
+En primer lugar, es importante que, como organización, se respondan ciertas preguntas con respecto al mercado y a la forma de producción que la empresa ha tenido hasta ahora. Si tú cuentas con esa información, puedes responderlas con tu conocimiento; en caso de que no, puedes apoyarte con aquellos colaboradores que estén más familiarizados con estos datos.
+
+
+¿Cuánto están dispuestos los clientes a pagar para una oferta digital de tu organización?
+
+
+
+
+
+
+¿Cómo podrías crear ofertas rápido sin crear caos?
+
+
+
+
+
+
+¿Quién debe ser responsable de tu oferta digital?, ¿quieres desarrollar las ofertas tú mismo?
+
+
+
+
+
+
+¿La organización ya opera con sistemas y procesos listos para las ofertas digitales?
+
+
+
+
+
+
+
+
+
+
+PASO 2. Hacia la digitalización
+Ahora, ¿tu empresa todavía vive con deudas digitales?, ¿de qué manera han ido caminando hacia la digitalización? Este siguiente paso consiste en demostrar con dos ejemplos el estado actual de digitalización de tu organización, tanto basada en procesos, como basada en datos y basada en sensores. Anótalos a continuación.
+
+
+
+Digitalización basada en procesos
+Digitalización basada en datos
+Digitalización basada en sensores
+Ejemplo 1
+
+
+
+Ejemplo 2
+
+
+
+
+En caso de no contar con ejemplos reales de tu organización, puedes proponer en la siguiente tabla algunas áreas o actividades que pueden digitalizarse. 
+
+
+Digitalización basada en procesos
+Digitalización basada en datos
+Digitalización basada en sensores
+Propuesta 1
+
+
+
+Propuesta 2
+
+
+
+
+
+PASO 3. ¿Qué puedo automatizar?
+Conociendo el giro de tu empresa, el nivel de digitalización que tiene y lo que los clientes están dispuestos a pagar, es momento de que identifiques ciertos procesos de tu empresa, correspondientes a distintos tipos de trabajo, donde crees que puede implementarse una RPA.
+
+
+Tipos de trabajo
+Proceso donde 
+puede implementarse una RPA
+Trabajos rutinarios
+
+Trabajos de alto volumen
+
+Trabajos que no necesitan una persona
+
+Trabajo de entrada manual
+
+Trabajo con constante error humano
+
+
+PASO 4. ¿Es posible automatizar?
+A continuación, llenarás el siguiente template. Consiste en elegir un proceso de tu organización y calificar sus atributos y características para confirmar si se trata de un proceso que puede ser automatizado con un robot. Al finalizar la evaluación, suma las calificaciones para obtener el puntaje total y, de acuerdo al rango en el que se encuentre, definir si es un proceso que puede ser automatizado actualmente o no.
+
+Nombre del proceso
+
+Descripción del proceso
+y por qué es considerado para RPA
+
+Metas para la post-automatización (reducción de errores, ahorro de tiempo, etc.)
+
+
+
+Atributos del proceso
+Parámetros de calificación
+Calificación
+(del 1 al 5)
+¿Está basado principalmente en reglas o requiere excepciones basadas en juicio humano?
+5 describe un proceso que sigue reglas estrictas y 1 describe un proceso que requiere juicio humano.
+
+¿Es manual o repetitivo?
+5 describe un proceso que es altamente repetitivo y 1 describe un proceso que no es repetitivo.
+
+¿Tiene datos estructurados o no estructurados?
+5 describe un proceso donde todos o la mayoría de datos están un formato estructurado dentro de una base de datos que puede ser analizada digitalmente y 1 describe un proceso donde casi todos los datos son no estructurados.
+
+¿Los inputs están digitalizados y son legibles?
+5 describe un proceso donde los inputs están digitalizados y son fácilmente legibles por sistemas de computadora y 1 describe un proceso donde muchos inputs no están digitalizados.
+
+¿Tiene un volumen alto/frecuencia alta?
+5 describe un proceso que tiene volumen/frecuencia alta y 1 describe un proceso que tiene volumen/frecuencia baja.
+
+¿El proceso es maduro y estable o requiere cambios frecuentes?
+5 describe un proceso maduro que ha existido por un tiempo en la organización y no necesita cambio constante y 1 describe un proceso que es reciente o que necesita cambios constantes.
+
+¿Es propenso a errores humanos actualmente?
+5 describe un proceso que es propenso al error humano y 1 describe un proceso que experimenta pocos errores.
+
+¿Las habilidades de los empleados son transferibles?
+5 describe un proceso donde el talento y las habilidades de los empleados que lo operan puede ser fácilmente transferido a otras tareas de la organización y 1 describe un proceso donde esas habilidades de los empleados no pueden ser transferidas a otra tarea.
+
+¿Tiene efectos medibles?
+5 describe un proceso donde los efectos positivos o negativos de la automatización pueden ser fácilmente medibles, en términos de tiempo para completar, tasa de error, etc. y 1 describe un proceso donde los efectos serían difíciles de medir.
+
+Puntaje total
+36 o más: El proceso es un buen candidato para la automatización
+27-35: El proceso puede ser candidato para la automatización
+0-26: El proceso es poco probable a ser candidato actualmente para la automatización.
+
+
+
+PASO 5. Mi Radar de Impacto
+Para finalizar, de acuerdo a la industria a la que tu empresa pertenece, dibuja un Radar de Impacto de Tecnologías Emergentes. Toma en cuenta las tecnologías emergentes útiles para tu organización en un corto plazo (0 a 1 año), en un mediano plazo (1 a 3 años), en un largo plazo (3 a 6 años) y un lejano plazo (6 a 8 años). Por esta ocasión, te enfocarás sólo en el rango de tiempo.
+Para realizar este Radar, descarga de los Archivos Anexos el “Radar de Impacto”. Puedes escribir sobre él de forma física y después escanearlo o editarlo directamente desde alguna aplicación o software en tu computadora. Si lo escaneaste, guárdalo como imagen; si lo editaste desde la computadora, toma una captura de pantalla. En cualquiera de los dos casos, pega la imagen en el siguiente espacio.
+
+
+
+Radar de Impacto de Tecnologías Emergentes en mi industria
+
+

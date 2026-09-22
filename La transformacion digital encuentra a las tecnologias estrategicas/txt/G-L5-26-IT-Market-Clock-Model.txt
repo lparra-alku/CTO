@@ -1,0 +1,16 @@
+# L5 · IT Market Clock Model
+Genially 656640fe0be24100143b31fc → 656641035096700014e9bed2
+
+IT Market Clock Model
+¿Cuándo adoptar una tecnología emergente?
+El IT Market Clock Model es un complemento del Hype Cycle y funciona como una brújula para la adopción de tecnologías emergentes en las empresas.
+CODIGO NO BORRAR
+El IT Market Clock Model de Gartner es una herramienta útil para entender en qué etapa se encuentra la tecnología emergente con respecto a la adopción del mercado. Funciona de la mano con el Hype Cycle, encontrando su correspondencia en las primeras dos fases del IT Market Clock: Ventaja y Elección.
+La representación del IT Market Clock es a modo de reloj, por lo que el sentido será igual que el de las manecillas, pasando por las 4 etapas: Ventaja, Elección, Costo y Reemplazo. Además, cuenta con ejes que van del centro hacia la periferia, lo que representa el grado de mercantilización del producto.
+Empresa pionera
+La empresa elegirá implementar la herramienta en el momento adecuado según su perfil. Por ejemplo, si se trata de una empresa pionera en la innovación tecnológica, decidirá adoptar las tecnologías emergentes de manera temprana, lo que presentará una ventaja y una elección, dependiendo del momento específico de acuerdo al IT Market Clock Model.
+Empresa precavida
+Por otro lado, una empresa que suele ser más precavida o que no toma tantos riesgos, esperará para adoptar las tecnologías en el momento en el que sea más seguro y que esa inversión vaya a representar una reducción de costos para la empresa.
+Empresa extremadamente cautelosa
+Mientras que una empresa extremadamente cautelosa adoptará la tecnología hasta en el momento en que sea obligatorio reemplazar las anteriores. El riesgo que esto representa es quedarse atrás de la competencia, sin alcanzar las tendencias del mercado.
+Continúa con el estudio de la lección.

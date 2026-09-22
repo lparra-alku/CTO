@@ -1,0 +1,758 @@
+
+--- p1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alineando la Mentalidad de 
+Transformación Digital en 
+una Organización  
+Lección 3: Ejemplos de transformación 
+digital en diferentes sectores industriales 
+ 
+Introducción 
+La realidad es que, actualmente, la línea entre lo físico y lo digital se ha 
+vuelto cada vez más borrosa. Las características que podrían diferenciar el 
+mundo en línea y el mundo presencial han evolucionado para construir lo 
+que se conoce como mundo “figital” (castellanización del término en 
+inglés, phygital).   
+ 
+Es importante para las empresas reconocer que si no incursionan en 
+canales digitales ni entienden la experiencia actual del cliente, el riesgo de 
+fracaso se eleva considerablemente. 
+ 
+Además, adoptar la transformación digital en las empresas puede aportar 
+mejoras significativas en la eficiencia de procesos, así como en la calidad 
+de productos y servicios y la accesibilidad a clientes a un nivel global.   
+ 
+Conocer al consumidor, identificar los factores sociales y culturales que 
+determinan sus preferencias de compra y anticipar las tendencias en los 
+diferentes mercados es un parteaguas para el éxito de la marca.  
+ 
+Sectores como el de manufactura, salud, energía, agricultura, turismo, 
+gobierno y hasta el de educación están sumándose a la transformación 
+
+--- p2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+digital. En esta lección, profundizaremos en el comercio, consumo, 
+financiero, industrial y servicios.  
+ 
+¿Estás listo? ¡Comencemos!  
+ 
+ 
+Transformación digital en diferentes sectores 
+industriales  
+La transformación digital sucede, la integre la empresa a sus operaciones 
+o no, pero el punto clave está en las oportunidades de éxito que trae 
+consigo su implementación. 
+Todos los sectores industriales se han enfrentado a un nuevo reto: ¿cómo 
+implementar la transformación digital en sus procesos, productos, 
+servicios y equipos? La transformación digital no es solamente la adopción 
+de tecnologías emergentes, sino implementarlas de tal manera que 
+conduzcan a cambios significativos y de mejora en las empresas.  
+Ahora bien, en la actualidad y gracias al tipo de cliente con el que trabajan 
+las empresas, no es solamente opcional, sino imperativo que las empresas 
+sean capaces de buscar soluciones y reformulaciones de la manera en la 
+que han estado trabajando hasta ahora.   
+ 
+ 
+Internet of things 
+Durante 2023, se alcanzó un estimado de 15.14 billones de dispositivos 
+conectados al IoT y se espera que para el 2030 este número se duplique, 
+llegando hasta los 29.42 billones (Vailshery, 2023). Así que, ¿qué significa 
+eso para los diferentes sectores de la industria?, ¿qué pueden hacer con 
+ello?  
+ 
+A continuación, veremos de qué manera los diferentes sectores le están 
+haciendo frente a la transformación digital y cuáles son algunas de las 
+recomendaciones para su implementación, tomando en cuenta las 
+tendencias actuales y futuras.  
+
+--- p3 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sector: Comercio 
+El comercio electrónico es popular, entre muchas cosas, gracias a la 
+accesibilidad de información sobre los productos, servicios y opiniones. 
+Conoce más al respecto a continuación. 
+ 
+El 90 % de clientes usa su smartphone durante las compras, incluso si son 
+físicas, para comparar precios, encontrar información de productos y leer 
+reseñas en línea de otras personas que han adquirido ese mismo producto 
+o similares (Magestore, s.f.).  
+Pero el uso de la tecnología durante las compras físicas o digitales va más 
+allá de eso, como Leonard (2015) ejemplifica:   
+ 
+Por lo anterior: 
+
+--- p4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● 44 % de los clientes investiga online y compra online. 
+● 51 % de los clientes investiga online y compra en tienda física. 
+● 17 % de los clientes visita una tienda física primero y luego compra 
+online.  
+● 32 % de los clientes investiga online, visita la tienda para ver el 
+producto y luego compra online.  
+ 
+Por eso, un paso clave para la transformación digital en las empresas es 
+conocer al cliente pero, sobre todo, al cliente actual, no al consumidor de 
+hace unos años. ¿Y qué espera el consumidor moderno? Sprinklr (s.f.) 
+recupera el estudio realizado por McKinsey, Experian y Gigya y concluye 
+que entre el 60 % y 90 % de las compras físicas son influidas por la 
+investigación en línea que hace el cliente antes de finalizar la compra.  
+ 
+ 
+cliente actual: Cada vez hay clientes más informados que no compran 
+inmediatamente, sino que se informan con opiniones de sus conocidos 
+o en videos y reseñas en línea de gente desconocida.  
+ 
+investigación en línea: Además, el 74 % de las personas confían en las 
+sugerencias de un amigo, aunque sean publicadas en redes sociales; y 
+no solo eso, sino que el 67 % finalizará la compra después de recibir 
+recomendaciones de sus amigos en línea.  
+ 
+Finalmente, el 86 % de los clientes pagarán más si eso incluye una mejor 
+experiencia de compra, es decir, la creencia de que todos los clientes 
+buscan lo más barato no solo es errónea, sino que está muy alejada de la 
+nueva mentalidad del mercado actual.  
+ 
+Es importante que las empresas tengan en mente que esto no quiere decir 
+que las tiendas físicas vayan a desaparecer, sino que están adquiriendo un 
+propósito más bien experiencial, por lo que las marcas deben ofrecer una 
+
+--- p5 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+experiencia al cliente que se diferencie de las demás. Lo que las nuevas 
+generaciones de clientes buscan son esfuerzos físicos y digitales 
+enfocados hacia la personalización y la respuesta inmediata y en tiempo 
+real.  
+ 
+¿De qué manera tu organización cumple con las exigencias del mercado 
+actual?   
+ 
+ 
+Sector: Consumo 
+Las preferencias por lo digital no se quedarán como están actualmente, 
+sino que se estima que aumenten al doble, pues dos tercios de los 
+consumidores finales son Millennials y Generación Z.   
+ 
+¿Qué implica? 
+El consumo implica varias áreas que engloban al marketing digital, el cual 
+está dirigido directamente al consumidor. Amazon es el ejemplo número 
+uno con respecto a una marca en la industria del consumo que ha 
+entendido al cliente actual: tiene experiencia, rapidez y visualización en la 
+cadena de suministro.   
+ 
+Tecnología como herramienta  
+  
+¿Cómo conseguir ventaja en una industria de consumo donde la mayoría 
+de la competencia está conformada por plataformas? Usando la tecnología 
+no solo para disminuir costos, sino también para identificar al consumidor 
+basándose 
+en 
+analíticas 
+predictivas, 
+información 
+contextual, 
+comportamientos y actitudes.  
+ 
+Cadena de valor  
+  
+
+--- p6 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En la cadena de valor, por ejemplo, las empresas podrían comenzar a 
+construir cadenas de suministro inteligentes y brindar transparencia de 
+precios a los distintos vendedores a lo largo de los mercados. Los 
+productos que desarrollen tendrían que estar basados en ciencia de 
+datos, tener innovaciones abiertas y libres.   
+ 
+Manufactura y Marketing  
+  
+Del lado de la manufactura y el empaquetado, podrían ayudarse de robots 
+y automatizaciones de procesos, crear servicios digitales y utilizar las 
+impresiones 3D para los envíos. En el área de marketing, ventas y 
+distribución, la comunicación tendría que ser personalizada y a través de 
+omnicanales digitales. Finalmente, el consumidor tendría acceso a un e-
+commerce que cumpla todas sus expectativas y necesidades para las 
+compras en línea.  
+ 
+Implicaciones de lo digital  
+  
+En un mundo donde se generaron más de 1.2 trillones de dólares por 
+ventas online en 2022 (Statista, 2023), mantenerse fuera de lo digital no 
+es un lujo que las empresas puedan permitirse. Así que pregúntate, ¿tu 
+empresa ya implementa acciones digitales en su cadena de valor?  
+ 
+ 
+Sector: Financiero 
+El gran desafío del sector financiero siempre ha sido alcanzar la 
+inmediatez y la personalización para satisfacer las necesidades de los 
+clientes. Gracias a la ayuda de lo digital, lo ha logrado.  
+   
+El sector financiero también se ve impactado por lo digital. Antes, los 
+bancos dependían de las sucursales, pero ahí se encontraba su desafío 
+principal: ¿cómo lograr inmediatez? Los clientes necesitaban respuestas 
+instantáneas y los bancos no podían dárselas, así que cambiaron su 
+
+--- p7 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+enfoque y pusieron al cliente en el centro, lo que los llevó a construir la 
+Banca 2.0.   
+ 
+La Banca 2.0 comienza a utilizar la tecnología y pone plataformas en línea 
+a disposición del cliente, quien puede acceder a su cuenta para realizar 
+movimientos y consultas sin necesidad de acudir a una sucursal física. 
+Esto le permite a los bancos brindar un servicio más ágil, personalizado y 
+cómodo y, de esta manera, mejorar la experiencia de cliente.   
+ 
+Posteriormente, llega la Banca 3.0, la cual ofrece una experiencia mucho 
+más vanguardista, pues integra la IA, aprendizaje automático y 
+automatización avanzada para mejorar los procesos, apoyar en la toma 
+de decisiones y crear soluciones hiperpersonalizadas para los clientes.  
+ 
+Y, actualmente, nos encontramos frente a la Banca abierta, que es un 
+enfoque que promueve la mejora de las ofertas financieras, posibilitando 
+compartir productos, servicios y datos de clientes a instituciones bancarias 
+autorizadas. Mediante esta apertura, el cliente tiene más opciones entre 
+las cuales elegir la que más le convenga para sus servicios financieros, 
+aumentando la personalización y eficiencia individual para cada cliente.  
+ 
+Además, los Neobanks están adquiriendo mucha fuerza. Un Neobank es 
+una fintech que ofrece servicios bancarios tradicionales, pero operando 
+exclusivamente en línea, sin necesidad ni intenciones de tener sucursales 
+físicas. Debido a su naturaleza digital, trabajan con tecnologías 
+innovadoras que les permiten ofrecer mejores soluciones, como 
+automatizaciones y Blockchain. Normalmente, operan colaborando con 
+bancos autorizados para ofrecer todos los servicios como un banco 
+tradicional. Gracias a que no operan físicamente, pueden reducir sus 
+costos en tarifas, lo que se traduce como beneficio para el cliente (Vision 
+IAS, 2023).  
+ 
+La industria financiera pasó por un nivel de disrupción mayor que el de 
+muchas otras industrias y lo digital introduce nuevas posibilidades, tanto 
+para las bancas como para los clientes. Esto ha traído facilidades para 
+
+--- p8 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pagar con el celular olvidando la moneda física, acumular capital, obtener 
+préstamos previniendo riesgos con IA, participar en la democratización de 
+los fondos, entre más opciones. Los sistemas se modernizaron y 
+aprovechan distintos enfoques de trabajo digitales.  
+ 
+Sin embargo, también existen retos en la banca digital. La tendencia en el 
+mercado en general es tener acceso a aplicaciones fáciles, inteligentes y 
+alcanzables por cualquier canal. En el segundo 0 del inicio de una 
+transacción, el cliente está interesado; si la página o la aplicación tarda 
+alrededor de 8 segundos en cargar, ya está fastidiado; si en 18 segundos 
+sigue sin cargar, ya se siente molesto; y después de 30 segundos, el 80 % 
+de los clientes abandonarán la página e intentarán por otro lado. Es decir, 
+los clientes no solo esperan realizar sus procesos, sino que toda la 
+interfaz que interviene para ello tiene que ser individualizada y 
+personalizada; hay una expectativa instantánea que tiene que concluirse, 
+de lo contrario, el cliente prefiere marcharse.   
+ 
+Para que los bancos logren cumplir esas expectativas, necesitan más 
+interfaces y apoyarse del uso de la IA para predecir cómo retener, servir y 
+contactar con el cliente. El Mobey Forum (2016) ejemplifica cómo puede 
+funcionar el análisis predictivo para encontrar las mejores acciones que 
+aseguren una retención, un servicio y un contacto a clientes exitoso.  
+ 
+
+--- p9 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De esta manera, la banca digital brinda una solución inmediata y 
+personalizada, generando un sentimiento de satisfacción y confianza en el 
+cliente.   
+ 
+¿Alguna vez has tenido una experiencia con un banco digital, ya sea desde 
+lo profesional o lo personal?, ¿cómo fue?  
+ 
+ 
+Sector: Industrial 
+El sector industrial también ha pasado por un proceso digital para la 
+optimización de sus procesos y resultados, así como para la experiencia de 
+colaboradores y clientes. 
+
+--- p10 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La tendencia en la industria ha sido crear sistemas centrados en el análisis 
+de datos combinados con los sistemas de tecnología de operación, con el 
+objetivo de controlar y monitorear procesos y dispositivos, lo que integra 
+exitosamente sus capacidades y optimiza las operaciones para encontrar 
+soluciones inteligentes y avanzadas a los problemas actuales.  
+ 
+La Industria 4.0 utiliza sensores conectados en tiempo real, IoT, análisis de 
+datos, ciberseguridad e IA para lograr una interconexión automatizada entre 
+la cadena de suministro y la producción. Se busca que la manufactura sea 
+inteligente y autónoma, apoyándose de tecnologías emergentes para 
+unificar datos, utilizar analítica predictiva y automatizar workflows.  
+ 
+ 
+ 
+
+--- p11 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● Conectividad: Crea enlaces entre nodos de redes discretas, lo que 
+incrementa la visibilidad.  
+● Inteligencia: Automatiza el reconocimiento de eventos y la 
+traducción para tomar decisiones,  
+● Automatización flexible: Incorpora mecanismos de respuesta, 
+automatización y movimiento remoto.  
+ 
+   
+A partir de principios del 2021, la Comisión Europea acuñó el término de 
+Industria 5.0 (Advanced Factores, 2022) para nombrar al nuevo 
+complemento de la industria. No es un reemplazo de la Industria 4.0, sino 
+una forma de impulsar la relación entre la tecnología, las personas y el 
+entorno.  
+ 
+Tiene tres características principales:  
+● Es sostenible, apoyándose de alternativas renovables.  
+● Se centra en la persona, priorizando derechos humanos y 
+protección de datos privados.  
+● Es resiliente, capaz de adaptarse a distintas situaciones y 
+ambientes.  
+  
+Aunque es en Europa donde se impulsa más el tema de la sostenibilidad 
+y resiliencia, el énfasis a nivel global de la Industria 5.0 radica en la 
+colaboración entre máquinas y humanos para mejorar la productividad y 
+la eficiencia.  
+ 
+ 
+Es importante pensar en la experiencia del trabajador y para ello se 
+necesita transformar la cultura de la empresa: lograr que la tecnología sea 
+más accesible y crear un centro de trabajo cómodo. Además, el foco 
+principal es la servitización al cliente: cómo agilizan procesos, cómo las 
+industrias entienden al cliente y cómo exceden sus expectativas.  
+ 
+
+--- p12 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sector: Servicios 
+Los servicios de información y logística podrían verse beneficiados con el 
+uso de tecnologías digitales, ¿pero sabes de qué manera?   
+ 
+¿Te imaginas por qué tecnologías podrían ser impulsados los nuevos 
+modelos para servicios de transporte y logística?  
+ 
+Una de las iniciativas digitales más importantes para el sector de servicios 
+es la de ofrecer servicios de información que utilicen datos para tomar 
+decisiones informadas, apoyándose de torres de control logístico. Además, 
+los servicios de logística y de distribución son muy importantes 
+actualmente.   
+ 
+¿Sabes cuánto es el ingreso anual del e-commerce transfronterizo mundial?  
+ 
+a. Menos de 100 billones de dólares  
+b. Entre 100 y 250 billones de dólares  
+c. Entre 250 y 350 billones de dólares  
+ 
+La respuesta correcta es: El ingreso anual es de entre 250 y 350 billones de 
+dólares.  
+ 
+Para el 2025, se espera que el e-commerce transfronterizo mundial alcance 
+un ingreso anual de entre 250 y 350 billones de dólares. Esto indica que se 
+necesitan nuevos modelos de negocios para servicios de transporte y 
+logística. 
+ 
+Estos nuevos modelos de negocio deberían ser impulsados por el uso de 
+Analítica de datos e Inteligencia Artificial. 
+ 
+El World Economic Forum (2016) enlista como iniciativas digitales para esta 
+transformación el implementar drones o vehículos autónomos de entrega, 
+es decir, que sea un robot el que toque la puerta y te entregue tu pedido, ya 
+
+--- p13 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+no solo al día siguiente, sino dentro de un par de horas después de haber 
+hecho el pedido.  
+ 
+Incluso, hay empresas que podrían apostar por la impresión 3D como 
+método de entrega innovador.   
+ 
+¿Qué tipo de alternativas crees que podría traer beneficios para tu empresa?, 
+¿por qué?  
+ 
+ 
+Tendencias tecnológicas del mercado 
+La buena tecnología ayuda a resolver las fallas de la industria para que se 
+enfrente a los desafíos actuales. 
+ 
+Retail Economics (2023) enumera algunas tendencias del mercado que 
+estarán vigentes para el 2030, conoce las 5 primeras a continuación:  
+ 
+1. Customer Journey digitalizado. Los clientes esperan que sus 
+necesidades sean cubiertas, y una de esas necesidades es el apoyo 
+digital a través de todo el Customer Journey.  
+2. ESG y economía circular. Los principios de environmental, social and 
+governance (ESG) seguirán incrementando la demanda por productos, 
+servicios y procesos sostenibles y amigables con criterios 
+ambientales, sociales y gubernamentales.  
+3. Aprovechamiento de datos e insights. Las empresas tendrán que 
+apoyarse de la tecnología para optimizar los procesos a través de toda 
+la cadena de valor.  
+4. DTC: Direct to Consumer. El DTC es un modelo de negocio que implica 
+un acercamiento a los consumidores, restringiendo la oferta a los 
+distribuidores.  
+5. Optimización de la cadena de valor. Un acercamiento digital a las 
+cadenas de valor podría eficientizar y optimizar la oferta de productos, 
+así como la fijación de precios y la reducción de desperdicios.  
+ 
+
+--- p14 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jay Lee (World Economic Forum, 2023, 2m56s) dice que a pesar de que las 
+industrias tienen sus fallas, la tecnología puede ayudar a resolverlas, 
+siempre y cuando el propósito sea claro; y si esa tecnología sí las soluciona, 
+es porque es buena tecnología. Ese es el objetivo de la transformación 
+digital, que la tecnología usada en los cambios, en los procesos, en las 
+innovaciones y en los diferentes sectores industriales sea útil, rentable y 
+conveniente para que la empresa pueda enfrentarse a todos los desafíos 
+actuales.  
+ 
+Tomando en cuenta esta visión hacia el futuro, ¿tu empresa está lista?, ¿qué 
+le falta para adoptar una transformación digital que traiga consigo 
+beneficios para la organización?  
+ 
+ 
+Ideas para llevar 
+Recuerda que:  
+ 
+● Las nuevas generaciones de clientes buscan esfuerzos físicos y 
+digitales enfocados hacia la personalización y la respuesta inmediata 
+y en tiempo real.  
+● Se estima que las preferencias por lo digital aumenten al doble, pues 
+dos tercios de los consumidores finales son Millennials y Generación 
+Z.   
+● La disrupción de la industria financiera ha traído facilidades como 
+prescindir de la moneda física, acumular capital, prevenir riesgos al 
+tramitar préstamos y la democratización de los fondos.  
+● La Industria 5.0 busca impulsar la relación entre tecnología, personas 
+y procesos. Sus características principales son: sostenibilidad, 
+centrado en la persona y resiliencia.  
+● Se espera que el e-commerce transfronterizo mundial alcance un 
+ingreso anual de entre 250 y 350 billones de dólares en 2025 (Van 
+
+--- p15 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heel et al., 2014), por lo que se necesitan nuevos modelos de 
+negocios para servicios de transporte y logística, los cuales deben 
+ser impulsados por el uso de Analítica de datos e Inteligencia 
+Artificial.  
+ 
+ 
+Material de apoyo 
+Código utilizado 
+● https://github.com/Audraggc/DSSC2.2/blob/main/The%20Learnin
+g%20Gate%20-%20M2%20-%20Contenido%20Tema%201.ipynb 
+● https://github.com/Audraggc/DSSC2.2/blob/main/The%20Learnin
+g%20Gate%20-%20M2%20-
+%20Salas%20de%20Pruebas%20del%20Contenido.ipynb 
+ 
+Bibliografía 
+Los contenidos de esta lección están basados en la siguiente bibliografía: 
+● Advanced Factories. (24 de noviembre de 2022). ¿Qué es la 
+industria 5.0 y cuáles son sus 3 principales características? 
+Advanced Factories. Recuperado el 26 de septiembre de 2023, de 
+https://www.advancedfactories.com/industria-5-0-caracteristicas/  
+  
+● Benković, S., Labus, A., Milosavljević, M. (Eds.). (2023). Digital 
+Transformation of the Financial Industry: Approaches and 
+Applications. Springer.  
+ 
+● Hamdan, A., Harraf, A., Buallay, A., Arora, P. y Alsabatin, H. (Eds.). 
+(2023). From Industry 4.0 to Industry 5.0: Mapping the Transitions. 
+Springer.  
+ 
+
+--- p16 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● Heinemann, G. (2022). Intelligent Retail: The Future of Stationary 
+Retail. Springer.  
+ 
+● Leonard, J. (10 de marzo de 2015). The First Step on the Road to 
+Becoming a Multi-Channel DMarketing Expert. 
+Business 2 
+Community. 
+https://www.business2community.com/marketing/first-step-road-
+becoming-multi-channel-marketing-expert-01177942   
+ 
+● Martin, C. (2018). Digital Transformation 3.0: The New Business-To-
+Consumer Connections of the Internet of Things. CreateSpace 
+Independent Publishing Platform.  
+ 
+● Mobey Forum. (16 de junio de 2016). Predictive Analytics in the 
+Financial industry – The art of what, how and why. [White Paper]. 
+https://mobeyforum.org/predictive-analytics-financial-industry-art/   
+ 
+● Magestore. (s.f.). Chapter 1: Prepare your omnichannel approach on 
+Magento. 
+https://www.magestore.com/magento-omnichannel-
+guide/prepare-omnichannel-retail-magento/   
+ 
+● Sandhu, K. (Ed.). (2021). Emerging Challenges, Solutions, and Best 
+Practices for Digital Enterprise Transformation. Business Science 
+Reference.  
+ 
+● Sprinklr. (s.f.). The Survival Guide to Customer Experience. [Archivo 
+PDF]. Client Experience Group. https://clienteg.com/survival-guide-
+customer-experience/  
+ 
+● Statista Research Department. (16 de agosto de 2023). Revenue of 
+e-commerce 
+worldwide 
+in 
+2022, 
+by 
+country. 
+Statista. 
+
+--- p17 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://www.statista.com/forecasts/1283912/global-revenue-of-
+the-e-commerce-market-country  
+ 
+● Retail Economics. (01 de marzo de 2023). 40 Future Retail Trends to 
+2030 
+- 
+Retail 
+Economics. 
+[Archivo 
+de 
+Video]. 
+YouTube. 
+https://www.youtube.com/watch?v=5gPY2ApHHVU   
+ 
+● Van Heel, B. Lukic, V. Leeuwis, E. (18 de septiembre de 2014). Cross-
+Border E-Commerce Makes the World Flatter. Boston Consulting 
+Group. 
+https://www.bcg.com/publications/2014/post-parcel-
+sales-channel-transformation-cross-border-e-commerce   
+ 
+● Vailshery, L. S. (27 de julio de 2023). Number of Internet of Things 
+(IoT) connected devices worldwide from 2019 to 2023, with forecasts 
+from 2022 to 2030. Statista. Recuperado el 27 de septiembre de 
+2023, 
+de 
+https://www.statista.com/statistics/1183457/iot-
+connected-devices-worldwide/   
+ 
+● Vision IAS. (25 de marzo de 2023). Neobanks: The future of banking. 
+[Archivo 
+de 
+Video]. 
+YouTube. 
+https://www.youtube.com/watch?v=be4cF6QW_2g   
+ 
+● Urbach, N., Röglinger, M., Kautz, K., Alias, R. A., Saunders, C. y 
+Wiener, M. (Eds.). (2021). Digitalization Cases Vol. 2. Mastering 
+Digital Transformation for Global Business. Springer.  
+ 
+● Urbach, N. y Ahlemann, F. (2018). It Management in the Digital Age: 
+A Roadmap for the It Department of the Future.  Springer.  
+ 
+● Winkelhake, U. (2021). The Digital Transformation of the Automotive 
+Industry: Catalysts, Roadmap, Practice. (2da edición). Springer.  
+
+--- p18 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● World Economic Forum. (Enero de 2016). Digital Transformation of 
+Industries: 
+Logistics 
+Industry. 
+[White 
+Paper]. 
+https://report.weforum.org/digital-transformation/wp-
+content/blogs.dir/94/mp/files/pages/files/dti-logistics-industry-
+white-paper.pdf  
+  
+● World Economic Forum. (10 de enero de 2019). Fourth Industrial 
+Revolution. Beacons of Technology and Innovation in Manufacturing. 
+[White 
+Paper]. 
+https://www3.weforum.org/docs/WEF_4IR_Beacons_of_Technolo
+gy_and_Innovation_in_Manufacturing_report_2019.pdf   
+ 
+● World Economic Forum. (22 de marzo de 2019). World Economic 
+Forum | Centre for the Fourth Industrial Revolution Network. [Archivo 
+de 
+Video]. 
+YouTube. 
+https://www.youtube.com/watch?v=d0DMFadnioo   
+ 
+● World Economic Forum. (20 de junio de 2023). The Future of 
+Manufacturing | Ep 2 | Jay Lee: Driving Change Through Innovation. 
+[Archivo 
+de 
+Video]. 
+YouTube. 
+https://www.youtube.com/watch?v=rXDq2XOX1eg   

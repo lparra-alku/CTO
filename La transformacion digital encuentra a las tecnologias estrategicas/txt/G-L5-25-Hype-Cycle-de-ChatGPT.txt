@@ -1,0 +1,17 @@
+# L5 · Hype Cycle de ChatGPT
+Genially 656637950be24100143558eb → 6566379dcb50170014e7e041
+
+Hype Cycle de
+Podemos tomar como ejemplo el caso reciente de ChatGPT, impulsado por OpenAI.
+CODIGO NO BORRAR
+Lanzamiento
+Su lanzamiento fue el 30 de noviembre del 2022, presentado como un modelo capaz de realizar tareas lingüísticas como traducciones, resúmenes y respuestas a preguntas gracias a su entrenamiento con aproximadamente 570 GB de conjuntos de datos (Gratas, 2023).
+Pico de expectativas sobredimensionadas
+ChatGPT llegó al millón de usuarios en 5 días, alcanzando los 100 millones de usuarios activos en enero de 2023, “lo que la convierte en la app de consumo de más rápido crecimiento de la historia” (Gratas, 2023).
+Abismo de desilusión
+Sin embargo, entre más gente la usaba y entre menos cumplía sus expectativas sobredimensionadas, cayó en el abismo de desilusión, donde se señalaban las fallas y las limitaciones que tenía.
+Rampa de consolidación
+Poco a poco, el mercado va aceptando lo que sí puede hacer y lo que no, al mismo tiempo que los desarrolladores arreglan aquellas cosas que sí están en sus manos y, para el público, la tecnología mejora, así que puede volver a subir la aceptación.
+Meseta de productividad
+Luego, la meta es que la tecnología sea consolidada al 100 % y se haya madurado lo suficiente para ser rentable e interesante para el público general, lo que le permitirá ser vendida y generar productividad.
+Continúa con el estudio de la lección.

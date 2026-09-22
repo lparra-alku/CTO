@@ -1,0 +1,65 @@
+# L1 · Pruébate
+Genially 6557a14198142b0011ab2764
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Fernando a resolver algunas problemáticas.
+Fernando es el Chief Digital Transformation Officer de una empresa de telefonía y le han pedido que realice el diseño digital del negocio para propiciar su expansión. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Qué implica el enfoque de "innovación continua" en el diseño de negocios digitales según el CISR del MIT Sloan?
+Adaptarse y evolucionar constantemente
+Ignorar las necesidades del cliente
+Implementar procesos y estructuras estáticas
+¡Correcto!
+El enfoque de “innovación continua” implica la adaptación constante a las cambiantes demandas del mercado y las expectativas de los clientes, según el CISR del MIT Sloan.
+¡Incorrecto!
+El enfoque de "innovación continua" se refiere a la adaptación constante y evolución en el diseño de negocios digitales.
+¿Qué promueve el CISR del MIT Sloan para comprender mejor a los clientes en la era digital?
+Recopilación estática de datos
+Estrategias de “escucha activa”
+Experimentos digitales esporádicos
+El CISR del MIT Sloan destaca la importancia de la "escucha activa" mediante la recopilación continua de datos para comprender mejor a los clientes.
+El CISR del MIT Sloan enfatiza la importancia de la "escucha activa" y la recopilación continua de datos para entender a los clientes.
+¿Por qué la flexibilidad es crucial en la columna vertebral digital según el CISR del MIT Sloan?
+Para abordar cambios tecnológicos y en el mercado
+Para mantener la rigidez operativa
+Para evitar la adaptabilidad
+La flexibilidad es esencial para abordar los cambios en la demanda y la tecnología, según el CISR del MIT Sloan.
+La flexibilidad es crucial para adaptarse a los cambios en la demanda y la tecnología, según el CISR del MIT Sloan.
+¿Qué implica la interoperabilidad en la construcción de plataformas digitales según el CISR del MIT Sloan?
+Comunicación efectiva y colaboración
+Enfoque exclusivo en la seguridad
+Falta de integración
+La interoperabilidad implica la comunicación efectiva y colaboración entre sistemas y aplicaciones, según el CISR del MIT Sloan.
+La interoperabilidad se refiere a la comunicación efectiva y colaboración entre sistemas y aplicaciones, según el CISR del MIT Sloan.
+¿Por qué es importante la personalización en la plataforma digital externa según el CISR del MIT Sloan?
+Para mantener relaciones esporádicas con las partes interesadas
+Para aumentar la satisfacción y lealtad del cliente
+Para limitar la experiencia del cliente
+La personalización en la plataforma digital externa mejora la satisfacción y la fidelidad del cliente, según el CISR del MIT Sloan.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Fernando a resolver algunas porblemáticas.
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.

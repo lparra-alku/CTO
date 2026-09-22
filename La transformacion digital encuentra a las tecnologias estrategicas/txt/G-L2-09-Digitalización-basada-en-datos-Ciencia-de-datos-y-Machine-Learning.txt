@@ -1,0 +1,42 @@
+# L2 · Digitalización basada en datos Ciencia de datos y Machine Learning
+Genially 6560f746efcef600107500b3
+
+Digitalización
+basada en datos: Ciencia de datos y Machine Learning
+La Ciencia de Datos y la Analítica Avanzada han impactado a una amplia gama de industrias y aplicaciones, desde el ámbito empresarial hasta la investigación científica. Descubre en qué consiste cada una.
+La Ciencia de Datos utiliza una variedad de técnicas, incluido el aprendizaje automático, para descubrir información valiosa a partir de datos estructurados y no estructurados. Con base en ello, es posible tomar decisiones estratégicas y aprovechar el conocimiento oculto en los registros de una empresa.
+Por su parte, la Analítica Avanzada lleva a la Ciencia de Datos un paso más allá al utilizar modelos y algoritmos para predecir eventos futuros. Por lo que resulta esencial en áreas como la gestión de inventarios, el mantenimiento predictivo, la detección de fraudes y la optimización de procesos.
+La combinación de Ciencia de Datos y Analítica Avanzada permite a las organizaciones comprender su rendimiento pasado y presente, así como anticipar eventos futuros y tomar medidas proactivas. Ambos campos están en constante evolución gracias a los avances en la capacidad de procesamiento y acceso a datos en tiempo real, con lo cual es posible la búsqueda de conocimiento y ventajas competitivas para las empresas.
+El Machine Learning es un subcampo de la inteligencia artificial que ha revolucionado la forma de abordar los problemas complejos y tomar decisiones por medio de hacer que las computadoras actúen sin estar programadas explícitamente. Para ello, los algoritmos avanzados de aprendizaje automático se componen de muchas tecnologías, utilizadas en el aprendizaje supervisado y no supervisado, las cuales operan guiadas por lecciones de la información existente.
+El aprendizaje automático incluye varias formas de aplicación en distintas industrias. Muestra de ello son los siguientes ámbitos:
+Sin embargo, también ha habido incursiones del Machine Learning en otros ámbitos, tan diversos entre sí. Por ejemplo:
+Diagnóstico médico:
+Vehículos autónomos:
+Los modelos de Machine Learning ayudan a diagnosticar enfermedades, interpretar imágenes médicas y prever riesgos de salud basados en datos del paciente.
+La industria automotriz utiliza algoritmos de Machine Learning para vehículos que pueden reconocer obstáculos, señales de tráfico y tomar decisiones de conducción seguras.
+Energía y sostenibilidad:
+Publicidad en línea:
+El Machine Learning también se utiliza para optimizar campañas publicitarias, segmentar audiencias y personalizar anuncios, según el comportamiento del usuario.
+El Machine Learning permite predecir el uso de energía, optimizar la distribución, mejorar la eficiencia energética y la gestión de residuos.
+Estas son solo algunas de las muchas aplicaciones del Machine Learning. A medida que esta tecnología avanza, es probable que se adopte en más industrias y sectores, transformando la forma en cómo se opera y toman decisiones en la era digital actual.
+Gracias por tu respuesta
+¿Emplean la Ciencia de Datos en tu empresa u organización?, ¿en qué área de tu empresa u organización sería conveniente utilizar la Analítica Avanzada para la toma de decisiones?, ¿qué otras aplicaciones puede tener el Machine Learning en tu empresa u organización?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+También conocida como Analítica Predictiva, es un campo que utiliza datos históricos para identificar patrones que puedan ayudar a predecir resultados futuros.
+También conocido como “Aprendizaje Automático”, se centra en el desarrollo de algoritmos y modelos que permiten a las máquinas aprender de los datos y tomar decisiones basadas en ese aprendizaje.
+Consectetur adipiscing elit
+Automatización industrial
+El Machine Learning también se utiliza para el control de calidad, el mantenimiento predictivo y la optimización de la producción, por medio de sensores y cámaras que capturan datos para tomar decisiones en tiempo real.
+Recomendaciones personalizadas
+Las plataformas de streaming utilizan algoritmos de Machine Learning para analizar el comportamiento del usuario y ofrecer recomendaciones personalizadas de productos, música o películas.
+Se centra en la recopilación, limpieza y análisis de datos para identificar patrones, tendencias y relaciones.
+Procesamiento de Lenguaje Natural
+Las aplicaciones de Procesamiento de Lenguaje Natural o Natural Language Processing (NPL) utilizan el Machine Learning para comprender y generar lenguaje humano, tales como chatbots, traducción automática, resumen de texto, entre otros.
+Optimización de la cadena de suministro
+En la logística y la gestión de la cadena de suministro, el Machine Learning se utiliza para predecir la demanda, optimizar rutas de entrega y gestionar inventarios de manera más eficiente.
+Seguridad cibernética
+El Machine Learning se utiliza para detectar amenazas y ataques informáticos al analizar el comportamiento de la red y los sistemas en busca de anomalías.
+Detección de fraudes
+En la industria financiera, el Machine Learning se utiliza para detectar transacciones fraudulentas, evaluando patrones y comportamientos anómalos en las transacciones electrónicas.
+Como el aprendizaje profundo, las redes neuronales y el procesamiento del lenguaje natural.

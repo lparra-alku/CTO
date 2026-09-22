@@ -1,0 +1,158 @@
+
+--- p1 ---
+¿De qué se habla cuando se habla de la transformación digital?, ¿cuáles son 
+las tecnologías que están provocando esta revolución digital? 
+Estrategias y 
+tecnologías digitales
+
+--- p2 ---
+La transformación digital impacta en todos los sectores, pero en grados 
+variables. Por ejemplo, de acuerdo con McKinsey & Company (2017), la 
+transformación digital ha impactado desde el sector de bienes 
+empaquetados hasta el de medios y entretenimiento, pero con un 31 % 
+y 62 % respectivamente. Dentro de estos dos extremos, es posible encontrar 
+industrias de servicios financieros, telecomunicaciones y de 
+minoristas, entre otros.
+Sin cambio
+0
+10
+40
+60
+84
+96
+100
+Industrias:
+Cambio secundario
+menor
+Algún cambio
+central
+Alcance digital
+popular
+Predominantemente
+digital
+Totalmente
+digitalizado
+Bienes empaquetados (31 %)
+Automotriz y ensamble (32 %)
+Servicios ﬁnancieros (39 %)
+Servicios profesionales (42 %)
+Telecomunicaciones (44 %)
+Viaje, transporte y logística (44 %)
+Sistemas y servicios de salud (51 %)
+Alta tecnología (54 %)
+Minoristas (55 %)
+Medios y entretenimiento (62 %)
+Promedio de todas las industrias: 37 %
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+De acuerdo con la gráfica anterior 
+(McKinsey & Company, 2017), existe 
+un impacto promedio de lo digital en 
+el 37 % de las industrias. Pero ¿de 
+qué se habla cuando se habla de la 
+transformación digital?, ¿cuáles son 
+las tecnologías que están provocando 
+esta revolución digital? 
+Jeanne Ross, exmiembro del Centro 
+de Investigación de Sistemas del MIT 
+(MITCISR), decía que las tecnologías 
+son smacit, haciendo un juego de 
+palabras con las iniciales de las 
+tecnologías clave y el verbo smack en 
+inglés, el cual se traduce como 
+“abofetear”, pues irrumpen no solo 
+en el negocio, sino en todos los 
+ámbitos de la vida personal y 
+profesional como si nos abofetearan 
+(Mittenberg, 2020). Ahora bien, el 
+término también funciona por ser un 
+acrónimo de las tecnologías digitales 
+disruptivas actualmente, las cuales 
+son:
+Pero no solo son las smacit, sino que 
+también hay:
+Social
+Mobile
+Analytics
+Could
+Internet of Things
+Artificial Intelligence
+Blockchain
+Augmented Reality
+Biometrics
+Autonomous Vehicles
+5G
+Cellular Agriculture 
+Brain-Computer Interfaces
+DNA based
+Clustered Regularly Interspaced 
+Short Palindromic
+Repeats
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Partiendo de esto, tomemos en cuenta que el World Economic Forum [WEF] 
+(2018) identificó las siete tecnologías clave que tienen un papel protagónico en 
+el impacto a las industrias, las cuales son:
+Inteligencia artificial. Junto con el aprendizaje automático, la IA tiene 
+grandes beneficios en la automatización de procesos, respuesta inmediata en 
+el servicio al cliente e incremento de ciberseguridad, por ejemplo.
+Vehículos autónomos. Los vehículos autónomos tienen relevancia en la 
+manera en que innovan las operaciones de las empresas, como en el 
+transporte y logística, la manufactura y las experiencias mejoradas.
+Análisis Big Data y la nube. Las empresas pueden acelerar, eficientizar 
+y flexibilizar operaciones, además de que permite una mejor toma de 
+decisiones, pues ayuda a predecir tendencias, identificar oportunidades y 
+detectar patrones. 
+Fabricación bajo demanda e impresiones 3D. Existe un cambio muy 
+importante en la manera en la que se diseñan, producen y distribuyen los 
+proyectos, lo que permite elevar los niveles de personalización, reducir 
+costos y aumentar tiempos de comercialización.
+Internet de las cosas y dispositivos conectados. Los sensores 
+conectados a las cosas posibilitan recopilar datos en tiempo real para 
+monitorear, predecir, controlar y crear experiencias interconectadas para los 
+usuarios.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Robots y drones. Gracias a los robots y drones se eficientizan, precisan y 
+automatizan varios procesos de las empresas, lo que permite reducir costos, 
+mejorar calidad y crear nuevos productos y servicios.
+Redes sociales y plataformas. Estas son herramientas clave para la 
+comunicación de cliente-empresa, pues facilitan la interacción, apoyan la 
+colaboración y permiten recopilar datos. Además, con ayuda de otras 
+tecnologías, es posible personalizar experiencias, anticipar requerimientos y 
+entender mejor las necesidades del cliente.
+El WEF (2018) aclara que esta lista no incluye a las tecnologías emergentes, 
+pues sus casos de uso fueron menores comparados a las tecnologías anteriores, 
+como podría ser la situación de Blockchain, además tenemos que estar atentos 
+a la Automatización cognitiva, la Inteligencia Artificial Generativa, el CRISPRI, 
+la conectividad 6G y otras más que brindarán posibilidades exponenciales para 
+crear nuevas experiencias digitales. Por eso es importante no descartar las 
+tecnologías emergentes en las empresas, recordando que siempre hay que ir un 
+paso adelante.
+¿A qué sector pertenece tu industria?, ¿cómo le han 
+hecho frente a la transformación digital?, ¿cuáles 
+tecnologías son clave para su transformación?
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+En los últimos años, las nuevas tecnologías digitales han llegado a nuestra 
+cotidianidad para brindar soluciones asequibles al mundo con sensores 
+neurotecnológicos más avanzados, biotecnología y hasta nuevos materiales, 
+como el grafeno. Estas tecnologías digitales habilitan experiencias, permiten 
+que el mundo se vuelva autónomo y colaborativo, aumentan la confianza al 
+prescindir de intermediarios, facilitan la toma de decisiones informadas y crean 
+experiencias inmersivas. Además, estas mismas tecnologías crean posibilidades 
+para nuevas tecnologías de valor, es decir, escalan de tal manera que es válido 
+llamarlas tecnologías exponenciales.
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

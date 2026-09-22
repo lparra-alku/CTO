@@ -1,0 +1,66 @@
+# L5 · Pruébate
+Genially 6566431f235be200156100b3
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Paulina a resolver algunas problemáticas.
+En la organización donde Paulina trabaja están debatiendo la adopción de algunas tecnologías emergentes. Aunque ella es parte del equipo de toma de decisiones, necesita de tu ayuda para recordar el uso de las herramientas de Gartner: el Hype Cycle, el IT Market Cock y el Radar de Impacto. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Paulina sabe que el Hype Cycle de Gartner se divide en 5 momentos, pero no recuerda el orden en el que van. Elige la opción que represente el orden de los 5 momentos del Hype Cycle.
+Lanzamiento, Abismo de desilusión, Rampa de consolidación, Pico de expectativas sobredimensionadas y Meseta de productividad
+Lanzamiento, Rampa de consolidación, Pico de expectativas sobredimensionadas, Abismo de desilusión y Meseta de productividad
+Lanzamiento, Pico de expectativas sobredimensionadas, Abismo de desilusión, Rampa de consolidación y Meseta de productividad
+¡Correcto!
+El Hype Cycle funciona como una gráfica donde el eje X representa el tiempo y el eje Y son las expectativas que provoca en los usuarios. Los momentos van desde el lanzamiento del producto hasta la meseta de productividad.
+¡Incorrecto!
+Recuerda que el orden de los 5 momentos en el Hype Cycle es: Lanzamiento, Pico de expectativas sobredimensionadas, Abismo de desilusión, Rampa de consolidación y Meseta de productividad.
+¿Cómo podría definir Paulina el momento de “Meseta de productividad” en el Hype Cycle?
+Cuando el producto alcanza el tope máximo de aceptación del mercado
+Cuando el producto alcanza una adopción generalizada de entre el 20 % y 30 % de la audiencia potencial
+Cuando la empresa tiene que asegurarse de abastecer a todos los interesados en el mercado
+Para alcanzar la adopción generalizada, la tecnología tuvo que haber superado las expectativas iniciales para alcanzar un nivel adecuado de solidez y madurez.
+Recuerda que se llega a la Meseta de productividad en el Hype Cycle cuando el producto logra una adopción generalizada de entre el 20 % y 30 % de la audiencia potencial, después de haber superado las expectativas iniciales para alcanzar un nivel adecuado de solidez y madurez.
+Alguien le cuestionó a Paulina la utilidad del IT Market Clock, ¿cómo podría contestar?
+Herramienta para entender la etapa de adopción en la que se encuentra una tecnología emergente
+Herramienta para comprender la vida útil de los procesos digitales en una organización
+Herramienta para evaluar el nivel de transformación digital de una empresa según sus tecnologías
+El IT Market Clock funciona junto al Hype Cycle para ofrecerle a la empresa una visión más clara de las tecnologías emergentes y su posición en la adopción del mercado.
+Recuerda que el IT Market Clock es una herramienta útil para entender en cuál etapa de adopción en el mercado se encuentra una tecnología emergente.
+Paulina sabe que el IT Market Clock consta de 4 etapas: Ventaja, Elección, Costo y Reemplazo. ¿En cuáles de ellos está la correspondencia con el Hype Cycle?
+Costo y Reemplazo
+Elección y Costo
+Ventaja y Elección
+La correspondencia entre estas dos herramientas de Gartner se encuentra en las dos primeras fases del IT Market Clock: Ventaja y Elección.
+Recuerda que la correspondencia entre el Hype Cycle y el IT Market Clock se encuentra en las primeras dos fases del IT Market Clock: Ventaja y Elección.
+Paulina quiere presentarle a su equipo un Radar de Impacto de las tecnologías emergentes, por lo que usará el de Gartner. Ayúdala a seleccionar cuáles son los aspectos que este Radar de Impacto toma en cuenta.
+Dinamicidad, madurez, impacto y nivel de innovación
+Impacto, madurez, dinamicidad y preparación
+Impacto, costos, inversión y estrategias
+Con base en esos cuatro aspectos, el Radar de Impacto ofrece una estrategia, un plan de innovación y el roadmap que las empresas podrían seguir para adoptarlas.
+El Radar de Impacto toma en cuenta el impacto, la madurez, la dinamicidad y la preparación de las tecnologías para ofrecer, posteriormente, una estrategia, un plan de innovación y un roadmap.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones

@@ -1,0 +1,63 @@
+# L3 · Pruébate
+Genially 65494165ff4510001119590b
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Antonio a resolver algunas problemáticas.
+La empresa World of Things se encuentra en un proceso de transformación para lograr una conexión digital, tanto para sus clientes como para sus colaboradores. Ayuda a Antonio, el encargado de identificar los momentos de la cadena de valor donde tienen una deuda digital. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Para comenzar, ayuda a Antonio a definir “deuda digital” con la opción más adecuada.
+Las deficiencias que obstaculizan la implementación y aprovechamiento de las tecnologías
+Los problemas que se presenten en el área de Tecnologías e Información de la empresa
+El costo de la integración digital en los procesos tecnológicos
+¡Correcto!
+La deuda digital se refiere a las deficiencias en una empresa que evitan que exista una conexión digital entre procesos, personas y productos, lo que obstaculiza la plena implementación y aprovechamiento de las tecnologías.
+¡Incorrecto!
+Recuerda que la deuda digital se refiere a las deficiencias en una empresa que evitan que exista una conexión digital entre procesos, personas y productos, lo que obstaculiza la plena implementación y aprovechamiento de las tecnologías.
+Antonio tiene que identificar cuál es la opción que representa una deuda digital.
+Reporte semanal que tienen que firmar manualmente 18 personas antes de llegar a su destino
+Aplicación para comunicarse entre las diferentes áreas de la empresa
+Los líderes pueden ver los horarios de turno de los empleados de todas las áreas
+Si la firma del reporte se hiciera digitalmente, se ahorraría tiempo de los trabajadores, lo que se traduce en costos de la empresa.
+Recuerda que es importante agilizar procesos, integrarlos a ambientes digitalizados es una buena forma de hacerlo, por lo que la deuda digital de estas opciones se encuentra en los reportes manuales que los colaboradores tienen que realizar.
+Ayúdale a Antonio a recordar cuáles son los 4 pilares de la cultura digital, según el WEF (2021).
+Colaborativo, basado en datos, centrado en el consumidor e innovador
+Basado en datos, innovador, digital y tecnológico
+Colaborativo, basado en datos, innovador e inmediato
+Estos son los 4 pilares de la cultura digital propuestos por el World Economic Forum (2021), que tienen como objetivo que la empresa alcance la flexibilidad y responda a los nuevos retos que el mundo actual presenta.
+Recuerda que los 4 pilares de la cultura digital propuestos por el WEF (2021) son: colaborativo, basado en datos, centrado en el consumidor e innovador.
+Antonio necesita identificar cuál de las siguientes opciones es una experiencia figital.
+El cliente puede escanear un código QR en su ticket y obtener un descuento para su siguiente compra online
+Sitio web con información de todos los productos, pero sin posibilidad de compras online
+Un libro de cálculo que contenga la información de las nóminas de los empleados
+Una experiencia figital es la que mezcla lo físico y lo digital de manera que ofrezca al cliente una integración natural de ambos componentes.
+Recuerda que una experiencia figital es la que mezcla lo físico y lo digital de manera que ofrezca al cliente una integración natural de ambos componentes, por lo que escanear el código QR para obtener un descuento para su siguiente compra en línea es un ejemplo de experiencia figital.
+Por último, Antonio quiere investigar cuál es el estimado de usuarios de dispositivos móviles para 2025.
+Menos de 5,000 millones personas
+Arriba de 7,000 millones de personas
+Entre 5,800 y 7,000 millones de personas
+Tan solo en 2022, el estimado fue de 7,255 millones, estimando que alcanzará 7,400 millones en 2025.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

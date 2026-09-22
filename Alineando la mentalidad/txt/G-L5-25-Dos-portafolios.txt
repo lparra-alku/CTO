@@ -1,0 +1,13 @@
+# L5 · Dos portafolios
+Genially 654e8099b28f2e00112590c7 → 654e80a00d5a790011b8cd43
+
+Dos portafolios
+Explotar y Explorar
+Para seguir innovando, las empresas necesitan dos portafolios de innovación, los cuales son conocidos como Explotar y Explorar .
+CODIGO NO BORRAR
+El portafolio destinado a Explotar es aquel que se enfoca en el negocio tradicional, el que le ayudará a la empresa a permanecer rentable y a mantener la base de clientes que ha construido. Se le llama así porque explota el éxito que ya alcanzó en el ámbito que ya domina.
+Por otro lado, el portafolio destinado a Explorar busca nuevas maneras de innovar para alcanzar un nuevo mercado o cubrir diferentes necesidades que sus clientes han desarrollado. Si bien puede estar relacionado al negocio tradicional de la empresa, también puede incursionar en distintas áreas.
+El capital destinado para Explotar debe ir entre el 90 % y 99 %, mientras que el destinado a Explorar debe mantenerse en 10 % y 1 %, esto debido al rendimiento y el riesgo que cada portafolio genera en la organización.
+Rendimiento y riesgo
+Para explicar el rendimiento y riesgo, tenemos la gráfica propuesta por Osterwalder et al. (2020), donde a mayor riesgo de inversión, habrá un menor rendimiento en la empresa (Explorar) y a menor riesgo de inversión, mayor rendimiento (Explotar) . De esta manera, se busca que el crecimiento de las empresas tenga dos fuentes de ingresos, mientras se protege una parte y crece la otra.
+Continúa con el estudio de la lección.

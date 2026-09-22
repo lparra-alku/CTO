@@ -1,0 +1,58 @@
+# L4 · Pruébate
+Genially 6549168cff45100011fbe838
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Julio a resolver algunas problemáticas.
+En la empresa World of Things, Julio está dando una serie de conferencias para que cada miembro de la organización sepa cómo reaccionar ante situaciones de un entorno cambiante, así como para reconocer las soft skills que son importantes de desarrollar para diversas situaciones. Acompáñalo a contestar las dudas del equipo. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Paola tiene duda sobre la característica Volatility de un entorno VUCA y su relación con Visión, ¿cómo podría explicárselo Julio con un ejemplo adecuado?
+World of Things canceló conferencias debido a un cambio repentino en las políticas gubernamentales de la sede
+World of Things cambió sus conferencias a modalidad virtual debido a un cambio en las políticas gubernamentales de la sede
+World of Things presenta su ciclo de conferencias en la misma ciudad durante 25 años
+¡Correcto!
+Volatility se refiere a la forma rápida e impredecible en la que pueden cambiar las condiciones. Aunque la opción A también presenta un cambio repentino, es en esta opción cuando la organización pudo actuar con Visión y cambiar la modalidad de las conferencias.
+¡Incorrecto!
+Recuerda que Volatility se refiere a la forma rápida e impredecible en la que pueden cambiar las condiciones. Aunque la opción A también presenta un cambio repentino, es en la opción B cuando la organización pudo actuar con Visión al cambiar la modalidad de las conferencias.
+Mario pregunta si hay una forma de hacerle frente a la característica Complexity de los entornos VUCA. ¿Qué podría responder Julio?
+Resiliencia
+Entendimiento
+Ante lo complejo en los entornos VUCA, es importante buscar la claridad para mantenerse enfocado, flexible y creativo.
+Recuerda que ante lo complejo en los entornos VUCA, es importante buscar la claridad para mantenerse enfocado, flexible y creativo.
+Paty no recuerda a qué característica de BANI responde la “Adaptabilidad”. ¿Cuál sería la respuesta de Julio?
+Non-linear
+La adaptabilidad responde a Non-linear y significa crear varios escenarios de análisis y entender las partes, la interdependencia y el contexto de cada elemento presente.
+Recuerda que la adaptabilidad responde a Non-linear y significa crear varios escenarios de análisis y entender las partes, la interdependencia y el contexto de cada elemento presente.
+Julio pide al equipo que nombren algunos riesgos de trabajar en un entorno BANI. ¿Cuál de las opciones no es un riesgo?
+Trabajar colaborativamente en equipos
+Paralizarse frente a la tranquilidad
+Normalizar el malestar
+El riesgo sería trabajar de forma aislada, sin generar equipos de alto desempeño que permitan agregar valor a través de la inteligencia colectiva.
+Recuerda que trabajar de forma aislada, paralizarse a la tranquilidad y normalizar el malestar son riesgos en entornos BANI, pero trabajar en equipos no lo es.
+Antes de concluir la sesión, David pregunta cuál es la diferencia entre BANI y VUCA. ¿Qué respondería Julio?
+BANI es consolidado como un framework que tiene como objetivo entender las disrupciones globales después de VUCA
+BANI sigue el mismo desarrollo de VUCA, pero se centra en las problemáticas de un equipo interno, no global
+BANI es la respuesta a VUCA
+Jamais Cascio desarrolló BANI para entender un mundo que seguía presentando disrupciones globales y en el que VUCA se había vuelto insuficiente.
+Recuerda que VUCA se convirtió en algo tan necesario de dominar, que se volvió insuficiente para entender un mundo que seguía presentando disrupciones globales, por lo que Cascio desarrolló el framework BANI.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

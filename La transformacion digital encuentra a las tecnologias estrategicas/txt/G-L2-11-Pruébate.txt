@@ -1,0 +1,66 @@
+# L2 · Pruébate
+Genially 6560f708466b1600119bd979
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Julián a resolver algunas problemáticas.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Julián es el Chief Digital Transformation Officer de su organización y le han encargado seleccionar las tecnologías más adecuadas para la digitalización de los procesos, operaciones y servicios de la empresa. Ayúdalo a seleccionar dichas tecnologías a partir de responder las siguientes preguntas clave. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Cuál es el objetivo principal de la digitalización de procesos?
+Optimizar operaciones y facilitar la toma de decisiones
+Incrementar el uso de papel en las operaciones
+Reducir la eficiencia y aumentar los errores
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+¡Correcto!
+La digitalización de procesos busca optimizar operaciones y facilitar la toma de decisiones a través de la transformación digital.
+¡Incorrecto!
+La digitalización de procesos tiene como objetivo principal optimizar operaciones y facilitar la toma de decisiones.
+¿Qué tecnología es fundamental para la automatización de procesos en la digitalización?
+Reconocimiento Óptico de Caracteres (OCR)
+Realidad Aumentada (AR)
+Impresión 3D
+El Reconocimiento Óptico de Caracteres (OCR) es crucial para la captura y digitalización de datos, contribuyendo a la automatización de procesos.
+La tecnología fundamental para la automatización de procesos en la digitalización es el Reconocimiento Óptico de Caracteres (OCR).
+¿Cuál es la función principal del Business Process Management (BPM) en la digitalización de procesos?
+Gestionar y mejorar los procesos internos de una organización
+Crear documentos electrónicos
+Realizar transacciones en línea
+El BPM se enfoca en gestionar y mejorar los procesos internos de una organización, contribuyendo a la digitalización.
+Recuerda que la función principal del Business Process Management (BPM) es gestionar y mejorar los procesos internos de una organización.
+¿En qué consiste la Realidad Aumentada (AR)?
+Combinar elementos digitales con el entorno físico
+Crear experiencias visuales y auditivas impresionantes
+Imprimir objetos capa por capa
+La Realidad Aumentada (AR) combina elementos digitales con el entorno físico para mejorar la comprensión y la interacción del cliente.
+Recuerda que la Realidad Aumentada (AR) combina elementos digitales con el entorno físico para mejorar la comprensión y la interacción del cliente
+¿Cuál es uno de los roles fundamentales de los Sensores de Tecnología Operativa (OT) en la monitorización de procesos industriales?
+Supervisar la presión en neumáticos de automóviles
+Controlar el flujo de aire en entornos industriales
+Medir la temperatura en el hogar
+Los sensores OT desempeñan un papel clave al medir variables como la temperatura, presión, flujo y concentración de sustancias químicas en procesos industriales para garantizar la calidad y eficiencia de la producción.
+Recuerda que los sensores OT se utilizan específicamente para medir variables clave en procesos industriales.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

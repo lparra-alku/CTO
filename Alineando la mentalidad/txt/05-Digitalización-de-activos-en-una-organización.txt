@@ -1,0 +1,102 @@
+
+--- p1 ---
+Es bien sabido que las empresas quieren innovar, pero ¿ya saben qué 
+innovar digitalmente?, ¿han digitalizado sus procesos?, ¿han conectado los 
+equipos que compran?, ¿usan los espacios laborales como espacios 
+inteligentes? 
+Digitalización de
+activos en una organización
+
+--- p2 ---
+Las organizaciones tienen la responsabilidad de digitalizar sus activos con el fin 
+de brindar experiencias conectadas para sus colaboradores internos y externos, 
+así como para sus clientes. A continuación, veremos el caso de una empresa que 
+ha comenzado con la digitalización de sus activos.
+Imagina una planta de fabricación de productos electrónicos digitalizada, 
+donde toda la cadena de valor está conectada digitalmente, por ejemplo:
+1. Entrada de materias primas:
+La planta recibe entregas de componentes electrónicos por medio de 
+camiones que han sido equipados con sensores de geolocalización, de esta 
+manera, la información de entrega puede registrarse automáticamente en el 
+sistema de gestión de gestión de suministros.
+2. Pre-producción:
+Los componentes se guardan en almacenes automatizados que registran la 
+cantidad y estado de los materiales en tiempo real.
+De acuerdo a la demanda e inventario, los pedidos de producción se generan 
+automáticamente.
+3. Producción:
+Las máquinas de producción cuentan con sensores para monitorear su 
+rendimiento y estado en tiempo real, cuyos datos se envían a un sistema de 
+control central.
+Los trabajadores acceden a las instrucciones de trabajo y formatos de 
+actualización de progreso de producción a través de aplicaciones nativas de 
+la planta instaladas en sus dispositivos móviles.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+4. Control de calidad:
+Para verificar la calidad, las unidades que se producen son sometidas a 
+pruebas automatizadas. Los resultados arrojados se registran 
+automáticamente y se relacionan con los números de serie de los productos.
+5. Almacenamiento:
+Para facilitar el seguimiento, cada producto es etiquetado con códigos QR.
+Los productos terminados se almacenan en estanterías inteligentes capaces 
+de registrar la ubicación y el inventario en tiempo real.
+6. Picking & Packing:
+Al momento en el que el cliente hace un pedido por el sitio web, se genera en 
+el almacén de manera automática.
+Los trabajadores utilizan gafas inteligentes que los ayudan a ubicar y recoger 
+fácilmente los productos del pedido del cliente.
+Las etiquetas de envío se generan electrónicamente.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+7. Logística del cliente:
+Los camiones de entrega tienen sensores de geolocalización y están equipados 
+con sistemas de navegación y telemetría para optimizar las rutas.
+A través de la aplicación, los clientes pueden rastrear en tiempo real su pedido.
+Cuando el repartidor se va acercando al domicilio de entrega, el usuario recibe 
+una notificación de alerta.
+ 
+8. Prueba de entrega: 
+El repartidor captura en la aplicación la firma digital del cliente como prueba 
+de entrega, lo que se envía automáticamente al sistema central.
+9. Servicio post venta:
+En un periodo determinado de tiempo, al cliente le llega a su aplicación una 
+breve encuesta de satisfacción del producto, donde además puede registrar 
+problemas o servicios de post venta.
+Si existiera un problema, el sistema de servicio al cliente asigna 
+automáticamente las solicitudes a los técnicos de servicio, quienes reciben toda 
+la información del producto y envío que ha sido almacenada para brindar una 
+atención íntegra y eficaz.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+En este ejemplo, la planta de fabricación de productos electrónicos ha 
+integrado de manera adecuada sus procesos hacia una digitalización para 
+mantener a sus proveedores, trabajadores y clientes conectados. Sin embargo, 
+esta transformación no inició con esos procesos, sino con una revolución en el 
+mindset de los líderes y colaboradores de la empresa. 
+Para llegar al punto de conexión total en las diferentes áreas de trabajo, fue 
+necesario que se hiciera una modificación en la cultura organizacional, 
+continúa con el siguiente recurso y conoce los cuatro pilares de la cultura 
+digital.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Reflexiones
+Hay tres preguntas clave alrededor de tu vida laboral: 
+¿tu trabajo te permite un entorno híbrido para trabajar?, 
+¿puedes trabajar yendo físicamente a la oficina de la 
+misma manera en la que trabajas en casa?, ¿tienes lo 
+necesario en casa para ser tan productivo como en la 
+oficina?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

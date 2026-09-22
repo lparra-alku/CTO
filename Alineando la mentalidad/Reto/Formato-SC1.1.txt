@@ -1,0 +1,216 @@
+﻿Reto | Alineando la mentalidad en mi organización para la transformación digital
+
+
+
+Entregable final del reto
+Documento editable por el participante
+
+
+
+Nombre del participante:
+
+Indicaciones:  
+Genera una copia de este documento y edítala con tu nombre de la siguiente manera: tunombre_Reto_CS1.1
+
+Al finalizar el reto, conviértelo en archivo PDF y súbelo como evidencia presionando el botón “Añadir publicación”.
+
+El archivo entregable será evaluado con base en el cumplimiento de los requerimientos y a su contenido.
+
+
+
+
+Instrucciones:
+Implementar una transformación digital es necesario para todas las empresas actuales, pues las condiciones en las que se desarrollan han cambiado al grado de que quien ignora la digitalización, ignora también las necesidades del cliente y las características de un mercado moderno. Pero la transformación digital, como bien sabes, no inicia solo en los procesos y la adopción de herramientas, sino que comienza desde la mentalidad de cada miembro de la empresa, desde la C-Suite hasta los roles técnicos. Por ello, en este reto te acercarás a la situación actual de tu empresa pensando en la implementación de una transformación digital.
+
+
+
+
+
+
+
+
+PASO 1. ¿Qué piensa la C-Suite?
+Para el primer paso, será necesario que identifiques cuál es la mentalidad de cada CXO en tu empresa, es decir, qué piensa que es la transformación cada miembro ejecutivo. Esto te servirá para entender la mentalidad sobre la que se mueve tu organización. 
+Así que pide que te concedan tiempo por lo menos 2 miembros de la C-Suite, puede ser el CEO, CFO, CMO, CIO, CTO o CHRO. Puede ser por correo, por el chat de tu organización, por videollamada o en persona. Aprovecha para hacerles las siguientes preguntas:
+¿Qué es la transformación digital?
+¿Dónde comienza la transformación digital en las empresas?
+¿Quiénes son los encargados de liderar la transformación digital?
+¿Quiénes llevan a cabo la transformación digital?
+Puedes agregar más preguntas que consideres necesarias para entender su mentalidad sobre la transformación digital. 
+Condensa sus respuestas en un texto breve de no más de 150 palabras a continuación:
+
+CXO
+Texto breve de máximo 150 palabras
+
+
+
+
+
+Si lograste preguntarle a más de 2 CXO, puedes agregar las filas necesarias. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PASO 2. ¿Qué hacen los demás?
+Las industrias, el mercado y los consumidores cambian a pasos agigantados y, por lo tanto, están en busca de nuevas experiencias que cubran lo que están esperando recibir. 
+Por ello, primero identifica a qué sector industrial pertenece tu organización y haz una breve investigación sobre lo que esperan los clientes de ese sector en general, la experiencia que otras empresas brindan a sus clientes y a sus colaboradores, los procesos eficientes que llevan a cabo y, finalmente, la digitalización inteligente que han implementado. Escribe tus hallazgos en la columna izquierda de la siguiente tabla.
+A partir de esa investigación, analiza cuáles de esos elementos tu organización lleva a cabo y escríbelos en la columna de la derecha. Adicionalmente, si tu empresa ofrece diferentes experiencias o ha implementado diferentes procesos o digitalizaciones, agrégalas también en la columna derecha.
+
+
+Sector:
+
+¿Qué hacen los demás?
+¿Qué hacemos nosotros?
+Expectativas del mercado en el sector
+
+
+Experiencias al cliente
+
+
+Experiencias al colaborador
+
+
+Procesos eficientes
+
+
+Digitalización inteligente
+
+
+
+
+
+
+
+
+
+
+
+
+
+PASO 3. ¿Cómo vamos a resolverlo?
+Ahora bien, ¿en tu empresa tienen identificados los elementos que han cambiado en su entorno? Y, sobre todo, ¿saben cómo van a resolver las necesidades dentro de un par de años a partir de eso? En la siguiente tabla, clasifica las características del entorno actual del Mercado, de acuerdo a la Economía, la Competencia y los Clientes, y propón cómo el entorno de la Empresa resolverá esas necesidades, tomando en cuenta la Propuesta de Valor, el Modelo Operativo y las Personas y culturas, 
+
+
+Entorno del Mercado
+Entorno de la Empresa
+Economía
+
+
+Propuesta de Valor
+Competencia
+
+
+Modelo Operativo
+Clientes
+
+
+Personas y cultura
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PASO 4. ¿A qué nos enfrentamos?
+Desde hace un par de años, los entornos se han vuelto cada vez más complejos y los equipos de las empresas tienen que enfrentarse a distintos retos, ¿sabes cuáles son las situaciones VUCA o BANI a los que se enfrentan?, ¿cómo les hacen frente?
+Llena las siguientes tablas con las situaciones VUCA y BANI con las que has tenido que lidiar dentro de tu empresa y las soluciones VECA y REAC que les has dado para lograr superarlas.
+
+¿A qué nos enfrentamos?
+¿Cómo lo enfrentamos?
+Volatility
+
+Visión
+
+Uncertainty
+
+Entendimiento
+
+Complexity
+
+Claridad
+
+Ambiguity
+
+Agilidad
+
+
+
+
+¿A qué nos enfrentamos?
+¿Cómo lo enfrentamos?
+Brittle
+
+Resiliencia
+
+Anxious
+
+Empatía
+
+Non-linear
+
+Adaptabilidad
+
+Incomprehensible
+
+Colaboración
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PASO 5. ¿Cómo vamos a seguir innovando?
+A lo largo de este curso aprendiste la importancia de seguir innovando, incluso cuando la empresa ya se encuentra en una posición estable dentro de su sector. Para este último paso, aplicarás lo aprendido proponiendo una Transformación A, una Transformación B y el Enlace de Capacidad C en tu organización.
+Para su elaboración, toma en cuenta los pasos anteriores y las capacidades reales de tu empresa. Aunque puedes ser tan creativo como quieras, recuerda que esto puede servir como una propuesta dentro de tu organización, así que te recomendamos apegarte a su realidad.
+
+Transformación A:
+¿Cuál sería tu agenda de Transformación A?
+
+Transformación B:
+¿Cuál sería tu agenda de Transformación B?
+
+Enlace de capacidad C:
+¿Qué nuevas competencias digitales tendría tu Laboratorio de innovación para acelerar las Transformaciones A y B?
+
+

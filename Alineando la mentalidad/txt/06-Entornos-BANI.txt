@@ -1,0 +1,263 @@
+
+--- p1 ---
+Ahora bien, ¿qué se hace cuando entender el entorno 
+VUCA ya no es suficiente?
+Entornos
+BANI
+
+--- p2 ---
+Dominar los entornos VUCA y ser capaz de predecir 
+datos se convirtieron en habilidades que quedaron, hasta 
+cierto punto, obsoletas. Esto no quiere decir que ya no 
+era importante hacerlo, sino que era tan necesario 
+hacerlo, que quien no lo hiciera simplemente perdía, es decir, ya no era 
+una ventaja para hacerle frente a los desafíos de la 
+transformación digital.
+En 2018, el antropólogo, historiador y futurólogo Jamais Cascio desarrolló 
+BANI, una herramienta que nació para su uso personal pero que tuvo un 
+muy buen recibimiento cuando la mostró a un grupo de gente dos años 
+después (Jamais Cascio, 2022, 0m25s). BANI es el acrónimo de las siglas 
+Brittle, Anxious, Non-linear, Incomprehensible (en español, Frágil, 
+Ansioso, No lineal e Incomprensible, respectivamente) y representa 
+“una estructura para articular las situaciones cada vez más comunes en las 
+cuales la simple volatilidad o complejidad son lentes insuficientes para 
+entender lo que está ocurriendo” (Pearson, 2021). Por ello, se consolidó 
+como un framework para entender las disrupciones globales en 
+un contexto donde VUCA se había vuelto insuficiente. 
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+En general, el mundo vive alrededor de un caos 
+constante: guerras, desastres naturales, levantamientos 
+sociales, cuyas características principales no son 
+solamente la complejidad de los actos, sino la velocidad 
+con la que se desarrollan, lo que dificulta un 
+entendimiento completo de la situación. Por añadidura, si no se logra 
+entender bien lo que sucede, ¿cómo se pueden prevenir situaciones 
+similares?, ¿de qué manera se termina por comprender y 
+aprender el suceso si no se alcanza a analizar? Mirarlos desde una 
+visión BANI podría traer una valiosa claridad que permita no solo anticipar 
+los problemas en un futuro, sino también aprender de los pasados y 
+evolucionar constantemente.
+Lo que caracteriza a un entorno BANI son los cuatro conceptos para los 
+que sirve de acrónimo, los cuales desglosaremos a continuación:
+Brittle. Los sistemas pueden 
+desmoronarse con facilidad, 
+incluso aquellos que sean 
+aparentemente sólidos. Esta 
+fragilidad en cualquier ámbito 
+implica una mayor probabilidad 
+de cometer errores, pero 
+aquellos que poseen una 
+mentalidad como “fallar rápido, 
+fallar rápido” son quienes 
+tendrán una mejor adaptación.
+Anxious. Existe una sensación 
+constante de incertidumbre, 
+amenaza, vulnerabilidad y 
+desorientación por los cambios 
+continuos, lo que genera 
+ansiedad y estrés. Además, hay 
+una intoxicación por el exceso 
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Brittle
+Anxious
+Non-linear
+Incomprehensible
+de información a la que tenemos acceso, lo que impide 
+tomar decisiones o formar acuerdos. 
+Non-linear. La explicación de causas y efectos es insuficiente, pues 
+suele resultar incoherente o no proporcionada entre sí, ya que hay 
+múltiples causas y múltiples efectos en distintos sistemas 
+simultáneamente. Si se sigue viendo todo desde la lógica del 
+pensamiento lineal, esta multilinealidad genera frustración.
+Incomprehensible. La realidad se vuelve difícil de entender y, por lo 
+tanto, difícil de aprender. Se necesita desarrollar habilidades de 
+anticipación estratégica con los datos y la información que tenemos al 
+alcance para crear objetivos y estrategias basados en varios escenarios, 
+esto quiere decir abandonar las fórmulas, soluciones y recetas del 
+pasado.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+BANI
+Riesgos
+Deasafíos
+Paralizarse frente a la 
+tranquilidad.
+•
+Aprender a iterar rápidamente.
+•
+Ser capaz de cambiar en movimiento.
+•
+Generar políticas de bienestar a la 
+medida.
+•
+Generar estrategias para aumentar la 
+sensación de cercanía y conexión en 
+los equipos.
+•
+Priorizar con flexibilidad.
+•
+Planificar con foco en la adaptación 
+y el ajuste constante, integrando 
+aprendizajes rápidamente.
+•
+Contar con sistemas de información 
+abiertos y transparentes que faciliten 
+el trabajo colaborativo y en red.
+Normalizar el malestar y 
+hacerlo parte de la 
+cultura de la 
+organización.
+Trabajar de forma 
+aislada, sin generar 
+equipos de alto 
+desempeño que 
+permitan agregar valor 
+a través de la 
+inteligencia colectiva.
+Carecer de un propósito 
+claro y movilizador que 
+favorezca la creación de 
+sentido.
+Brittle
+Anxious
+Non-linear
+Incomprehensible
+Ahora, los entornos BANI no son solo ambientes con ciertas 
+características, sino que traen consigo ciertos riesgos 
+para la organización y desafíos que se deben superar para 
+tener resultados exitosos, como los siguientes:
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Ahora bien, te mostraremos un ejemplo sobre cómo una 
+empresa pudo aplicar los diferentes entornos (VUCA, 
+VECA, BANI y REAC).
+1. Objetivo del ejemplo
+Comprender cómo los entornos VUCA, VECA, BANI y REAC representan 
+desafíos reales para las organizaciones en su proceso de transformación 
+digital y qué capacidades necesita desarrollar una organización para 
+adaptarse y prosperar en ellos.
+2. Problemática común
+¿Qué tan preparada está realmente tu organización para enfrentar un 
+entorno donde el cambio es más rápido que la capacidad de adaptarse? 
+Veamos el siguiente caso.
+Una empresa que actualmente se dedicada al servicio de streaming, 
+cuando inició, en 1997, alquilaba DVD por correo. En ese momento, 
+competía con gigantes que dominaban el mercado físico del 
+entretenimiento; sin embargo, la empresa pronto entendió que el futuro 
+estaba en la distribución digital y en la personalización de la experiencia 
+del usuario. A partir de esa visión, emprendió una transformación que 
+cambió no solo su modelo de negocio, sino toda su cultura organizacional.
+El camino no fue fácil. Cada etapa del cambio enfrentó desafíos distintos: 
+resistencias internas, incertidumbre sobre el futuro del mercado, presión 
+de inversionistas y una competencia cada vez más agresiva. Al paso del 
+tiempo, logró superarlos. Pero su historia ilustra a la perfección cómo las 
+organizaciones viven hoy en entornos volátiles, vulnerables, frágiles y en 
+constante transformación; y por qué desarrollar una mentalidad resiliente, 
+empática y colaborativa es clave para sobrevivir.
+
+--- p7 ---
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+VUCA – Volátil, Incierto, Complejo y Ambiguo 
+El mercado del entretenimiento cambió rápidamente: nuevas plataformas, 
+preferencias del público impredecibles y avances tecnológicos constantes. 
+Esta empresa tuvo que reaccionar a la volatilidad del entorno, con 
+innovación continua y toma de decisiones ágil.
+VECA – Vulnerable, Expuesto, Complejo y Adaptativo 
+Con más competencia y saturación del mercado, la empresa se volvió 
+vulnerable y expuesta: errores en contenido o precios afectan directamente 
+su reputación y valor en bolsa. Debieron volverse más adaptables, 
+explorando nuevos modelos (como videojuegos o suscripción con 
+anuncios).
+BANI – Frágil, Ansioso, No lineal e Incomprensible 
+En un entorno BANI, los cambios no siguen patrones previsibles. Las 
+tendencias del público o la viralidad de un contenido son difíciles de 
+anticipar. LA empresa enfrentó ansiedad organizacional ante sus caídas de 
+suscriptores y tuvo que construir resiliencia interna y emocional para 
+sostener su innovación.
+REAC – Resiliente, Empático, Adaptable y Colaborativo 
+La respuesta de la empresa ha sido desarrollar una cultura REAC: equipos 
+ágiles, mentalidad de aprendizaje, trabajo colaborativo global y enfoque 
+empático hacia los usuarios. La compañía no solo sobrevive, sino que 
+evoluciona en cada etapa del cambio.
+
+--- p8 ---
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+3. Solución desde la información desarrollada en la lección
+En esta lección, hemos revisado cada uno de los entornos y también las 
+estrategias para hacerles frente, como en el ejemplo que hemos visto, que 
+demuestra que los desafíos de la transformación digital no son solo 
+tecnológicos, también pueden ser humanos, estratégicos y culturales.
+Recuerda que una organización puede tener las herramientas más 
+avanzadas, pero si no desarrolla una mentalidad colectiva capaz de navegar 
+la volatilidad, la vulnerabilidad y la fragilidad del entorno, no podrá 
+sostener su crecimiento. Y esta empresa logró transformarse varias veces 
+porque entendió algo esencial: la transformación digital no es un destino, 
+es una capacidad continua para adaptarse.
+4. Errores comunes que deben evitarse
+•
+No preparar a las personas para el cambio. 
+•
+Ignorar la gestión del cambio organizacional, dejando fuera la 
+capacitación, la comunicación y el acompañamiento emocional, 
+generará soluciones desconectadas.
+•
+Subestimar la complejidad del entorno.
+•
+Tomar decisiones con lógica lineal en un contexto no lineal, frágil y 
+ambiguo (especialmente en entornos BANI), no nos permitirá visualizar 
+realmente el problema.
+•
+Reaccionar en lugar de anticiparse.
+•
+Actuar solo cuando hay una crisis o competencia directa, en lugar de 
+construir capacidades de anticipación y aprendizaje continuo, limitará 
+las posibilidades.
+
+--- p9 ---
+9
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+5. Puntos clave
+•
+El mayor desafío no es tecnológico, es humano, ya que las herramientas 
+cambian, pero la mentalidad, la cultura y el liderazgo determinan el 
+éxito de la transformación.
+•
+El entorno actual exige nuevas capacidades, y en escenarios VUCA, 
+VECA, BANI y REAC, las organizaciones deben ser ágiles, adaptativas y 
+emocionalmente resilientes.
+•
+La transformación digital requiere visión y coherencia; no basta con 
+digitalizar procesos, se necesita una estrategia clara, integrada y 
+centrada en las personas.
+
+--- p10 ---
+Como puedes ver, enfrentarse a entornos BANI supone riesgos y desafíos 
+que no es posible ignorar, lo ideal es saber cómo sacar el mayor provecho 
+de las situaciones y de qué manera actuar para que no tenga repercusiones 
+serias en nuestros propios ambientes laborales y organizacionales. Es 
+necesario tener la capacidad de reskilling, es decir, estar en aprendizaje 
+constante de nuevas habilidades, algo que se ha vuelto esencial para 
+enfrentar el mundo del futuro sin quedarnos detrás. Continúa con el 
+siguiente recurso y conoce más sobre el reskilling.
+¿Has estado frente a una situación BANI en tu 
+organización?, ¿qué riesgos notaste y qué desafíos 
+tuviste que superar?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+10
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

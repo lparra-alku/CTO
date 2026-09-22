@@ -1,0 +1,22 @@
+# L1 · Transformación digital
+Genially 6542cdcd50180600114b09f0
+
+Transformación digital
+Se cree que la transformación digital consiste solo en adaptar las tecnologías emergentes para eficientar procesos en las organizaciones; sin embargo, aunque esta es una parte importante de la transformación digital, no es la principal.
+Las tecnologías emergentes hacen posible la transformación, pero la transformación digital tiene que suceder dentro del negocio , en la actualización del modelo operativo para que sea capaz de operar en un mundo digital y entregar una experiencia conectada a los clientes externos e internos. Entonces, la transformación digital sucede primero desde el modelo operativo y la propuesta de valor del negocio y, después, en los procesos, personas y tecnologías involucradas en la organización
+Ahora bien, ¿quién es el responsable de la transformación digital? Tomando en cuenta las diferentes personas encargadas de tomar decisiones en las empresas, podemos aventurarnos con que cada uno piensa distinto. Por ejemplo, un CEO solía pensar: “si mi empresa es líder y voy a la cabeza, ¿por qué cambiar?” porque no se daban cuenta de que en las empresas había una tercera o hasta cuarta generación de empleados más jóvenes , cuya prioridad era que las empresas fueran digitales para alcanzar el ritmo digital de la cotidianidad que rodeaba a los clientes.
+Pero cada chief de la empresa piensa en las dificultades que podría encontrar al mudar sus procesos hacia lo digital, pensando en lo que sí tienen y lo que podrían costear, tanto en lo económico como en los tiempos: Mientras el CFO se podría preguntar si su rol será reemplazado por un robot, también cuestiona el uso excesivo de papel y la falta de un Shared Service en la organización.
+Por otro lado, el CTO sabe que no es posible realizar una renovación de activos de todas las plantas al mismo tiempo, pues se necesita tiempo y dinero. Pero se puede comenzar con estrategias para integrar las generaciones tecnológicas con las que ya se cuentan, además de una automatización de Internet of Things (IoT).
+El CIO , por su parte, es quien tiene que manejar estratégicamente el uso de las tecnologías en la organización , tomando decisiones informadas relacionadas a las tecnologías y a los procesos, tiempos y personal de la empresa. Es una pieza clave para la transformación digital, pues con base en sus labores y las decisiones de las tecnologías a habilitar, el CEO lidera un equipo para crear una estrategia de implementación de la transformación digital en el negocio.
+Gracias por tu respuesta
+Conociendo esto, ¿cómo lleva a cabo cada chief su rol en tu organización para implementar una transformación digital?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+Consectetur adipiscing elit
+El contexto actual se encuentra en constante evolución, por lo que existe una responsabilidad de estar al tanto de las nuevas tecnologías y herramientas que pueden no solo traer beneficios para la empresa, sino también para los clientes y las personas involucradas en cada interacción.
+Necesita planear y conocer el presupuesto para implementar las tecnologías digitales requeridas en la empresa, gestionando estrategias, proveedores, equipos, proyectos, riesgos. Después, evaluará las métricas y el rendimiento que estas tecnologías llevaron a la empresa para seguir innovando e adoptando otras más.
+Para 2014, la US CEO Survey de PwC demostró que el 86 % de los CEO creían que la tecnología transformaría sus negocios (McCarthy, 2014). A varios años de esa encuesta, podemos afirmar que implementar la tecnología es indispensable para la sobrevivencia del negocio.
+Para una transformación digital en el área de Finanzas, se necesitan procesos de consolidación, escenarios predictivos y un costeo ABC.

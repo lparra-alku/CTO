@@ -1,0 +1,11 @@
+# L4 · Ideas para llevar
+Genially 6567b3dfb5d1760014d58fe7
+
+Ideas para llevar
+Continúa con tu aprendizaje en la siguien te lección.
+Un Large Language Model (LLM) es un tipo de modelo fundacional, que consiste en modelos de aprendizaje automático que pueden considerar miles de millones de parámetros.
+De acuerdo con Gartner (2023), una de cada cinco organizaciones se encuentra utilizando (4 %) o piloteando (15 %) alguna herramienta de Gen AI, mientras el 70 % se encuentra en una fase de investigación.
+Antes de implementar Gen AI en los procesos de tu organización, considera aspectos como el impacto, los procesos e infraestructura, las habilidades de los colaboradores, las políticas y los riesgos.
+Descarga la versión impresa en el apartado Archivos adjuntos.
+La Gen AI están cambiando al mundo, algunos ejemplos de dichos cambios son el desarrollo de productos, la experiencia del consumidor y la productividad de los empleados.
+Mientras la IA aborda tareas específicas, la Gen AI se destaca por su capacidad para crear contenido completamente nuevo, introduciendo un elemento de creatividad y originalidad que va más allá de la replicación de tareas existentes.

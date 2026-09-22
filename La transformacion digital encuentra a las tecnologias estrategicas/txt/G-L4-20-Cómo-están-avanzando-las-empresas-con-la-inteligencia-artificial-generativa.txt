@@ -1,0 +1,26 @@
+# L4 · Cómo están avanzando las empresas con la inteligencia artificial generativa
+Genially 6567b4b799f19e00147eb67f
+
+¿Cómo están
+avanzando las empresas con la inteligencia artificial generativa?
+El avance de las empresas con la inteligencia artificial generativa varía según los sectores y las necesidades específicas de cada organización.
+La adopción de la inteligencia artificial generativa ha experimentado un crecimiento significativo en los últimos años y su impacto en las organizaciones es cada vez más evidente, pues estas herramientas permiten mejorar la competitividad y eficiencia en la toma de decisiones para optimizar procesos clave. Pero ¿cómo están avanzando las empresas con el uso de las Gen AI?
+De acuerdo con Gartner (2023), una de cada cinco organizaciones se encuentra utilizando (4 %) o piloteando (15 %) alguna de estas herramientas, mientras el 70 % se encuentra en una fase de investigación. Revisa el siguiente esquema y conoce cómo se está usando esta tecnología en algunos sectores de la industria:
+Control de calidad automatizado
+Mantenimiento predictivo
+Diseño y optimización de productos
+Simulación de procesos de fabricación
+Gestión de inventarios y cadena de suministro
+Asimismo, la inteligencia artificial generativa puede utilizarse para el control y optimización de procesos industriales complejos o rutas de logística, maximizando la entrega de productos y minimizando tiempos de espera.
+Estos casos de uso ilustran cómo la IA generativa puede ser aprovechada en diversos aspectos de la industria: desde la manufactura hasta la seguridad laboral, donde se puede utilizar para crear simulaciones y entrenar a los empleados en prácticas de seguridad, reduciendo riesgos y mejorando la conciencia situacional. De esta manera, las Gen AI permiten avanzar hacia una producción más eficiente y sostenible.
+Reflexión
+Gracias por tu respuesta
+¿Qué aplicaciones encuentras para la IA generativa en tu empresa u organización?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Su implementación requiere una reevaluación de las tareas y un rediseño de los puestos de trabajo, lo que puede conducir a una mayor innovación.
+A través de la IA se pueden simular procesos de fabricación para así mejorar la eficiencia, reducir los costos y minimizar desperdicios.
+Aplicar IA generativa para prever la demanda, optimizar niveles de inventario y gestionar la cadena de suministro de manera eficiente, reduciendo costos y mejorando la disponibilidad de productos.
+Con la implementación de sistemas generativos para la inspección y control de calidad automatizado, se pueden identificar defectos en productos de manera rápida y precisa.
+Utilizada principalmente para crear y optimizar el proceso de diseño de productos, permitiendo la exploración de múltiples opciones antes de la fabricación.
+Se pueden implementar modelos generativos para predecir fallas en equipos industriales y programar mantenimientos, esto a través del análisis de datos de sensores y patrones de funcionamiento.

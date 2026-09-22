@@ -1,0 +1,13 @@
+# L4 · Casos emergentes de uso funcional
+Genially 6567b41f99f19e00147e58b9 → 6567b41b99f19e00147e562b
+
+Casos emergentes de uso funcional
+Recursos humanos, finanzas y cadenas de suministro, planeación de estrategias, ventas y servicio al cliente
+La inteligencia artificial generativa está experimentando una adopción creciente en diversas áreas empresariales, gracias a su capacidad para transformar procesos clave en sectores como recursos humanos, finanzas, cadenas de suministro, planeación estratégica, ventas y servicio al cliente.
+CODIGO NO BORRAR
+En Recursos humanos, está siendo aplicada para optimizar procesos de reclutamiento y selección, a través de la descripción de puestos adaptada o la evaluación precisa de la idoneidad de los perfiles de los candidatos. En el ámbito de las finanzas, se utiliza para el análisis predictivo de mercados, generando pronósticos más precisos e identificando oportunidades de inversión.
+En las cadenas de suministro, la IA generativa permite anticipar cambios en la demanda para ajustar las operaciones, lo que permite una cadena de suministro más ágil, flexible y con mayor capacidad de respuesta.
+En la planeación estratégica, la Gen AI ayuda a evaluar el impacto de las estrategias antes de su implementación, asistiendo en la realización de análisis FODA o análisis competitivos (5 fuerzas de Porter). En ventas, puede usarse para mejorar la experiencia de compra a través de la personalización de ofertas o recomendaciones de productos (venta adaptativa).
+Por último, en el Servicio al Cliente, la IA generativa se utiliza para automatizar respuestas y proporcionar asistencia instantánea y precisa a las consultas de los clientes. Un ejemplo claro es el uso de chatbots.
+Estos ejemplos ilustran cómo la IA generativa puede potenciar la eficiencia operativa y la toma de decisiones en diversas industrias. Y tú ¿qué cambios y beneficios potenciales encuentras con la aplicación de las Gen AI en tu industria o empresa?
+Continúa con el estudio de la lección.

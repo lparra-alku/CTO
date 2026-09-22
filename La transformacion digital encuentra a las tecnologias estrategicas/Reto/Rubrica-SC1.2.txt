@@ -1,0 +1,149 @@
+ 
+Formato de Evaluación  
+La actividad será evaluada utilizando la siguiente lista: 
+ 
+ 
+No cumplió 
+(0 %) 
+Falta desarrollar 
+(50 %) 
+En desarrollo 
+(80 %) 
+Sobresaliente 
+(100 %) 
+Puntuación 
+máxima 
+Digitalización 
+actual de mi 
+organización 
+0 ptos. 
+No responde las 
+preguntas. 
+5 ptos. 
+Responde algunas 
+preguntas de manera 
+superficial basándose en 
+la información de su 
+organización. 
+8 ptos. 
+Responde todas las 
+preguntas de manera 
+superficial basándose en 
+la información de su 
+organización. 
+10 ptos. 
+Responde todas las 
+preguntas de manera 
+completa basándose en la 
+información de su 
+organización. 
+10 ptos. 
+Hacia la 
+digitalización 
+0 ptos. 
+No brinda ejemplos de 
+casos en su 
+organización ni 
+propone. 
+10 ptos. 
+Brinda un ejemplo o una 
+propuesta de uno o dos 
+tipos de digitalización. 
+16 ptos. 
+Brinda un ejemplo o una 
+propuesta de cada uno 
+de los tres tipos de 
+digitalización. 
+20 ptos. 
+Brinda dos ejemplos o dos 
+propuestos de cada uno de 
+los tres tipos de 
+digitalización. 
+20 ptos. 
+¿Qué puedo 
+automatizar? 
+0 ptos. 
+No identifica procesos 
+de ningún tipo de 
+trabajo. 
+10 ptos. 
+Identifica correctamente 
+un proceso de, por lo 
+menos, dos tipos de 
+trabajos donde puede 
+implementarse una RPA. 
+16 ptos. 
+Identifica correctamente 
+un proceso de algunos 
+tipos de trabajo donde 
+puede implementarse una 
+RPA. 
+20 ptos. 
+Identifica correctamente un 
+proceso de los cinco tipos 
+de trabajo donde puede 
+implementarse una RPA. 
+20 ptos. 
+¿Es posible 
+automatizar? 
+0 ptos. 
+No selecciona un 
+proceso. 
+15 ptos. 
+Selecciona un proceso y 
+justifica medianamente 
+por qué podría ser 
+considerado para RPA. 
+No califica todos los 
+parámetros de sus 
+atributos, por lo que no es 
+posible sacar un resultado 
+total. 
+24 ptos. 
+Selecciona un proceso y 
+justifica correctamente 
+por qué podría ser 
+considerado para RPA. No 
+califica todos los 
+parámetros de sus 
+atributos, por lo que no es 
+posible sacar un resultado 
+total. 
+30 ptos. 
+Selecciona un proceso y 
+justifica correctamente por 
+qué podría ser considerado 
+para RPA. Califica todos los 
+parámetros de sus atributos 
+y saca el resultado total. 
+30 ptos. 
+
+ 
+Mi Radar de 
+Impacto 
+0 ptos. 
+No realiza el Radar de 
+Impacto. 
+10 ptos. 
+Realiza el Radar de 
+Impacto, pero solo toma 
+en cuenta uno o dos de 
+los cuatro rangos 
+planteados en el radar. 
+16 ptos. 
+Realiza el Radar de 
+Impacto, pero solo toma 
+en cuenta tres de los 
+cuatro rangos planteados 
+en el radar. 
+20 ptos. 
+Realiza el Radar de Impacto 
+tomando en cuenta 
+tecnologías emergentes 
+para el sector industrial al 
+que pertenece su 
+organización. 
+20 ptos. 
+TOTAL 100 pts. 
+ 
+ 

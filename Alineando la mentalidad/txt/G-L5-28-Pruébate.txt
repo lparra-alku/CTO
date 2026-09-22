@@ -1,0 +1,61 @@
+# L5 · Pruébate
+Genially 654e810a6251c7001221db6a
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a World of Things a resolver algunas problemáticas.
+Miguel ha sugerido guiar a la empresa World of Things por un camino de transformación dual para asegurar una innovación constante y efectiva. Ayúdalo a discernir entre los elementos necesarios para alcanzar una Transformación A, una transformación B y un enlace C. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Miguel quiere empezar la propuesta con una definición acertada de la Transformación A, ¿cuál sugieres que use?
+La Transformación A es aprovechar la digitalización con tecnologías digitales para optimizar operaciones y lograr eficiencia operativa
+La Transformación A es fomentar la cultura de innovación en la organización
+La Transformación A es desarrollar productos y servicios de próxima generación
+¡Correcto!
+La Transformación A consiste en identificar las eficiencias operativas del negocio actual y, a partir de ellas, diseñar soluciones tecnológicas que traerán consigo diferentes formas de ejecutar el modelo operativo, así como mejoras incrementales.
+¡Incorrecto!
+Recuerda que la Transformación A consiste en identificar las eficiencias operativas del negocio actual y, a partir de ellas, diseñar soluciones tecnológicas que traerán consigo diferentes formas de ejecutar el modelo operativo, así como mejoras incrementales.
+Ahora, Miguel tiene una lluvia de ideas sobre la Transformación B, pero una de las características que propone no es correcta. Selecciona la opción que no describa lo que es la Transformación B.
+Transformar tanto el modelo operativo como la propuesta de valor para el cliente
+Comienza a partir de las oportunidades adyacentes
+Mantener los procesos y las tecnologías existentes
+La Transformación B comienza a partir de las oportunidades adyacentes y representa un cambio tanto en el modelo operativo como en la propuesta de valor para el cliente, por lo que no mantiene procesos y tecnologías existentes.
+Recuerda que la Transformación B no mantiene procesos y tecnologías existentes, sino que comienza a partir de las oportunidades adyacentes y representa un cambio tanto en el modelo operativo como en la propuesta de valor para el cliente, por lo que no mantiene procesos y tecnologías existentes.
+Para ser más convincente, Miguel quiere presentar un ejemplo de una transformación dual exitosa en otras empresas. ¿Cuál es la mejor opción para presentar?
+Empresa que comenzó vendiendo perfumes para dama e incorporó fragancias para caballero y unisex
+Empresa que comenzó rentando de DVDs y se encaminó hacia el streaming online
+Empresa de servicios digitales que ha abierto franquicias internacionales
+Esta empresa ajustó sus productos según las exigencias del mercado y las tecnologías emergentes que surgían para innovar.
+La respuesta correcta es la empresa que comenzó rentando DVDs y se encaminó hacia el streaming online, pues es la empresa que ajustó sus productos según las exigencias del mercado y las tecnologías emergentes que surgían para innovar.
+Miguel quiere explicar claramente en qué consiste el Laboratorio de Innovación, ¿cuál es la mejor descripción para ello?
+Equipo que aprende sinérgicamente las nuevas capacidades digitales que necesita la empresa
+Equipo que mantiene el negocio tradicional trabajando para que la empresa sea rentable
+Equipo que reinventa el modelo de negocio y la propuesta de valor
+El Laboratorio de Innovación consiste en un equipo que aprende sinérgicamente las nuevas capacidades digitales que necesita la empresa para conjuntar la Transformación A y la Transformación B.
+Recuerda que el Laboratorio de Innovación consiste en un equipo que aprende sinérgicamente las nuevas capacidades digitales que necesita la empresa para conjuntar la Transformación A y la Transformación B.
+Miguel quiere concluir su presentación afinando el porcentaje de capital de World of Things que se destinaría para Explotar y Explorar. ¿Cuál es el marco adecuado?
+Entre el 90 % y 99 % para Explorar y entre el 1 % y el 10 % para Explotar
+Entre el 90 % y 99 % para Explotar y entre el 1 % y 10 % para Explorar
+Debería tener 50 % cada portafolio
+El capital destinado para Explotar debe ir entre el 90 % y 99 %, mientras que el destinado a Explorar debe mantenerse en 1 % y 10 %, debido al rendimiento y el riesgo que cada portafolio genera en la organización.
+Recuerda que debido al rendimiento y el riesgo que cada portafolio genera en la organización, el capital destinado para Explotar debe ir entre el 90 % y 99 %, mientras que para Explorar debe mantenerse entre el 1 % y el 10 %.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

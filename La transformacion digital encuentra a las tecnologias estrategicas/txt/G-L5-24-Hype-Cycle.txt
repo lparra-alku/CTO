@@ -1,0 +1,26 @@
+# L5 · Hype Cycle
+Genially 6566372a0be24100143518c8
+
+El Hype Cycle de Gartner permite una representación gráfica del nivel de madurez de adopción de innovaciones tecnológicas para identificar sus riesgos y oportunidades (Gartner, 2022).
+El Hype Cycle es una herramienta elaborada por Gartner, la firma de investigación y consultoría tecnológica. Tiene como objetivo representar las fases por las que comúnmente pasan las tecnologías emergentes: desde su concepción hasta su desembocadura.
+Funciona con una gráfica, donde el eje X representa el tiempo y el eje Y son las expectativas que provoca en los usuarios. Con base en el tiempo, se dividen cinco momentos clave: lanzamiento, pico de expectativas sobredimensionadas, abismo de desilusión, rampa de consolidación y meseta de productividad.
+Este ciclo es útil porque las empresas pueden comprender las expectativas de la tecnología y, de esta manera, gestionar su adopción, tomando decisiones informadas que engloban la inversión y la implementación.
+Los analistas de Gartner se encargan de evaluar las tecnologías para prever cuándo alcanzarán la meseta de productividad, basándose en diversos factores. Hay 5 símbolos con los que se señala su posición dentro de la gráfica:
+En la medida en que una tecnología entra al mercado, se mapea en el Hype Cycle para saber cuál es su posición y cuál es la predicción sobre su penetración en el mercado.
+Esto permite tener una visión objetiva de los riesgos y las oportunidades de cada tecnología y, de esta manera, evitar adoptar alguna tecnología en una etapa muy temprana o muy tardía, así como deshacerse de ella muy pronto o retenerla demasiado tiempo (Gartner, 2022).
+Gracias por tu respuesta
+Piensa en alguna tecnología que se ha implementado últimamente en tu organización, ¿en qué etapa del Hype Cycle crees que se implementó?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es largo de 12 palabras
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+Consectetur adipiscing elit
+Y, finalmente, la tecnología alcanza la meseta de productividad, lo que provoca una adopción generalizada de entre el 20 % y 30 % de la audiencia potencial.
+Ya sea del campo educativo, sensores de plantas industriales, la inteligencia artificial generativa, entre muchas otras más.
+Como la investigación y el desarrollo, los casos de uso exitosos, la aceptación del mercado, los desafíos técnicos superados y la resolución de problemas de interoperabilidad.
+Esto crea un pico de expectativas sobredimensionadas, lo que hace que la anticipación a su uso sea alta y todos esperen a utilizarla. La actividad comienza con las empresas early adopters, que son quienes toman el riesgo de adoptarla en su cima de expectativas.
+Luego, debido al uso masivo y a las expectativas que se crearon anteriormente, sigue el abismo de desilusión, pues las expectativas infladas no se cumplen al 100 % y los usuarios comienzan a encontrar fallas.
+La cual puede ser una adopción generalizada o el desuso.
+A partir de eso, los desarrolladores trabajan en la tecnología y el mercado en general va comprendiendo mejor las aplicaciones prácticas de la tecnología, dejando de lado las ilusiones que se tuvieron en un inicio, por lo que llegan a la rampa de consolidación.
+En un inicio, la tecnología es lanzada al mercado y, generalmente, nadie la conoce. Puede ser que los amigos y la familia del desarrollador comiencen a adoptarla o que una startup empiece a usarla, pero poco a poco va dándose a conocer.

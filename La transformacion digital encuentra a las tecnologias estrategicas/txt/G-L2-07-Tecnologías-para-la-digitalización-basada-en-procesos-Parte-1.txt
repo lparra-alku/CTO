@@ -1,0 +1,24 @@
+# L2 · Tecnologías para la digitalización basada en procesos Parte 1
+Genially 655d5dbb21119400111f8a48
+
+Tecnologías
+para la digitalización basada en procesos (Parte 1)
+Conoce cuatro herramientas tecnológicas para la digitalización basada en procesos, a partir de la automatización y optimización de las operaciones de una empresa.
+En la era digital actual, la digitalización de procesos a partir de la optimización de operaciones se ha convertido en un pilar fundamental para la eficiencia y competitividad de las organizaciones. Para lograr esto, se requiere el uso de tecnologías avanzadas y específicas. A continuación revisaremos algunas tecnologías para digitalizar basadas en procesos:
+La automatización de procesos es la piedra angular de la digitalización, se puede ejecutar a través de herramientas como los sistemas de gestión de procesos empresariales, también conocidos como Business Process Management (BPM) y permite liberar a los empleados de tareas tediosas, reducir los errores humanos y acelerar la ejecución de procesos, para así centrarse en actividades de mayor valor.
+A medida que se emplea un BPM, es posible percatarse que no se trata solo de una herramienta, sino de una filosofía de mejora continua. Por lo cual, el BPM permite la adaptación ante los cambios en el entorno empresarial y propicia la evolución hacia la excelencia operativa.
+La gestión de documentos electrónicos , también conocido como Electronic Document Management (EDM), es esencial para la digitalización de procesos, ya que la eliminación del papel y la adopción de documentos electrónicos agilizan los flujos de trabajo y reducen los costos de almacenamiento físico.
+Además, estos sistemas facilitan la búsqueda y acceso rápido de la información, así como la integridad y seguridad de los documentos.
+La digitalización de datos es crucial para la automatización de procesos y puede realizarse por medio de tecnología OCR, es decir, de Reconocimiento Óptico de Caracteres. Con ello, la extracción de información clave de documentos y formularios facilita la toma de decisiones basada en datos precisos.
+Por su parte, Robot Process Automation (RPA) hace alusión a la automatización inteligente de tareas y procesos empresariales, desde la recopilación y procesamiento de datos hasta la generación de informes y la interacción con sistemas y aplicaciones. Con lo cual, se puede revolucionar la forma en la que la organización opera.
+Gracias por tu respuesta
+¿Qué tipo de tecnología se puede implementar en tu organización?, ¿qué implicaciones tendría su uso?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es una tecnología, en constante evolución, que utiliza robots de software para realizar tareas repetitivas y manuales de manera eficiente y precisa. Esto permite optimizar y acelerar procesos en un entorno empresarial cambiante.
+Es un conjunto de herramientas y técnicas que permiten diseñar, ejecutar y supervisar flujos de trabajo de manera eficiente.
+No es una adición tecnológica a las operaciones de una organización, se trata de un enfoque estratégico para la gestión de la eficiencia y la calidad en todas las áreas de una empresa.
+Por medio de la automatización de tareas, la gestión de flujos de trabajo y la eliminación de procesos manuales redundantes y propensos a errores, así como la habilitación de la toma de decisiones basada en datos en tiempo real.
+Esta tecnología convierte documentos impresos o manuscritos en datos digitales que pueden procesarse electrónicamente.
+Esta categoría se refiere a la ejecución automática de tareas repetitivas y predeterminadas en un flujo de trabajo.
+Esta tecnología permite la creación, almacenamiento, recuperación y distribución eficiente de documentos electrónicos que antes eran físicos.

@@ -1,0 +1,17 @@
+# L3 · Aplicaciones de RPA en la industria
+Genially 655d2deab4d73a001195ce66 → 655d2de7388c630011a0b074
+
+Aplicaciones de RPA
+en la industria
+Las tecnologías de automatización de procesos robóticos (RPA) han cambiado la forma en que las organizaciones gestionan sus operaciones en diversas industrias.
+CODIGO NO BORRAR
+Banca y Finanzas
+En el sector financiero, las RPAs se utilizan para automatizar procesos de cumplimiento, gestión de cuentas, verificación de identidad y gestión de reclamos. También se aplican en la detección de fraudes y en la generación de informes financieros.
+Las RPAs se emplean en la administración de registros médicos, facturación, procesamiento de reclamaciones de seguros y programación de citas. También se utilizan en la gestión de inventarios de suministros médicos.
+Manufactura
+En la industria manufacturera, las RPAs son utilizadas para la gestión de la cadena de suministro, seguimiento de inventarios, control de calidad y gestión de procesos de producción. También se aplican en tareas de mantenimiento predictivo.
+Retail y Comercio Electrónico
+En este sector, las RPAs se emplean para la gestión de pedidos en línea, procesamiento de devoluciones, seguimiento de inventario y recomendaciones personalizadas para los clientes.
+Recursos Humanos
+En la gestión de recursos humanos, las RPAs se utilizan para la selección de personal, procesamiento de nóminas, seguimiento de tiempos y gestión de beneficios. También pueden facilitar la comunicación interna y el onboarding de empleados.
+Continúa con el estudio de la lección.

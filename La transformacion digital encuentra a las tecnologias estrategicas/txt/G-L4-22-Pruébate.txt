@@ -1,0 +1,66 @@
+# L4 · Pruébate
+Genially 6567b418403f810014637087
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Martha a resolver algunas problemáticas.
+ChispaGadget, empresa líder en la fabricación de dispositivos electrónicos, ha pedido a Martha mejorar la eficiencia de los procesos de diseño de productos, por lo que debe iniciar un proyecto de transformación digital con la ayuda de la Gen AI, ¿puedes ayudarla? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Cuál es uno de los factores clave que Martha debe considerar al evaluar los costos de implementar Gen IA?
+Entorno del mercado y competidores
+Número de empleados en el proyecto
+Inversiones en marketing
+Requerimientos de la compañía
+¡Correcto!
+Al evaluar los requerimientos de la compañía Martha puede determinar el alcance del proyecto, el grado de personalización, la infraestructura tecnológica, esto es esencial para realizar estimaciones de costos precisas, identificar desafíos potenciales y garantizar el éxito.
+¡Incorrecto!
+Martha debe considerar los requerimientos de la compañía, esto le permitirá determinar el alcance del proyecto, conocer la infraestructura con que cuenta la compañía, así como otros aspectos para realizar estimaciones de costos precisas.
+¿En qué área específica podría la Gen AI tener usos emergentes para mejorar los procesos de diseño de productos en ChispaGadget?
+Retail, ventas y servicio al cliente
+Optimización de la cadena de suministro
+Proyecciones financieras
+Planeación estratégica
+El uso de Gen AI en el diseño de productos puede optimizar la cadena de suministro al prever demandas con precisión, crear diseños eficientes y permitir una producción ágil, reduciendo así costos y desperdicios.
+Un área que puede verse impactada es la cadena de suministro, pues el uso de Gen AI puede ayudar a prever la demanda con precisión, crear diseños eficientes y permitir una producción ágil, reduciendo así costos y desperdicios.
+¿Cómo podría la integración de IA generativa, liderada por Martha, influir en los cambios en la industria?
+Reduciendo la dependencia a tecnologías digitales
+Reduciendo tiempos de planeación financiera
+Aumentando la productividad de los empleados
+Mejorando la competitividad con innovación
+Al incluir Inteligencia Artificial generativa en el diseño de productos, Martha podría influir fomentar la innovación y mejorar la competitividad, lo que impactaría en toda la industria
+La respuesta es c), pues con la inclusión de la Inteligencia Artificial generativa en el diseño de productos, Martha puede hacer un cambio que impacte en la competitividad de la industria a través de la innovación.
+¿Cuál es un posible beneficio para ChispaGadget al utilizar un LLM en el contexto del diseño de productos?
+Mejores proyecciones de ventas
+Descripciones de producto precisas
+Reducción de tiempos de producción
+Aumento en la creatividad del diseño
+Los LLM (como ChatGPT) pueden mejorar la precisión en la generación de descripciones de productos mediante el entendimiento contextual y la capacidad de producir texto de manera más natural.
+La respuesta es a), pues el uso de un LLM como ChatGPT puede ayudar a generar descripciones de productos más precisas, gracia al entendimiento contextual y la capacidad de producir texto de manera más natural.
+¿Cómo impactaría el uso de tecnologías emergentes, incluida la IA generativa, en los procesos de transformación digital liderados por Martha?
+Generando mayor flexibilidad y agilidad empresarial
+Limitando la creatividad de los colaboradores
+Haría más dinámico el mercado
+Impulsaría la competitividad
+La implementación de tecnologías emergentes, como la IA generativa, aumenta la flexibilidad y agilidad empresarial al permitir adaptarse rápidamente a nuevas tendencias y demandas del mercado.
+La respuesta es a), pues la implementación de tecnologías emergentes, como la IA generativa, aumenta la flexibilidad y agilidad empresarial al permitir adaptarse rápidamente a nuevas tendencias y demandas del mercado.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
