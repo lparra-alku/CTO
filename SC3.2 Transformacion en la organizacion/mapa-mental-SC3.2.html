@@ -1,0 +1,107 @@
+<title>Transformación en la Organización</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600;700&display=swap">
+<style>
+:root{
+  --ground:#F6F7F9; --surface:#FFFFFF; --sunken:#EDF0F4;
+  --ink:#151A21; --ink-2:#3D4753; --ink-3:#6B7684; --line:#D9DEE6;
+  --c1:#7A4B12; --c1-bg:#F6ECDD;
+  --c2:#2F6A3A; --c2-bg:#E5F1E7;
+  --c3:#8C2F39; --c3-bg:#F7E3E5;
+  --c4:#2C5577; --c4-bg:#E3ECF4;
+  --c5:#5B4A8C; --c5-bg:#ECE8F6;
+  --flag:#8A5A00; --flag-bg:#FBF1DC; --flag-line:#E4C77E;
+  --star:#0B6E64; --star-bg:#E4F1EE;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#E2B06C; --c1-bg:#2B1E0F;
+  --c2:#79C98A; --c2-bg:#12261A;
+  --c3:#EE8E98; --c3-bg:#2E1316;
+  --c4:#86B6E0; --c4-bg:#122130;
+  --c5:#B3A3EA; --c5-bg:#1D1830;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}}
+:root[data-theme="dark"]{
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#E2B06C; --c1-bg:#2B1E0F;
+  --c2:#79C98A; --c2-bg:#12261A;
+  --c3:#EE8E98; --c3-bg:#2E1316;
+  --c4:#86B6E0; --c4-bg:#122130;
+  --c5:#B3A3EA; --c5-bg:#1D1830;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  line-height:1.5;padding:clamp(20px,4vw,52px) clamp(14px,4vw,44px) 72px;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(22px,3vw,34px)}
+
+header{display:flex;flex-direction:column;gap:10px;padding-bottom:20px;border-bottom:2px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:"IBM Plex Serif",Georgia,serif;font-weight:700;margin:0;
+  font-size:clamp(28px,5.2vw,44px);letter-spacing:-.02em;text-wrap:balance;line-height:1.12}
+.sub{color:var(--ink-2);max-width:62ch;font-size:15.5px;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2);
+  background:var(--sunken);border:1px solid var(--line);border-radius:3px;padding:4px 9px}
+
+.branch{display:grid;grid-template-columns:minmax(150px,200px) 1fr;gap:clamp(14px,2.4vw,30px);
+  align-items:start}
+.stem{position:sticky;top:20px;display:flex;flex-direction:column;gap:7px;
+  padding:13px 15px;border-radius:4px;background:var(--bg);border-left:4px solid var(--hue)}
+.stem .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--hue);font-weight:600}
+.stem h2{font-family:"IBM Plex Serif",Georgia,serif;font-size:18px;font-weight:600;margin:0;
+  line-height:1.24;text-wrap:balance;color:var(--ink)}
+.stem p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.42}
+
+.nodes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));
+  padding-left:clamp(12px,1.6vw,20px);border-left:1px dashed var(--line)}
+.node{background:var(--surface);border:1px solid var(--line);border-radius:4px;
+  padding:13px 15px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.node h3{margin:0;font-size:12.5px;font-weight:600;letter-spacing:.01em;color:var(--hue);
+  display:flex;align-items:baseline;gap:7px}
+.node h3 .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-3);
+  letter-spacing:.06em;font-weight:500}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+li{font-size:13.5px;color:var(--ink-2);padding-left:13px;position:relative;line-height:1.42}
+li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:1.5px;background:var(--hue);opacity:.65}
+li b{color:var(--ink);font-weight:600}
+.seq{counter-reset:s;gap:5px}
+.seq li{padding-left:24px}
+.seq li::before{counter-increment:s;content:counter(s);width:auto;height:auto;background:none;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--hue);font-weight:600;
+  top:1px;opacity:1}
+
+.flag,.star{border-radius:4px;padding:15px 17px;display:flex;flex-direction:column;gap:7px}
+.flag{background:var(--flag-bg);border:1px solid var(--flag-line)}
+.star{background:var(--star-bg);border:1px solid var(--star);border-left-width:4px}
+.flag .lbl,.star .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;font-weight:600}
+.flag .lbl{color:var(--flag)} .star .lbl{color:var(--star)}
+.flag h3,.star h3{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.flag p,.star p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:74ch}
+.flag b,.star b{color:var(--ink)}
+
+.rank{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));margin-top:3px}
+.rk{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:10px 12px;
+  display:flex;flex-direction:column;gap:3px}
+.rk .p{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--star);font-weight:600}
+.rk .t{font-size:13px;font-weight:600;color:var(--ink)}
+.rk .d{font-size:12px;color:var(--ink-3);line-height:1.38}
+
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--ink-3);font-size:12.5px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;font-family:"IBM Plex Mono",monospace}
+@media (max-width:720px){
+  .branch{grid-template-columns:1fr;gap:12px}
+  .stem{position:static;border-left-width:4px}
+  .nodes{padding-left:0;border-left:none}
+}
+</style>
+
+<div class="wrap"><header><div class="eyebrow">Chief Digital Transformation Officer · SC 3.2</div><h1>Transformación Digital en la Organización</h1><p class="sub">La transformación no es un proyecto: es un modo de vida organizacional, y no la hace un área sola. Cuatro palancas —cultura, tecnología y datos, mercado y UX, adopción— y una disciplina que abre y cierra el módulo: medir la madurez antes de decidir.</p><div class="meta"><span class="chip">Evaluación 40 % · 25 preguntas · 3 intentos</span><span class="chip">Reto 60 % · Transformando tu organización</span><span class="chip">Experto: Ludwig O. Salgado Rodríguez</span></div></header><section class="branch" style="--hue:var(--c1);--bg:var(--c1-bg)"><div class="stem"><div class="n">LECCIÓN 1</div><h2>Elementos y madurez</h2><p>Qué es y dónde estás</p></div><div class="nodes"><div class="node"><h3>Definición</h3><ul><li>Integrar tecnología digital en <b>todas las áreas</b>, cambiando cómo opera y entrega valor</li><li><b>Centrada en el cliente</b> · involucra a <b>todos los niveles</b></li><li style="color:var(--ink-3)">No es un proyecto: no tiene fin</li></ul></div><div class="node"><h3>3 elementos clave</h3><ul><li><b>Cultura organizacional digital</b></li><li><b>Gestión de la información y la tecnología</b> (ERP + seguridad)</li><li><b>UX y conocimiento del mercado</b></li></ul></div><div class="node"><h3>DMD: 5 áreas</h3><ul><li><b>Cultura digital</b>: programa de capacitación</li><li><b>Gestión de la información</b>: análisis de datos para decidir</li><li><b>Tecnología</b>: IA, blockchain, IoT, nube</li><li><b>Experiencia del cliente</b>: portal de cliente</li><li><b>Seguridad</b>: 2FA, cifrado, antimalware</li></ul></div></div></section><section class="branch" style="--hue:var(--c2);--bg:var(--c2-bg)"><div class="stem"><div class="n">LECCIÓN 2</div><h2>Cultura organizacional digital</h2><p>La palanca que más pesa</p></div><div class="nodes"><div class="node"><h3>Estrategia · liderazgo · cultura</h3><ul><li>Fracasan por <b>resistencia, falta de liderazgo y falta de cultura</b></li><li><b>Estrategia</b>: visión y plan, flexible</li><li><b>Liderazgo</b>: inspirar y motivar</li><li><b>Cultura</b>: valores, prácticas y comportamientos; client-centric</li></ul></div><div class="node"><h3>Innovación</h3><ul><li>Crear y aplicar ideas que generan valor: <b>incremental o radical</b></li><li>Equipos <b>multidisciplinarios</b> + premiar la experimentación</li><li style="color:var(--ink-3)">“Sexta ola”: es de Moody y Nogrady (2010), no de Schumpeter</li></ul></div><div class="node"><h3>Agilidad y resiliencia</h3><ul><li><b>Agilidad organizacional</b> = toda la empresa</li><li><b>Metodologías ágiles</b> = proyectos (Scrum, Kanban, Lean)</li><li><b>Resiliencia</b>: anticipar, prepararse, responder, adaptarse</li><li>7 rasgos · <b>celebrar éxitos y aprender de fracasos</b></li></ul></div></div></section><section class="branch" style="--hue:var(--c3);--bg:var(--c3-bg)"><div class="stem"><div class="n">LECCIÓN 3</div><h2>Tecnología, datos y seguridad</h2><p>Industria 4.0 → 5.0</p></div><div class="nodes"><div class="node"><h3>Tecnología</h3><ul><li><b>Nube</b>: escalar según la demanda</li><li>IA y ML · AR/VR · colaboración</li><li><b>Caso Nadro</b>: vision picking + SAP EWM, <b>+30 %</b> de productividad</li><li>Resiliencia tecnológica: redundancia, respaldos, DRP</li><li style="color:var(--ink-3)">Industria 5.0: reintegra al humano</li></ul></div><div class="node"><h3>Data Driven</h3><ul><li><b>Decidir con datos</b>, no por intuición</li><li>Cultura · procesos · infraestructura · tecnología · talento · cliente</li><li><b>5 V</b>: volumen, velocidad, variedad, veracidad, valor</li><li>Usos: predictivo · personalización · decisiones</li></ul></div><div class="node"><h3>Ciberseguridad: 7 elementos</h3><ul><li>Cultura de seguridad · infraestructura (IDS/IPS, SIEM)</li><li><b>Cifrado en tránsito y en reposo</b></li><li>Procesos · cumplimiento (GDPR, PCI-DSS, <b>ISO 27001</b>)</li><li>Talento · innovación (IA, blockchain) · cliente</li></ul></div></div></section><section class="branch" style="--hue:var(--c4);--bg:var(--c4-bg)"><div class="stem"><div class="n">LECCIÓN 4</div><h2>Mercado y UX</h2><p>Cómo te vive el cliente</p></div><div class="nodes"><div class="node"><h3>Experiencia de usuario</h3><ul><li><b>Diseño centrado en el usuario</b> primero</li><li>Diferenciación · conversión · retención y lealtad</li><li>8 aspectos: usabilidad, accesibilidad, consistencia, personalización…</li></ul></div><div class="node"><h3>Omnicanal vs. multicanal</h3><ul><li><b>Omnicanal</b>: canales integrados, una sola experiencia</li><li><b>Multicanal</b>: canales independientes, experiencias desconectadas</li><li>Devolver en tienda lo comprado en línea = omnicanal</li></ul></div><div class="node"><h3>Herramientas y marketing</h3><ul><li><b>Hotjar</b>: mapas de calor y sesiones · Google Analytics · CEM</li><li><b>Retargeting</b>: a quien visitó y no compró</li><li><b>Email marketing</b>: descuento + boletines</li><li style="color:var(--ink-3)">Clarabridge y Watson Tone Analyzer ya no existen</li></ul></div></div></section><section class="branch" style="--hue:var(--c5);--bg:var(--c5-bg)"><div class="stem"><div class="n">LECCIÓN 5</div><h2>Implementación y adopción</h2><p>Medir, acelerar, trazar la ruta</p></div><div class="nodes"><div class="node"><h3>9 competencias de Gartner (niveles 1-5)</h3><ul><li><b>Estrategia y ejecución</b> = innovar el modelo</li><li><b>Agilidad del modelo</b> = cambiar el modelo</li><li>CXM · productos e ingresos digitales · <b>infonomía</b></li><li>Canales y ecosistemas · cultura de innovación · liderazgo · lugar de trabajo</li></ul></div><div class="node"><h3>Aceleradores digitales</h3><ul><li><b>DA1</b> colaboración · <b>DA2</b> evaluaciones</li><li><b>DA3</b> aprendizaje · <b>DA4</b> datos y análisis</li><li>Tipos: IoT · nube · <b>ágil</b> (software) · <b>IA</b> (recomendaciones)</li></ul></div><div class="node"><h3>Roadmap: 5 fases</h3><ul class="seq"><li>Evaluación y conciencia</li><li>Estrategia y planificación</li><li>Implementación y ejecución (pilotos)</li><li>Escalamiento y optimización</li><li>Sostenibilidad y liderazgo</li></ul></div></div></section><footer><span>Mapa de estudio · SC 3.2</span><span>Tec de Monterrey · The Learning Gate</span><span>Sept 2026</span></footer></div>

@@ -1,0 +1,29 @@
+# L2 · Agilidad organizacional y resiliencia
+Genially 65adf5a7c385760014527bab
+
+organizacional y resiliencia
+La agilidad organizacional es la capacidad de una empresa para adaptarse rápidamente a los cambios del mercado y a las demandas de los clientes. Por otro lado, la resiliencia es la capacidad de recuperarse de los contratiempos y desafíos.
+Agilidad organizacional:
+La agilidad organizacional es una característica fundamental de la cultura organizacional digital. Las organizaciones ágiles son capaces de responder rápidamente a los cambios del entorno, adaptarse a nuevas circunstancias y tomar decisiones de manera eficiente.
+Es importante diferenciar entre agilidad organizacional y metodologías ágiles, ya que son conceptos que a menudo se utilizan en el contexto de la gestión empresarial y el desarrollo de software , pero se refieren a aspectos diferentes, lo cual, se explicará más adelante. A continuación, encontrarás algunas características claves de la agilidad organizacional.
+Características clave de la agilidad organizacional
+Visión estratégica flexible. La empresa puede ajustar su estrategia y objetivos según los cambios en el entorno empresarial. Cultura de adaptabilidad . La organización promueve una cultura que fomenta la innovación, la toma de riesgos y la capacidad de aprender rápidamente de los errores.
+Estructuras dinámicas . La empresa utiliza estructuras organizativas que permiten una rápida reconfiguración de equipos y recursos según sea necesario. Procesos eficientes. Los procesos internos están diseñados para ser eficientes y flexibles, permitiendo una rápida toma de decisiones y ejecución.
+Liderazgo ágil. Los líderes fomentan la colaboración, empoderan a los empleados y pueden guiar a la organización con periodos de cambio.
+Metodologías Ágiles
+Las metodologías ágiles son un conjunto de prácticas y principios específicos que se aplican al desarrollo de proyectos, particularmente en el desarrollo de software .
+Características clave de las metodologías ágiles incluyen:
+Iteraciones cortas. El trabajo se divide en ciclos cortos llamados iteraciones o sprints, al final de los cuales se entrega una parte del producto.
+Colaboración y comunicación. Existe una comunicación constante tanto dentro del equipo de desarrollo como con los clientes o usuarios finales.
+Enfoque en el valor del cliente. Se prioriza el trabajo que ofrece el mayor valor para el cliente, y se busca su feedback regularmente.
+Autonomía del equipo Los equipos ágiles son autoorganizados y multidisciplinarios, con la capacidad de tomar decisiones importantes sin depender de la jerarquía tradicional.
+Respuesta al cambio. Las metodologías ágiles valoran la capacidad de cambiar de rumbo y ajustar las características del producto en respuesta a la retroalimentación recibida.
+Diferencias clave entre agilidad organizacional y metodologías clave
+La agilidad organizacional incluye aspectos como cultura, estructura y estrategia; esta se aplica a toda la empresa y a su capacidad para operar de manera eficiente en un entorno cambiante. Por otro lado, las metodologías ágiles son prácticas específicas con un enfoque en la flexibilidad, iteración y la respuesta al cambio que se aplican principalmente al desarrollo de proyectos y productos.
+Gracias por tu respuesta
+¿Qué metodologías ágiles se han aplicado dentro de tu Organización?, ¿qué otras conoces?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Se centran en la entrega iterativa e incremental de productos, la colaboración estrecha entre los equipos de desarrollo y los stakeholders .
+Implica la eliminación de jerarquías rígidas y la promoción de estructuras más horizontales, así como la adopción de nuevos marcos de trabajo ágiles, como Scrum, Kanban, Lean.
+Mientras que, las metodologías ágiles pueden ser un componente de la agilidad organizacional, la agilidad organizacional va más allá de las metodologías de gestión de proyectos y afecta a todos los aspectos de la empresa.

@@ -1,0 +1,60 @@
+# L1 · Pruébate
+Genially 6595b3b0213ddb0014ad5ffc
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Luisa a resolver algunas problemáticas.
+Luisa se desempeña como Chief Marketing Officer de una empresa de ropa para la familia, la cual, quiere comenzar con un proyecto de Transformación digital y necesita tu ayuda para repasar ciertos conceptos. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Existencia de un proceso de análisis de datos que permite la toma de decisiones basadas en la información
+Crear un programa de capacitación y educación digital para los empleados
+Mejorar la experiencia del cliente
+Luisa necesita evaluar la Gestión de la información, ¿cuál de las siguientes opciones permitirá medir lo antes descrito?
+¡Correcto!
+Para evaluar de acuerdo a la Gestión de la información digital en el DMD, una opción efectiva sería implementar un sistema de etiquetado y organización claro para los archivos, asegurándose de que se aplique de manera consistente.
+¡Incorrecto!
+La respuesta correcta es: existencia de un proceso de análisis de datos que permite la toma de decisiones basadas en la información. Para evaluar de acuerdo a la Gestión de la información digital en el DMD, una opción efectiva sería implementar un sistema de etiquetado y organización claro para los archivos, asegurándose de que se aplique de manera consistente.
+Con la implementación de la transformación digital, será necesario evaluar constantemente la tecnología , ¿cuál de las siguientes opciones ayudará a Luisa a evaluar de acuerdo al DMD?
+Tecnologías avanzadas como inteligencia artificial, blockchain , internet de las cosas (IoT) y cloud computing
+Participación activa de los empleados en la adopción de nuevas tecnologías
+Creando un programa de capacitación y educación digital para los empleados
+Reconoces la importancia de evaluar constantemente la tecnología en el contexto de la transformación digital. Recuerda que también es importante la existencia de un plan de seguridad tecnológica que proteja la información y los sistemas de la organización.
+La respuesta correcta es: Tecnologías avanzadas como inteligencia artificial, blockchain , internet de las cosas (IoT) y cloud computing . Toma en cuenta que la tecnología está en constante evolución, por lo que es importante mantener las tecnologías más avanzadas del mercado.
+Uno de los beneficios de la implementación de la Transformación digital es la mejora en la experiencia del cliente, ¿cuál de las siguientes opciones permitirá evaluar el DMD de esta área?
+Presencia de un portal de cliente que permite la interacción y el acceso a información y servicios de la organización
+Identificar los puntos fuertes y débiles de una organización en términos de cultura digital
+Evaluar la eficacia de la implementación de tecnologías avanzadas
+Recuerda que también es importante hacer uso de herramientas de análisis de datos para entender mejor las necesidades y preferencias del cliente.
+La respuesta correcta es: Presencia de un portal de cliente que permite la interacción y el acceso a información y servicios de la organización. Recuerda que es importante conocer las necesidades y preferencias del cliente, por lo que el nivel de interacción con ellos es una buena manera de evaluar el nivel de madurez.
+Uno de los factores que deben tomarse en cuenta al implementar nuevas tecnologías es la seguridad, ¿cuál de las siguientes opciones Luisa debe evaluar con el DMD?
+Uso de tecnologías de seguridad avanzadas como autenticación de dos factores, cifrado de datos y protección contra malware
+Uso de herramientas de análisis de datos para entender las necesidades y preferencias del cliente
+El sistema de Gestión de la información integrado para compartir datos entre los departamentos de la organización
+No olvides que también debe existir una participación activa de los empleados en la prevención de amenazas de seguridad.
+La respuesta correcta es: Uso de tecnologías de seguridad avanzadas como autenticación de dos factores, cifrado de datos y protección contra malware . Al implementar nuevas tecnologías es importante contar con sistemas de seguridad avanzadas como autenticación de dos factores, cifrado de datos y protección contra malware.
+A partir de que se implemente la transformación digital, Luisa debe evaluar la cultura digital de la organización en el DMD, ¿qué indicador puede utilizar?
+Existencia de un programa de capacitación y educación digital para los empleados
+Presencia de un plan de digitalización clear y comunicado a todos los empleados
+Continuamente los empleados deben pasar por un proceso de capacitación constante derivado de los nuevos procesos y herramientas que se van incorporando a la organización.
+La respuesta correcta es: Existencia de un programa de capacitación y educación digital para los empleados. Los empleados deben conocer cómo poder utilizar y sacar provecho de las nuevas herramientas y métodos de trabajo, esto solo se logra mediante mentorías y enseñanza continua.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

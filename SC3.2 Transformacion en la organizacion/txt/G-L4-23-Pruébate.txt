@@ -1,0 +1,63 @@
+# L4 · Pruébate
+Genially 65ba91b7a06b070014472e53
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Iván a resolver algunas problemáticas.
+Total Look, una empresa de retail, ha decidido iniciar su proceso de transformación digital. Gracias a tus conocimientos sobre UX, omnicanalidad y negocios digitales, te han contratado como consultor. Responde las preguntas correctamente y ayúdalos a llevar con éxito su proceso. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Total Look desea implementar una nueva aplicación móvil para compras en línea, ¿qué aspecto de la UX debería priorizarse para garantizar la satisfacción del cliente?
+Diseño centrado en el usuario
+Complejidad en la navegación
+Diseño visual atractivo
+Rentabilidad
+¡Correcto!
+El diseño y funcionalidades de una aplicación de compras en línea están completamente centrados en el usuario, adaptándose a sus preferencias y hábitos de compra; creando una experiencia más relevante y satisfactoria.
+¡Incorrecto!
+La respuesta correcta es a), pues la transformación digital pone al usuario en el centro de la estrategia de negocio. Así desde un enfoque de UX se podrá entender y satisfacer mejor las necesidades y expectativas de sus clientes.
+Total Look desea realizar un análisis de la interacción de los usuarios con su sitio web, ¿cuál de las siguientes herramientas es la más adecuada para esta tarea?
+Salesforce
+Esta herramienta es ideal pues combina mapas de calor, grabaciones de sesiones y encuestas para proporcionar una visión integral de cómo los usuarios interactúan con un sitio web.
+La respuesta es c), pues Hotjar combina mapas de calor, grabaciones de sesiones y encuestas para proporcionar una visión integral de cómo los usuarios interactúan con un sitio web.
+A raíz del lanzamiento de su nueva app y el rediseño del sitio web, en Total Look ha surgido una duda, ¿cómo pueden aprovechar la omnicanalidad para mejorar la experiencia del cliente?
+Integrando plataformas en línea y físicas para una experiencia sin fisuras
+Incrementando ofertas en tienda en línea y pagos sin contacto
+Mejorando la accesibilidad y conveniencia para los clientes
+Generando políticas de devolución diferentes para cada canal
+La integración omnicanal permite una experiencia fluida, donde los clientes pueden moverse sin problemas entre la tienda física y la plataforma en línea.
+La respuesta es d), la omnicanalidad es un componente esencial de la transformación digital, pues reconoce la importancia de proporcionar una experiencia unificada al cliente mediante diversos canales y puntos de contacto.
+Para incrementar las compras en usuarios que visitan su sitio web, Total Look desea mostrar anuncios personalizados, ¿qué tipo de campaña se deben llevar a cabo?
+Total Look debería llevar a cabo una campaña de anuncios en la radio local para aumentar las compras de los usuarios que visitan su sitio web.
+Campaña de marketing que se centra exclusivamente en nuevos clientes
+Una técnica que envía el mismo anuncio a todos los usuarios de internet.
+Campaña de retargeting
+El retargeting re-engrancha a los visitantes del sitio web que no hayan realizado una compra, utilizando anuncios personalizados basados en su comportamiento de navegación.
+La respuesta correcta es a), el retargeting es una estrategia de marketing digital que muestra anuncios personalizados a usuarios que han visitado previamente un sitio web.
+¿Qué tipo de campaña podría implementar Total look para suscribir a los visitantes del sitio web ofreciéndoles un descuento en su primera compra, enviar boletines mensuales con contenido exclusivo, ofertas especiales y noticias de la marca?
+Influencer marketing
+Retargeting
+Email marketing
+Programa de lealtad
+Con esta campaña también podrás enviar boletines mensuales con contenido exclusivo, ofertas especiales y noticias de la marca a los suscriptores, antes visitantes.
+La respuesta correcta es b), esta campaña, además de suscribir a los visitantes, te permitirá enviar ofertas especiales, boletines y noticias exclusivas.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

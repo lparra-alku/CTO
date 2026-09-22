@@ -1,0 +1,15 @@
+# L4 · Omnicanalidad y Multicanalidad
+Genially 65ba91a566aafd00141b3720 → 65ba91a982cf6300142073ca
+
+Omnicanalidad y Multicanalidad
+Diferencias entre Omnicanalidad y Multicanalidad
+La diferenciación entre omnicanalidad y multicanalidad se presenta como un elemento crucial para comprender y diseñar estrategias efectivas de interacción con el cliente.
+CODIGO NO BORRAR
+La diferencia principal entre omnicanalidad y multicanalidad radica en la integración y coherencia de la experiencia del cliente a lo largo de diversos canales. Mientras que la multicanalidad implica la presencia en varios canales de manera independiente, la Omnicanalidad busca la integración fluida de estos canales para ofrecer una experiencia unificada al usuario.
+En la multicanalidad, cada canal puede funcionar de manera aislada, mientras que la omnicanalidad busca una conexión sin fisuras, permitiendo a los clientes moverse entre canales sin perder continuidad en su experiencia.
+La multicanalidad también implica el uso de múltiples canales para interactuar con los clientes, pero a diferencia de la omnicanalidad, estos canales suelen operar de forma independiente y no están necesariamente integrados. En un enfoque multicanal, cada canal puede tener su propia estrategia, conjunto de objetivos y forma de interactuar con el cliente, lo que puede llevar a experiencias desconectadas.
+Por ejemplo, una empresa multicanal puede tener una tienda en línea, una aplicación móvil y una tienda física, pero la experiencia del cliente en cada uno de estos canales puede ser diferente y no necesariamente coherente . Si un cliente compra algo en línea y luego quiere devolverlo en la tienda física, puede encontrar que el proceso es complicado o incluso imposible si los sistemas no están integrados.
+Omnicanal
+Multicanal
+En resumen, l a multicanalidad se centra en la presencia en múltiples canales, mientras que la omnicanalidad se enfoca en la integración y coherencia de la experiencia del cliente a través de esos canales.
+Continúa con el estudio de la lección.

@@ -1,0 +1,541 @@
+
+--- p1 ---
+Las competencias de Gartner proporcionan un marco 
+sólido para evaluar y mejorar la capacidad de una 
+empresa para abrazar y aprovechar la transformación 
+digital en todas sus dimensiones.
+Competencias 
+Gartner
+y aceleradores digitales
+
+--- p2 ---
+La transformación digital es un viaje continuo, no un destino fijo, por ello las 
+organizaciones deben estar preparadas para evolucionar a medida que surgen 
+nuevas tecnologías y cambian las expectativas de los clientes. En este contexto, 
+evaluar el nivel de adopción de transformación digital en una empresa es 
+esencial para medir el progreso, identificar áreas de mejora, priorizar 
+iniciativas, optimizar la inversión y fomentar una cultura de 
+innovación. 
+Dentro de un proceso de evaluación del nivel de adopción, las competencias 
+de Gartner sirven como una guía para identificar áreas clave de 
+enfoque y desarrollo, permitiendo a las empresas entender mejor dónde 
+se encuentran en su viaje digital y qué pasos deben seguir para 
+alcanzar sus objetivos estratégicos. En otras palabras, las competencias de 
+Gartner desempeñan un papel crucial en la implementación y adopción exitosa 
+de la transformación digital.
+Competencias de Gartner
+Dichas competencias abarcan una variedad de dimensiones críticas para la 
+transformación digital como: 
+La estrategia y ejecución de negocios digitales. 
+La gestión de la experiencia del cliente (CXM).
+El diseño de productos/servicios digitales y la generación de ingresos 
+digitales. 
+La infonomía (valoración de activos de información). 
+La agilidad del modelo de negocio.
+La cultura de innovación.
+El liderazgo digital.
+Los canales y ecosistemas digitales.
+El lugar de trabajo digital.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+2
+
+--- p3 ---
+Para conocer en qué consiste cada competencia, así como sus tres diferentes 
+niveles, te invitamos a revisar la siguiente tabla.
+Competencia
+Función 
+Nivel 1 
+Nivel 3
+Nivel 5
+Evalúa cómo la 
+empresa innova y 
+optimiza su 
+modelo de 
+negocio mediante 
+el uso de 
+tecnologías 
+digitales. 
+No hay capacidad 
+para la innovación 
+del modelo de 
+negocio. Se 
+recomienda que 
+los líderes 
+ejecutivos 
+determinen las 
+ambiciones 
+digitales de la 
+organización y 
+comprendan el 
+potencial digital. 
+El equipo de 
+liderazgo 
+reconoce el 
+potencial de valor 
+digital y está 
+actuando para 
+definir ambiciones 
+que informen el 
+diseño del modelo 
+de negocio y el 
+desarrollo de la 
+estrategia.  
+La estrategia de 
+negocio digital es 
+la estrategia de 
+negocio; toda la 
+organización se 
+enfoca en el éxito 
+del negocio 
+digital. Se deben 
+asegurar 
+mecanismos 
+organizativos para 
+mantener 
+actualizada la 
+estrategia de 
+negocio digital. 
+2. Gestión de la 
+Experiencia del 
+Cliente (CXM) 
+1. Estrategia y 
+ejecución de 
+negocios 
+digitales 
+Se refiere a cómo 
+la empresa 
+gestiona la 
+experiencia del 
+cliente a través de 
+canales digitales. 
+La aproximación a 
+la CX es 
+fragmentada y no 
+hay un enfoque a 
+nivel de la 
+dirección. Se 
+sugiere buscar 
+aliados dentro de 
+la empresa que 
+vean la necesidad 
+de mejorar la CX y 
+abogar por un 
+liderazgo 
+dedicado a esta 
+área. 
+El comité directivo 
+está funcionando 
+bien con metas, 
+políticas, 
+prácticas y 
+procesos 
+organizacionales 
+entorno a CX, pero 
+la ejecución y 
+presupuestación 
+de proyectos de 
+CX son en gran 
+parte 
+departamentales.  
+La CX es una 
+prioridad 
+organizacional y 
+los empleados 
+están 
+empoderados para 
+mejorar la 
+experiencia del 
+cliente. Se debe 
+seguir innovando 
+en la CX y 
+comunicar su 
+valor a los 
+inversores y 
+accionistas. 
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+3
+
+--- p4 ---
+Considera la 
+capacidad de la 
+empresa para 
+generar ingresos a 
+través de 
+productos y 
+servicios digitales. 
+No existe el 
+concepto de 
+productos/servicios 
+ni ingresos 
+digitales. Los 
+líderes deben 
+identificar y educar 
+sobre casos de 
+éxito en productos 
+digitales y realizar 
+pruebas de 
+concepto.
+La alta dirección 
+reconoce el valor 
+potencial de los 
+ingresos digitales 
+y está actuando 
+estratégicamente. 
+Se ha iniciado un 
+esfuerzo a nivel de 
+empresa para 
+identificar y 
+aprovechar 
+oportunidades de 
+ingresos digitales.  
+Los productos y 
+servicios digitales 
+han transformado 
+los estados 
+financieros de la 
+organización. Es 
+necesario 
+mantener el 
+liderazgo digital y 
+comunicar los 
+aportes de valor 
+de los canales 
+digitales y el 
+ecosistema a la 
+comunidad 
+inversora. 
+4. Infonomía  
+3. Diseño de 
+Productos/
+    Servicios 
+Digitales e 
+Ingresos 
+Digitales  
+Trata sobre cómo 
+la empresa mide y 
+aprovecha el valor 
+de sus activos de 
+información. 
+No hay conciencia 
+sobre la valoración 
+de los activos de 
+información. Los 
+líderes deben 
+familiarizarse con 
+los diferentes 
+tipos de activos 
+de información y 
+su potencial valor. 
+La organización ha 
+establecido la 
+capacidad de 
+gestionar, 
+entender y 
+aprovechar varias 
+métricas sobre la 
+calidad, relevancia, 
+impacto, costo y 
+valor realizado de 
+los activos de 
+información 
+disponibles. 
+La organización 
+obtiene beneficios 
+económicos 
+significativos de 
+sus activos de 
+información. Debe 
+garantizarse una 
+arquitectura de 
+información bien 
+definida que apoye 
+la gestión y 
+optimización del 
+valor de la 
+información.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+4
+
+--- p5 ---
+Refiere a cómo la 
+empresa utiliza 
+canales digitales y 
+ecosistemas para 
+la estrategia de 
+negocio. 
+No se consideran 
+los canales 
+digitales o 
+ecosistemas en la 
+estrategia de 
+negocio. Los 
+líderes deben 
+educar sobre las 
+oportunidades de 
+crecimiento que 
+ofrecen los 
+canales digitales y 
+los ecosistemas. 
+Se reconoce la 
+necesidad de una 
+estrategia 
+integrada de 
+canales digitales y 
+ecosistemas 
+como parte de la 
+estrategia de 
+negocio general. 
+Se utilizan 
+asociaciones de 
+ecosistemas para 
+ventas, interacción 
+con clientes y 
+capacidades 
+extendidas.  
+La organización 
+está persiguiendo 
+modelos de 
+negocio de 
+plataforma 
+activamente y es 
+capaz de 
+aprovechar las 
+relaciones en el 
+ecosistema para 
+crear modelos de 
+negocio 
+impulsados por la 
+información. 
+6. Agilidad del 
+modelo de 
+negocio 
+5. Canales 
+digitales y 
+ecosistemas   
+Evalúa la 
+capacidad de la 
+empresa para 
+adaptarse y 
+cambiar su 
+modelo de 
+negocio en 
+respuesta a las 
+fuerzas del 
+mercado. 
+No hay 
+reconocimiento de 
+la necesidad de 
+cambiar el modelo 
+de negocio. Los 
+líderes deben 
+educar sobre la 
+amenaza 
+disruptiva del 
+negocio digital. 
+Existe una presión 
+visible 
+significativa sobre 
+el modelo de 
+negocio de la 
+organización por 
+fuerzas externas y 
+se está creando la 
+capacidad de 
+responder. Sin 
+embargo, las 
+respuestas son 
+reactivas y la 
+organización 
+frecuentemente 
+está en modo de 
+"ponerse al día".  
+La organización se 
+enfoca en el 
+cambio constante 
+del modelo de 
+negocio y puede 
+identificar y 
+ejecutar cambios 
+oportunos para 
+"auto-disruptirse". 
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+5
+
+--- p6 ---
+Considera cómo la 
+empresa fomenta 
+y gestiona la 
+innovación para el 
+desarrollo de su 
+negocio digital. 
+La innovación no 
+tiene un enfoque 
+dedicado ni 
+compromiso de 
+gestión 
+estratégica. Los 
+líderes deben 
+educar a sus 
+pares sobre la 
+necesidad y el 
+potencial de la 
+innovación. 
+La innovación es 
+cada vez más 
+vista como una 
+competencia 
+crítica dentro de la 
+empresa. Hay 
+esfuerzos 
+concertados en 
+toda la 
+organización para 
+crear una cultura 
+de innovación con 
+un fuerte apoyo de 
+la alta dirección.   
+La cultura de 
+innovación de la 
+organización es un 
+diferenciador 
+competitivo fuerte 
+y está vinculada 
+directamente a la 
+creación de 
+nuevas 
+capacidades y al 
+crecimiento en 
+nuevos mercados. 
+8. Liderazgo 
+digital 
+7. Cultura de 
+innovación   
+Se refiere a la 
+mentalidad de los 
+líderes de la 
+organización y su 
+capacidad para 
+impulsar la 
+transformación 
+digital. 
+La mentalidad de 
+liderazgo se centra 
+en la era industrial 
+con un enfoque en 
+la certeza de los 
+resultados. Los 
+líderes deben 
+desafiar el 
+enfoque centrado 
+en la certeza y 
+resaltar las 
+ambigüedades 
+inherentes al 
+negocio digital. 
+La necesidad y el 
+sentido de 
+urgencia para 
+crear un liderazgo 
+con una 
+mentalidad 
+diferente está bien 
+reconocida dentro 
+de la 
+organización; hay 
+un fuerte esfuerzo 
+para crear esta 
+nueva capacidad 
+de liderazgo
+Un "mindset 
+disruptor" está 
+incrustado en los 
+líderes ejecutivos 
+y en toda la fuerza 
+laboral. La 
+empresa ve 
+oportunidades en 
+la incertidumbre y 
+organiza la toma 
+de decisiones 
+entorno a esa 
+incertidumbre. 
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+6
+
+--- p7 ---
+Evalúa cómo la 
+empresa utiliza la 
+tecnología para 
+mejorar la 
+experiencia y la 
+eficiencia de los 
+empleados en el 
+lugar de trabajo. 
+No existe una 
+visión empresarial 
+para un lugar de 
+trabajo digital; la 
+alta dirección no 
+reconoce la 
+importancia de las 
+habilidades de 
+destreza digital. 
+Los líderes deben 
+educar sobre los 
+beneficios de un 
+enfoque 
+estratégico para 
+las iniciativas del 
+lugar de trabajo 
+digital. 
+El departamento 
+de TI utiliza 
+ampliamente el 
+lugar de trabajo 
+digital para guiar 
+su estrategia de 
+negocio. Sin 
+embargo, las 
+oportunidades 
+para mejorar la 
+experiencia del 
+empleado se 
+persiguen de 
+manera 
+esporádica. 
+Algunos esfuerzos 
+atraen la atención 
+de la alta 
+dirección, pero en 
+general hay un 
+soporte limitado.  
+El lugar de trabajo 
+digital es un 
+componente clave 
+de la estrategia de 
+negocio/digital. La 
+organización debe 
+mantenerse ágil 
+para adaptarse 
+continuamente a 
+los cambios en el 
+entorno 
+empresarial y 
+tecnológico. 
+9. Lugar de 
+trabajo digital  
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+7
+
+--- p8 ---
+Reflexiones
+¿En qué nivel colocarías a tu empresa dentro de cada 
+rubro y por qué?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Al seguir estas competencias, las empresas pueden navegar por el complejo 
+paisaje digital, tomar decisiones informadas y mejorar su competitividad en un 
+mercado cada vez más digitalizado.  
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+8

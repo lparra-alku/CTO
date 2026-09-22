@@ -1,0 +1,63 @@
+# L5 · Pruébate
+Genially 65d67d65e76ab90015ecec53
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Renata a resolver algunas problemáticas.
+Renata, gerente de ventas en TextilArt, ha observado que la industria textil está experimentando cambios significativos debido a la digitalización, con una creciente demanda de compras en línea, personalización de productos y automatización de procesos. Su misión ante este cambio es lograr un nivel de adopción eficiente en la organización. Ayúdala a tomar decisiones haciendo uso de los conocimientos que adquiriste a lo largo de la lección. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+A Renata le interesa saber la capacidad que tiene TextilArt para la innovación del modelo de negocio. ¿Con qué competencia de Gartner podría evaluar este factor?
+Gestión de la Experiencia del Cliente (CXM)
+Estrategia y ejecución de negocios digitales
+Cultura de innovación
+¡Correcto!
+Esta competencia evalúa cómo la empresa innova y optimiza su modelo de negocio mediante el uso de tecnologías digitales.
+¡Incorrecto!
+La respuesta correcta es Estrategia y ejecución de negocios digitales , pues esta competencia permitirá evaluar cómo la empresa innova y optimiza su modelo de negocio.
+Además de evaluar la innovación del modelo de negocio, Renata quiere conocer la capacidad de la empresa para adaptarse y cambiar su modelo de negocio. ¿Con cuál de las siguientes competencias podría hacerlo?
+Agilidad del modelo de negocio
+Con la evaluación de esta competencia, Renata podrá darse cuenta de si TextilArt es capaz de detectar cuando su modelo de negocio necesita ser cambiado.
+La respuesta correcta es Agilidad del modelo de negocio, pues a través de esta Renata puede conocer si la empresa es capaz de detectar si su modelo de negocio necesita ser cambiado.
+Renata sabe que es importante que TextilArt adopte y se adapte rápidamente a las nuevas tecnologías y prácticas dentro de una organización. ¿Qué herramientas podría utilizar para lograr este objetivo?
+Aceleradores digitales
+Máquinas robóticas
+Competencias
+Los aceleradores digitales están diseñados para catalizar el cambio, mejorar la eficiencia y permitir a las empresas adaptarse rápidamente.
+La respuesta correcta es Aceleradores digitales, pues estos le permitirán catalizar el cambio, mejorar la eficiencia y permitir a las empresas adaptarse rápidamente.
+Renata necesita saber ¿cuál de los siguientes aceleradores digitales permitirá mejorar la experiencia de compra en línea de los clientes?
+Softwares para procesamiento de datos
+Algoritmos basados en IA
+Encuestas de satisfacción
+Un sistema de algoritmos basados en IA puede analizar preferencias y comportamientos para dar recomendaciones personalizadas a los clientes.
+La respuesta correcta es Algoritmos basados en IA pues estos facilitan el análisis de preferencias y comportamientos de los clientes para dar recomendaciones personalizadas.
+Renata necesita saber ¿cuál de los siguientes aceleradores digitales permitirá que la empresa acelere el desarrollo de su software?
+Inteligencia Artificial (IA)
+Metodologías ágiles
+Las metodologías ágiles también permitirán la ejecución de proyectos al enfocarse en la colaboración, la flexibilidad y la entrega iterativa.
+La respuesta correcta es Metodologías ágiles pues gracias a su enfoque en la flexibilidad, colaboración e iteración permitirán, entre otras cosas, el desarrollo de software.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.

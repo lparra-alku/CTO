@@ -1,0 +1,14 @@
+# L4 · Análisis de Experiencia del Cliente y su Comportamiento
+Genially 65ba919b66aafd00141b2eae → 65ba919682cf6300142067b9
+
+Análisis de Experiencia del Cliente y su Comportamiento
+Influencia en las decisiones de compra
+El análisis de la experiencia del cliente se centra en comprender cómo los usuarios interactúan con los productos y servicios de una empresa. Revisa el siguiente ejemplo para mayor entendimiento.
+CODIGO NO BORRAR
+Café Digital Brew utiliza una aplicación móvil para mejorar la experiencia del cliente. Mediante el seguimiento de las interacciones en la aplicación, como pedidos, personalizaciones de bebidas y tiempos de respuesta, la empresa recoge datos valiosos sobre las preferencias de los clientes. Al analizar estos datos se identifica que los usuarios a menudo abandonan el carrito de compras cuando el tiempo de espera estimado para la recolección es superior a 5 minutos.
+Para abordar este problema, implementan un sistema de preparación de pedidos más eficiente, reduciendo los tiempos de espera y aumentando la satisfacción del cliente y las tasas de conversión. Café Digital Brew lanza una campaña interactiva para despertar el interés de los clientes, invitándolos a compartir sus experiencias y sugerencias a través de la aplicación, lo que les hace sentir parte de la mejora continua del servicio.
+La empresa proporciona información y educación sobre cómo su feedback contribuye directamente a la mejora de los servicios, mostrando ejemplos de cambios implementados gracias a las sugerencias de los clientes. Además, implementa un programa beta en el que los clientes pueden probar nuevas características de la aplicación y proporcionar comentarios en tiempo real, practicando así el uso de las mejoras y validando su eficacia.
+La empresa integra los comentarios de los clientes con sus sistemas de gestión de relaciones con los clientes (CRM) y operaciones diarias, asegurando que las mejoras en la experiencia del cliente se mantengan y evolucionen. Café Digital Brew reta a los clientes a utilizar las nuevas características de la aplicación en un tiempo determinado y proporciona incentivos para aquellos que contribuyen con comentarios constructivos.
+Conclusión
+Como pudiste ver, el análisis de la experiencia del cliente se centra en comprender cómo los usuarios interactúan con los productos y servicios de una empresa. Este proceso implica recopilar y analizar datos para identificar patrones de comportamiento, necesidades no satisfechas y puntos de fricción en la experiencia del cliente.
+Continúa con el estudio de la lección.

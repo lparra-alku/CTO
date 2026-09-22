@@ -1,0 +1,48 @@
+# L3 · Tecnología en la transformación digital
+Genially 65b7e059f329e00014bcd523
+
+Tecnología en
+la transformación digital
+En cualquier iniciativa de transformación digital se encuentra la adopción y aplicación de tecnologías innovadoras que permiten a las organizaciones repensar, no solo cómo operan internamente, sino también cómo entregan valor a sus clientes.
+La tecnología digital ha evolucionado de ser una mera herramienta de eficiencia a convertirse en un facilitador estratégico que abre nuevas vías para la innovación y el crecimiento. Cuando hablamos de tecnología en el contexto de la transformación digital, nos referimos a una amplia gama de soluciones y plataformas, incluyendo la computación en la nube, el análisis de datos avanzado, la inteligencia artificial (IA), el Internet de las Cosas (IoT), la realidad aumentada y virtual, así como la automatización de procesos robóticos (RPA), entre otros.
+Aunque hoy en día continúan desarrollándose nuevas tecnologías, algunas de las principales son las siguientes:
+Cloud Computing Flexibilidad y Escalabilidad: La nube permite a las empresas ajustar sus recursos tecnológicos rápidamente según la demanda. Reducción de Costos: Minimiza la necesidad de grandes inversiones en infraestructura de TI local. Colaboración Mejorada: Facilita la colaboración en tiempo real a través de servicios que pueden ser accesibles desde cualquier lugar. Innovación Continua: Los proveedores de nube ofrecen constantemente nuevas herramientas y servicios que las empresas pueden aprovechar.
+2. Inteligencia Artificial Generativa (IA) y Machine Learning: Automatización de Procesos: Los robots (bots) de software y los algoritmos de IA pueden realizar tareas repetitivas, liberando a los empleados para que se centren en actividades de mayor valor. Personalización del Cliente: La IA puede analizar datos de los clientes para ofrecer experiencias personalizadas y recomendaciones de productos. Mejora Continua: Los sistemas de IA pueden aprender y mejorar con el tiempo, lo que aumenta su eficiencia y precisión.
+3. Realidad Aumentada (AR) y Realidad Virtual (VR) Experiencias Inmersivas: AR y VR pueden crear experiencias de usuario profundamente inmersivas para capacitación, diseño o entretenimiento. Mejora de la Productividad: Estas tecnologías pueden mejorar la eficiencia en tareas de diseño, mantenimiento y aprendizaje al proporcionar información contextual en tiempo real.
+4. Plataformas de Colaboración y Comunicación Trabajo Remoto: Herramientas que facilitan el trabajo a distancia y la colaboración en equipo, independientemente de la ubicación geográfica. Integración de Aplicaciones: Plataformas que integran diversas aplicaciones de negocio para una gestión más fluida y centralizada del trabajo.
+Ahora bien, te mostraremos un ejemplo sobre la implementación de la realidad aumentada y virtual.
+Objetivo del ejemplo
+Analizar un caso de éxito real (Nadro) para comprender cómo la implementación de tecnologías de "Vision Picking" (TeamViewer Frontline) y su integración con sistemas WMS, como SAP, puede resolver problemas operativos, optimizar el proceso de picking , aumentar la productividad y reducir drásticamente los tiempos de capacitación.
+Problemática común
+¿Tu proceso de surtido depende de dispositivos tecnológicos que limitan la eficiencia? ¿El tiempo para capacitar a un nuevo empleado y llevarlo a su productividad máxima es de varias semanas o incluso meses? En muchos centros de distribución, la dependencia de tecnología que requiere que los operadores usen sus manos para escanear o consultar, genera cuellos de botella. Esto no solo ralentiza la operación, sino que también dificulta la capacitación, aumenta la probabilidad de errores y puede impactar el clima laboral.
+Solución desde la información desarrollada en la lección
+Nadro expone la implementación de TeamViewer Frontline - Vision Picking , una solución que utiliza lentes inteligentes para crear la operación "manos libres". Aplicando esta tecnología, la solución al problema es la siguiente:
+Operación "manos libres": Los operadores ya no necesitan sostener un escáner, lo que incrementa la velocidad del proceso.
+Guía visual e intuitiva: La solución proporciona instrucciones paso a paso y visualización avanzada que incluye la ubicación, cantidad, destino e incluso imágenes de los artículos a recolectar.
+Integración con WMS: La plataforma se integra de forma integral con SAP (en el caso de Nadro, sobre S/4HANA y EWM), permitiendo que la información fluya en tiempo real.
+Reducción drástica de capacitación: El resultado más impactante fue la reducción del tiempo de capacitación de hasta 3 meses a solo 1 día, ya que el sistema guía visualmente a los nuevos empleados.
+Aumento de productividad: Nadro superó su objetivo inicial del 18 %, alcanzando un aumento del 30 % en la productividad del proceso de picking .
+Expansión: El éxito permitió expandir la tecnología a otros procesos de almacén, como recibo, inventarios, reabasto y acomodo.
+Errores comunes que deben evitarse
+No tener objetivos claros: Empezar un proyecto de transformación sin métricas. Nadro definió objetivos claros desde el inicio (Ej.: 18 % de aumento de productividad, reducción de tiempo de capacitación) y midió los resultados.
+Implementar sin integración: Un error común es adoptar una tecnología de "Vision Picking" sin una integración profunda con el sistema WMS (SAP EWM en este caso). La fortaleza de Nadro fue la interacción integral.
+Ignorar la experiencia del operador: Enfocarse solo en la productividad sin considerar la ergonomía. La solución de Nadro mejoró el clima laboral y la retención de personal al ser "manos libres" y simplificar flujos.
+Subestimar la gestión del cambio: Implementar lentes inteligentes requiere que el personal se adapte. El éxito de Nadro, escalando de 100 a 450 surtidores y mejorando el clima laboral, sugiere un buen manejo de la adopción.
+Puntos clave
+La transformación digital en logística, como el "Vision Picking", es una "ventana al futuro de la operación logística".
+La tecnología "manos libres" es un factor clave para aumentar la productividad (Nadro logró un 30 %).
+La guía visual intuitiva, con imágenes de productos y flujos simplificados, puede reducir drásticamente los tiempos de capacitación (de meses a un solo día).
+El éxito de la implementación no solo se mide en productividad, sino también en la mejora del clima laboral y la retención de talento.
+La integración nativa con sistemas WMS (como SAP) es fundamental para proveer información contextual y asegurar el éxito del proyecto.
+Al considerar la tecnología para la transformación digital, las organizaciones deben evaluar su infraestructura actual, la preparación para la adopción de nuevas tecnologías y la alineación con los objetivos estratégicos. Con base a ello, es necesario adoptar la resiliencia tecnológica; esta práctica asegura que los servicios y funciones críticos de una empresa puedan mantenerse o restaurarse rápidamente en caso de una interrupción, minimizando el impacto en las operaciones y en la experiencia del usuario.
+Para lograr la resiliencia tecnológica, las organizaciones deben implementar una variedad de estrategias y soluciones que incluyan sistemas redundantes, copias de seguridad de datos, planes de recuperación ante desastres y protocolos de respuesta a incidentes. Además, deben enfocarse en la formación y concienciación de los empleados sobre las mejores prácticas de seguridad y en la adopción de un diseño de sistemas que promueva la adaptabilidad y la escalabilidad.
+Gracias por tu respuesta
+¿Cómo puede una organización mantenerse al día con el ritmo acelerado de los avances tecnológicos para asegurar una transformación digital exitosa?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Permite a las empresas ser más ágiles, tomar decisiones basadas en datos y ofrecer experiencias personalizadas a gran escala.
+Consectetur adipiscing elit
+La integración efectiva de la tecnología digital requiere una visión clara, liderazgo comprometido y una cultura organizacional que fomente la experimentación, la adaptabilidad y la resiliencia tecnológica.
+Es la capacidad de un sistema o infraestructura tecnológica para anticipar, resistir, recuperarse y adaptarse a adversidades o cambios, como ciberataques, fallos de hardware , desastres naturales o interrupciones del servicio.
+La adopción de principios, tanto de la Industria 4.0 como de la Industria 5.0, será esencial para crear un futuro sostenible y centrado en el ser humano.
+Al hacerlo, las empresas pueden asegurar una respuesta eficaz frente a situaciones imprevistas, garantizando la estabilidad y la confianza en sus servicios tecnológicos.

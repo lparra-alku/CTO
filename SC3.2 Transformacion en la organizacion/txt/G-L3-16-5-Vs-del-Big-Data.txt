@@ -1,0 +1,15 @@
+# L3 · 5 Vs del Big Data
+Genially 65b7e30ab66b8d0014e8926f → 65b7e3069b382c0014a0a90c
+
+5 V’s del Big Data
+Principios del Big Data
+Gestionar adecuadamente grandes cantidades de datos, implica tener que aplicar las cinco dimensiones (Volumen, Velocidad, Variedad, Veracidad, Valor) que conforman el Big Data.
+CODIGO NO BORRAR
+El volumen de datos generados por empresas, dispositivos y usuarios individuales es masivo y Big Data es capaz de manejar estas cantidades a gran escala.
+Velocidad
+Hace referencia a velocidad a la que se generan y procesan los datos. Big Data debe ser capaz de manejar y analizar la información en tiempo real o cerca de él.
+Los datos provienen de diversas fuentes y formatos, incluyendo textos, imágenes, videos y registros de sensores, lo que requiere soluciones flexibles para su gestión y análisis.
+Veracidad
+La calidad y precisión de los datos son esenciales. La veracidad se refiere a la confiabilidad y credibilidad de los datos en Big Data.
+El principal objetivo del análisis de Big Data es extraer valor significativo, lo que significa convertir los datos en insights útiles para la toma de decisiones empresariales.
+Continúa con el estudio de la lección.

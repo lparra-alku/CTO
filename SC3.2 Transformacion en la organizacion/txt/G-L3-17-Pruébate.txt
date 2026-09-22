@@ -1,0 +1,65 @@
+# L3 · Pruébate
+Genially 65b7e3d69b382c0014a1244a
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Rosa a resolver algunas problemáticas.
+Rosa necesita contratarte como Experto(a) en temas de transformación digital y decide aplicar una prueba. Responde las preguntas y demuestra tus aprendizajes. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+La adopción de nuevas tecnologías y el cambio en la cultura y procesos de una empresa para mejorar su desempeño
+Desde el punto de vista tecnológico, ¿qué es la transformación digital?
+La actualización de equipos de hardware en una organización
+La transición de empleados a trabajo remoto
+¡Correcto!
+La transformación digital implica la adopción de nuevas tecnologías y un cambio cultural y de procesos para mejorar el rendimiento y eficiencia de la empresa.
+¡Incorrecto!
+La transformación digital va más allá de simplemente actualizar hardware; implica un cambio integral en la operación de la empresa.
+¿Qué característica es fundamental para que una empresa sea considerada "Data Driven"?
+Tener una presencia activa en todas las redes sociales
+Enviar correos masivos a clientes potenciales
+Tomar decisiones basadas en datos y análisis
+Una empresa "Data Driven" se caracteriza por tomar decisiones basadas en datos y análisis en lugar de intuiciones o suposiciones.
+La presencia en redes sociales no define si una empresa está basada en datos, recuerda que está relacionada con las decisiones que se toman en la empresa.
+¿Qué elemento no es una parte del concepto de resiliencia tecnológica?
+Capacitación continua de empleados en mejores prácticas de seguridad
+Planes de recuperación ante desastres
+Foco exclusivo en la actualización de hardware
+El enfoque exclusivo en la actualización de hardware no abarca la resiliencia tecnológica, que es un concepto más amplio y abarca múltiples aspectos de la tecnología y la gestión de riesgos.
+Los planes de recuperación de desastres, así como capacitación continua y sistemas redundantes, son parte de la ciberseguridad y la recuperación ante un evento catastrófico.
+¿Qué práctica de ciberseguridad ayuda a garantizar que los datos de la empresa estén protegidos tanto en tránsito como en reposo?
+La implementación de firewalls y antivirus
+El uso frecuente de redes sociales
+El cifrado de datos
+El cifrado de datos es una práctica de ciberseguridad que protege la información tanto en tránsito como en reposo contra accesos no autorizados.
+Los firewalls y antivirus son importantes, pero específicamente el cifrado es el que protege los datos en su estado y movimiento.
+¿Qué tecnología permite a las empresas ajustar sus recursos tecnológicos rápidamente según la demanda?
+Internet de las Cosas (IoT)
+Blockchain
+Cloud Computing permite a las empresas una gran flexibilidad y escalabilidad en sus recursos tecnológicos.
+Recuerda que Blockchain se relaciona con la seguridad y trazabilidad de las transacciones, Big Data se refiere al análisis de grandes volúmenes de datos e IoT se relaciona con la conectividad de dispositivos y la recopilación de datos.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

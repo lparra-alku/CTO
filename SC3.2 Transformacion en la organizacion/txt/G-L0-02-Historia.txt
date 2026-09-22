@@ -1,0 +1,12 @@
+# L0 · Historia
+Genially 65de58bd9600ca0014fcbc7c → 65de58c0fe4f9b001458d010
+
+Aceleración digital de negocios
+Sumérgete en la historia de EliteShoes y descubre los aprendizajes que este curso tiene para ti. ¡Comienza tu viaje!
+CODIGO NO BORRAR
+EliteShoes es una empresa de calzado con más de un siglo en el mercado, en su momento fue reconocida por la calidad de sus productos y la extraordinaria atención al cliente durante el proceso de compra. No obstante, hoy día la empresa enfrenta la amenaza de quedarse rezagada frente a los competidores modernos.
+Debido a sus sistemas obsoletos y su mínima presencia en línea, EliteShoes enfrenta una pérdida significativa de clientes e ingresos. Ante el estancamiento en las ventas y la competencia del mercado, la dirección ve que la transformación digital es imperativa para sobrevivir en el mercado actual, por lo que contrataron a Iván, un consultor especializado en TI, que embarcará a la empresa en un proceso de transformación digital.
+Luego de un primer acercamiento, Iván considera que la mejor solución será crear un sitio web y una aplicación de ventas online, por lo que comienza evaluando la madurez tecnológica de la empresa y el nivel de adopción de la transformación digital utilizando las competencias de Gartner como guía. Asimismo, identifica áreas clave para la mejora y utiliza aceleradores digitales para agilizar el proceso de adopción.
+Conclusión
+Gracias a la asesoría de Iván, las ventas en línea se han disparado, atrayendo a nuevos clientes y aumentando la fidelidad de los existentes; también la eficiencia operativa mejoró significativamente. Gracias a la automatización de procesos y la integración de sistemas, EliteShoes logró superar su crisis, lo que le permitió mantenerse competitiva en el mercado y asegurar su futuro en la era digital.
+Continúa con el siguiente recurso y ayuda a Iván a responder el cuestionario.

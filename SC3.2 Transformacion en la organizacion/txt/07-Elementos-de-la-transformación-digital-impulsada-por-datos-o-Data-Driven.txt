@@ -1,0 +1,106 @@
+
+--- p1 ---
+por datos o “Data Driven”
+Elementos de la 
+transformación 
+digital impulsada
+Una organización que busca su transformación 
+digital para convertirse en una empresa impulsada 
+por datos, o "Data Driven", adopta la data como un 
+activo central para la toma de decisiones y la 
+estrategia empresarial
+
+--- p2 ---
+La transformación digital impulsada por datos, también 
+conocida como "Data Driven", se ha convertido en un pilar 
+fundamental para el éxito empresarial en la era moderna. En 
+este contexto, los elementos clave de esta transformación son 
+esenciales para comprender y aprovechar plenamente el potencial de los 
+datos en todas las facetas de una organización. 
+Desde la recopilación y análisis de datos, hasta la toma de decisiones 
+informada, este enfoque se centra en la utilización estratégica de la 
+información para impulsar la innovación, mejorar la eficiencia operativa y 
+proporcionar una ventaja competitiva significativa. Los elementos clave 
+que implican la transformación digital en este enfoque son los siguientes:
+La transformación digital hacia el enfoque Data Driven implica varios 
+elementos clave: 
+Cultura Organizacional
+• Adopción de una mentalidad basada en datos: La organización 
+debe fomentar una cultura donde las decisiones se basen en análisis de 
+datos y no en intuiciones o suposiciones.
+• Capacitación y competencia: Los empleados deben ser capacitados 
+para comprender y utilizar datos en su trabajo diario.
+• Colaboración interdepartamental: Los silos de información se 
+rompen para permitir el flujo libre de datos y colaboración entre 
+diferentes áreas de la empresa.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+2
+
+--- p3 ---
+Procesos y Estrategias
+• Gobierno de datos: Establecimiento de políticas y procedimientos 
+para la gestión de datos, asegurando su calidad, seguridad y 
+cumplimiento de normativas.
+• Orientación hacia KPIs: Definición de indicadores clave de 
+rendimiento basados en datos que permitan medir el éxito de manera 
+objetiva.
+• Agilidad y adaptabilidad: Implementación de metodologías ágiles 
+que permitan responder rápidamente a los insights obtenidos de los 
+datos.
+Infraestructura de Datos
+• Sistemas de almacenamiento y gestión de datos: 
+Implementación de bases de datos, data lakes o data 
+warehouses que permitan almacenar grandes volúmenes de 
+datos de manera eficiente y segura.
+• Herramientas de análisis y procesamiento de datos: Uso de 
+software y plataformas para el análisis de datos (como BI, machine 
+learning, etc.), que ayudan a extraer insights valiosos.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+3
+
+--- p4 ---
+Tecnología y Herramientas
+• Plataformas de Big Data: Adopción de tecnologías que 
+permitan el procesamiento de grandes volúmenes de datos en 
+tiempo real.
+• Inteligencia Artificial y Machine Learning: Uso de algoritmos 
+avanzados para predecir tendencias, comportamientos y mejorar la 
+toma de decisiones.
+• Automatización y Orquestación: Automatización de procesos de 
+recopilación, limpieza y análisis de datos para aumentar la eficiencia y 
+reducir errores.
+Talento Humano
+• Equipos especializados en datos: Contratación o desarrollo de 
+talento especializado en ciencia de datos, análisis de datos y gestión de 
+datos.
+• Liderazgo con visión de datos: Directivos y líderes que entiendan el 
+valor de la data y puedan guiar a la organización en su uso estratégico.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+4
+
+--- p5 ---
+Enfoque en el Cliente
+• Personalización y experiencia del cliente: Uso de 
+datos para entender mejor a los clientes y personalizar 
+productos, servicios y experiencias.
+• Feedback y mejora continua: Análisis de datos para recoger 
+feedback de clientes y mejorar continuamente la oferta de la empresa.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+5
+
+--- p6 ---
+Reflexiones finales
+¿Cuál de los elementos clave mencionados 
+anteriormente, ha sido más difícil de trabajar 
+dentro de tu empresa?, ¿cuál fue más sencillo?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+6

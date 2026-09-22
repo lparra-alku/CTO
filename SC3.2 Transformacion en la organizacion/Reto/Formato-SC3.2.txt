@@ -1,0 +1,261 @@
+
+Reto: Transformando tu organización
+
+
+Entregable final del reto.
+Documento editable para el participante.
+
+
+Nombre del participante:
+
+Indicaciones:
+
+Guarda este archivo de la siguiente manera: NombreApellido_reto_C3SC2
+Una vez terminado el reto deberás subirlo a la plataforma.
+
+Instrucciones:
+
+Realiza los siguientes pasos:
+PASO 1: Análisis de la situación actual de mi empresa (25 %)
+
+Analiza las tendencias actuales de digitalización en tu sector industrial. ¿Cómo se compara tu empresa con tus competidores o referentes del mercado?
+
+Instrucción: Investiga 2-3 tendencias clave de transformación digital en tu industria (pueden ser tecnológicas, de modelos de negocio, de experiencia de cliente, etc.). Realiza una comparación honesta con tus competidores o referentes, identificando brechas y ventajas competitivas.
+
+Ejemplo de preguntas guía:
+ 
+¿Qué están haciendo los líderes del sector?
+¿Tu empresa está a la vanguardia, rezagada o en proceso de adopción?
+¿Qué oportunidades de mejora identificas?
+
+Describe la cultura organizacional de tu empresa y cómo impacta en los procesos de cambio digital.
+
+Instrucción: Analiza si la cultura actual facilita o dificulta la transformación digital. Considera aspectos como apertura al cambio, toma de decisiones, colaboración entre áreas, tolerancia al error, etc.
+
+Identifica nuevas oportunidades de negocio o mejora operativa que la transformación digital podría habilitar para tu empresa.
+
+Instrucción: Piensa en mercados nacionales/internacionales, nuevos modelos de servicio, eficiencias operativas o mejora en la propuesta de valor. No te limites a tecnología, piensa en el "qué" podrías hacer de manera diferente.
+
+PASO 2: Cultura organizacional de mi empresa (25 %)
+
+Evalúa los siguientes aspectos clave de la cultura organizacional de tu empresa.
+
+Instrucción: Asigna una puntuación del 1 al 5 y justifica brevemente cada aspecto. Sé honesto y basado en tu experiencia, donde 1 es la puntuación más baja y 5 la más alta.
+ 
+Aspecto a evaluar
+1
+2
+3
+4
+5
+Justificación
+Valores y principios (¿Están alineados con la transformación digital?)
+ 
+ 
+ 
+ 
+ 
+ 
+Comunicación interna (¿Fluye la información entre áreas?)
+ 
+ 
+ 
+ 
+ 
+ 
+Liderazgo digital (¿Los líderes impulsan el cambio?)
+ 
+ 
+ 
+ 
+ 
+ 
+Estructura organizacional (¿Facilita o dificulta la agilidad?)
+ 
+ 
+ 
+ 
+ 
+ 
+Incentivos y reconocimiento (¿Se premia la innovación?)
+ 
+ 
+ 
+ 
+ 
+ 
+Aprendizaje continuo (¿Hay cultura de capacitación y experimentación?)
+ 
+ 
+ 
+ 
+ 
+ 
+
+Identifica las principales fortalezas y áreas de oportunidad culturales.
+
+Instrucción: Con base en la evaluación anterior, enlista 5 fortalezas y 5 áreas de oportunidad concretas.
+
+Fortalezas
+Áreas de oportunidad
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+
+PASO 3: Experiencia del Usuario (UX) (25 %)
+
+Selecciona tres segmentos de clientes/usuarios clave para tu empresa.
+
+Segmento 1
+Segmento 2
+Segmento 3
+[Nombre del segmento]
+[Nombre del segmento]
+[Nombre del segmento]
+Breve descripción
+Breve descripción
+Breve descripción
+
+
+
+Para cada segmento, identifica sus necesidades principales (funcionales, emocionales y sociales).
+
+Tipo de necesidad
+Segmento 1
+Segmento 2
+Segmento 3
+Funcionales (¿Qué problemas necesitan resolver?)
+ 
+ 
+ 
+Emocionales (¿Qué sentimientos buscan?)
+ 
+ 
+ 
+Sociales (¿Cómo quieren ser percibidos?)
+ 
+ 
+ 
+
+Con base en lo anterior, enumera y prioriza las 5 necesidades más importantes a resolver.
+
+Prioridad
+Necesidad
+¿Por qué es prioritaria?
+1
+ 
+ 
+2
+ 
+ 
+3
+ 
+ 
+4
+ 
+ 
+5
+ 
+ 
+
+Propón soluciones concretas para cada necesidad priorizada.
+
+Necesidad priorizada
+Posibles soluciones (tecnológicas, de proceso, de servicio)
+1
+ 
+2
+ 
+3
+ 
+4
+ 
+5
+ 
+
+Desarrolla un plan de acción resumido con al menos 5 iniciativas/soluciones/proyectos con sus respectivas acciones clave o una breve descripción para llevar a cabo el proceso de transformación en tu organización. 
+
+Sugerencia: a manera de referencia los plazos sugeridos son:
+
+Corto plazo (0-6 meses)
+Mediano plazo (6-12 meses)
+Largo plazo (12-24 meses) 
+
+Iniciativa/Solución/Proyecto
+Acciones clave / Breve descripción
+Plazo
+Responsable sugerido
+KPIs a medir
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+*Esta tabla debería incluir al menos una iniciativa tecnológica seleccionada del paso 4.
+
+PASO 4: Selección de tecnología (25 %)
+
+Selecciona 3 tecnologías emergentes que consideres clave para impulsar la transformación digital en tu empresa.
+
+[  ] Inteligencia Artificial
+[  ] Internet de las Cosas (IoT)
+[  ] Blockchain
+[  ] Realidad Aumentada (AR) / Realidad Virtual (VR)
+[  ] Computación en la nube
+[  ] Análisis de datos avanzados / Big Data
+[  ] Automatización Robótica de Procesos (RPA)
+[  ] Gemelos digitales (Digital Twins)
+[  ] Otra: _____________
+
+Completa la siguiente tabla para cada tecnología seleccionada previamente.
+
+Tecnología
+¿Cómo se implementaría?
+Beneficios esperados
+Desafíos a enfrentar
+Relación con necesidades UX (Paso 3)
+1
+ 
+ 
+ 
+ 
+2
+ 
+ 
+ 
+ 
+3
+ 
+ 
+ 
+ 
+
+
