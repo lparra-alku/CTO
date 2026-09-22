@@ -1,0 +1,370 @@
+<title>Guía SC 2.2</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@600&display=swap">
+<style>
+:root{--ground:#F2F5F8;--surface:#FFFFFF;--ink:#16202B;--muted:#5B6875;--line:#DCE2E8;--accent:#1F5F8B;--soft:#E3EEF6;--warn:#8A4B0F;--warn-soft:#FBF1E4;
+--sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--serif:"IBM Plex Serif",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}}
+:root[data-theme="dark"]{--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.6 var(--sans)}
+main{max-width:860px;margin:0 auto;padding-block:32px 64px;padding-inline:20px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+h1{font:600 30px/1.2 var(--serif);margin:0 0 6px;text-wrap:balance}
+h1+h3{font:400 17px/1.4 var(--sans);color:var(--muted);margin:0 0 24px}
+h2{font:600 22px/1.3 var(--serif);margin:40px 0 12px;padding-top:20px;border-top:1px solid var(--line);text-wrap:balance}
+h3{font:600 17px/1.35 var(--sans);margin:28px 0 8px}
+p,li{max-width:72ch}
+a{color:var(--accent)}
+hr{display:none}
+strong{font-weight:600}
+code{font:500 .88em var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
+blockquote{margin:16px 0;padding:10px 16px;background:var(--warn-soft);color:var(--ink);border-radius:6px}
+blockquote p{margin:4px 0}
+ul,ol{padding-left:22px}
+li{margin:3px 0}
+.tbl{overflow-x:auto;margin:14px 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.45}
+th,td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid var(--line)}
+th{font:600 12px/1.3 var(--mono);letter-spacing:.03em;text-transform:uppercase;color:var(--muted);background:var(--ground)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:500}
+@media (max-width:600px){main{padding-inline:16px}h1{font-size:25px}}
+</style>
+<main><div class="eyebrow">Guía para la evaluación y el Reto · SC 2.2</div>
+<h1>Guía para la Evaluación — SC 2.2 Tecnologías Estratégicas de Procesos</h1>
+<h3>Lo que necesitas saber antes de entrar</h3>
+<hr />
+<h2>Las reglas</h2>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Preguntas</strong></td>
+<td><strong>25</strong>, opción múltiple con retroalimentación</td>
+</tr>
+<tr>
+<td><strong>Duración</strong></td>
+<td>3 horas</td>
+</tr>
+<tr>
+<td><strong>Intentos</strong></td>
+<td><strong>3</strong> — se registra solo al pulsar <strong>"Terminar intentos"</strong></td>
+</tr>
+<tr>
+<td><strong>Peso</strong></td>
+<td><strong>40 %</strong> (el Reto vale 60 %)</td>
+</tr>
+</tbody>
+</table></div>
+<p>⚠️ No cierres la ventana a medio intento: el avance no se guarda.</p>
+<hr />
+<h2>⚠️ Las trampas de este módulo</h2>
+<p><strong>1. Responde la versión del curso, aunque esté desactualizada.</strong> Este módulo tiene afirmaciones que ya no son ciertas (ver el <a href="sc22-resumen.html">resumen</a>). La más probable en el examen: <strong>"¿cuál NO es un uso de blockchain?" → procesamiento de transacciones en monedas fiduciarias.</strong> Hoy sí se hace, pero para el curso no.</p>
+<p><strong>2. Las definiciones "casi correctas".</strong> El módulo pone distractores que suenan técnicos: la RPA <strong>no</strong> usa "solo robots físicos" ni es "programación avanzada sin intervención humana"; son <strong>robots de software que interactúan con programas existentes</strong>.</p>
+<p><strong>3. El orden del espectro de realidades.</strong> La <strong>realidad mixta va entre la virtual y la aumentada</strong> — no entre la física y la virtual, ni entre la aumentada y la extendida.</p>
+<p><strong>4. "Todas suenan bien".</strong> En las condiciones críticas de RPA, <em>número de empleados</em> o <em>aceptación del consumidor</em> suenan razonables; la respuesta es <strong>calidad de datos, proceso susceptible y disponibilidad de tecnología</strong>.</p>
+<hr />
+<h2>Los datos que hay que llevar memorizados</h2>
+<p><em>Del diagnóstico inicial y de los cinco "Pruébate" — mismo autor que la evaluación.</em></p>
+<h3>Lección 1 — Tecnologías emergentes</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rasgos de una tecnología emergente</td>
+<td><strong>Novedad, rápido crecimiento y potencial efecto transformador</strong></td>
+</tr>
+<tr>
+<td>Definición</td>
+<td>Tecnología <strong>en desarrollo o disponible en los próximos 5 a 10 años</strong></td>
+</tr>
+<tr>
+<td>¿Cuál <strong>NO</strong> es emergente con impacto directo?</td>
+<td><strong>Cómputo personal</strong> (minería de procesos e IA generativa sí)</td>
+</tr>
+<tr>
+<td>¿Solo pueden ser digitales?</td>
+<td><strong>No</strong> — pueden venir de <strong>cualquier área de la ciencia o la ingeniería</strong></td>
+</tr>
+<tr>
+<td>¿Quién es responsable de la adopción?</td>
+<td><strong>Toda la organización</strong></td>
+</tr>
+<tr>
+<td>Herramienta para ver madurez y adopción</td>
+<td><strong>Hype Cycle de Gartner</strong> (no "IT Market Placement" ni "Curva de desilusión")</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 2 — RPA</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Definición de RPA</td>
+<td><strong>Robots de software entrenados que interactúan con programas existentes</strong></td>
+</tr>
+<tr>
+<td>Las 3 condiciones críticas</td>
+<td><strong>Calidad de datos · proceso susceptible a automatizarse · disponibilidad de la tecnología</strong></td>
+</tr>
+<tr>
+<td>¿Cuál <strong>NO</strong> es ventaja?</td>
+<td><strong>Aumento de tareas de los empleados</strong></td>
+</tr>
+<tr>
+<td>Las 3 categorías de errores de Gartner</td>
+<td><strong>Aproximación · implementación · impacto</strong></td>
+</tr>
+<tr>
+<td>¿Cuál <strong>NO</strong> es uso viable de RPA en venta de boletos?</td>
+<td><strong>Organizar campañas de ventas telefónicas</strong></td>
+</tr>
+<tr>
+<td>¿Tecnología para tareas repetitivas sin criterio humano?</td>
+<td><strong>RPA</strong></td>
+</tr>
+<tr>
+<td>¿Quién acuñó el término?</td>
+<td><strong>Patrick Geary, Blue Prism, 2012</strong></td>
+</tr>
+<tr>
+<td>¿Por qué se rompe con cambios?</td>
+<td>Opera <strong>solo en la interfaz gráfica</strong>, no por API</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 3 — Blockchain</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Definición</td>
+<td><strong>Estructura de bloques que se enlazan para formar una colección de registros</strong></td>
+</tr>
+<tr>
+<td>¿Cómo se llaman los participantes?</td>
+<td><strong>Nodos</strong></td>
+</tr>
+<tr>
+<td>¿Qué es la <strong>inmutabilidad</strong>?</td>
+<td><strong>Imposibilidad de editar, modificar o alterar los datos almacenados</strong></td>
+</tr>
+<tr>
+<td>¿Cuál <strong>NO</strong> es uso de blockchain?</td>
+<td><strong>Transacciones en monedas fiduciarias</strong> (según el curso)</td>
+</tr>
+<tr>
+<td>Una <strong>desventaja</strong></td>
+<td><strong>Consumo energético</strong> (&gt;100 TWh/año)</td>
+</tr>
+<tr>
+<td>Tecnología para rastreo confiable de envíos</td>
+<td><strong>Blockchain</strong></td>
+</tr>
+<tr>
+<td>¿Qué es un <strong>contrato inteligente</strong>?</td>
+<td>Programa en la cadena que <strong>se ejecuta solo cuando se cumplen sus condiciones</strong></td>
+</tr>
+<tr>
+<td>Quién popularizó los contratos inteligentes</td>
+<td><strong>Ethereum</strong></td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Ojo:</strong> descentralización e inmutabilidad aparecen como distractores en "¿cuál es una desventaja?". Son <strong>ventajas</strong>.</p>
+<h3>Lección 4 — Realidad extendida</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Definición de realidad virtual</td>
+<td><strong>Ambientes tridimensionales virtuales con interacción por medio de sensores</strong></td>
+</tr>
+<tr>
+<td>¿Dónde está la realidad mixta?</td>
+<td><strong>Entre la realidad virtual y la aumentada</strong></td>
+</tr>
+<tr>
+<td>Ejemplo de realidad mixta</td>
+<td><strong>Pokémon Go</strong></td>
+</tr>
+<tr>
+<td>¿Cuál <strong>NO</strong> limita la oferta de VR?</td>
+<td><strong>El miedo y escepticismo de los usuarios</strong> (sí la limitan: personalización y escalabilidad limitadas, lenta generación de productos)</td>
+</tr>
+<tr>
+<td>Objetivo de la Augmented Reality for Enterprise Alliance</td>
+<td><strong>Promover la adopción de sistemas interoperables de AR</strong></td>
+</tr>
+<tr>
+<td>Impactos en el negocio</td>
+<td><strong>Reducción de costos de entrenamiento y de riesgos, mejora de tiempos, nuevas formas de interacción y colaboración</strong></td>
+</tr>
+<tr>
+<td>Tecnología para acortar la curva de aprendizaje</td>
+<td><strong>Capacitación con realidad aumentada</strong></td>
+</tr>
+<tr>
+<td>Hype Cycle 2023</td>
+<td>VR en el <strong>abismo</strong>; AR en la <strong>rampa</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 5 — IA generativa</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Enfoque de la Gen AI</td>
+<td><strong>Algoritmos y modelos de aprendizaje profundo para generar contenido, datos o soluciones</strong></td>
+</tr>
+<tr>
+<td>Las 2 razones de su crecimiento</td>
+<td><strong>Enorme potencial de tamaño de mercado y generación masiva de datos</strong></td>
+</tr>
+<tr>
+<td>¿Qué es machine learning?</td>
+<td>Campo que permite a las computadoras <strong>"aprender" sin ser programadas explícitamente</strong></td>
+</tr>
+<tr>
+<td>Técnica para crear imágenes</td>
+<td><strong>Redes generativas adversarias (GAN)</strong> — Ian Goodfellow, <strong>2014</strong></td>
+</tr>
+<tr>
+<td>Generadores de texto</td>
+<td><strong>LLM</strong></td>
+</tr>
+<tr>
+<td>¿Qué <strong>NO</strong> es solución viable aún en un despacho de arquitectura?</td>
+<td><strong>Seguimiento de procesos burocráticos</strong> (por su poca precisión y transparencia)</td>
+</tr>
+<tr>
+<td>Aplicación correcta para servicio al cliente 24/7</td>
+<td><strong>Chatbot con Gen AI</strong></td>
+</tr>
+<tr>
+<td>Riesgos</td>
+<td>Precisión (alucinaciones) · sesgos · seguridad y fraude · uso malicioso · poca transparencia</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>La más tramposa:</strong> "razones del crecimiento". <em>La promoción de las grandes tecnológicas</em> y <em>reemplazar mano de obra</em> suenan plausibles; la correcta es <strong>tamaño de mercado + generación masiva de datos</strong>.</p>
+<hr />
+<h2>Cómo estudiar esto en 40 minutos</h2>
+<ol>
+<li><strong>10 min</strong> — Lee el <a href="sc22-resumen.html">resumen</a>.</li>
+<li><strong>15 min</strong> — Tapa la columna derecha de las cinco tablas y respóndelas.</li>
+<li><strong>10 min</strong> — Memoriza las listas: los <strong>10 errores de Gartner en sus 3 categorías</strong>, las <strong>3 condiciones críticas de RPA</strong>, el <strong>espectro AR → mixta → VR</strong>, los <strong>5 casos de la Alliance de AR</strong>.</li>
+<li><strong>5 min</strong> — Repasa las trampas de arriba.</li>
+</ol>
+<hr />
+<h2>Para el Reto (60 %)</h2>
+<p><strong>Plan de implementación de una tecnología emergente de procesos</strong> — rúbrica y formato en <code>Reto/</code>.</p>
+<p>La estructura es <strong>igual a la del Reto de SC 2.1</strong>, con tres diferencias que cuestan puntos si no las ves:</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th>SC 2.1</th>
+<th><strong>SC 2.2</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo de tecnología</td>
+<td>Basada en datos</td>
+<td><strong>Emergente de procesos</strong> (RPA, blockchain, XR, Gen AI…)</td>
+</tr>
+<tr>
+<td>Horizonte del Paso 2</td>
+<td>Corto plazo</td>
+<td><strong>Mediano plazo</strong> — hay que definirlo</td>
+</tr>
+<tr>
+<td>Paso 1</td>
+<td>4 preguntas guía</td>
+<td><strong>5</strong> — agrega <em>¿cómo medirías la rentabilidad?</em></td>
+</tr>
+<tr>
+<td>Paso 4</td>
+<td>Equipo humano</td>
+<td><strong>Habilidades</strong> del equipo humano</td>
+</tr>
+</tbody>
+</table></div>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Paso</th>
+<th>Qué pide</th>
+<th>Puntos</th>
+<th>Máximo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Justificación</td>
+<td>20</td>
+<td>100-200 palabras, las <strong>5</strong> preguntas</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Valor a mediano plazo</td>
+<td>20</td>
+<td>Definir "mediano plazo" + <strong>5+</strong> puntos</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Retos</td>
+<td>20</td>
+<td>Las <strong>4 áreas</strong>: seguridad de datos · resistencia al cambio · integración · costos</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Plan básico</td>
+<td><strong>30</strong></td>
+<td>Tiempos · costos · <strong>habilidades</strong> del equipo · equipo tecnológico</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Proveedores</td>
+<td>10</td>
+<td><strong>3+</strong> con características, oferta y ventajas/desventajas</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Cómo aterriza en Grupo Infocus:</strong> <strong>RPA más minería de procesos</strong> es la elección natural, y se defiende sola. Business Basics ya hace <em>simplificación de procesos con visión financiera</em>; la minería de procesos sobre las bitácoras de Odoo es el diagnóstico con datos, y la RPA —o mejor, la automatización nativa de Odoo— es la ejecución. El argumento de Pepe Tam sobre las "excelencias" del módulo 2 te da el caso de rentabilidad que pide la quinta pregunta del Paso 1. Y el error #4 de Gartner —<em>automatizar contra reemplazar</em>— es exactamente la conversación que Alku tiene con cada cliente que llega con procesos en Excel.</p>
+</main>

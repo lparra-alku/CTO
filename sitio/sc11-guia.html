@@ -1,0 +1,327 @@
+<title>Guía SC 1.1</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@600&display=swap">
+<style>
+:root{--ground:#F2F5F8;--surface:#FFFFFF;--ink:#16202B;--muted:#5B6875;--line:#DCE2E8;--accent:#1F5F8B;--soft:#E3EEF6;--warn:#8A4B0F;--warn-soft:#FBF1E4;
+--sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--serif:"IBM Plex Serif",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}}
+:root[data-theme="dark"]{--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.6 var(--sans)}
+main{max-width:860px;margin:0 auto;padding-block:32px 64px;padding-inline:20px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+h1{font:600 30px/1.2 var(--serif);margin:0 0 6px;text-wrap:balance}
+h1+h3{font:400 17px/1.4 var(--sans);color:var(--muted);margin:0 0 24px}
+h2{font:600 22px/1.3 var(--serif);margin:40px 0 12px;padding-top:20px;border-top:1px solid var(--line);text-wrap:balance}
+h3{font:600 17px/1.35 var(--sans);margin:28px 0 8px}
+p,li{max-width:72ch}
+a{color:var(--accent)}
+hr{display:none}
+strong{font-weight:600}
+code{font:500 .88em var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
+blockquote{margin:16px 0;padding:10px 16px;background:var(--warn-soft);color:var(--ink);border-radius:6px}
+blockquote p{margin:4px 0}
+ul,ol{padding-left:22px}
+li{margin:3px 0}
+.tbl{overflow-x:auto;margin:14px 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.45}
+th,td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid var(--line)}
+th{font:600 12px/1.3 var(--mono);letter-spacing:.03em;text-transform:uppercase;color:var(--muted);background:var(--ground)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:500}
+@media (max-width:600px){main{padding-inline:16px}h1{font-size:25px}}
+</style>
+<main><div class="eyebrow">Guía para la evaluación y el Reto · SC 1.1</div>
+<h1>Guía para la Evaluación — SC 1.1 Alineando la Mentalidad de Transformación Digital</h1>
+<h3>Lo que necesitas saber antes de entrar</h3>
+<hr />
+<h2>Las reglas</h2>
+<p><em>Son las del resto de los subcursos. Confírmalas en la pantalla de inicio de la evaluación.</em></p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Preguntas</strong></td>
+<td>25, de opción múltiple con retroalimentación</td>
+</tr>
+<tr>
+<td><strong>Duración</strong></td>
+<td>3 horas</td>
+</tr>
+<tr>
+<td><strong>Intentos</strong></td>
+<td>3; solo cuenta cuando pulsas <strong>"Terminar intentos"</strong></td>
+</tr>
+<tr>
+<td><strong>Peso</strong></td>
+<td><strong>40 %</strong> (el Reto vale 60 %)</td>
+</tr>
+</tbody>
+</table></div>
+<p>⚠️ No cierres la ventana a medio intento: el avance no se guarda.</p>
+<hr />
+<h2>⚠️ Las trampas de este módulo</h2>
+<p><strong>1. ¿Quién lidera?</strong> Siempre el <strong>CEO</strong>. El CIO <strong>gestiona estratégicamente las tecnologías</strong> y toma decisiones sobre tecnología, procesos, tiempos y personal, <strong>pero no lidera la estrategia</strong>. Las preguntas de "¿cuál NO es responsabilidad del CIO?" se contestan con <strong>"liderar la estrategia de transformación digital"</strong>.</p>
+<p><strong>2. ¿Dónde empieza?</strong> En el <strong>modelo operativo y la propuesta de valor</strong>. No empieza en las tecnologías emergentes ni en los dispositivos conectados.</p>
+<p><strong>3. Automatizar no es transformar.</strong> Las respuestas del tipo "agilizar y automatizar procesos" o "adoptar tecnologías emergentes" son <strong>distractores</strong>.</p>
+<p><strong>4. Las tríadas y cuartetas que se confunden:</strong>
+- <strong>Industria 5.0:</strong> <strong>sostenible · centrada en la persona · resiliente</strong>. No es "digital" ni "conectada".
+- <strong>La cultura digital según el WEF:</strong> <strong>colaborativo · basado en datos · centrado en el consumidor · innovador</strong>. No es "inmediato" ni "tecnológico".
+- <strong>VUCA → VECA:</strong> visión · entendimiento · <strong>claridad</strong> (ante la complejidad) · agilidad.
+- <strong>BANI → REAC:</strong> resiliencia · empatía · <strong>adaptabilidad</strong> (ante lo no lineal) · colaboración.</p>
+<p><strong>5. Explotar contra explorar.</strong> El capital va <strong>90–99 % a explotar</strong> y <strong>1–10 % a explorar</strong>. Una opción suele invertir los porcentajes; otra propone 50/50.</p>
+<p><strong>6. La Transformación B no conserva los procesos y tecnologías existentes.</strong> Parte de <strong>oportunidades adyacentes</strong> y cambia <strong>el modelo operativo y la propuesta de valor</strong>.</p>
+<hr />
+<h2>Los datos que hay que llevar memorizados</h2>
+<h3>Diagnóstico ("¿Cuánto sabes?")</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Pregunta</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>¿Quién implementa la transformación digital?</td>
+<td><strong>Jorge, el CEO</strong></td>
+</tr>
+<tr>
+<td>¿Cómo asegura una adopción exitosa?</td>
+<td><strong>Alineando la mentalidad de todos</strong> hacia la importancia de la transformación</td>
+</tr>
+<tr>
+<td>¿Qué va primero al digitalizar activos?</td>
+<td><strong>Mantener conectados a proveedores, colaboradores y clientes</strong></td>
+</tr>
+<tr>
+<td>¿Qué NO es objetivo de la transformación?</td>
+<td><strong>Agilizar y automatizar procesos para abaratarlos</strong></td>
+</tr>
+<tr>
+<td>¿Cuál es el papel de la CIO?</td>
+<td><strong>Gestionar estratégicamente el uso de las tecnologías</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 2 — ¿Qué es la transformación digital?</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Pregunta</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>¿Quién la encabeza?</td>
+<td><strong>El CEO</strong></td>
+</tr>
+<tr>
+<td>¿Dónde inicia?</td>
+<td><strong>En el modelo operativo y la propuesta de valor</strong></td>
+</tr>
+<tr>
+<td>¿Qué NO está entre las 7 tecnologías clave del WEF (2018)?</td>
+<td><strong>Los programas de calendario y agendas electrónicas</strong></td>
+</tr>
+<tr>
+<td>¿Qué NO le toca al CIO?</td>
+<td><strong>Liderar la estrategia de transformación digital</strong></td>
+</tr>
+<tr>
+<td>Definición</td>
+<td><strong>Adaptar la estrategia empresarial para actualizar el modelo operativo en un mundo conectado</strong></td>
+</tr>
+<tr>
+<td>Digitalización promedio de las industrias (McKinsey, 2017)</td>
+<td><strong>37 %</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 3 — Sectores</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Pregunta</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>La tienda en línea vende más que la física</td>
+<td><strong>Construir experiencias omnicanal</strong></td>
+</tr>
+<tr>
+<td>Queja de entregas lentas: ¿cuál es la respuesta MENOS adecuada?</td>
+<td><strong>Eliminar los envíos y ofrecer que se recoja en tienda</strong></td>
+</tr>
+<tr>
+<td>Características de la Industria 5.0</td>
+<td><strong>Sostenible, centrada en la persona y resiliente</strong></td>
+</tr>
+<tr>
+<td><em>Checkout</em> con minuto y medio de retraso</td>
+<td><strong>"Después de 30 segundos los clientes desisten. Hay que arreglarlo"</strong> (regla 8 / 18 / 30)</td>
+</tr>
+<tr>
+<td>Compras físicas influidas por investigación en línea</td>
+<td><strong>Entre 60 y 90 %</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 4 — Mundo conectado</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Pregunta</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deuda digital</td>
+<td><strong>Las deficiencias que obstaculizan implementar y aprovechar las tecnologías</strong></td>
+</tr>
+<tr>
+<td>Ejemplo de deuda digital</td>
+<td><strong>Un reporte semanal que firman a mano 18 personas</strong></td>
+</tr>
+<tr>
+<td>Los 4 pilares del WEF (2021)</td>
+<td><strong>Colaborativo, basado en datos, centrado en el consumidor e innovador</strong></td>
+</tr>
+<tr>
+<td>Experiencia figital</td>
+<td><strong>Un QR en el <em>ticket</em> que da un descuento para la siguiente compra en línea</strong></td>
+</tr>
+<tr>
+<td>Usuarios de móviles en 2025</td>
+<td><strong>Más de 7,000 millones</strong></td>
+</tr>
+<tr>
+<td>Economía → · Competencia → · Clientes →</td>
+<td>Propuesta de valor · modelo operativo · personas y cultura</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 5 — VUCA y BANI</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Pregunta</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Volatilidad resuelta con visión</td>
+<td><strong>Pasar las conferencias a formato virtual</strong> (no cancelarlas)</td>
+</tr>
+<tr>
+<td>Respuesta a la complejidad</td>
+<td><strong>Claridad</strong></td>
+</tr>
+<tr>
+<td>La adaptabilidad responde a…</td>
+<td><strong>Non-linear</strong></td>
+</tr>
+<tr>
+<td>¿Qué NO es riesgo en un entorno BANI?</td>
+<td><strong>Trabajar colaborativamente en equipos</strong></td>
+</tr>
+<tr>
+<td>BANI frente a VUCA</td>
+<td><strong>Un marco consolidado para entender las disrupciones globales después de VUCA</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 6 — Transformación dual</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Pregunta</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Transformación A</td>
+<td><strong>Aprovechar la digitalización para optimizar operaciones y lograr eficiencia operativa</strong></td>
+</tr>
+<tr>
+<td>¿Qué NO describe a la Transformación B?</td>
+<td><strong>Mantener los procesos y las tecnologías existentes</strong></td>
+</tr>
+<tr>
+<td>Ejemplo de transformación dual</td>
+<td><strong>La empresa que pasó de rentar DVD al <em>streaming</em></strong> (Netflix)</td>
+</tr>
+<tr>
+<td>Laboratorio de innovación</td>
+<td><strong>Un equipo que aprende en sinergia las nuevas capacidades digitales</strong></td>
+</tr>
+<tr>
+<td>Capital para explotar y explorar</td>
+<td><strong>90–99 % explotar · 1–10 % explorar</strong></td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+<h2>Cómo estudiar esto en 40 minutos</h2>
+<ol>
+<li><strong>10 min:</strong> lee el <a href="sc11-resumen.html">resumen</a> o el mapa mental.</li>
+<li><strong>10 min:</strong> la tabla VUCA/VECA/BANI/REAC y los porcentajes de explotar y explorar.</li>
+<li><strong>10 min:</strong> tapa la columna derecha de las tablas por lección e intenta contestar.</li>
+<li><strong>10 min:</strong> las trampas 1 a 6.</li>
+</ol>
+<hr />
+<h2>Para el Reto (60 %)</h2>
+<p><strong>"Alineando la mentalidad en mi organización para la transformación digital".</strong> La rúbrica y el formato están en <code>Reto/</code>; el nombre del archivo debe ser <code>tunombre_Reto_CS1.1</code> y se entrega en PDF. Duración: 2.5 h. Son <strong>5 criterios de 20 puntos</strong>:</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Paso</th>
+<th>Qué pide</th>
+<th>Para los 20 puntos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. ¿Qué piensa la C-Suite?</strong></td>
+<td>Entrevistar <strong>al menos a 2 CXO</strong> con 4 preguntas: qué es la TD, dónde empieza, quién la lidera y quién la hace</td>
+<td><strong>2 o más textos de 150 palabras como máximo</strong> cada uno</td>
+</tr>
+<tr>
+<td><strong>2. ¿Qué hacen los demás?</strong></td>
+<td>Sector, más una tabla de lo que hacen los demás frente a lo que hacemos nosotros: expectativas, experiencia del cliente, experiencia del colaborador, procesos eficientes y digitalización inteligente</td>
+<td><strong>Sector + competencia + organización</strong>, todo identificado</td>
+</tr>
+<tr>
+<td><strong>3. ¿Cómo vamos a resolverlo?</strong></td>
+<td>Economía → propuesta de valor · competencia → modelo operativo · clientes → personas y cultura</td>
+<td><strong>Las 3 del mercado y las 3 de la empresa</strong>, bien desarrolladas</td>
+</tr>
+<tr>
+<td><strong>4. ¿A qué nos enfrentamos?</strong></td>
+<td>Situaciones reales de los <strong>4 componentes de VUCA y los 4 de BANI</strong>, con su respuesta VECA o REAC</td>
+<td><strong>Las 8 situaciones, cada una con su acción</strong></td>
+</tr>
+<tr>
+<td><strong>5. ¿Cómo vamos a seguir innovando?</strong></td>
+<td>Agendas de <strong>Transformación A, Transformación B y Enlace C</strong></td>
+<td><strong>Las tres</strong>, enfocadas en la empresa real</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Dónde se pierden puntos:</strong>
+- Un solo CXO o textos de más de 150 palabras (bajan a 16 o 10).
+- No cubrir <strong>todas</strong> las letras de VUCA y BANI.
+- Una A, B o C genéricas que no se enfocan en la empresa.</p>
+<p>Ya hay un borrador en <code>Reto/borrador-reto-CS1.1.md</code>. <strong>Las entrevistas a la C-Suite (Poncho y Pedro) las tiene que hacer Luis.</strong></p>
+</main>

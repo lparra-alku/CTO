@@ -1,0 +1,352 @@
+<title>Guía SC 5.2</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@600&display=swap">
+<style>
+:root{--ground:#F2F5F8;--surface:#FFFFFF;--ink:#16202B;--muted:#5B6875;--line:#DCE2E8;--accent:#1F5F8B;--soft:#E3EEF6;--warn:#8A4B0F;--warn-soft:#FBF1E4;
+--sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--serif:"IBM Plex Serif",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}}
+:root[data-theme="dark"]{--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.6 var(--sans)}
+main{max-width:860px;margin:0 auto;padding-block:32px 64px;padding-inline:20px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+h1{font:600 30px/1.2 var(--serif);margin:0 0 6px;text-wrap:balance}
+h1+h3{font:400 17px/1.4 var(--sans);color:var(--muted);margin:0 0 24px}
+h2{font:600 22px/1.3 var(--serif);margin:40px 0 12px;padding-top:20px;border-top:1px solid var(--line);text-wrap:balance}
+h3{font:600 17px/1.35 var(--sans);margin:28px 0 8px}
+p,li{max-width:72ch}
+a{color:var(--accent)}
+hr{display:none}
+strong{font-weight:600}
+code{font:500 .88em var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
+blockquote{margin:16px 0;padding:10px 16px;background:var(--warn-soft);color:var(--ink);border-radius:6px}
+blockquote p{margin:4px 0}
+ul,ol{padding-left:22px}
+li{margin:3px 0}
+.tbl{overflow-x:auto;margin:14px 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.45}
+th,td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid var(--line)}
+th{font:600 12px/1.3 var(--mono);letter-spacing:.03em;text-transform:uppercase;color:var(--muted);background:var(--ground)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:500}
+@media (max-width:600px){main{padding-inline:16px}h1{font-size:25px}}
+</style>
+<main><div class="eyebrow">Guía para la evaluación y el Reto · SC 5.2</div>
+<h1>Guía para la Evaluación — SC 5.2 Desarrollo del Roadmap de Transformación Digital</h1>
+<h3>Lo que necesitas saber antes de entrar</h3>
+<hr />
+<h2>Las reglas</h2>
+<p><em>Son las mismas de los subcursos anteriores. Confírmalas en la pantalla de inicio antes de empezar.</em></p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Preguntas</strong></td>
+<td>25, opción múltiple con retroalimentación</td>
+</tr>
+<tr>
+<td><strong>Duración</strong></td>
+<td>3 horas</td>
+</tr>
+<tr>
+<td><strong>Intentos</strong></td>
+<td>3; cada intento se registra solo al pulsar <strong>"Terminar intentos"</strong></td>
+</tr>
+<tr>
+<td><strong>Peso</strong></td>
+<td><strong>40 %</strong> (el Reto vale 60 %)</td>
+</tr>
+</tbody>
+</table></div>
+<p>⚠️ No cierres la ventana a medio intento: el avance no se guarda.</p>
+<hr />
+<h2>⚠️ Las trampas de este módulo</h2>
+<p><strong>1. El orden de los 5 pasos.</strong> Visión compartida → priorizar problemas → validar → gestionar el crecimiento → desarrollar capacidades. Si una pregunta dice "primera fase", la respuesta es <strong>visión compartida</strong>, también llamada <strong>ambición digital</strong>.</p>
+<p><strong>2. ¿Cuál es el propósito de cada paso?</strong> (así se pregunta en el diagnóstico)
+- Visión compartida → <strong>alinear a todos hacia un objetivo común</strong>.
+- Priorizar → <strong>resolver primero lo más urgente</strong>.
+- Validar → <strong>aprender rápido y barato</strong>.
+- Crecer → <strong>priorizar escalabilidad y flexibilidad</strong>.
+- Capacidades → <strong>capacitar para futuras innovaciones</strong>.</p>
+<p><strong>3. Las etapas de validación se confunden.</strong>
+- ¿Existe el problema y quién lo tiene? → <strong>Validación del problema</strong>.
+- ¿La propuesta de valor lo resuelve? → <strong>Validación de la solución</strong>.
+- ¿Lo usan y podemos entregarlo? → <strong>Validación del producto</strong>.
+- ¿Deja dinero? CLV, costos, <em>path to profit</em> → <strong>Validación del negocio</strong>.</p>
+<p><strong>4. Equipo de innovación contra BAU.</strong> El de innovación es pequeño, <strong>multifuncional</strong>, <strong>dedicado a un proyecto definido</strong>, <strong>autónomo</strong> y responsable. "Que un alto ejecutivo apruebe cada innovación" es un <strong>síntoma de fracaso</strong>.</p>
+<p><strong>5. El financiamiento iterativo</strong> consiste en dar el dinero <strong>por etapas, conforme se valida</strong>. No es un presupuesto anual fijo.</p>
+<p><strong>6. Los 3 caminos.</strong>
+- <strong>1:</strong> negocio central con baja incertidumbre; equipos y presupuesto estándar.
+- <strong>2:</strong> negocio central con alta incertidumbre; unidad separada pero cercana, con junta de crecimiento.
+- <strong>3:</strong> fuera del negocio central; unidad separada con presupuesto propio.</p>
+<p><strong>7. En el Pruébate las letras no coinciden con el orden de las opciones.</strong> Memoriza el <strong>texto</strong> de la respuesta, no la letra.</p>
+<hr />
+<h2>Los datos que hay que llevar memorizados</h2>
+<h3>Diagnóstico ("¿Cuánto sabes?")</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Propósito de la visión compartida</td>
+<td><strong>Alinear a todos hacia un objetivo común</strong></td>
+</tr>
+<tr>
+<td>Propósito de priorizar problemas</td>
+<td><strong>Resolver primero lo más urgente</strong></td>
+</tr>
+<tr>
+<td>Propósito de experimentar con MVP</td>
+<td><strong>Aprender rápido y barato</strong></td>
+</tr>
+<tr>
+<td>Clave para gestionar el crecimiento</td>
+<td><strong>Priorizar escalabilidad y flexibilidad</strong></td>
+</tr>
+<tr>
+<td>Propósito de desarrollar capacidades</td>
+<td><strong>Capacitar para futuras innovaciones</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 1 — Visión compartida</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Los 4 componentes</td>
+<td><strong>Panorama futuro · ventajas digitales (derecho a ganar) · estrella polar · tesis empresarial</strong></td>
+</tr>
+<tr>
+<td>Los 3 motores del panorama</td>
+<td><strong>Clientes · tecnología · competencia</strong></td>
+</tr>
+<tr>
+<td>Competidor de otra industria</td>
+<td><strong>Asimétrico</strong></td>
+</tr>
+<tr>
+<td>Las 3 preguntas de la estrella polar</td>
+<td>¿Qué impacto? · ¿Qué problemas solo tú resuelves? · ¿Por qué te extrañarían?</td>
+</tr>
+<tr>
+<td>Tesis empresarial</td>
+<td>Una <strong>teoría causal</strong> "X → Y" sobre cómo capturar valor; no es un <em>business case</em></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 2 — Priorizar problemas</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Los 5 beneficios</td>
+<td><strong>Optimización de recursos · enfoque estratégico · maximización del valor · mitigación de riesgos · comunicación clara</strong></td>
+</tr>
+<tr>
+<td>Los ejes de la matriz P/O</td>
+<td><strong>Problema u oportunidad × cliente o negocio</strong> (4 cuadrantes, mínimo 3 enunciados por cuadrante)</td>
+</tr>
+<tr>
+<td>Cómo se redacta</td>
+<td>"¿Cómo podríamos…?" · sin "y" · sin el "cómo" · en lenguaje del cliente · con métrica</td>
+</tr>
+<tr>
+<td>Obstáculo externo típico</td>
+<td><strong>Regulaciones y políticas</strong></td>
+</tr>
+<tr>
+<td>Síntoma de fracaso</td>
+<td><strong>Solo algunas personas impulsan lo digital</strong></td>
+</tr>
+<tr>
+<td>Síntoma de éxito</td>
+<td><strong>Lo digital se enfoca en el crecimiento futuro y también en el negocio actual</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 3 — Validar</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qué logra el MVP</td>
+<td><strong>Reduce riesgos y costos</strong></td>
+</tr>
+<tr>
+<td>Definir el problema, las alternativas y las necesidades no satisfechas; segmentos, TAM y <em>early adopters</em></td>
+<td><strong>Validación del problema</strong></td>
+</tr>
+<tr>
+<td>Propuesta de valor y <em>jobs to be done</em></td>
+<td><strong>Validación de la solución</strong></td>
+</tr>
+<tr>
+<td>Propósito de lanzar el MVP</td>
+<td><strong>Recopilar retroalimentación</strong></td>
+</tr>
+<tr>
+<td>CLV, costos y <em>path to profit</em></td>
+<td><strong>Validación del negocio</strong></td>
+</tr>
+<tr>
+<td>Fórmula del CLV</td>
+<td>Valor promedio × frecuencia × duración</td>
+</tr>
+<tr>
+<td>Síntomas de éxito</td>
+<td>Muchas ideas · aprender del cliente · iterar · fallar rápido y barato · crecer rápido</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 4 — Gestionar el crecimiento</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Crecimiento exponencial</td>
+<td><strong>Aumento rápido y significativo del tamaño</strong></td>
+</tr>
+<tr>
+<td>Fondos por etapas conforme se valida</td>
+<td><strong>Financiamiento iterativo</strong></td>
+</tr>
+<tr>
+<td>Síntoma de fracaso</td>
+<td><strong>Un alto ejecutivo debe aprobar cada innovación</strong></td>
+</tr>
+<tr>
+<td>Rasgos del equipo de innovación</td>
+<td><strong>Multifuncional · proyecto definido · autónomo</strong></td>
+</tr>
+<tr>
+<td>Curva de innovación</td>
+<td>A <strong>más incertidumbre, menos inversión</strong></td>
+</tr>
+<tr>
+<td>Embudo del hackathon</td>
+<td>80 ideas → 8 → 4 → <strong>3 implementadas</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 5 — Capacidades</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Acción clave</td>
+<td><strong>Fomentar una cultura de innovación y aprendizaje continuo</strong></td>
+</tr>
+<tr>
+<td>Beneficio</td>
+<td><strong>Eficiencia operativa</strong> (entre competitividad, innovación, CX y adaptación)</td>
+</tr>
+<tr>
+<td>Etapa del ciclo para mejorar habilidades</td>
+<td><strong>Capacitación</strong></td>
+</tr>
+<tr>
+<td>Roles de IA del futuro</td>
+<td><strong>Ingeniero de IA · desarrollador de algoritmos</strong></td>
+</tr>
+<tr>
+<td>Primera consideración</td>
+<td><strong>Evaluar las necesidades futuras</strong></td>
+</tr>
+<tr>
+<td>El ciclo de talento</td>
+<td>Contratación → interacción → capacitación → retención → salida</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+<h2>Cómo estudiar esto en 40 minutos</h2>
+<ol>
+<li><strong>10 min:</strong> lee el <a href="sc52-resumen.html">resumen</a>.</li>
+<li><strong>10 min:</strong> los 5 pasos con su propósito, y los 4 componentes de la visión.</li>
+<li><strong>10 min:</strong> las 4 etapas de validación y los 3 caminos.</li>
+<li><strong>10 min:</strong> tapa la columna derecha de las tablas por lección.</li>
+</ol>
+<hr />
+<h2>Para el Reto (60 %)</h2>
+<p><strong>"Construir un roadmap de transformación digital".</strong> La rúbrica y el formato están en <code>Reto/</code>. Guarda el archivo como <code>NombreApellido_reto_C5SC2</code>. La duración sugerida es de 2.5 horas. Son <strong>5 criterios de 20 puntos cada uno</strong>, uno por paso.</p>
+<p><em>Ojo: el formato trae como título "Diseño de un plan de transformación digital", que es el del Reto de SC 5.1. Es un error de copia; los pasos sí son los del roadmap.</em></p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Criterio</th>
+<th>Qué pide el formato</th>
+<th>Para los 20 puntos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Visión compartida</strong></td>
+<td>Panorama futuro · <strong>3 fortalezas y 3 limitaciones</strong> · estrella polar (objetivos y resultados, más las 3 preguntas) · tesis empresarial (cómo capturar valor y recuperar la inversión)</td>
+<td>Los <strong>4 componentes, detallados</strong></td>
+</tr>
+<tr>
+<td><strong>Priorizar problemas</strong></td>
+<td>La matriz P/O con sus 4 cuadrantes, enfocada en una propuesta de valor digital</td>
+<td><strong>Los 4 cuadrantes, detallados y relacionados entre sí</strong> (si no se relacionan, el máximo es 16)</td>
+</tr>
+<tr>
+<td><strong>Validar iniciativas</strong></td>
+<td>2 preguntas: ¿cómo mejoran la experiencia del cliente? · ¿qué riesgos hay y cómo se mitigan?</td>
+<td><strong>Ambas</strong>, claras y detalladas</td>
+</tr>
+<tr>
+<td><strong>Gestionar el crecimiento</strong></td>
+<td>2 preguntas: ¿cómo escalar la infraestructura y a las personas? · ¿cómo atender una demanda repentina?</td>
+<td><strong>Ambas</strong>, claras y detalladas</td>
+</tr>
+<tr>
+<td><strong>Desarrollar capacidades</strong></td>
+<td>El ciclo de talento: contratación (3 criterios) · interacción · capacitación · retención · salida</td>
+<td><strong>Todos los elementos, detallados</strong></td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Dónde se pierden puntos:</strong>
+- Cuadrantes que <strong>no se relacionan</strong> entre sí (16).
+- Contestar <strong>una sola</strong> de las dos preguntas (10).
+- Poner los componentes <strong>sin detallarlos</strong> (16).</p>
+<p><strong>Cómo aterriza en Grupo Infocus:</strong> ver la última sección del <a href="sc52-resumen.html">resumen</a>. Este Reto cierra la cadena de Retos anteriores:
+- SC 3.3 (visión) aporta la visión compartida.
+- SC 4.1 y SC 4.2 (entrevistas y piloto) aportan la validación.
+- SC 5.1 (plan, roles y KPI) aporta las capacidades.</p>
+</main>

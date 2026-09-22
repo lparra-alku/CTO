@@ -1,0 +1,340 @@
+<title>Resumen SC 4.2</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@600&display=swap">
+<style>
+:root{--ground:#F2F5F8;--surface:#FFFFFF;--ink:#16202B;--muted:#5B6875;--line:#DCE2E8;--accent:#1F5F8B;--soft:#E3EEF6;--warn:#8A4B0F;--warn-soft:#FBF1E4;
+--sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--serif:"IBM Plex Serif",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}}
+:root[data-theme="dark"]{--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.6 var(--sans)}
+main{max-width:860px;margin:0 auto;padding-block:32px 64px;padding-inline:20px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+h1{font:600 30px/1.2 var(--serif);margin:0 0 6px;text-wrap:balance}
+h1+h3{font:400 17px/1.4 var(--sans);color:var(--muted);margin:0 0 24px}
+h2{font:600 22px/1.3 var(--serif);margin:40px 0 12px;padding-top:20px;border-top:1px solid var(--line);text-wrap:balance}
+h3{font:600 17px/1.35 var(--sans);margin:28px 0 8px}
+p,li{max-width:72ch}
+a{color:var(--accent)}
+hr{display:none}
+strong{font-weight:600}
+code{font:500 .88em var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
+blockquote{margin:16px 0;padding:10px 16px;background:var(--warn-soft);color:var(--ink);border-radius:6px}
+blockquote p{margin:4px 0}
+ul,ol{padding-left:22px}
+li{margin:3px 0}
+.tbl{overflow-x:auto;margin:14px 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.45}
+th,td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid var(--line)}
+th{font:600 12px/1.3 var(--mono);letter-spacing:.03em;text-transform:uppercase;color:var(--muted);background:var(--ground)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:500}
+@media (max-width:600px){main{padding-inline:16px}h1{font-size:25px}}
+</style>
+<main><div class="eyebrow">Resumen de estudio · SC 4.2</div>
+<h1>SC 4.2 · Pruebas Piloto de Estrategias Centradas en la Persona</h1>
+<h3>Resumen de estudio</h3>
+<p><strong>Competencia 4 — Experiencia del cliente y diseño</strong>
+- Experto acreditado: <strong>Jorge Luis Coronel Fuentes</strong>.
+- Caso conductor: <strong>Claudia</strong>, gerente de operaciones de una cadena de electrónica. Sus clientes no encuentran lo anunciado en redes o no pueden comprar desde casa por limitaciones físicas, y ella lanza <em>e-commerce</em> y una app.</p>
+<blockquote>
+<p><strong>La tesis del módulo:</strong> es la continuación de SC 4.1, que llegaba hasta idear. Aquí se <strong>prototipa, se prueba y se mide</strong>. Tiene cinco bloques:
+1. <strong>Prototipado y pruebas de usabilidad.</strong>
+2. <strong>Accesibilidad e inclusión</strong> desde el diseño, no como parche.
+3. <strong>Marcos de ejecución</strong>: OODA, STEP, VSM, <em>backlog</em> y SLA.
+4. <strong>Medición</strong>: heurísticas de Nielsen, KPI de UX y riesgo.
+5. <strong>Integración en el plan de transformación.</strong></p>
+<p>El mensaje: <em>prototipar no es solo diseñar, es validar</em> antes de invertir.</p>
+</blockquote>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Evaluación</strong></td>
+<td>25 preguntas · 3 horas · <strong>3 intentos</strong> · 40 %</td>
+</tr>
+<tr>
+<td><strong>Reto</strong></td>
+<td><em>Solución centrada en la persona</em> · 2.5 h · <strong>2 intentos</strong> · 60 %</td>
+</tr>
+<tr>
+<td><strong>Material estudiado</strong></td>
+<td>12 lecturas · 29 interactivos · 9 videos — 100 %</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+<h2>Lección 1 — Prototyping and Testing</h2>
+<h3>Técnicas de prototipado</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Técnica</th>
+<th>Qué es</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Baja fidelidad</strong></td>
+<td>Papel, cartulina, post-its. <strong>Materiales sencillos, rápido, fácil de iterar.</strong></td>
+</tr>
+<tr>
+<td><strong>Alta fidelidad</strong></td>
+<td>Cercano al producto final: Adobe XD, Sketch, <strong>Figma</strong>, InVision</td>
+</tr>
+<tr>
+<td><strong>Interactivo</strong></td>
+<td>Simula la navegación real</td>
+</tr>
+<tr>
+<td><strong>De código</strong></td>
+<td><strong>HTML, CSS, JS, React, Vue</strong>. Es <strong>la mejor opción para prototipos funcionales de web o app</strong>.</td>
+</tr>
+<tr>
+<td><strong>3D</strong></td>
+<td>Blender, SolidWorks, Fusion 360: productos físicos</td>
+</tr>
+<tr>
+<td><strong>Storyboards</strong></td>
+<td>Viñetas que narran la interacción</td>
+</tr>
+<tr>
+<td><strong>Rápido y en serie</strong></td>
+<td>Impresión 3D, corte láser</td>
+</tr>
+<tr>
+<td><strong>VR/AR</strong></td>
+<td><strong>Experimentar la interacción en un entorno simulado</strong></td>
+</tr>
+<tr>
+<td><strong>De servicio</strong></td>
+<td><em>Journey maps</em> y <em>service blueprints</em></td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>La elección depende del tipo de producto, el nivel de detalle, el alcance y los recursos.</strong></p>
+<p><strong>Matriz de impacto contra complejidad</strong> (Johnson y de Rouw, 2017): <strong>alto impacto y baja complejidad → "¡Hazlo!"</strong> · alto impacto y alta complejidad → arriesgado, planear con cuidado · bajo impacto y baja complejidad → pérdida de esfuerzo · bajo impacto y alta complejidad → <strong>deséchalo</strong>.</p>
+<p><strong>Business Service Design (BSD):</strong> es un <strong>enfoque de prototipado</strong>, no un "concepto".
+- <strong>Etapas:</strong> entender el negocio → declaración del diseño de servicio → diseño funcional → construir el MVP → ciclo de vida ágil → instalar y entregar → operación y mantenimiento.
+- <strong>Requerimientos:</strong> de negocio, de usuario y de sistema.</p>
+<h3>Pruebas de usabilidad: 4 etapas</h3>
+<ol>
+<li><strong>Objetivos y métricas.</strong></li>
+<li><strong>Participantes</strong> representativos, más escenarios y tareas, y la ejecución con observación.</li>
+<li><strong>Recopilación de datos</strong>: cuantitativos (tiempo, errores) y cualitativos.</li>
+<li><strong>Iteración y mejora.</strong></li>
+</ol>
+<p><strong>Son una inversión:</strong> bajan los costos de soporte y aumentan la fidelidad.
+<strong>Ejemplo:</strong> un sistema de citas pasa del teléfono y el correo a una plataforma probada en Figma, con meta de <strong>−40 % de llamadas</strong>.</p>
+<hr />
+<h2>Lección 2 — Diseño para la accesibilidad y la inclusión</h2>
+<h3>El proceso de producto digital inclusivo: 18 pasos</h3>
+<p>Ideación → investigación de mercado y <strong>user personas</strong> → alcance y objetivos SMART con KPI → UX/UI con <em>wireframes</em> → <strong>planificación técnica y arquitectura</strong> (tecnologías, bases de datos e infraestructura; arquitectura de datos según Microsoft) → QA → escalabilidad y seguridad → desarrollo iterativo → <strong>beta</strong> → contenido → documentación → <strong>pruebas de accesibilidad</strong> → <strong>UAT</strong> → seguridad y cumplimiento → lanzamiento → analítica → marketing → escalar.</p>
+<p><strong>Caso Scytl</strong> (voto electrónico, vía Justinmind): <em>wireframes</em> y prototipos interactivos, pruebas con usuarios y Lean UX.</p>
+<h3>Consideraciones para ofertas digitales inclusivas</h3>
+<ol>
+<li><strong>Conocer los estándares: WCAG</strong> y la Sección 508 de EE. UU.</li>
+<li><strong>Generar conciencia en el equipo.</strong></li>
+<li>Diseñar para todas las plataformas.</li>
+<li>Diseño centrado en el usuario (Pursell, 2023): <em>un proceso </em><em>iterativo</em><em> que dirige sus objetivos a los usuarios y sus necesidades</em>.</li>
+<li><strong>UI accesible:</strong> texto alternativo, navegación por teclado, subtítulos y transcripciones, contraste, diseño responsivo y prueba con lectores de pantalla.</li>
+<li>Sensibilidad cultural.</li>
+<li>Mecanismos de retroalimentación.</li>
+<li>Mejora continua.</li>
+<li>Documentación y soporte.</li>
+<li><strong>Declaración de accesibilidad.</strong></li>
+<li>Promover la inclusión y la diversidad.</li>
+</ol>
+<p><strong>Herramientas:</strong> <strong>Axe</strong> · <strong>WAVE</strong> · lectores de pantalla <strong>JAWS, NVDA y VoiceOver</strong> · verificadores de contraste de WebAIM.</p>
+<h3>Modelos de diseño inclusivo</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Modelo</th>
+<th>Clave</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Los 7 principios del Diseño Universal</strong> (NC State)</td>
+<td>Equitativo · flexible · simple e intuitivo · información perceptible · <strong>tolerancia al error</strong> · bajo esfuerzo físico · tamaño y espacio</td>
+</tr>
+<tr>
+<td><strong>Cooper Hewitt (Smithsonian)</strong></td>
+<td><strong>Co-creación · empatía · diversidad y equidad · flexibilidad</strong></td>
+</tr>
+<tr>
+<td><strong>Las 4 C de la accesibilidad</strong></td>
+<td><strong>Contenido · Control</strong> (interactuar y navegar) <strong>· Comunicación · Contexto</strong></td>
+</tr>
+<tr>
+<td><strong>Las 5 dimensiones de la inclusión digital</strong></td>
+<td>Accesibilidad · usabilidad · percepción · cognición · afectividad</td>
+</tr>
+<tr>
+<td><strong>HEART (Google)</strong></td>
+<td><strong>Happiness · Engagement · Adoption · Retention · Task success</strong></td>
+</tr>
+<tr>
+<td><strong>Diseño de servicios centrado en el cliente</strong></td>
+<td>Empatía · co-creación · flexibilidad · iteración · medición · multicanal · fases de vida · calidad</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Buenas prácticas:</strong> diseño responsivo, WCAG, pruebas de usabilidad, retroalimentación en tiempo real, carga rápida, pruebas en varios navegadores, multilingüe, personalización, SEO y consistencia de marca.</p>
+<hr />
+<h2>Lección 3 — Implementing User-Centric Design Strategy</h2>
+<p><strong>Framework de ejecución de proyectos:</strong>
+- <strong>Antes de empezar:</strong> <strong>comprender los objetivos estratégicos</strong> e identificar a las partes interesadas.
+- <strong>Los 8 pasos:</strong>
+  1. Elegir la metodología (cascada, Scrum, Kanban, Lean).
+  2. Procesos y flujos.
+  3. Roles.
+  4. Herramientas y plantillas.
+  5. KPI.
+  6. Capacitación y comunicación.
+  7. <strong>Piloto</strong> y ajustes.
+  8. Documentación y mejora.
+- <strong>Las 5 conductas del usuario en línea (Díaz, 2019):</strong> navegar · redes · compras · comunicación · crear contenido.</p>
+<h3>Herramientas</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Herramienta</th>
+<th>Qué hace</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>OODA Loop</strong> (John Boyd)</td>
+<td><strong>Observar → Orientar → Decidir → Actuar</strong>, iterativo. <strong>La orientación es la fase más crítica.</strong> Nació en lo militar y se usa en negocios y en conflictos. El ejemplo es una app de súper a domicilio.</td>
+</tr>
+<tr>
+<td><strong>STEP</strong></td>
+<td>Factores <strong>Sociales, Tecnológicos, Económicos, Políticos</strong>. PESTEL agrega los ambientales y legales.</td>
+</tr>
+<tr>
+<td><strong>Value Stream Mapping</strong> (Lean)</td>
+<td><strong>Visualizar el flujo de valor de principio a fin</strong>, separar valor de desperdicio, flujo de material y de información, mapa actual contra futuro</td>
+</tr>
+<tr>
+<td><strong>Interfaz de backlog</strong> (Scrum)</td>
+<td>Lista con prioridad, estado y estimación · filtros · detalle · asignación · comentarios · historial · alertas · exportación</td>
+</tr>
+<tr>
+<td><strong>SLA</strong> (definición de AWS)</td>
+<td>Contrato de nivel de servicio: <em>uptime</em>, respuesta, resolución, sanciones. <strong>Tipos: por servicio · por cliente · multinivel.</strong> El <strong>SLO</strong> es la meta de una métrica.</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Caso Airbnb</strong> (sin nombrarlo): los fundadores subieron fotos de <strong>su propio departamento</strong> a una página básica para validar si la gente pagaría. El curso le atribuye +30 % de conversión y −50 % de <em>tickets</em> tras el rediseño.</p>
+<hr />
+<h2>Lección 4 — Medir el éxito del diseño centrado en el usuario</h2>
+<h3>Evaluación heurística (Nielsen, 1990)</h3>
+<p><strong>Expertos</strong> revisan la interfaz contra <strong>10 heurísticas</strong>:
+1. Visibilidad del estado del sistema
+2. Correspondencia con el mundo real
+3. Control y libertad del usuario
+4. Consistencia y estándares
+5. <strong>Prevención de errores</strong>
+6. <strong>Reconocimiento antes que recuerdo</strong>
+7. Flexibilidad y eficiencia
+8. Diseño estético y minimalista
+9. Ayudar a reconocer, diagnosticar y recuperarse de los errores
+10. Ayuda y documentación</p>
+<p><strong>Menos problemas = mejor diseño.</strong></p>
+<h3>Métricas y KPI de UX</h3>
+<ul>
+<li><strong>Retención y abandono · conversión · tiempo por tarea · satisfacción · accesibilidad (WCAG) · negocio (ROI).</strong></li>
+<li><strong>KPI:</strong> <strong>tasa de conversión</strong> (% que completa una acción) · tiempo de permanencia · abandono · <strong>SUS o NPS</strong> · tiempo de carga · errores · retención · satisfacción · <strong>tareas completadas</strong> · <em>engagement</em> · <strong>NPS</strong> · abandono de carrito.</li>
+</ul>
+<p><strong>Por qué invertir en medición:</strong> decisiones informadas y soluciones funcionales, no solo bonitas.</p>
+<h3>Risk Assessment Product Value</h3>
+<p>Rider et al. (2009): <em>"evaluar los riesgos sobre el valor del producto"</em>. <strong>El propio curso admite que no es un concepto estándar.</strong>
+- <strong>Riesgos de UX en el ejemplo de una app de salud:</strong> <strong>privacidad y seguridad de datos</strong> · facilidad de uso y accesibilidad · precisión de los datos · relevancia.
+- <strong>Cuatro áreas para identificar riesgos:</strong> <strong>Tiempo · Ubicación · Ciclo de vida del producto · Cadena de suministro.</strong>
+- <strong>Los tres pasos:</strong> identificar → evaluar (probabilidad e impacto; cartera de alto riesgo) → <strong>plan de acción: Disuasión · Regulación · Cumplimiento</strong>.
+- <strong>Programa de protección de marca:</strong> autenticación del producto · seguimiento de la distribución · educación del consumidor.</p>
+<p><strong>Caso Spotify</strong> (sin nombrarlo): retención, NPS, tiempo en pantalla, conversión <em>free → premium</em> y éxito en tareas, medidos con Hotjar, UserTesting y A/B.</p>
+<hr />
+<h2>Lección 5 — Incorporar el DCU en el plan de transformación</h2>
+<p><strong>Tendencias:</strong> AR/VR · interfaces conversacionales · personalización en tiempo real · pruebas continuas · colaboración multidisciplinaria · <strong>diseño sostenible</strong> · ética y privacidad · <strong>voz y experiencia multimodal</strong> (combina voz, texto y elementos visuales) · IA y ML.</p>
+<p><strong>Tres ejemplos de plan:</strong>
+1. <strong>Rediseño de app bancaria:</strong> investigación → UI/UX → prototipo y pruebas → implementación → lanzamiento → evaluación → mantenimiento.
+2. <strong>Portal de atención de una telecom:</strong> investigación → contenido y navegación incluyente, con voz → <strong>funcionalidades clave</strong> (búsqueda, chat, FAQ, <strong>autoayuda accesible</strong>, seguimiento de casos) → chatbot → capacitación → beta → lanzamiento → medición (menos llamadas).
+3. <strong>Universidad:</strong> <strong>investigación de estudiantes</strong> (encuestas y <em>focus groups</em>) → contenido interactivo → plataforma personalizada → retroalimentación automatizada → seguimiento.</p>
+<p><strong>Caso Iberdrola:</strong> DCU como eje de su transformación, con personalización por perfil y accesibilidad.</p>
+<p><strong>Los tres elementos clave para incorporar el DCU al plan:</strong> <strong>colaboración interdisciplinaria · recopilación de datos significativos · iteración continua.</strong></p>
+<hr />
+<h2>Errores y descuidos del curso</h2>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Dónde</th>
+<th>Qué dice</th>
+<th>Qué es correcto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>OODA</td>
+<td>Boyd lo desarrolló <em>"en la década de 1950 y 1960"</em></td>
+<td>Boyd lo formuló en los <strong>años 70 y 80</strong>. Su obra es <em>Patterns of Conflict</em> (1986). En los 60 hizo la teoría de energía y maniobrabilidad.</td>
+</tr>
+<tr>
+<td>KPI de UX</td>
+<td><em>"Usabilidad: SUS o NPS"</em></td>
+<td>El <strong>NPS mide lealtad o recomendación, no usabilidad</strong>. La usabilidad se mide con <strong>SUS</strong> (Brooke, 1986).</td>
+</tr>
+<tr>
+<td>Modelos</td>
+<td>"4 C de la accesibilidad", "5 dimensiones de la inclusión digital", "modelo Cooper Hewitt"</td>
+<td><strong>No encontré fuentes con estos modelos</strong> tal como se presentan. Parecen síntesis del curso. Los estándares reales son <strong>WCAG 2.2</strong> (POUR: perceptible, operable, comprensible, robusto) y los <strong>7 principios del Diseño Universal</strong>.</td>
+</tr>
+<tr>
+<td>Risk Assessment</td>
+<td>Rider et al. (2009) aplicado a falsificación digital</td>
+<td>Rider et al. trata de <strong>seguridad de productos de consumo</strong> (lesiones). La parte de falsificación sale de otra fuente.</td>
+</tr>
+<tr>
+<td>L2, Parte 2</td>
+<td><em>"Plataforma de atención médica digital inclusiva"</em></td>
+<td>El caso que se describe es <strong>Scytl, de voto electrónico</strong>. El título no corresponde.</td>
+</tr>
+<tr>
+<td>Bibliografía</td>
+<td>Horton, <strong>Quesenbery y Gustafson</strong> (2014)</td>
+<td>Los autores de <em>A Web for Everyone</em> son <strong>Sarah Horton y Whitney Quesenbery</strong>. No hay tal Gustafson.</td>
+</tr>
+<tr>
+<td>Formato del Reto</td>
+<td><em>"La plantilla que propone </em><em>Hubsport</em><em>"</em></td>
+<td><strong>HubSpot</strong>, <em>Make My Persona</em></td>
+</tr>
+<tr>
+<td>Formato del Reto</td>
+<td>Nombre del archivo <code>_reto_C4SC2</code>, título <em>"Diseño de un plan de transformación digital"</em></td>
+<td>Hay inconsistencia con el nombre del Reto en la plataforma: <em>"Solución centrada en la persona"</em></td>
+</tr>
+<tr>
+<td>Video L4</td>
+<td>"VESCA a Smerquart-Hvaliou"</td>
+<td>Error del reconocimiento de voz: <em>Risk Assessment Product Value</em></td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+<h2>Cómo aterriza en Grupo Infocus y Alku</h2>
+<ul>
+<li><strong>SLA es vocabulario diario de Alku.</strong> El módulo da la estructura formal que debería tener el <strong>contrato de soporte post-implementación de Odoo</strong>: SLO de primera respuesta y de resolución, niveles (por servicio, por cliente o multinivel), sanciones y revisión. <strong>Odoo Helpdesk trae políticas de SLA nativas.</strong></li>
+<li><strong>Backlog = Odoo Proyecto</strong> con etapas, prioridades, etiquetas y asignación. La lectura de diseño de interfaz de <em>backlog</em> describe lo que Odoo ya hace.</li>
+<li><strong>La matriz impacto-complejidad sirve para priorizar requerimientos</strong> del cliente en una implementación, las famosas "personalizaciones".</li>
+<li><strong>Accesibilidad:</strong> el <strong>portal de clientes de Odoo</strong> es la cara digital de las pymes. Una revisión rápida con <strong>WAVE o Axe</strong> del sitio y la tienda de un cliente es un servicio de valor agregado barato.</li>
+<li><strong>El Reto</strong> (solución centrada en la persona): la rúbrica <strong>solo califica 4 cosas</strong> (situación actual, objetivo, user persona y KPI, 25 puntos cada una), aunque el formato pide más. <strong>Hay que asegurar primero esas cuatro.</strong> Una propuesta natural: un <strong>portal de autoservicio para clientes de Alku</strong> (tickets, facturas y avance del proyecto) sobre Odoo, con SLA, HEART como KPI y OODA como metodología.</li>
+</ul>
+</main>

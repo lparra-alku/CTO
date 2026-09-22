@@ -61,9 +61,20 @@ Qué pide la certificación (insignia diamante), sus requisitos y una propuesta 
 
 ---
 
-## Navegar los mapas mentales
+## Sitio de estudio
 
-[`index.html`](index.html) reúne los 12 mapas en una sola página, con un índice lateral y botones de anterior y siguiente. Para usarlo:
+[`index.html`](index.html) reúne los 12 subcursos en una sola página, con un índice lateral y tres vistas por subcurso:
+- **Mapa:** el mapa mental.
+- **Guía y Reto:** los datos que se preguntan en la evaluación y la rúbrica del Reto, criterio por criterio.
+- **Resumen:** el módulo completo, con los errores del curso señalados.
+
+Las páginas de guía y resumen están en `sitio/` y se generan a partir de los `.md` de cada módulo. Para regenerarlas después de editar un `.md`:
+
+```bash
+python3 _herramientas/sitio/render_md.py sitio && python3 _herramientas/sitio/build_hub.py repo index.html
+```
+
+**Cómo abrirlo:**
 - **En local:** clona el repo y abre `index.html` en el navegador.
 - **En la web:** GitHub Pages necesita un plan de pago si el repo es privado. Mientras tanto hay una copia publicada como Artifact privado.
 

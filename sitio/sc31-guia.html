@@ -1,0 +1,374 @@
+<title>Guía SC 3.1</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@600&display=swap">
+<style>
+:root{--ground:#F2F5F8;--surface:#FFFFFF;--ink:#16202B;--muted:#5B6875;--line:#DCE2E8;--accent:#1F5F8B;--soft:#E3EEF6;--warn:#8A4B0F;--warn-soft:#FBF1E4;
+--sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--serif:"IBM Plex Serif",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}}
+:root[data-theme="dark"]{--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.6 var(--sans)}
+main{max-width:860px;margin:0 auto;padding-block:32px 64px;padding-inline:20px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+h1{font:600 30px/1.2 var(--serif);margin:0 0 6px;text-wrap:balance}
+h1+h3{font:400 17px/1.4 var(--sans);color:var(--muted);margin:0 0 24px}
+h2{font:600 22px/1.3 var(--serif);margin:40px 0 12px;padding-top:20px;border-top:1px solid var(--line);text-wrap:balance}
+h3{font:600 17px/1.35 var(--sans);margin:28px 0 8px}
+p,li{max-width:72ch}
+a{color:var(--accent)}
+hr{display:none}
+strong{font-weight:600}
+code{font:500 .88em var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
+blockquote{margin:16px 0;padding:10px 16px;background:var(--warn-soft);color:var(--ink);border-radius:6px}
+blockquote p{margin:4px 0}
+ul,ol{padding-left:22px}
+li{margin:3px 0}
+.tbl{overflow-x:auto;margin:14px 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.45}
+th,td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid var(--line)}
+th{font:600 12px/1.3 var(--mono);letter-spacing:.03em;text-transform:uppercase;color:var(--muted);background:var(--ground)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:500}
+@media (max-width:600px){main{padding-inline:16px}h1{font-size:25px}}
+</style>
+<main><div class="eyebrow">Guía para la evaluación y el Reto · SC 3.1</div>
+<h1>Guía para la Evaluación — SC 3.1 Marcos de Referencia de Transformación Digital</h1>
+<h3>Lo que necesitas saber antes de entrar</h3>
+<hr />
+<h2>Las reglas</h2>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Preguntas</strong></td>
+<td><strong>25</strong>, opción múltiple con retroalimentación</td>
+</tr>
+<tr>
+<td><strong>Duración</strong></td>
+<td>3 horas</td>
+</tr>
+<tr>
+<td><strong>Intentos</strong></td>
+<td><strong>3</strong> — se registra solo al pulsar <strong>"Terminar intentos"</strong></td>
+</tr>
+<tr>
+<td><strong>Peso</strong></td>
+<td><strong>40 %</strong> (el Reto vale 60 %)</td>
+</tr>
+</tbody>
+</table></div>
+<p>⚠️ No cierres la ventana a medio intento: el avance no se guarda.</p>
+<hr />
+<h2>⚠️ Las trampas de este módulo</h2>
+<p><strong>1. ¿Qué marco sirve para qué?</strong> Es la pregunta más probable, y la historia de Eliza la resume:
+| Si la pregunta dice… | Marco |
+|---|---|
+| Definir <strong>visión</strong> y <strong>ambiciones digitales</strong>, optimizar o transformar | <strong>Gartner</strong> |
+| Transformación <strong>integral</strong>: <strong>infraestructura, procesos y cultura</strong> | <strong>Capgemini</strong> |
+| <strong>Equilibrar</strong> el corto plazo con el futuro; negocio central contra innovación | <strong>Tres Horizontes (McKinsey)</strong> |
+| Arquitectura empresarial | <strong>TOGAF</strong> |
+| Proyectos <strong>en plazo y presupuesto</strong> | <strong>Gestión de proyectos (PRINCE2 / PMBOK)</strong> |</p>
+<p><strong>2. Las letras de la retroalimentación están mal.</strong> En varios Pruébate, el texto dice <em>"la respuesta correcta es a)"</em> cuando la opción correcta aparece en otra posición. <strong>Aprende el contenido de la respuesta, no la letra.</strong> En "¿Cuánto sabes?", la última retroalimentación incorrecta dice incluso "Marco de Capgemini" cuando la respuesta es <strong>Tres Horizontes</strong>.</p>
+<p><strong>3. Optimización contra transformación.</strong> Si <strong>mejora algo que ya existe</strong> (un EMR, automatizar lo administrativo o incluso las videoconsultas) es <strong>optimización</strong>. Si <strong>reinventa la oferta</strong> (IA predictiva sobre datos históricos, un modelo de negocio nuevo) es <strong>transformación</strong>.</p>
+<p><strong>4. Los horizontes por la acción, no por el tiempo.</strong> H1 <strong>mejora lo actual</strong>, H2 <strong>expande hacia lo relacionado</strong> y H3 <strong>explora lo radical</strong>. Ojo: <em>"un servicio de hogar inteligente con IoT"</em> suena a H3, pero en el Pruébate funciona como distractor. <strong>H3 es colaborar con startups y laboratorios.</strong></p>
+<p><strong>5. El mayor reto es la actitud hacia el cambio,</strong> no el dominio de la tecnología ni la visión de los directivos.</p>
+<p><strong>6. Métricas de vanidad = siempre incorrectas.</strong></p>
+<hr />
+<h2>Los datos que hay que llevar memorizados</h2>
+<h3>Lección 1 — Introducción</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>¿Para qué sirven los marcos?</td>
+<td><strong>Guía estratégica para alinear la transformación con los objetivos comerciales y la visión de largo plazo</strong></td>
+</tr>
+<tr>
+<td>¿Cómo intervienen en el cambio cultural?</td>
+<td><strong>Estructuras para la comunicación, la capacitación y la participación de los empleados</strong></td>
+</tr>
+<tr>
+<td>Análisis detallado de la situación actual</td>
+<td><strong>Diagnóstico inicial</strong> (incluye FODA)</td>
+</tr>
+<tr>
+<td>Pilar para que el personal adopte la tecnología</td>
+<td><strong>Capacitación y desarrollo de habilidades</strong></td>
+</tr>
+<tr>
+<td>Elemento del cambio cultural</td>
+<td><strong>Colaboración entre departamentos y equipos</strong></td>
+</tr>
+<tr>
+<td>Tecnología para tareas que requieren inteligencia humana</td>
+<td><strong>IA</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 2 — Pasos, elementos y tipos</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Los 4 elementos de orientación y estructura</td>
+<td><strong>Principios y valores · gobierno y estructura organizativa · arquitectura empresarial · KPI</strong></td>
+</tr>
+<tr>
+<td>3 pasos de McKinsey</td>
+<td><strong>Definir el valor → lanzamiento y aceleración → escalar</strong></td>
+</tr>
+<tr>
+<td>Paso 2 de McKinsey</td>
+<td><strong>Proyecto insignia · equipo de lanzamiento (CDO) · ágil · cultura digital</strong></td>
+</tr>
+<tr>
+<td>Mentalidad para adaptarse rápido</td>
+<td><strong>Innovadora</strong></td>
+</tr>
+<tr>
+<td>Agilizar tareas manuales y repetitivas</td>
+<td><strong>Automatización de procesos</strong></td>
+</tr>
+<tr>
+<td>Conectar áreas y eliminar silos</td>
+<td><strong>Integración de sistemas</strong></td>
+</tr>
+<tr>
+<td>Por qué adoptar un marco</td>
+<td>Para <strong>tomar el control del destino tecnológico</strong> en vez de reaccionar</td>
+</tr>
+<tr>
+<td>Objetivo de un marco</td>
+<td><strong>Método consistente y replicable</strong> para planear y supervisar</td>
+</tr>
+<tr>
+<td>Objetivos</td>
+<td><strong>SMART</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 3 — Tres Horizontes y Capgemini</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Origen</td>
+<td><strong>Baghai, Coley y White, <em>The Alchemy of Growth</em>, 1999 (McKinsey)</strong></td>
+</tr>
+<tr>
+<td>H1</td>
+<td><strong>Negocio central · 1-2 años</strong> · optimización, innovación incremental</td>
+</tr>
+<tr>
+<td>H2</td>
+<td><strong>Negocios adyacentes · 2-5 años</strong> · extensión de línea, diversificación relacionada</td>
+</tr>
+<tr>
+<td>H3</td>
+<td><strong>Transformacional o vanguardia · &gt; 5 años</strong> · innovación radical, pilotos, startups</td>
+</tr>
+<tr>
+<td>Ejes de la gráfica</td>
+<td><strong>X = tiempo · Y = valor</strong></td>
+</tr>
+<tr>
+<td>Los 4 rubros de Capgemini</td>
+<td><strong>Estrategia · experiencia del cliente · operaciones · cultura</strong></td>
+</tr>
+<tr>
+<td>Los 3 momentos de Capgemini</td>
+<td><strong>Por qué · qué · cómo</strong></td>
+</tr>
+<tr>
+<td>El "por qué"</td>
+<td><strong>Ofensiva</strong> (crear valor) y <strong>defensiva</strong> (vulnerabilidades) · 3 tipos de tendencias</td>
+</tr>
+<tr>
+<td>Los ejes del "qué"</td>
+<td><strong>Amplitud de reconfiguración de la cadena de valor</strong> × <strong>nivel de reinvención del modelo de negocio</strong></td>
+</tr>
+<tr>
+<td>El "cómo"</td>
+<td><strong>Velocidad</strong> de ejecución + <strong>hacer, comprar o asociar</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 4 — Gartner</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Elemento para definir la ambición</td>
+<td><strong>El estado de disrupción de la industria</strong> (también la cultura)</td>
+</tr>
+<tr>
+<td>Implementar un EMR</td>
+<td><strong>Optimización digital</strong></td>
+</tr>
+<tr>
+<td>Ejemplo de transformación</td>
+<td><strong>IA sobre datos históricos de pacientes para predecir complicaciones</strong></td>
+</tr>
+<tr>
+<td>Objetivo de la transformación</td>
+<td><strong>Capturar ingresos o valor nuevos</strong> con productos y modelos digitales</td>
+</tr>
+<tr>
+<td>Enfoque para entregar MVP</td>
+<td><strong>Ejecución ágil</strong></td>
+</tr>
+<tr>
+<td>Las 4 dimensiones del modelo de negocio</td>
+<td><strong>Propuesta de valor · clientela · capacidades · finanzas</strong></td>
+</tr>
+<tr>
+<td>Los 6 pasos de la ejecución ágil</td>
+<td><strong>Visión · orden · crear · arraigar · evaluar · aprender</strong></td>
+</tr>
+<tr>
+<td>Los frentes de la optimización</td>
+<td>Activos/capital · márgenes operativos · fuerza laboral · experiencia del cliente</td>
+</tr>
+<tr>
+<td>Modelos de valor</td>
+<td><strong>12</strong> — suscripción, rastrillo y navajas, plataforma…</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 5 — Otros marcos y BUILD</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>El mayor reto</td>
+<td><strong>Las actitudes hacia el cambio</strong></td>
+</tr>
+<tr>
+<td>BUILD</td>
+<td><strong>Bridge · Uncover · Iterate · Leverage · Disseminate</strong></td>
+</tr>
+<tr>
+<td>Saber qué quieren los clientes y qué tecnologías adoptar</td>
+<td><strong>Bridge (Puente)</strong>, la primera etapa</td>
+</tr>
+<tr>
+<td>Investigar, desafiar la lógica obsoleta y priorizar correcciones</td>
+<td><strong>Uncover (Descubrir)</strong></td>
+</tr>
+<tr>
+<td>Nueva forma de trabajar</td>
+<td><strong>Iterate</strong>: ciclos cortos + ágil + <em>design thinking</em></td>
+</tr>
+<tr>
+<td>Escalar usando los éxitos</td>
+<td><strong>Leverage (Aprovechar)</strong></td>
+</tr>
+<tr>
+<td>Estado final (Disseminate)</td>
+<td><strong>Lograr objetivos colectivos, conectar con clientes y colaborar</strong> con tecnología y enfoque iterativo</td>
+</tr>
+<tr>
+<td>Criterios para evaluar un proyecto</td>
+<td>Valor para el cliente · ventaja competitiva · impacto en el negocio · viabilidad técnica · escalabilidad</td>
+</tr>
+<tr>
+<td>ADKAR</td>
+<td>Conciencia · Deseo · Conocimiento · Habilidad · Reforzamiento</td>
+</tr>
+<tr>
+<td>6D (según el curso, Deloitte)</td>
+<td>Descubrimiento · Diseño · Despliegue · Datos · Dirigir · Desarrollar</td>
+</tr>
+<tr>
+<td>Forrester</td>
+<td>Experiencia del cliente digital · negocio digital · operaciones digitales</td>
+</tr>
+<tr>
+<td>7S de McKinsey</td>
+<td>Estrategia · estructura · sistemas · habilidades · estilo · personal · valores compartidos</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>En el examen, responde la versión del curso:</strong> ADKAR "de Silicon Valley y Stanford", MIT "4 etapas". En el <a href="sc31-resumen.html">resumen</a> está qué es lo correcto en realidad.</p>
+<hr />
+<h2>Cómo estudiar esto en 40 minutos</h2>
+<ol>
+<li><strong>10 min</strong> — Lee el <a href="sc31-resumen.html">resumen</a>.</li>
+<li><strong>10 min</strong> — Memoriza la tabla de <em>"¿qué marco sirve para qué?"</em> y la de los horizontes.</li>
+<li><strong>10 min</strong> — Tapa la columna derecha de las cinco tablas.</li>
+<li><strong>10 min</strong> — Listas: <strong>4 elementos · 3 pasos de McKinsey · 4 rubros de Capgemini · 4 dimensiones de Gartner · 6 pasos ágiles · BUILD</strong>.</li>
+</ol>
+<hr />
+<h2>Para el Reto (60 %)</h2>
+<p><strong>"Navegando los horizontes del cambio"</strong> — rúbrica y formato en <code>Reto/</code>. Son 5 pasos de <strong>20 puntos cada uno</strong>, evaluados de forma cualitativa (0 / 50 / 80 / 100 %). El nombre del archivo es <code>tunombre_Reto_CS3.1.pdf</code>.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Paso</th>
+<th>Qué pide</th>
+<th>Tablas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Recopilar datos de la empresa: documentos, información, entrevistas, datos cualitativos y cuantitativos</td>
+<td>1-3</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Análisis Capgemini según <strong>visión, estrategia, ejecución y resultados</strong></td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Ciclo de vida de Gartner</strong>: ubicar la etapa, evaluarla y trazar un plan para pasar a la siguiente</td>
+<td>5 + plan</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tres Horizontes: 10 iniciativas clasificadas en H1, H2 y H3, y juicio sobre el equilibrio</td>
+<td>6-7</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Hasta 10 propuestas de mejora ligadas a un objetivo</td>
+<td>8</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>⚠️ Dos cosas que el Reto pide y el curso no enseña:</strong>
+1. <strong>Paso 2:</strong> el formato organiza Capgemini como <em>visión, estrategia, ejecución y resultados</em>, que no es lo que enseña la lección. <strong>Sigue las preguntas del formato</strong>, y de paso conecta con los 4 rubros y el por qué, qué y cómo. Eso muestra una "comprensión profunda", que es lo que pide el nivel sobresaliente.
+2. <strong>Paso 3:</strong> las etapas <em>Inicio → Aprendizaje → Dominio → Estrategia → Transformación → Rendimiento</em> <strong>no aparecen en ninguna lección</strong> y no coinciden con el modelo de Gartner que se publica. Úsalas tal cual, define en una línea qué entiendes por cada una y justifica la etapa con evidencia de los Pasos 1 y 2.</p>
+<p><strong>Cómo aterriza en Grupo Infocus:</strong> los documentos del Paso 1 salen del sitio de infocusconsultores.com, de la operación de Alku en Odoo y de los diagnósticos que ya hay en los retos anteriores. Lo más probable es que el Paso 4 muestre <strong>casi todo en H1</strong>. Esa es la conclusión honesta, y es la que abre el Paso 5.</p>
+</main>

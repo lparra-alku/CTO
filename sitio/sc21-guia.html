@@ -1,0 +1,373 @@
+<title>Guía SC 2.1</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@600&display=swap">
+<style>
+:root{--ground:#F2F5F8;--surface:#FFFFFF;--ink:#16202B;--muted:#5B6875;--line:#DCE2E8;--accent:#1F5F8B;--soft:#E3EEF6;--warn:#8A4B0F;--warn-soft:#FBF1E4;
+--sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--serif:"IBM Plex Serif",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}}
+:root[data-theme="dark"]{--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.6 var(--sans)}
+main{max-width:860px;margin:0 auto;padding-block:32px 64px;padding-inline:20px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+h1{font:600 30px/1.2 var(--serif);margin:0 0 6px;text-wrap:balance}
+h1+h3{font:400 17px/1.4 var(--sans);color:var(--muted);margin:0 0 24px}
+h2{font:600 22px/1.3 var(--serif);margin:40px 0 12px;padding-top:20px;border-top:1px solid var(--line);text-wrap:balance}
+h3{font:600 17px/1.35 var(--sans);margin:28px 0 8px}
+p,li{max-width:72ch}
+a{color:var(--accent)}
+hr{display:none}
+strong{font-weight:600}
+code{font:500 .88em var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
+blockquote{margin:16px 0;padding:10px 16px;background:var(--warn-soft);color:var(--ink);border-radius:6px}
+blockquote p{margin:4px 0}
+ul,ol{padding-left:22px}
+li{margin:3px 0}
+.tbl{overflow-x:auto;margin:14px 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.45}
+th,td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid var(--line)}
+th{font:600 12px/1.3 var(--mono);letter-spacing:.03em;text-transform:uppercase;color:var(--muted);background:var(--ground)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:500}
+@media (max-width:600px){main{padding-inline:16px}h1{font-size:25px}}
+</style>
+<main><div class="eyebrow">Guía para la evaluación y el Reto · SC 2.1</div>
+<h1>Guía para la Evaluación — SC 2.1 Tecnologías Estratégicas de Datos</h1>
+<h3>Lo que necesitas saber antes de entrar</h3>
+<hr />
+<h2>Las reglas</h2>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Preguntas</strong></td>
+<td><strong>25</strong>, opción múltiple con retroalimentación</td>
+</tr>
+<tr>
+<td><strong>Duración</strong></td>
+<td>3 horas</td>
+</tr>
+<tr>
+<td><strong>Intentos</strong></td>
+<td><strong>3</strong></td>
+</tr>
+<tr>
+<td><strong>Peso</strong></td>
+<td><strong>40 %</strong> de la calificación (el Reto vale 60 %)</td>
+</tr>
+<tr>
+<td><strong>Cómo se registra</strong></td>
+<td>Al terminar, pulsa <strong>"Terminar intentos"</strong>. Si el resultado no te convence, puedes reintentar — solo se registra cuando tú lo cierras.</td>
+</tr>
+</tbody>
+</table></div>
+<p>⚠️ <strong>No cierres la ventana a medio intento:</strong> según las instrucciones, el avance no se guarda y tienes que empezar de nuevo.</p>
+<hr />
+<h2>⚠️ Las trampas de este módulo</h2>
+<p>Este examen se gana o se pierde en <strong>pares que parecen iguales</strong> y en <strong>opciones que son ciertas pero no responden la pregunta</strong>.</p>
+<p><strong>1. Las preguntas de "cuál NO es".</strong> Aparecen varias. Las respuestas: el <strong>cómputo personal</strong> no es tecnología estratégica (ya es bien de consumo) · <strong>"larga historia"</strong> no es característica de una tecnología estratégica (siguen en desarrollo) · <strong>desarrollar apps móviles</strong> no es aplicación de la IA en la transformación.</p>
+<p><strong>2. Todas las opciones suenan bien.</strong> En "¿qué permite a una tecnología estratégica generar beneficio?", <em>hacer crecer el ROI</em> y <em>tener acceso a los datos del cliente</em> parecen correctas — pero la respuesta es <strong>mantener la competitividad</strong>.</p>
+<p><strong>3. Las siglas mal armadas.</strong> En la nube, el distractor es <em>"LaaS, PaaS y MaaS"</em>; la correcta es <strong>IaaS, PaaS y SaaS</strong>. En ciberseguridad, <em>"Central Intelligence Agency"</em> es el distractor obvio de <strong>CIA</strong>.</p>
+<p><strong>4. El SaaS con disfraz.</strong> Amazon como tienda <strong>no</strong> es SaaS aunque corra en la nube: el consumidor no contrata nada bajo demanda. El ejemplo correcto de SaaS es el <strong>correo web (Gmail, Outlook)</strong>.</p>
+<hr />
+<h2>Los datos que hay que llevar memorizados</h2>
+<p><em>Todo sale de los "Pruébate" de las cinco lecciones y del diagnóstico inicial — 30 preguntas del mismo autor que la evaluación.</em></p>
+<h3>Lección 1 — Tecnologías basadas en datos</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>¿Cuál <strong>NO</strong> es tecnología estratégica?</td>
+<td><strong>Cómputo personal</strong> (IoT y nube sí lo son)</td>
+</tr>
+<tr>
+<td>Una tecnología estratégica tiene potencial de impactar a…</td>
+<td><strong>mediano plazo</strong></td>
+</tr>
+<tr>
+<td>¿Cuál <strong>NO</strong> es característica de una tecnología estratégica?</td>
+<td><strong>Larga historia</strong></td>
+</tr>
+<tr>
+<td>Características que <strong>sí</strong> tiene</td>
+<td>Alineación con la estrategia · Genera ventajas competitivas</td>
+</tr>
+<tr>
+<td>Componente principal de una tecnología basada en datos</td>
+<td><strong>Usa los datos como componente principal</strong></td>
+</tr>
+<tr>
+<td>Beneficio de adoptarlas</td>
+<td><strong>Mantener la competitividad</strong> de la organización</td>
+</tr>
+<tr>
+<td>¿Quién es responsable del esfuerzo de adopción?</td>
+<td><strong>Toda la organización</strong>, de la C-suite a la operación diaria</td>
+</tr>
+<tr>
+<td>Las 4 tecnologías con impacto directo</td>
+<td>Ciencia de datos · IA · IoT · Nube</td>
+</tr>
+<tr>
+<td>Reto de implementarlas</td>
+<td><strong>No presentan una solución inmediata</strong> — hay que identificar dónde impactan</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 2 — Ciencia de datos</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>¿Qué es <strong>Big Data</strong>?</td>
+<td><strong>Grandes volúmenes de información y el conjunto de herramientas para procesarlos</strong></td>
+</tr>
+<tr>
+<td>Las 3 V</td>
+<td>Volumen · Variedad · Velocidad (Oracle)</td>
+</tr>
+<tr>
+<td>¿Qué es la <strong>información</strong>?</td>
+<td>Datos <strong>organizados, procesados e interpretados</strong> para un propósito</td>
+</tr>
+<tr>
+<td>Primer paso de <strong>CRISP-DM</strong></td>
+<td><strong>Conocimiento del dominio</strong> — el trasfondo sobre el negocio</td>
+</tr>
+<tr>
+<td>Importancia de la <strong>divulgación</strong></td>
+<td><strong>Hacer llegar la información a los tomadores de decisión</strong></td>
+</tr>
+<tr>
+<td>Fin último de la ciencia de datos</td>
+<td><strong>Mejorar la toma de decisiones informadas</strong> (los reportes son subproducto)</td>
+</tr>
+<tr>
+<td>Ciclo de vida de la información (NIST)</td>
+<td>Recolección → Procesamiento → Divulgación → Utilización → Resguardo → Eliminación</td>
+</tr>
+<tr>
+<td>Mayor fuente de datos abiertos</td>
+<td><strong>Los gobiernos</strong></td>
+</tr>
+<tr>
+<td>Tecnología para atacar desperdicio de materiales</td>
+<td><strong>Ciencia de datos</strong> (pronostica demanda)</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>La más tramposa:</strong> "fin último de la ciencia de datos". <em>Crear reportes para la alta dirección</em> es un distractor fuerte porque es algo que sí hace — pero es un subproducto.</p>
+<h3>Lección 3 — Inteligencia artificial</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Definición de IA como tecnología</td>
+<td><strong>Sistema que exhibe comportamiento interpretable como inteligencia humana</strong></td>
+</tr>
+<tr>
+<td>Meta de la Conferencia de Dartmouth (1956)</td>
+<td>Que las computadoras <strong>se comportaran de manera que los humanos las identificaran como inteligentes</strong></td>
+</tr>
+<tr>
+<td>Quién acuñó el término</td>
+<td><strong>John McCarthy</strong></td>
+</tr>
+<tr>
+<td>¿Qué es <strong>machine learning</strong>?</td>
+<td>Sistema que <strong>detecta patrones y relaciones en grandes cantidades de datos</strong></td>
+</tr>
+<tr>
+<td>¿Cuál <strong>NO</strong> es aplicación de la IA en la transformación?</td>
+<td><strong>Desarrollo de aplicaciones móviles</strong></td>
+</tr>
+<tr>
+<td>Primer paso para implementar IA</td>
+<td><strong>Entender el problema que se quiere resolver</strong></td>
+</tr>
+<tr>
+<td>IA fuerte vs. débil</td>
+<td>Fuerte = entendimiento real · Débil = parece inteligente sin comprender · "La débil es más que suficiente"</td>
+</tr>
+<tr>
+<td>Prueba de Turing / Cuarto Chino</td>
+<td>Turing <strong>1950</strong> · Searle <strong>1980</strong></td>
+</tr>
+<tr>
+<td>Las 3 áreas de valor</td>
+<td>Toma de decisiones · Experiencia de cliente y personalización · Eficiencia y costos</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Ojo con el orden de implementación:</strong> el distractor es <em>"capacitar al personal"</em> o <em>"seleccionar la IA"</em>. Primero va <strong>entender el problema</strong>.</p>
+<h3>Lección 4 — Cómputo en la nube</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>¿Qué es el cómputo en la nube?</td>
+<td><strong>Mezcla de productos y servicios por internet con alta velocidad, confiabilidad y resiliencia</strong> — no una tecnología ni arquitectura individual</td>
+</tr>
+<tr>
+<td>Los 3 modelos</td>
+<td><strong>IaaS, PaaS y SaaS</strong></td>
+</tr>
+<tr>
+<td>Ejemplo de SaaS</td>
+<td><strong>Correo web</strong> (Gmail, Outlook)</td>
+</tr>
+<tr>
+<td>Los errores cruciales de una migración</td>
+<td><strong>Expectativas irreales y métricas mal definidas</strong></td>
+</tr>
+<tr>
+<td>¿Qué es el <strong>valor suave</strong>?</td>
+<td>La <strong>característica transformadora</strong> del negocio</td>
+</tr>
+<tr>
+<td>¿Qué es el <strong>valor duro</strong>?</td>
+<td>Ahorro en costos operativos o en inversión</td>
+</tr>
+<tr>
+<td>Tecnología para comunicación entre líderes y colaboradores</td>
+<td><strong>Cómputo en la nube</strong></td>
+</tr>
+<tr>
+<td>Origen del término</td>
+<td><strong>1996, Compaq</strong> · popularizado en <strong>2006</strong> por Google y Amazon</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>La más tramposa:</strong> "errores cruciales de migración". <em>La resistencia al cambio</em> suena correcta y aparece en todo el curso — pero aquí la respuesta es <strong>expectativas irreales y métricas incorrectas</strong>.</p>
+<h3>Lección 5 — Ciberseguridad</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>¿Qué es ciberseguridad?</td>
+<td><strong>Tecnologías, procesos y prácticas para proteger la información</strong> de ataques, daños y accesos no autorizados</td>
+</tr>
+<tr>
+<td>¿A quién le corresponde la gestión de riesgos y las políticas?</td>
+<td><strong>Al equipo de liderazgo en conjunto con el equipo técnico</strong></td>
+</tr>
+<tr>
+<td>Siglas de la tríada <strong>CIA</strong></td>
+<td><strong>Confidentiality, Integrity, Availability</strong></td>
+</tr>
+<tr>
+<td>"Información disponible solo para partes autorizadas"</td>
+<td><strong>Confidentiality</strong></td>
+</tr>
+<tr>
+<td>"Datos consistentes y sin modificación no autorizada"</td>
+<td><strong>Integrity</strong></td>
+</tr>
+<tr>
+<td>"Disponible para autorizados cuando se requiere"</td>
+<td><strong>Availability</strong></td>
+</tr>
+<tr>
+<td>Ejemplo de <strong>activo intangible</strong></td>
+<td><strong>Datos de ventas</strong> (también marca, software, patentes)</td>
+</tr>
+<tr>
+<td>Respuestas al riesgo (NIST)</td>
+<td>Aceptar · Evitar · Mitigar · Compartir · Transferir · Combinar</td>
+</tr>
+<tr>
+<td>Criptografía moderna</td>
+<td>Arte y ciencia de mantener un mensaje seguro con técnicas matemáticas (Schneier)</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>La confusión probable:</strong> <em>Confidentiality</em> vs. <em>Availability</em>. Las dos hablan de "partes autorizadas". La diferencia: <strong>confidencialidad es <em>solo</em> los autorizados; disponibilidad es <em>cuando</em> la necesitan.</strong></p>
+<hr />
+<h2>Cómo estudiar esto en 40 minutos</h2>
+<ol>
+<li><strong>10 min</strong> — Lee el <a href="sc21-resumen.html">resumen del módulo</a> de corrido.</li>
+<li><strong>15 min</strong> — Tapa la columna derecha de las cinco tablas y respóndelas de memoria.</li>
+<li><strong>5 min</strong> — Repasa las tres respuestas de "cuál NO es" y las cuatro trampas de arriba.</li>
+<li><strong>10 min</strong> — Memoriza las listas cerradas: 6 fases de CRISP-DM, 6 etapas del ciclo NIST, 3 modelos de nube, CIA, 5 respuestas al riesgo.</li>
+</ol>
+<hr />
+<h2>Para el Reto (60 %)</h2>
+<p><strong>Plan de identificación e implementación de una tecnología estratégica basada en datos</strong> — rúbrica y formato en <code>Reto/</code>.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Paso</th>
+<th>Qué pide</th>
+<th>Puntos</th>
+<th>Lo que da el máximo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Justificar la tecnología elegida</td>
+<td>20</td>
+<td><strong>Entre 100 y 200 palabras exactas</strong>, respondiendo las 4 preguntas guía</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Generación de valor a corto plazo</td>
+<td>20</td>
+<td><strong>Definir qué es "corto plazo"</strong> en tu organización + <strong>5 o más</strong> puntos de valor</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Retos de implementación</td>
+<td>20</td>
+<td>Riesgos en las <strong>4 áreas</strong>: seguridad de datos · resistencia al cambio · integración con sistemas · costos</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Plan básico de implementación</td>
+<td><strong>30</strong></td>
+<td>Los <strong>4 elementos</strong>: tiempos · costos · equipo humano · equipo tecnológico</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Proveedores</td>
+<td>10</td>
+<td><strong>3 o más</strong>, con características, oferta y ventajas/desventajas</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Tres cosas que la rúbrica castiga y es fácil pasar por alto:</strong>
+- El Paso 1 tiene <strong>mínimo y máximo</strong> de palabras. Pasarse también resta.
+- En el Paso 2, sin la definición explícita de "corto plazo" <strong>no se alcanza el máximo</strong> aunque tengas diez puntos de valor.
+- <strong>Ortografía y redacción se penalizan</strong> — lo dice el enunciado.</p>
+<p><strong>Cómo aterriza en Grupo Infocus:</strong> la elección natural es <strong>ciencia de datos / BI sobre Odoo</strong>. Business Basics ya vende <em>Balanced Scorecard</em> y KPIs; Alku implementa el ERP donde esos datos viven. La tecnología conecta dos negocios que hoy existen por separado, y el Paso 5 casi se escribe solo con proveedores que ya conoces.</p>
+</main>

@@ -1,0 +1,365 @@
+<title>Guía SC 3.2</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@600&display=swap">
+<style>
+:root{--ground:#F2F5F8;--surface:#FFFFFF;--ink:#16202B;--muted:#5B6875;--line:#DCE2E8;--accent:#1F5F8B;--soft:#E3EEF6;--warn:#8A4B0F;--warn-soft:#FBF1E4;
+--sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--serif:"IBM Plex Serif",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}}
+:root[data-theme="dark"]{--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.6 var(--sans)}
+main{max-width:860px;margin:0 auto;padding-block:32px 64px;padding-inline:20px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+h1{font:600 30px/1.2 var(--serif);margin:0 0 6px;text-wrap:balance}
+h1+h3{font:400 17px/1.4 var(--sans);color:var(--muted);margin:0 0 24px}
+h2{font:600 22px/1.3 var(--serif);margin:40px 0 12px;padding-top:20px;border-top:1px solid var(--line);text-wrap:balance}
+h3{font:600 17px/1.35 var(--sans);margin:28px 0 8px}
+p,li{max-width:72ch}
+a{color:var(--accent)}
+hr{display:none}
+strong{font-weight:600}
+code{font:500 .88em var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
+blockquote{margin:16px 0;padding:10px 16px;background:var(--warn-soft);color:var(--ink);border-radius:6px}
+blockquote p{margin:4px 0}
+ul,ol{padding-left:22px}
+li{margin:3px 0}
+.tbl{overflow-x:auto;margin:14px 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.45}
+th,td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid var(--line)}
+th{font:600 12px/1.3 var(--mono);letter-spacing:.03em;text-transform:uppercase;color:var(--muted);background:var(--ground)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:500}
+@media (max-width:600px){main{padding-inline:16px}h1{font-size:25px}}
+</style>
+<main><div class="eyebrow">Guía para la evaluación y el Reto · SC 3.2</div>
+<h1>Guía para la Evaluación — SC 3.2 Transformación Digital en la Organización</h1>
+<h3>Lo que necesitas saber antes de entrar</h3>
+<hr />
+<h2>Las reglas</h2>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Preguntas</strong></td>
+<td><strong>25</strong>, opción múltiple con retroalimentación</td>
+</tr>
+<tr>
+<td><strong>Duración</strong></td>
+<td>3 horas</td>
+</tr>
+<tr>
+<td><strong>Intentos</strong></td>
+<td><strong>3</strong> — se registra solo al pulsar <strong>"Terminar intentos"</strong></td>
+</tr>
+<tr>
+<td><strong>Peso</strong></td>
+<td><strong>40 %</strong> (el Reto vale 60 %)</td>
+</tr>
+</tbody>
+</table></div>
+<p>⚠️ No cierres la ventana a medio intento: el avance no se guarda.</p>
+<hr />
+<h2>⚠️ Las trampas de este módulo</h2>
+<p><strong>1. ¿Qué indicador del DMD pertenece a qué área?</strong> Es la pregunta más probable, porque el Pruébate de L1 entero va de eso. Aprende a clasificar:
+| Indicador | Área del DMD |
+|---|---|
+| Programa de capacitación digital · plan comunicado · participación de los empleados | <strong>Cultura digital</strong> |
+| <strong>Proceso de análisis de datos para decidir</strong> · sistema integrado · herramientas de colaboración | <strong>Gestión de la información</strong> |
+| <strong>IA, blockchain, IoT, nube</strong> · infraestructura escalable | <strong>Tecnología</strong> |
+| <strong>Portal de cliente</strong> · analítica del cliente · fidelización | <strong>Experiencia del cliente</strong> |
+| <strong>2FA, cifrado, antimalware</strong> · empleados que previenen | <strong>Seguridad</strong> |</p>
+<p><strong>2. ¿Qué competencia de Gartner evalúa qué?</strong>
+- <strong>Innovar</strong> el modelo de negocio → <strong>Estrategia y ejecución de negocios digitales</strong>.
+- <strong>Adaptar o cambiar</strong> el modelo → <strong>Agilidad del modelo de negocio</strong>.
+- Valorar los activos de información → <strong>Infonomía</strong>.</p>
+<p><strong>3. Agilidad organizacional contra metodologías ágiles.</strong> La primera es <strong>de toda la empresa</strong> (cultura, estructura, estrategia). Las segundas son <strong>prácticas de proyecto</strong> (Scrum, Kanban). Las metodologías ágiles son parte de la agilidad, no al revés.</p>
+<p><strong>4. Omnicanal contra multicanal.</strong> Si la opción dice <strong>integrado, sin fisuras, una sola experiencia</strong>, es omnicanal. <em>"Políticas de devolución distintas por canal"</em> es multicanal y siempre es incorrecta.</p>
+<p><strong>5. Las letras de la retroalimentación están mal</strong> (L4 sobre todo). Guíate por el <strong>texto</strong> de la respuesta.</p>
+<p><strong>6. Distractores que siempre son incorrectos:</strong>
+- "Solo actualizar hardware".
+- "Solo tener redes sociales".
+- "Solo incluir a los expertos en tecnología".
+- "Adquirir dispositivos de punta".
+- "Mantener la jerarquía tradicional".
+- "Evitar riesgos".</p>
+<hr />
+<h2>Los datos que hay que llevar memorizados</h2>
+<h3>Diagnóstico ("¿Cuánto sabes?")</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qué es la TD</td>
+<td><strong>Integración de tecnología digital en todas las áreas, que cambia cómo opera y entrega valor</strong></td>
+</tr>
+<tr>
+<td>Factor esencial</td>
+<td><strong>Comprender y adaptarse a las necesidades cambiantes del cliente</strong></td>
+</tr>
+<tr>
+<td>Por qué los líderes</td>
+<td><strong>Establecen la visión, lideran el cambio cultural y apoyan la adopción</strong></td>
+</tr>
+<tr>
+<td>¿Incluir a todas las áreas?</td>
+<td><strong>Sí, todos los niveles y departamentos</strong></td>
+</tr>
+<tr>
+<td>Acción esencial para continuar</td>
+<td><strong>Promover una cultura de innovación y aprendizaje</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 1 — Elementos y madurez</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Los 3 elementos clave</td>
+<td><strong>Cultura organizacional digital · gestión de la información y la tecnología · UX y mercado</strong></td>
+</tr>
+<tr>
+<td>Las 5 áreas del DMD</td>
+<td><strong>Cultura digital · gestión de la información · tecnología · experiencia del cliente · seguridad</strong></td>
+</tr>
+<tr>
+<td>¿La TD es un proyecto?</td>
+<td><strong>No: es un modo de vida organizacional; no tiene fin</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 2 — Cultura</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cultura organizacional digital</td>
+<td><strong>Conjunto de valores, comportamientos (y tecnologías) que promueven la adaptación al entorno digital</strong></td>
+</tr>
+<tr>
+<td>Las 3 causas del fracaso</td>
+<td><strong>Resistencia al cambio · falta de liderazgo · falta de cultura adecuada</strong></td>
+</tr>
+<tr>
+<td>Rol de la estrategia</td>
+<td><strong>Define la visión y da un plan de acción alineado con los objetivos</strong></td>
+</tr>
+<tr>
+<td>Liderazgo efectivo</td>
+<td><strong>Inspirar y motivar hacia la adopción</strong></td>
+</tr>
+<tr>
+<td>Cómo contribuye la innovación</td>
+<td><strong>Una cultura que valora y recompensa la creatividad y la experimentación</strong></td>
+</tr>
+<tr>
+<td>Cómo fomentarla</td>
+<td><strong>Equipos multidisciplinarios y colaboración</strong></td>
+</tr>
+<tr>
+<td>Tipos de innovación</td>
+<td><strong>Incremental o radical</strong></td>
+</tr>
+<tr>
+<td>Elementos de la agilidad</td>
+<td>Cultura de innovación · estructuras flexibles · procesos ágiles · tecnología · aprendizaje continuo</td>
+</tr>
+<tr>
+<td>Resiliencia organizacional</td>
+<td><strong>Anticipar, prepararse, responder y adaptarse</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 3 — Tecnología, datos y seguridad</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TD desde el punto de vista tecnológico</td>
+<td><strong>Adopción de tecnologías + cambio de cultura y procesos para mejorar el desempeño</strong></td>
+</tr>
+<tr>
+<td>Rasgo de una empresa <em>data driven</em></td>
+<td><strong>Decide con datos y análisis</strong></td>
+</tr>
+<tr>
+<td>¿Qué NO es resiliencia tecnológica?</td>
+<td><strong>Foco exclusivo en actualizar hardware</strong></td>
+</tr>
+<tr>
+<td>Proteger los datos en tránsito y en reposo</td>
+<td><strong>Cifrado</strong></td>
+</tr>
+<tr>
+<td>Ajustar recursos según la demanda</td>
+<td><strong>Cloud computing</strong></td>
+</tr>
+<tr>
+<td>Las 5 V</td>
+<td><strong>Volumen · Velocidad · Variedad · Veracidad · Valor</strong></td>
+</tr>
+<tr>
+<td>Usos del big data</td>
+<td>Análisis predictivo · personalización · toma de decisiones</td>
+</tr>
+<tr>
+<td>Industria 5.0</td>
+<td><strong>Reintegra al humano</strong>: colaboración, personalización, sostenibilidad</td>
+</tr>
+<tr>
+<td>Normas</td>
+<td>GDPR · HIPAA · PCI-DSS · <strong>ISO 27001</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 4 — Mercado y UX</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qué priorizar en una app de compras</td>
+<td><strong>Diseño centrado en el usuario</strong></td>
+</tr>
+<tr>
+<td>Analizar la interacción con el sitio (mapas de calor, sesiones)</td>
+<td><strong>Hotjar</strong></td>
+</tr>
+<tr>
+<td>Cómo aprovechar la omnicanalidad</td>
+<td><strong>Integrar lo físico y lo digital sin fisuras</strong></td>
+</tr>
+<tr>
+<td>Anuncios personalizados a quien visitó y no compró</td>
+<td><strong>Retargeting</strong></td>
+</tr>
+<tr>
+<td>Suscribir con descuento y enviar boletines</td>
+<td><strong>Email marketing</strong></td>
+</tr>
+<tr>
+<td>Características de la UX</td>
+<td>Centrada en el usuario · diferenciación · conversión y rentabilidad · retención y lealtad</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 5 — Adopción</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Evaluar la <strong>innovación</strong> del modelo</td>
+<td><strong>Estrategia y ejecución de negocios digitales</strong></td>
+</tr>
+<tr>
+<td>Evaluar la <strong>capacidad de cambiar</strong> el modelo</td>
+<td><strong>Agilidad del modelo de negocio</strong></td>
+</tr>
+<tr>
+<td>Herramienta para adoptar rápido lo nuevo</td>
+<td><strong>Aceleradores digitales</strong></td>
+</tr>
+<tr>
+<td>Acelerador para la compra en línea</td>
+<td><strong>Algoritmos basados en IA</strong></td>
+</tr>
+<tr>
+<td>Acelerador para el desarrollo de software</td>
+<td><strong>Metodologías ágiles</strong></td>
+</tr>
+<tr>
+<td>DA1-DA4</td>
+<td><strong>Colaboración · evaluaciones · aprendizaje · datos y análisis</strong></td>
+</tr>
+<tr>
+<td>Las 5 fases del roadmap</td>
+<td><strong>Evaluación → estrategia → implementación → escalamiento → sostenibilidad y liderazgo</strong></td>
+</tr>
+<tr>
+<td>Niveles de las competencias</td>
+<td><strong>1 a 5</strong> (el curso describe el 1, el 3 y el 5)</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+<h2>Cómo estudiar esto en 40 minutos</h2>
+<ol>
+<li><strong>10 min</strong> — Lee el <a href="sc32-resumen.html">resumen</a>.</li>
+<li><strong>10 min</strong> — La tabla de indicadores del DMD y la de las 9 competencias. Son las más preguntables.</li>
+<li><strong>10 min</strong> — Tapa la columna derecha de las tablas por lección.</li>
+<li><strong>10 min</strong> — Listas: <strong>5 V · 7 elementos de ciberseguridad · DA1-DA4 · 5 fases del roadmap · omnicanal contra multicanal</strong>.</li>
+</ol>
+<hr />
+<h2>Para el Reto (60 %)</h2>
+<p><strong>"Transformando tu organización"</strong> — rúbrica y formato en <code>Reto/</code>. Son 4 pasos de <strong>25 puntos cada uno</strong>. Hay que guardar el archivo como <code>NombreApellido_reto_C3SC2</code> y entregarlo en PDF.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Paso</th>
+<th>Qué pide</th>
+<th>Para el nivel sobresaliente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Situación actual</strong></td>
+<td>2-3 tendencias del sector · comparación honesta con competidores · cómo impacta la cultura · oportunidades nuevas</td>
+<td>Análisis exhaustivo con todos los aspectos</td>
+</tr>
+<tr>
+<td><strong>2. Cultura</strong></td>
+<td>Calificar de 1 a 5 <strong>6 aspectos</strong> (valores, comunicación, liderazgo digital, estructura, incentivos, aprendizaje) con justificación · <strong>5 fortalezas y 5 áreas de oportunidad</strong></td>
+<td><strong>Recomendaciones para alinear la cultura</strong> con los objetivos digitales</td>
+</tr>
+<tr>
+<td><strong>3. UX</strong></td>
+<td>3 segmentos · necesidades funcionales, emocionales y sociales · top 5 priorizado · soluciones · <strong>plan de al menos 5 iniciativas</strong> (corto 0-6, mediano 6-12, largo 12-24 meses; responsable; KPI)</td>
+<td><strong>Puntos de fricción</strong> + recomendaciones específicas</td>
+</tr>
+<tr>
+<td><strong>4. Tecnología</strong></td>
+<td><strong>3 tecnologías emergentes</strong>: implementación, beneficios, desafíos y <strong>relación con las necesidades de UX del Paso 3</strong></td>
+<td>Justificación sólida; conectar con el plan del Paso 3</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>⚠️ Detalle que cuesta puntos:</strong> la tabla del plan del Paso 3 <strong>debe incluir al menos una iniciativa tecnológica del Paso 4</strong>. Resuelve el Paso 4 antes de cerrar el Paso 3.</p>
+<p><strong>Cómo aterriza en Grupo Infocus:</strong>
+- <strong>Segmentos:</strong> pymes que buscan ERP (clientes de Alku) · empresas en consultoría de Business Basics · participantes de Performance Lab o PTD.
+- <strong>Tecnologías naturales:</strong> IA (asistentes y análisis dentro de Odoo), nube (Odoo.sh / SaaS) y analítica avanzada o big data. Blockchain y los gemelos digitales no aplican.
+- <strong>Cultura:</strong> la honestidad pesa en la rúbrica. Es fuerte en decisiones rápidas y cercanía, y débil en estructura formal, roles digitales e incentivos a la innovación.</p>
+</main>

@@ -1,0 +1,357 @@
+<title>Guía SC 5.1</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@600&display=swap">
+<style>
+:root{--ground:#F2F5F8;--surface:#FFFFFF;--ink:#16202B;--muted:#5B6875;--line:#DCE2E8;--accent:#1F5F8B;--soft:#E3EEF6;--warn:#8A4B0F;--warn-soft:#FBF1E4;
+--sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--serif:"IBM Plex Serif",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}}
+:root[data-theme="dark"]{--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.6 var(--sans)}
+main{max-width:860px;margin:0 auto;padding-block:32px 64px;padding-inline:20px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+h1{font:600 30px/1.2 var(--serif);margin:0 0 6px;text-wrap:balance}
+h1+h3{font:400 17px/1.4 var(--sans);color:var(--muted);margin:0 0 24px}
+h2{font:600 22px/1.3 var(--serif);margin:40px 0 12px;padding-top:20px;border-top:1px solid var(--line);text-wrap:balance}
+h3{font:600 17px/1.35 var(--sans);margin:28px 0 8px}
+p,li{max-width:72ch}
+a{color:var(--accent)}
+hr{display:none}
+strong{font-weight:600}
+code{font:500 .88em var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
+blockquote{margin:16px 0;padding:10px 16px;background:var(--warn-soft);color:var(--ink);border-radius:6px}
+blockquote p{margin:4px 0}
+ul,ol{padding-left:22px}
+li{margin:3px 0}
+.tbl{overflow-x:auto;margin:14px 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.45}
+th,td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid var(--line)}
+th{font:600 12px/1.3 var(--mono);letter-spacing:.03em;text-transform:uppercase;color:var(--muted);background:var(--ground)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:500}
+@media (max-width:600px){main{padding-inline:16px}h1{font-size:25px}}
+</style>
+<main><div class="eyebrow">Guía para la evaluación y el Reto · SC 5.1</div>
+<h1>Guía para la Evaluación — SC 5.1 Metodologías de Ejecución de Transformación Digital</h1>
+<h3>Lo que necesitas saber antes de entrar</h3>
+<hr />
+<h2>Las reglas</h2>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Preguntas</strong></td>
+<td><strong>25</strong>, opción múltiple con retroalimentación</td>
+</tr>
+<tr>
+<td><strong>Duración</strong></td>
+<td>3 horas</td>
+</tr>
+<tr>
+<td><strong>Intentos</strong></td>
+<td><strong>3</strong> — se registra solo al pulsar <strong>"Terminar intentos"</strong></td>
+</tr>
+<tr>
+<td><strong>Peso</strong></td>
+<td><strong>40 %</strong> (el Reto vale 60 %)</td>
+</tr>
+</tbody>
+</table></div>
+<p>⚠️ No cierres la ventana a medio intento: el avance no se guarda.</p>
+<hr />
+<h2>⚠️ Las trampas de este módulo</h2>
+<p><strong>1. Muchas listas numeradas.</strong> Las que más se preguntan:
+- <strong>Las 3 variables del Design Thinking:</strong> viabilidad · factibilidad · deseo.
+- <strong>Por qué el DT innova:</strong> centrado en la persona · impulsado por posibilidades · crea opciones · iterativo.
+- <strong>Los 6 pasos del DT:</strong> empatizar · definir · idear · crear prototipos · probar · <strong>implementar</strong> (el 6.º).
+- <strong>Lean Startup:</strong> <strong>crear · medir · aprender.</strong>
+- <strong>Customer Development:</strong> descubrimiento · validación · creación de clientes · <strong>creación de empresa</strong> (construir la organización para escalar).
+- <strong>Bimodal en 3 fases:</strong> empezar · escalar · <strong>sintetizar</strong> (mejora continua, postura proactiva).</p>
+<p><strong>2. ¿Qué habilidad va en qué categoría?</strong>
+- <em>Gestión de datos y analítica</em> → <strong>técnica</strong>.
+- <em>Negociación</em> y <em>gestión de stakeholders</em> → <strong>gestión de relaciones</strong>.
+- <em>Visión estratégica</em> → <strong>estratégica y de liderazgo</strong>.
+- <em>Aprendizaje continuo</em> → <strong>adaptabilidad</strong>.</p>
+<p><strong>3. Potenciador contra inhibidor, visible contra no visible.</strong> <em>Cultura de miedo</em> y <em>poco empoderamiento</em> → <strong>inhibidor NO visible</strong>. <em>Seguridad psicológica</em> → <strong>potenciador no visible</strong>.</p>
+<p><strong>4. La segmentación "solo para elegir el target"</strong> → <strong>empresa centrada en la organización</strong>, no en el cliente.</p>
+<p><strong>5. "Resistencia"</strong> en la agilidad = <strong>entrega de valor y cambio a ritmo sostenible</strong>. No es "resistencia al cambio".</p>
+<p><strong>6. El dragón digital:</strong> <strong>liderazgo digital poderoso · renovar el valor · construir capacidad bimodal.</strong> Los distractores mezclan "talento" y "mejores estrategias".</p>
+<hr />
+<h2>Los datos que hay que llevar memorizados</h2>
+<h3>Diagnóstico ("¿Cuánto sabes?")</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conceptos del Design Thinking</td>
+<td><strong>Innovación, transformación y colaboración</strong></td>
+</tr>
+<tr>
+<td>Customer Journey Map</td>
+<td><strong>Representación visual de las etapas, interacciones, canales y elementos por los que pasa el cliente en el ciclo de compra</strong></td>
+</tr>
+<tr>
+<td>Customer Development</td>
+<td><strong>Comprender problemas, necesidades y deseos antes de lanzar</strong></td>
+</tr>
+<tr>
+<td>Agilidad</td>
+<td><strong>Capacidad organizacional de percibir, adaptarse y responder a un entorno dinámico</strong></td>
+</tr>
+<tr>
+<td>Habilidad de gestión de relaciones</td>
+<td><strong>Negociación</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 1</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Las 3 variables del DT</td>
+<td><strong>Viabilidad, factibilidad y deseo</strong></td>
+</tr>
+<tr>
+<td>Por qué el DT innova</td>
+<td><strong>Centrado en la persona, impulsado por posibilidades, crea opciones, iterativo</strong></td>
+</tr>
+<tr>
+<td>"Entender el problema, ponerse en los zapatos del otro"</td>
+<td>Paso 1: <strong>Empatizar</strong></td>
+</tr>
+<tr>
+<td>"Materializar en bocetos y maquetas"</td>
+<td>Paso 4: <strong>Crear prototipos</strong></td>
+</tr>
+<tr>
+<td>"Que lo prueben los clientes finales"</td>
+<td>Paso 6: <strong>Implementar</strong></td>
+</tr>
+<tr>
+<td>Cuándo NO sirve el DT</td>
+<td>Calibrar una máquina · ajustar una fórmula definida</td>
+</tr>
+<tr>
+<td>Herramienta hasta la definición del problema</td>
+<td><strong>Design Brief</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 2</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Segmentación solo para elegir el target</td>
+<td><strong>Empresa centrada en la organización</strong></td>
+</tr>
+<tr>
+<td>"Servicios cognitivos, perfiles personales, omnicanal en tiempo real"</td>
+<td>Nivel de madurez: <strong>Centrada en el cliente</strong></td>
+</tr>
+<tr>
+<td>"Analizar redes, email, encuestas"</td>
+<td>Paso del CJM: <strong>Investigar a tus clientes potenciales</strong></td>
+</tr>
+<tr>
+<td>Rutina, no compara</td>
+<td><strong>Implicación baja</strong></td>
+</tr>
+<tr>
+<td>Comunicar el mapa a todo el equipo</td>
+<td><strong>Compartir el mapa con tu equipo</strong></td>
+</tr>
+<tr>
+<td>Las 5 competencias de Bliss</td>
+<td>Clientes como activos · experiencia · escuchar · proactividad · liderazgo y cultura</td>
+</tr>
+<tr>
+<td>Métricas centradas en el cliente</td>
+<td><strong>CLV · NPS · conversión · retención · CSAT</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 3</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Para centrarte en el problema</td>
+<td><strong>Mantener la apertura a nuevas perspectivas</strong></td>
+</tr>
+<tr>
+<td>Los componentes de Lean Startup</td>
+<td><strong>Crear, medir y aprender</strong></td>
+</tr>
+<tr>
+<td>Comprender el problema antes de lanzar</td>
+<td><strong>Customer Development</strong> (Steve Blank)</td>
+</tr>
+<tr>
+<td>Representación visual de necesidades contra oferta</td>
+<td><strong>Value Proposition Canvas</strong></td>
+</tr>
+<tr>
+<td>Construir la organización para escalar</td>
+<td><strong>Creación de empresa</strong></td>
+</tr>
+<tr>
+<td>Fit de la fase 1 · fit de la fase 2</td>
+<td><strong><em>Problem-solution fit</em></strong> · <strong><em>product-market fit</em></strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 4</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>"Valor y cambio a ritmo sostenible"</td>
+<td><strong>Resistencia</strong></td>
+</tr>
+<tr>
+<td>"Decisión, alineamiento, catalizador cultural"</td>
+<td>Habilitador: <strong>Liderazgo</strong></td>
+</tr>
+<tr>
+<td>Miedo y poco empoderamiento</td>
+<td><strong>Inhibidor invisible</strong></td>
+</tr>
+<tr>
+<td>Labor del líder ágil</td>
+<td><strong>Potenciar las habilidades de cada colaborador</strong></td>
+</tr>
+<tr>
+<td>Versiones graduales con mejoras</td>
+<td><strong>Lanzamientos incrementales</strong></td>
+</tr>
+<tr>
+<td>Los 6 habilitadores</td>
+<td>Liderazgo · diseño organizacional · gobierno · personas · flujos de valor · tecnología</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 5</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Habilidad técnica</td>
+<td><strong>Gestión de datos y analítica</strong></td>
+</tr>
+<tr>
+<td>Domar al dragón digital</td>
+<td><strong>Liderazgo digital poderoso · renovar el valor · capacidad bimodal</strong></td>
+</tr>
+<tr>
+<td>"Mejora continua, postura proactiva"</td>
+<td>Fase bimodal: <strong>Sintetizar</strong></td>
+</tr>
+<tr>
+<td>Habilidad de relaciones</td>
+<td><strong>Gestión de stakeholders</strong></td>
+</tr>
+<tr>
+<td>Limitación del bimodal</td>
+<td><strong>Posible brecha cultural</strong></td>
+</tr>
+<tr>
+<td>Modo 1 · Modo 2</td>
+<td><strong>Fiabilidad</strong> (cascada) · <strong>agilidad</strong> (ágil, DevOps)</td>
+</tr>
+<tr>
+<td>Principios del bimodal</td>
+<td>Una estrategia · una organización · un equipo · dos formas de trabajo</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+<h2>Cómo estudiar esto en 40 minutos</h2>
+<ol>
+<li><strong>10 min</strong> — Lee el <a href="sc51-resumen.html">resumen</a>.</li>
+<li><strong>10 min</strong> — Las listas de la trampa 1 y las 4 categorías de habilidades.</li>
+<li><strong>10 min</strong> — Tapa la columna derecha de las tablas por lección.</li>
+<li><strong>10 min</strong> — Modo 1 contra modo 2 · los 4 pasos de Customer Development · la tabla de potenciadores e inhibidores.</li>
+</ol>
+<hr />
+<h2>Para el Reto (60 %)</h2>
+<p><strong>"Diseño de un plan de transformación digital"</strong> — rúbrica y formato en <code>Reto/</code>. Hay que guardar el archivo como <code>NombreApellido_reto_C5SC1</code> y entregarlo en PDF. Son <strong>5 criterios de 20 puntos cada uno</strong>, a partir de 7 pasos del formato.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Criterio (rúbrica)</th>
+<th>Pasos del formato</th>
+<th>Para los 20 puntos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Problemas y oportunidades</strong></td>
+<td>1. Procesos 1 a 5 (el 1 es el más urgente) · problema · <strong>recursos</strong> existentes y deseados</td>
+<td><strong>Dos o más</strong> procesos y problemas <strong>con recursos detallados</strong></td>
+</tr>
+<tr>
+<td><strong>Objetivos, roles y habilidades</strong></td>
+<td>2. Objetivos específicos y medibles (con entrevistas cortas) · 3. Roles y habilidades digitales por objetivo</td>
+<td>Objetivos <strong>+ roles + habilidades</strong>, detallados</td>
+</tr>
+<tr>
+<td><strong>Desarrollar el talento</strong></td>
+<td>4. Rol · habilidad · <strong>modalidad</strong> (presencial, e-learning, b-learning) · <strong>temporalidad</strong> (3, 6, 12 meses)</td>
+<td>Las <strong>4 columnas</strong> completas</td>
+</tr>
+<tr>
+<td><strong>Integración de tecnología</strong></td>
+<td>5. Tecnologías por objetivo (familias: Inteligencia, Previsión, Interacción) · 6. <strong>Fases del plan con su descripción</strong></td>
+<td>Tecnologías <strong>+ fases + descripción de cada fase</strong></td>
+</tr>
+<tr>
+<td><strong>Medir resultados</strong></td>
+<td>7. KPI por objetivo (eficiencia, satisfacción, costos…)</td>
+<td>KPI <strong>con una justificación coherente</strong> para cada uno</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Dónde se pierden puntos:</strong> olvidar la <strong>temporalidad</strong> en el Paso 4 (el máximo baja a 16) · fases <strong>sin descripción</strong> (16) · KPI <strong>sin justificación</strong> (16).</p>
+<p><strong>Cómo aterriza en Grupo Infocus:</strong> este Reto se construye sobre los anteriores.
+- <strong>Procesos:</strong> el <em>onboarding</em> de clientes de Alku · la facturación y cobranza de la consultoría · la venta y el <em>pipeline</em> · el seguimiento de proyectos · la capacitación interna.
+- <strong>Roles reales:</strong> los socios (Poncho, Pedro y Luis), el líder de proyecto, los consultores funcionales y el desarrollador.
+- <strong>Tecnologías:</strong> Odoo (CRM, Proyecto, Helpdesk, eLearning), IA y <em>dashboards</em>.
+- <strong>Fases:</strong> una estructura bimodal, con el modo 1 estabilizando la operación y el modo 2 como piloto de IA.</p>
+</main>

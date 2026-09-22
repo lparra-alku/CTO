@@ -1,0 +1,369 @@
+<title>Guía SC 3.4</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@600&display=swap">
+<style>
+:root{--ground:#F2F5F8;--surface:#FFFFFF;--ink:#16202B;--muted:#5B6875;--line:#DCE2E8;--accent:#1F5F8B;--soft:#E3EEF6;--warn:#8A4B0F;--warn-soft:#FBF1E4;
+--sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--serif:"IBM Plex Serif",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}}
+:root[data-theme="dark"]{--ground:#0F151B;--surface:#151D25;--ink:#E6ECF1;--muted:#93A1AE;--line:#26323D;--accent:#7DB3DA;--soft:#1B2B38;--warn:#F0B37A;--warn-soft:#2A2016}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.6 var(--sans)}
+main{max-width:860px;margin:0 auto;padding-block:32px 64px;padding-inline:20px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+h1{font:600 30px/1.2 var(--serif);margin:0 0 6px;text-wrap:balance}
+h1+h3{font:400 17px/1.4 var(--sans);color:var(--muted);margin:0 0 24px}
+h2{font:600 22px/1.3 var(--serif);margin:40px 0 12px;padding-top:20px;border-top:1px solid var(--line);text-wrap:balance}
+h3{font:600 17px/1.35 var(--sans);margin:28px 0 8px}
+p,li{max-width:72ch}
+a{color:var(--accent)}
+hr{display:none}
+strong{font-weight:600}
+code{font:500 .88em var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
+blockquote{margin:16px 0;padding:10px 16px;background:var(--warn-soft);color:var(--ink);border-radius:6px}
+blockquote p{margin:4px 0}
+ul,ol{padding-left:22px}
+li{margin:3px 0}
+.tbl{overflow-x:auto;margin:14px 0;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.45}
+th,td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid var(--line)}
+th{font:600 12px/1.3 var(--mono);letter-spacing:.03em;text-transform:uppercase;color:var(--muted);background:var(--ground)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:500}
+@media (max-width:600px){main{padding-inline:16px}h1{font-size:25px}}
+</style>
+<main><div class="eyebrow">Guía para la evaluación y el Reto · SC 3.4</div>
+<h1>Guía para la Evaluación — SC 3.4 Mejora Continua para la Transformación Digital</h1>
+<h3>Lo que necesitas saber antes de entrar</h3>
+<hr />
+<h2>Las reglas</h2>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Preguntas</strong></td>
+<td><strong>25</strong>, opción múltiple con retroalimentación</td>
+</tr>
+<tr>
+<td><strong>Duración</strong></td>
+<td>3 horas</td>
+</tr>
+<tr>
+<td><strong>Intentos</strong></td>
+<td><strong>3</strong> — se registra solo al pulsar <strong>"Terminar intentos"</strong></td>
+</tr>
+<tr>
+<td><strong>Peso</strong></td>
+<td><strong>40 %</strong> (el Reto vale 60 %)</td>
+</tr>
+</tbody>
+</table></div>
+<p>⚠️ No cierres la ventana a medio intento: el avance no se guarda.</p>
+<hr />
+<h2>⚠️ Las trampas de este módulo</h2>
+<p><strong>1. ¿En qué paso va cada actividad?</strong> Es la pregunta más probable, porque el Pruébate de L2 entero va de eso:
+| Actividad | Paso |
+|---|---|
+| <strong>Establecer objetivos específicos (SMART)</strong>, equipo multidisciplinario | <strong>1. Definición de objetivos</strong> |
+| UI/UX, desarrollo, <strong>pruebas de funcionalidad</strong>, integración | <strong>2. Diseño y desarrollo</strong> |
+| <strong>Rendimiento y carga · seguridad · usabilidad</strong> | <strong>3. Pruebas rigurosas</strong> |
+| <strong>Comparar con los objetivos iniciales</strong>, analizar desviaciones | <strong>4. Validación de resultados</strong> |
+| <strong>Piloto → expansión gradual</strong>, en fases planificadas | <strong>5. Implementación gradual</strong> |</p>
+<p><em>Ojo:</em> las <strong>pruebas de funcionalidad</strong> están en el <strong>Paso 2</strong>, no en el 3.</p>
+<p><strong>2. ¿Qué método de priorización?</strong>
+- <strong>Múltiples criterios</strong> (impacto, costo, tiempo, alineación) → <strong>puntuación y clasificación</strong>.
+- <strong>Valor contra riesgo</strong> → <strong>matriz de valor y riesgo</strong>.
+- <strong>El mayor ROI</strong> → <strong>costo-beneficio</strong>.</p>
+<p><strong>3. Las manifestaciones de la resistencia.</strong>
+- <em>Inseguridad sobre su rol, pérdida de control o estatus</em> → <strong>miedo</strong>.
+- <em>No ve la necesidad</em> → <strong>negación</strong>.
+- <em>No entiende los beneficios</em> → <strong>incomprensión</strong>.</p>
+<p><strong>4. La trampa de la cultura de mejora continua.</strong> Sus tres condiciones son <strong>liderazgo comprometido, cultura de aprendizaje y colaboración</strong>. El distractor <em>"liderazgo transformador, comunicación y agilidad organizativa"</em> son los pilares de <em>otra</em> lectura.</p>
+<p><strong>5. Las letras de la retroalimentación están mal</strong> en L2, L3 y L5. Guíate por el <strong>texto</strong>.</p>
+<p><strong>6. Distractores que siempre son incorrectos:</strong> <em>despedir a quien se resista</em>, <em>ignorar la resistencia o la brecha</em>, <em>definir los objetivos solo</em>, <em>reducir la comunicación</em>, <em>aplazar</em>, <em>lanzar en todas las áreas a la vez</em>, <em>postergar indefinidamente</em>, <em>ambiente rígido y jerárquico</em>.</p>
+<hr />
+<h2>Los datos que hay que llevar memorizados</h2>
+<h3>Diagnóstico ("¿Cuánto sabes?")</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Método para identificar iniciativas</td>
+<td><strong>Análisis de tendencias</strong></td>
+</tr>
+<tr>
+<td>Rasgos de las soluciones</td>
+<td><strong>Flexibilidad y escalabilidad</strong></td>
+</tr>
+<tr>
+<td>Abordar la resistencia</td>
+<td><strong>Formación continua</strong></td>
+</tr>
+<tr>
+<td>Evaluar el progreso</td>
+<td><strong>Sistema de monitoreo con KPI relevantes</strong></td>
+</tr>
+<tr>
+<td>Fomentar la innovación</td>
+<td><strong>Técnicas colaborativas como el brainstorming</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 1</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Segundo paso para identificar</td>
+<td><strong>Evaluar el entorno empresarial e industrial</strong></td>
+</tr>
+<tr>
+<td>Compararse con competidores o líderes</td>
+<td><strong>Benchmarking</strong></td>
+</tr>
+<tr>
+<td>"Viables con riesgo aceptable"</td>
+<td><strong>Realistas, factibles y ejecutables</strong> para evitar un fracaso costoso</td>
+</tr>
+<tr>
+<td>Múltiples criterios</td>
+<td><strong>Puntuación y clasificación</strong></td>
+</tr>
+<tr>
+<td>"No son eventos únicos, sino procesos"</td>
+<td><strong>Cultura de mejora continua</strong></td>
+</tr>
+<tr>
+<td>Criterios para elegir tecnología</td>
+<td><strong>Escalabilidad · seguridad · integración</strong></td>
+</tr>
+<tr>
+<td>Herramientas</td>
+<td>Mapa de empatía · benchmarking · escenarios · tendencias</td>
+</tr>
+<tr>
+<td>ROI</td>
+<td><strong>(Beneficios − costos) / costos × 100</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 2</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Actividad principal del Paso 1</td>
+<td><strong>Establecer objetivos específicos</strong></td>
+</tr>
+<tr>
+<td>Actividad del diseño y desarrollo</td>
+<td><strong>Pruebas de funcionalidad</strong></td>
+</tr>
+<tr>
+<td>Tres tipos de pruebas rigurosas</td>
+<td><strong>Rendimiento y carga · seguridad · usabilidad</strong></td>
+</tr>
+<tr>
+<td>Importancia de la validación</td>
+<td><strong>Ayuda a cumplir los requisitos iniciales</strong></td>
+</tr>
+<tr>
+<td>Implementación gradual</td>
+<td><strong>Introducir de forma progresiva y controlada, en fases planificadas</strong></td>
+</tr>
+<tr>
+<td>Metodologías</td>
+<td>Waterfall · Agile · Scrum · Kanban</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 3</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cambiar la mentalidad</td>
+<td>Desafío: <strong>resistencia cultural y psicológica</strong></td>
+</tr>
+<tr>
+<td>Estrategia de gestión del cambio</td>
+<td><strong>Incluir a colaboradores de distintos niveles en las decisiones</strong></td>
+</tr>
+<tr>
+<td>Falta de habilidades</td>
+<td><strong>Capacitación personalizada por plataformas digitales</strong></td>
+</tr>
+<tr>
+<td>Liderazgo comprometido y visionario</td>
+<td><strong>Abierto a recibir retroalimentación</strong></td>
+</tr>
+<tr>
+<td>Inseguridad por el rol</td>
+<td><strong>Miedo</strong></td>
+</tr>
+<tr>
+<td>Tres desafíos</td>
+<td>Resistencia · falta de habilidades · comunicación ineficaz</td>
+</tr>
+<tr>
+<td>Tres factores</td>
+<td>Naturaleza del cambio · comunicación y participación · tipo de liderazgo</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 4</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Por qué revisar los KPI constantemente</td>
+<td><strong>Para adaptarlos a la evolución de la estrategia</strong></td>
+</tr>
+<tr>
+<td>Por qué KPI flexibles</td>
+<td><strong>Para orientarse hacia el futuro en un entorno cambiante</strong></td>
+</tr>
+<tr>
+<td>KPI de automatización de la producción</td>
+<td><strong>Reducción del tiempo de fabricación</strong></td>
+</tr>
+<tr>
+<td>Datos operativos</td>
+<td><strong>Fuente interna</strong></td>
+</tr>
+<tr>
+<td>Evaluar la facilidad de uso y la satisfacción</td>
+<td><strong>Datos de experiencia del usuario (UX)</strong></td>
+</tr>
+<tr>
+<td>Categorías de KPI</td>
+<td><strong>Organización · cliente y comercial · innovación</strong></td>
+</tr>
+<tr>
+<td>Tipos</td>
+<td><strong>De resultado</strong> y <strong>de proceso</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3>Lección 5</h3>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Colaboración entre equipos</td>
+<td><strong>Plataforma de colaboración en la nube</strong></td>
+</tr>
+<tr>
+<td>Detectar oportunidades de innovación</td>
+<td><strong>Design Thinking y Lean Startup</strong></td>
+</tr>
+<tr>
+<td>Uso del Design Thinking</td>
+<td><strong>Desarrollo de productos innovadores</strong></td>
+</tr>
+<tr>
+<td>Beneficio de Scrum y Kanban</td>
+<td><strong>Ciclos de desarrollo más cortos y mayor capacidad de respuesta</strong></td>
+</tr>
+<tr>
+<td>Condiciones de la cultura de mejora</td>
+<td><strong>Liderazgo comprometido, cultura de aprendizaje y colaboración</strong></td>
+</tr>
+<tr>
+<td>Tres herramientas de detección</td>
+<td><strong>Análisis de datos · revisión de procesos · mapeo de procesos</strong></td>
+</tr>
+<tr>
+<td>Fases del Design Thinking</td>
+<td>Empatía → definición → ideación → prototipado → prueba</td>
+</tr>
+<tr>
+<td>Reglas del brainstorming</td>
+<td>No juzgar · cantidad · colaboración</td>
+</tr>
+</tbody>
+</table></div>
+<hr />
+<h2>Cómo estudiar esto en 40 minutos</h2>
+<ol>
+<li><strong>10 min</strong> — Lee el <a href="sc34-resumen.html">resumen</a>.</li>
+<li><strong>10 min</strong> — La tabla de <em>"¿en qué paso va?"</em> y los 3 métodos de priorización.</li>
+<li><strong>10 min</strong> — Tapa la columna derecha de las tablas por lección.</li>
+<li><strong>10 min</strong> — Listas: <strong>5 pasos · 8 elementos del marco · 3 manifestaciones · 3 categorías de KPI · 3 técnicas colaborativas</strong>.</li>
+</ol>
+<hr />
+<h2>Para el Reto (60 %)</h2>
+<p><strong>"Plan de implementación de la transformación digital"</strong> — rúbrica, formato y <strong>Anexo 1</strong> (plantilla de cronograma con las actividades de los 5 pasos) en <code>Reto/</code>. Hay que guardar el archivo como <code>tunombre_Reto_SC3.4</code> y entregarlo en PDF. Son <strong>5 pasos de 20 puntos cada uno</strong>.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Paso</th>
+<th>Qué pide</th>
+<th>Para los 20 puntos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Priorización</strong></td>
+<td><strong>Tabla 1</strong>: 2 o más iniciativas con justificación (con <strong>datos y métricas</strong>) y prioridad alta, media o baja · elegir una</td>
+<td>Justificación <strong>ligada a la visión y la estrategia</strong> + <strong>priorización basada en criterios</strong> (usa puntuación y clasificación o la matriz de valor y riesgo)</td>
+</tr>
+<tr>
+<td><strong>2. Desarrollo</strong></td>
+<td><strong>Tabla 2</strong>: descripción · recursos · desafíos · <strong>cronograma de alto nivel</strong> (Anexo 1)</td>
+<td>Las <strong>tres cosas</strong>; sin cronograma claro, el máximo es 16</td>
+</tr>
+<tr>
+<td><strong>3. Gestión del cambio</strong></td>
+<td><strong>Tabla 3</strong>: <em>stakeholders</em> · resistencias (tipo y descripción) · estrategias · <strong>plan de comunicación</strong></td>
+<td>Resistencias <strong>y</strong> estrategias en un plan de comunicación <strong>congruente</strong></td>
+</tr>
+<tr>
+<td><strong>4. Monitoreo</strong></td>
+<td><strong>Tabla 4</strong>: 2 o más KPI · definición · <strong>herramienta</strong> · <strong>frecuencia</strong></td>
+<td>Sin frecuencia, el máximo es 16</td>
+</tr>
+<tr>
+<td><strong>5. Mejora e innovación</strong></td>
+<td>Sobre una <strong>solución digital que ya existe</strong> en la empresa: pedir sus KPI reales · <strong>Tabla 5</strong> con los puntos de mejora y los ajustes</td>
+<td><strong>Más de 2 puntos de mejora</strong>, cada uno asociado a una acción, e incorporados al plan del Paso 2</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>El modelo a copiar:</strong> la lectura 6, <em>Mejores prácticas desde la experiencia</em>, trae el <strong>ejemplo completo resuelto</strong> (inventario IoT) con las 5 secciones. Úsalo como plantilla de profundidad.</p>
+<p><strong>Cómo aterriza en Grupo Infocus:</strong> para el <strong>Paso 5</strong>, la solución existente más obvia es el <strong>Odoo interno de Alku</strong> (CRM y proyectos). Pide las métricas reales antes de escribir. En el <strong>Paso 3</strong>, los <em>stakeholders</em> reales son los tres socios, el equipo de consultores de Business Basics y los clientes. La resistencia más probable es el <strong>miedo</strong> ("¿mi trabajo de consultor se automatiza?").</p>
+</main>
