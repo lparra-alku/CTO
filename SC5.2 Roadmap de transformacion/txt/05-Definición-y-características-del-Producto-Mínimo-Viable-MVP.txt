@@ -1,0 +1,150 @@
+
+--- p1 ---
+En el contexto empresarial, el concepto de MVP (Minimum Viable 
+Product) ha ganado una relevancia significativa como una estrategia clave 
+para el desarrollo de productos y la validación de ideas.
+Producto Mínimo Viable (MVP)
+Definición y 
+características del
+
+--- p2 ---
+De acuerdo con Rogers (2023), las culturas 
+organizacionales que no experimentan terminan por 
+obstaculizar la innovación y el progreso. Mientras aquellas que 
+sí experimentan fomentan la curiosidad, la creatividad y el aprendizaje 
+continuo. Este segundo tipo de cultura organizacional impulsa la innovación y 
+el éxito a largo plazo a través de la experimentación y de fomentar la 
+mentalidad de probar, aprender y adaptar constantemente mediante el 
+desarrollo de Productos Mínimos Viables, la implementación de procesos ágiles 
+y flexibles que propicien una iteración continua.
+Como recordarás para Eric Ries (2011), autor de "The Lean Startup", el MVP es 
+esencialmente un punto de partida para recopilar aprendizajes valiosos sobre 
+los clientes con el mínimo esfuerzo. Esto implica lanzar al mercado un producto 
+que tenga las características esenciales para cumplir con el propósito 
+fundamental, permitiendo así obtener una retroalimentación rápida y 
+significativa.
+Por su parte, Steve Blank (2013) concuerda con esta perspectiva al describir el 
+MVP como “el menor producto que puede ser lanzado al mercado”, con el 
+objetivo principal de aprender del cliente. Así se subraya la importancia de 
+enfocarse en obtener información práctica sobre las preferencias y necesidades 
+del cliente desde las primeras etapas del desarrollo del producto.
+Por otro lado, Marc Andreesen (2014) destaca la simplicidad del MVP como un 
+medio para iniciar el proceso de aprendizaje lo más rápido posible. Según esta 
+perspectiva, el MVP no debe ser una solución compleja o elaborada, sino más 
+bien una versión básica del producto que permita recopilar datos valiosos y 
+validar hipótesis de manera efectiva.
+¿Pero qué es un MVP?
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Las tres definiciones convergen en la idea de que el MVP es una 
+herramienta fundamental para la experimentación y la validación en el 
+desarrollo de productos. Al enfocarse en la creación de un producto mínimo 
+con las características esenciales, las organizaciones pueden obtener una 
+comprensión más clara de las necesidades del cliente y ajustar su estrategia en 
+consecuencia. De esta manera, el MVP se convierte en un catalizador para el 
+aprendizaje continuo y la iteración hacia la creación de productos exitosos.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+En cuanto a las características del MVP según Eric Ries (2011), el MVP 
+permite obtener retroalimentación valiosa a través de una versión 
+simplificada del producto que evite invertir recursos excesivos en su desarrollo.
+También el MVP se utiliza para validar las hipótesis clave relacionadas con 
+el producto, como la demanda del mercado, las necesidades del cliente y la 
+viabilidad del negocio. A través de la recopilación de datos y la 
+observación de cómo interactúan los usuarios con el producto, se busca 
+confirmar o refutar estas suposiciones.
+Por lo tanto, el MVP debe ser lo suficientemente flexible como para adaptarse 
+a los cambios en las necesidades del cliente o en el mercado. Esto implica estar 
+abierto a realizar ajustes y mejoras en función de la retroalimentación recibida, 
+con el objetivo de optimizar el producto y su propuesta de valor.
+En ese sentido, el MVP promueve una mentalidad de experimentación 
+y aprendizaje continuo. En lugar de buscar la perfección desde el principio, 
+se trata de lanzar versiones iterativas del producto, probar diferentes enfoques 
+y recopilar datos empíricos para informar las decisiones de diseño y desarrollo.
+Entonces, el MVP implica lanzar al mercado un producto que proporcione valor 
+real y solucione problemas específicos de los usuarios, con el objetivo de 
+construir una base sólida para el crecimiento y la expansión futura.
+ 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+También para Blank (2013) el MVP implica desarrollar una versión básica del 
+producto con las características esenciales necesarias para obtener 
+retroalimentación significativa, tales como:
+Funcionalidades Principales, es decir, aquellas características del 
+producto que son imprescindibles para cumplir con su propósito 
+principal. Estas funcionalidades constituyen el núcleo del producto y son 
+las que proporcionan el mayor valor al usuario.
+Una interfaz de usuario clara y fácil de usar es crucial para 
+garantizar una buena experiencia del usuario y facilitar la interacción con 
+el producto. Una interfaz intuitiva permite a los usuarios comprender 
+rápidamente cómo utilizar el producto y acceder a sus funcionalidades 
+principales sin dificultad.
+En ese sentido, se requiere la facilidad de acceso, es decir, el producto debe 
+ser accesible para los usuarios de manera rápida y sencilla. Esto puede implicar 
+la eliminación de barreras de entrada como registros complicados o descargas 
+largas, y la garantía de que el producto esté disponible en plataformas y 
+dispositivos ampliamente utilizados.
+También se requiere la capacidad de recolección de datos, es decir, a 
+través del MVP se deben recopilar datos sobre el comportamiento y la 
+interacción de los usuarios con el producto. Esto puede incluir la integración de 
+herramientas de análisis y seguimiento que proporcionen información 
+detallada sobre el uso del producto y las preferencias de los usuarios.
+Esto sugiere la idea de un feedback incorporado, esto implica que el 
+producto incluya mecanismos para recopilar feedback directo de los usuarios, 
+como encuestas integradas, formularios de contacto o botones de feedback. De 
+esta manera, los usuarios podrán expresar sus opiniones, sugerencias y 
+preocupaciones, proporcionando a los desarrolladores una visión clara de cómo 
+mejorar el producto.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Estas características esenciales son fundamentales para garantizar que el MVP 
+pueda recopilar la retroalimentación significativa necesaria para iterar y 
+mejorar el producto de manera efectiva en futuras versiones. 
+También se coincide en que el MVP permite validar las hipótesis del 
+negocio y del producto. Esto implica identificar las suposiciones clave sobre 
+el mercado, los clientes y la solución propuesta, para luego probarlas en el 
+mundo real y confirmar su veracidad o identificar áreas de mejora.
+Aunque la definición de Andreessen (2014) no 
+proporciona una lista específica de características, 
+es posible inferir algunos rasgos clave del MVP 
+desde su enfoque de simplicidad y rapidez de 
+lanzamiento. Por lo tanto, el MVP debe contener 
+solo las funcionalidades más básicas y esenciales 
+necesarias para cumplir con su propósito principal. 
+Esto implica eliminar cualquier característica 
+superflua que pueda retrasar el desarrollo del 
+producto o agregar complejidad innecesaria.
+Esto pone énfasis en el rápido tiempo de desarrollo, lo cual significa que el 
+MVP debe ser desarrollado en el menor tiempo posible para comenzar a 
+recopilar retroalimentación y aprender del mercado lo antes posible. Esto 
+implica adoptar un enfoque ágil y centrarse en la entrega rápida de un 
+producto básico que pueda ser lanzado al mercado sin demoras innecesarias.
+También se requiere de la facilidad de implementación, esto es que el MVP 
+debe ser fácil de implementar y lanzar al mercado sin complicaciones mediante 
+el uso de tecnologías y recursos disponibles que permitan desarrollar y 
+desplegar el producto de manera rápida y eficiente.
+Y por último, el MVP debe adoptar un enfoque iterativo y probar el 
+producto en el mercado lo antes posible para recopilar retroalimentación y 
+validar suposiciones clave sobre el producto y el mercado.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+Reflexiones
+¿Qué característica del MVP te parece más relevante para 
+tu empresa u organización?, ¿cómo se podría desarrollar 
+un MVP para la transformación digital de tu empresa u 
+organización?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7

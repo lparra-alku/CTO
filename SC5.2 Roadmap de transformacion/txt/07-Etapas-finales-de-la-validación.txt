@@ -1,0 +1,186 @@
+
+--- p1 ---
+de la validación
+Etapas finales 
+Descubre en qué consisten los distintos 
+componentes de la validación del producto y la 
+validación del negocio de acuerdo con el 
+planteamiento de David Rogers (2023).
+
+--- p2 ---
+Siguiendo con el planteamiento del Customer Development, 
+las últimas etapas de validación son las siguientes:
+La validación del producto es el proceso donde se evalúa si el producto, en 
+su forma final o como MVP es viable, funcional y útil para los usuarios. 
+Para ello, se basa en cuatro aspectos:
+Implica evaluar cómo los clientes 
+interactúan con un producto o servicio 
+en situaciones reales o simuladas antes 
+de su lanzamiento al mercado. Esta 
+evaluación del uso del producto es 
+fundamental para validar su viabilidad y 
+efectividad en la resolución de los 
+problemas o necesidades de los clientes.
+La validación del producto a través del 
+uso implica observar cómo los clientes 
+potenciales interactúan con el producto 
+o servicio en diferentes contextos y 
+situaciones. Esto puede incluir pruebas 
+de usuario, grupos focales, estudios de 
+usabilidad, prototipos y otras técnicas 
+de investigación que permiten recopilar 
+datos sobre la experiencia del usuario y 
+la eficacia del producto en el mundo 
+real.
+Validación del Producto (Product Validation)
+Etapa 3
+Uso
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Es el proceso de prueba y evaluación de cómo se entrega y se 
+distribuye un producto o servicio a los clientes. Este aspecto es 
+fundamental en el proceso de validación del producto, ya que 
+evalúa la eficacia y la calidad de la entrega del producto o servicio al 
+cliente final.
+Al validar el producto a través de la entrega, las empresas pueden 
+identificar áreas de mejora y optimización en el proceso de entrega para 
+garantizar una experiencia satisfactoria para el cliente. Esto puede incluir 
+la optimización de la logística y la distribución, la mejora de la experiencia 
+de compra en línea o en tiendas físicas, así como la implementación de 
+políticas de servicio al cliente efectivas.
+Entrega
+Algunos aspectos clave de la validación del producto a través de sus 
+capacidades incluyen:
+Funcionalidad: Se verifica que todas las características y funciones 
+del producto funcionen de la manera esperada y sean útiles para los 
+usuarios.
+Usabilidad: Se evalúa la facilidad de uso del producto, incluida la 
+interfaz de usuario, la navegación y la experiencia general del usuario.
+Rendimiento: Se evalúa el rendimiento del producto en términos de 
+velocidad, eficiencia y confiabilidad para asegurar una experiencia de 
+usuario satisfactoria.
+Valor percibido: Se determina si el producto ofrece un valor 
+significativo y beneficios claros que justifiquen su adopción por parte 
+de los usuarios.
+Capacidades
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Hace alusión a la capacidad de una empresa para tener éxito 
+y destacarse en un mercado específico con su producto o 
+servicio. Este concepto reconoce que no todas las empresas 
+tienen automáticamente el derecho de ganar en un mercado 
+determinado; por lo que deben demostrar que tienen las capacidades, 
+recursos y ventajas competitivas necesarias para triunfar.
+El Right to win se puede manifestar de diversas maneras: como 
+diferenciación del producto, innovación continua, eficiencia operativa, 
+marca sólida y reputación, acceso a mercados o canales de distribución 
+exclusivos. Por lo que resulta fundamental para garantizar que la empresa 
+está bien posicionada para triunfar y lograr sus objetivos comerciales con 
+el producto o servicio.
+Entonces, la validación del producto 
+implica llevar a cabo pruebas y 
+recopilar retroalimentación de los 
+usuarios reales o representativos del 
+mercado objetivo. Se sugiere realizar a 
+partir de 15 entrevistas para tener una 
+muestra estadísticamente significativa.
+Además, la validación del producto es 
+un proceso iterativo que puede 
+implicar múltiples rondas de pruebas y 
+ajustes para refinar y mejorar el 
+producto antes de su lanzamiento 
+completo al mercado. La 
+retroalimentación obtenida durante 
+esta etapa es fundamental para 
+optimizar el producto y maximizar su 
+aceptación y éxito en el mercado.
+Derecho para ganar (Right to win)
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+En esta última etapa, se evalúa la viabilidad del modelo de negocio en su 
+conjunto, a partir de métricas que ayuden a revisar los siguientes aspectos:
+Validación del Negocio (Business Validation)
+Etapa 4
+La validación del negocio incluye la captura de valor, donde se examina 
+y analiza cómo generará ingresos la empresa, cuáles son sus fuentes de 
+ingresos, cuáles son sus costos y cómo una empresa puede monetizar o 
+capitalizar el valor que ofrece a sus clientes. Esto puede implicar diferentes 
+estrategias, como fijación de precios, modelos de ingresos, estructuras de 
+tarifas, entre otros. Es esencial encontrar un equilibrio entre la creación de 
+valor para los clientes y la captura de valor para la empresa.
+Captura de valor
+También se debe realizar un análisis exhaustivo del Customer Lifetime 
+Value (CLV), es decir, la métrica que representa el valor económico total 
+que un cliente aporta a una empresa a lo largo de toda su relación 
+comercial con ella. Esta métrica permite a las empresas entender cuánto 
+pueden invertir para adquirir y retener a un cliente de manera rentable.
+El CLV se calcula teniendo en cuenta varios factores, que pueden incluir el 
+ingreso total que el cliente genera a través de sus compras repetidas, la 
+duración de su relación con la empresa y el margen de beneficio asociado a 
+esas compras. La fórmula básica para calcular el CLV es:
+CLV= (Valor promedio de compra por transacción) × 
+(Frecuencia de compra) × (Duración de la relación 
+con el cliente)
+Customer Lifetime Value (CLV)
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Es muy importante conocer la 
+viabilidad financiera a través de un 
+análisis financiero detallado para 
+evaluar la rentabilidad y la 
+sostenibilidad del negocio a largo 
+plazo. Esto implica proyectar los 
+flujos de ingresos y gastos, calcular 
+los costos de adquisición de clientes, 
+determinar el punto de equilibrio y 
+evaluar el potencial de retorno de la 
+inversión.
+Costos
+En el contexto de la validación del negocio, el Path to Profit implica 
+evaluar y definir cómo la empresa generará ingresos, cubrirá sus costos y 
+alcanzará la rentabilidad a lo largo del tiempo. Esto incluye aspectos como 
+los modelos de ingresos, la gestión de costos, la inversión en crecimiento y 
+la gestión financiera.
+Siguiendo el Path to Profit, o cómo llegar a tener utilidades, una empresa 
+puede establecer una hoja de ruta clara y estratégica para lograr sus 
+objetivos financieros y alcanzar la rentabilidad a largo plazo. Esto implica 
+tomar decisiones informadas y adaptativas, evaluar constantemente el 
+desempeño y ajustar la estrategia cuando sea necesario.
+En conclusión, en esta etapa de validación se analizan aspectos como la 
+escalabilidad, la rentabilidad y la adquisición y retención de clientes para 
+determinar si el negocio es viable a largo plazo. Se pueden realizar ajustes 
+en el modelo de negocio en función de la retroalimentación recibida 
+durante las etapas anteriores.
+Por lo que la validación del negocio se centra en evaluar aspectos 
+relacionados con la viabilidad económica, estratégica y operativa del 
+negocio para asegurar que tenga un potencial real de éxito en el mercado.
+Path fo Profit
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+Reflexiones finales
+?
+?
+?
+?
+?
+?
+¿Qué beneficios tendría implementar la validación del 
+producto considerando esos cuatro aspectos para tu 
+empresa u organización?
+¿Cuáles son los aspectos que la validación del negocio 
+mejoraría en tu empresa u organización?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7

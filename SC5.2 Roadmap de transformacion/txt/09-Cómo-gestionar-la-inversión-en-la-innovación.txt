@@ -1,0 +1,202 @@
+
+--- p1 ---
+Si vas a ejecutar un nuevo emprendimiento, recuerda que una gran idea 
+comienza con mucha incertidumbre y con poca inversión.
+inversión en la innovación?
+¿Cómo gestionar la
+
+--- p2 ---
+Para avanzar en tu innovación, lo primero que se 
+recomienda es entrevistar a tus clientes para validar sus 
+problemas, luego crear un MVP en borrador para validar tu 
+solución, después testear esa solución para validarla, adoptar la solución y 
+finalmente crear los primeros MVP para asegurarte de que tu producto o 
+servicio puede ser un gran negocio.
+Ahora bien, una adecuada gestión de la inversión en un proyecto de 
+transformación digital proporciona un marco para asignar fondos de manera 
+estratégica, priorizando iniciativas que impulsen la innovación, la eficiencia 
+operativa y la competitividad. Observa el siguiente cuadro comparativo que 
+muestra la inversión en equipos BAU y en equipos de innovación.
+Máxima 
+inversión
+Mínima 
+inversión
+Máxima 
+incertidumbre
+Mínima 
+incertidumbre
+Aprendizaje
+Gran 
+idea
+Entrevistas 
+con clientes / 
+Problema 
+validado
+Crear un MVP 
+en borrador / 
+Solución 
+validada
+Adopcicón de 
+la demanda
+Primer MVP funcional
+Quinto MVP 
+funcional / ¿Es 
+negocio?
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Inversión en equipos BAU
+Grandes comienzos, pero lentos
+Largos ciclos presupuestarios
+Decisiones basadas en opiniones ejecutivas
+Crecimiento gradual lento
+Inversión en equipos de innovación
+Inicio rápido y pequeño
+Ciclos de financiación cortos
+Decisiones basadas en validaciones
+Crecimiento exponencial
+Máxima 
+inversión
+Mínima 
+inversión
+Máxima 
+incertidumbre
+Mínima 
+incertidumbre
+Aprendizaje
+Financiamiento
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+¿Cuándo debo detener mi inversión?
+Es necesario que sepas identificar señales de falta de viabilidad, resultados 
+insatisfactorios o desalineación con los objetivos estratégicos para tomar 
+decisiones informadas con el propósito de redirigir o finalizar proyectos. Esto 
+libera recursos para iniciativas más prometedoras, evita el desperdicio de 
+fondos y tiempo, y fomenta una cultura organizacional ágil y enfocada en el 
+valor. La capacidad de detener inversiones no rentables permite a la empresa 
+adaptarse rápidamente a las dinámicas del mercado y mantener su 
+competitividad.
+Observa las señales para detener tu inversión de acuerdo con las cuatro etapas 
+de validación:
+Etapa de validación
+Validación del problema
+Validación de solución
+•
+Sin problema. No puedes identificar el 
+problema a resolver de tu cliente.
+•
+Problema de baja prioridad. Los clientes 
+reconocen el problema, pero ese problema 
+no figura en su top cinco de prioridades.
+•
+Problema resuelto. Los clientes están 
+satisfechos con las alternativas existentes 
+para abordar el problema.
+•
+No hay demanda urgente. Recibes elogios 
+por tu solución (eso es bueno), pero no 
+recibes solicitudes para registrarse, usar o 
+comprar.
+•
+No hay características de impacto. 
+Ninguno de los beneficios propuestos es 
+suficiente para motivar un cambio de 
+comportamiento por parte de los clientes.
+•
+No hay ventaja competitiva. Los clientes no 
+ven ninguna razón por la cual elegir tu 
+solución por encima de otras que ya 
+existen.
+Señales para detener una inversión 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Etapa de validación
+Validación del producto
+Validación del negocio
+•
+De bajo uso. Los clientes no necesitan tu 
+solución después de la prueba inicial.
+•
+Sin claridad y difícil de usar. No tienes una 
+propuesta clara de solución hacia tus 
+clientes (por ejemplo, la tecnología no está 
+lista, la regulación no lo permite o carece 
+de propiedad intelectual).
+•
+Demasiado fácil. Tu solución funciona, 
+pero los competidores pueden ofrecer 
+fácilmente lo mismo o mejor que tú.
+•
+Sin captura de valor. A los clientes les 
+gusta tu oferta, pero no pagarán por ella y 
+tú no puedes encontrar otro flujo de valor 
+para tu empresa.
+•
+No hay camino para obtener ganancias. 
+Estás capturando valor, pero los costos 
+son demasiado altos y no bajarán lo 
+suficiente como para alcanzar el punto de 
+equilibrio a medida que escalas.
+•
+Una ventaja pequeña. La ventaja máxima 
+no es lo suficientemente grande como para 
+merecer un enfoque continuo por parte de 
+tu organización.
+Señales para detener una inversión 
+Saber cuándo detener la 
+inversión en proyectos de 
+transformación digital te 
+evitará pérdidas de recursos 
+y una maximización de tu 
+valor comercial.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Gestionando la ideación
+La siguiente gráfica muestra cómo opera la gestión de tus ideaciones en 
+proyectos de innovación: 
+“De 100 ideas, las primeras 60 produjeron 5 
+realmente nuevas y diferentes, las siguientes 
+20 solo dieron risa y de las últimas 20: 10 
+fueron increíbles.   Felizmente no 
+abandonamos la ideación cuando nos 
+sentimos sin ideas después de las primeras 
+60.” Dev Patnaik (investigador de 
+innovación).
+Brillante
+Aburrido
+Tiempo
+Absurdo
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+Otra forma de visualizar la ideación la podemos encontrar en la siguiente 
+gráfica:
+Lo difícil inspira lo 
+absurdo y lo brillante.
+Brillante
+Aburrido
+Tiempo
+Absurdo
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7
+
+--- p8 ---
+Reflexiones
+¿Cuál crees que sea la mejor manera de identificar y 
+evaluar el momento óptimo para aumentar las 
+inversiones en innovación dentro de tus proyectos de 
+transformación digital, considerando los niveles de 
+incertidumbre y riesgo asociados?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+8

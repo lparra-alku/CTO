@@ -1,0 +1,231 @@
+
+--- p1 ---
+Ejemplos de P/O
+Veamos el ejemplo de varias empresas exitosas a 
+nivel mundial que han basado sus estrategias 
+atendiendo a los problemas de sus clientes.
+
+--- p2 ---
+Cliente
+Problema
+Oportunidad
+Negocio
+Hasta el momento, has 
+identificado que la matriz 
+P/O es una herramienta 
+valiosa para guiar la 
+priorización efectiva de 
+iniciativas en el roadmap 
+de transformación digital, 
+asegurando que se aborden 
+los problemas más 
+importantes.
+Los clientes de una empresa de 
+servicios financieros se quejan de 
+largos tiempos de espera en las 
+líneas de atención al cliente y 
+dificultades para acceder a 
+información relevante sobre sus 
+cuentas.
+La empresa de servicios 
+financieros experimenta una alta 
+tasa de abandono de clientes 
+debido a la insatisfacción con la 
+calidad del servicio y la falta de 
+transparencia en sus procesos.
+Los clientes expresan interés en 
+poder realizar transacciones 
+bancarias de forma móvil y digital, 
+lo que sugiere una oportunidad 
+para mejorar la experiencia del 
+cliente a través de aplicaciones 
+móviles y plataformas en línea.
+La empresa identifica una 
+creciente demanda de productos 
+financieros personalizados y 
+servicios de asesoramiento, lo 
+que representa una oportunidad 
+para diferenciarse en el mercado y 
+aumentar la fidelidad del cliente.
+Observa ahora algunos ejemplos relacionados con la aplicación de dicha 
+matriz:
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+La siguiente tabla muestra ejemplos de cuatro empresas 
+respecto a sus problemas y oportunidades enfocados a una 
+estrategia de transformación digital.
+Mejorar la ruta digital del cliente hacia la compra, desde el descubrimiento en línea 
+hasta el comercio electrónico y la lealtad.
+Proporcionar aprendizaje y contenido en línea para profesionales de la salud de los 
+animales.
+Ingresar al creciente diagnóstico de mercado para detectar y prevenir enfermedades 
+en animales.
+Potenciar la gestión ganadera con seguimiento y análisis digitales.
+Empresa
+Ejemplos de problema/oportunidad para estrategias de TD
+Zoetis
+Proporcionar inclusión financiera a comunidades no bancarizadas.
+Resolver las necesidades empresariales de ciberseguridad mediante la autenticación 
+de identidad digital.
+Aprovechar nuestros datos de transacciones minoristas para análisis y 
+conocimientos.
+Ofrecer innovación como servicio a los socios del sector de servicios financieros.
+Mastercard
+Ofrecer nuevas pólizas de seguro a clientes comerciales para los riesgos 
+empresariales de la era digital.
+Utilizar nuevas fuentes de datos en nuestros modelos de suscripción y marketing 
+para ofrecer al cliente adecuado la cobertura adecuada al precio adecuado.
+Proporcionar atención al cliente y reclamaciones omnicanal y sin interrupciones.
+Vender seguros directamente a compradores que deseen adquirirlos en línea en lugar 
+de hacerlo a través de un intermediario tradicional.
+Acuity
+Aprovechar los datos de nuestros activos físicos (desde plantas de fabricación hasta 
+cilindros de gas) para mejorar las operaciones y crear nuevo valor.
+Capacitar y conectar con nuestros clientes a través de todos los canales de 
+comunicación: desde la aplicación hasta la web, pasando por llamadas telefónicas y 
+representantes de ventas.
+Colaborar con un ecosistema en expansión (de empleados, socios y nuevas 
+empresas emergentes) a través de nuevos modelos de negocios digitales y 
+herramientas de colaboración.
+Air Liquide
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Ejemplo de Walmart
+Identificar y clasificar los problemas y 
+oportunidades de manera sistemática 
+permite una evaluación más 
+estructurada y objetiva de las 
+iniciativas digitales propuestas, lo que 
+a su vez facilita la toma de decisiones 
+informadas sobre qué proyectos 
+priorizar y en qué orden abordarlos.
+ 
+Al utilizar la matriz P/O, las 
+organizaciones pueden enfocar sus 
+recursos y esfuerzos en aquellas áreas 
+que presentan problemas críticos u 
+oportunidades significativas, 
+maximizando así el impacto de su 
+transformación digital.
+Definir el futuro del comercio electrónico de compras de 
+comestibles.
+Aprovechar las tiendas minoristas para ganar la última milla del 
+comercio en línea y fuera de línea.
+Reinventar la interacción de los humanos y Al en el lugar de 
+trabajo minorista.
+Alcance de la 
+estrategia
+Problemas / oportunidades
+Walmart, Inc.
+Garantizar la disponibilidad en el lineal cuando un cliente entra 
+por la puerta y busca un producto específico.
+Tiendas 
+Walmart
+Mejorar la frecuencia de compra online de nuestros clientes.
+Walmart.com
+Nivel de la 
+organización
+Organización
+Canal
+Canal
+Aprovechar a los empleados de nuestra tienda para permitir una 
+entrega más rápida de pedidos en línea a los clientes cercanos
+Omnicanal
+Canal
+Mejorar la experiencia de devolución del cliente en la tienda.
+Walmart Mobile 
+App
+Equipo de 
+trabajo 
+específico
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Además, la matriz P/O también ayuda a las 
+organizaciones a visualizar y comunicar claramente la 
+justificación detrás de las decisiones de priorización, lo que 
+facilita la alineación y el compromiso de todas las partes 
+interesadas en el proceso de transformación digital. 
+Otro ejemplo problemas y oportunidades, pero enfocados particularmente 
+a los clientes dentro de un proceso de transformación digital es el 
+siguiente:
+Los clientes buscan experiencias de 
+compra personalizadas y convenientes en 
+línea.
+Alcance de la estrategia
+Problemas / oportunidades
+Los clientes experimentan 
+dificultades para encontrar 
+productos o servicios 
+relevantes en línea.
+Los clientes desean una comunicación 
+rápida y eficiente con la empresa a través 
+de múltiples canales digitales.
+Los clientes se enfrentan a 
+largos tiempos de espera y 
+respuestas lentas en los 
+canales de atención al cliente.
+Los clientes buscan interfaces intuitivas y 
+atractivas que faciliten la navegación y la 
+interacción con los productos o servicios 
+digitales.
+Los clientes encuentran 
+interfaces de usuario 
+confusas o difíciles de 
+navegar en los sitios web o 
+aplicaciones móviles.
+Aspecto
+Visión general
+Interacción 
+con el cliente
+Experiencia de 
+usuario
+Los clientes valoran las recomendaciones 
+personalizadas y las ofertas exclusivas 
+basadas en sus preferencias y 
+comportamientos de compra.
+Los clientes reciben 
+comunicaciones genéricas y 
+no personalizadas que no se 
+adaptan a sus necesidades 
+individuales.
+Personalización
+Los clientes buscan garantías de 
+seguridad y protección de la privacidad de 
+sus datos al interactuar con la empresa en 
+línea.
+Los clientes están 
+preocupados por la seguridad 
+de sus datos personales y la 
+posibilidad de sufrir fraudes 
+en línea.
+Seguridad y 
+privacidad
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+¿De qué manera puedes mantener la flexibilidad en tu 
+roadmap de transformación digital para adaptarte a 
+cambios en el entorno empresarial y tecnológico 
+mientras mantienes el enfoque en tus objetivos 
+estratégicos?
+Cuando identificas oportunidades de negocio, como la 
+personalización de las comunicaciones, la optimización de 
+los procesos internos o la expansión hacia nuevos mercados 
+digitales, la empresa puede capitalizar áreas clave para el 
+crecimiento y la innovación. 
+Asimismo, al abordar los problemas y aprovechar las oportunidades tanto 
+de los clientes como del negocio, el roadmap de transformación digital se 
+convierte en una herramienta poderosa para impulsar el éxito de nuestra 
+empresa a través del tiempo.
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6

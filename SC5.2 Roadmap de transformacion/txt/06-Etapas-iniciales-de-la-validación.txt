@@ -1,0 +1,162 @@
+
+--- p1 ---
+de la validación
+Etapas iniciales
+Descubre en qué consiste la etapa de 
+descubrimiento del cliente y los dos componentes 
+clave de la validación del problema.
+
+--- p2 ---
+Según el Customer Development, desarrollado por Steve 
+Blank (2013), las etapas de validación son las siguientes:
+Para empezar se debe identificar y comprender a fondo quiénes son los 
+clientes potenciales y cuáles son sus necesidades, problemas y deseos. Se 
+busca validar las hipótesis iniciales sobre el mercado y los clientes 
+mediante entrevistas, encuestas y otras técnicas de investigación.
+Descubrimiento del cliente (Customer Discovery)
+Etapa 0
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Una vez identificados los clientes potenciales, se procede a validar si 
+los problemas y necesidades identificados durante el descubrimiento del 
+cliente son reales y significativos. 
+La validación del problema es una etapa crucial en el proceso de desarrollo 
+de un producto o servicio, en la cual se busca confirmar la existencia y la 
+magnitud de un problema o necesidad en el mercado objetivo. Este 
+proceso implica investigar a fondo y recopilar evidencia para validar que el 
+problema identificado sea genuino, significativo y merecedor de una 
+solución.
+En esta fase, se realizan actividades como entrevistas, encuestas, 
+observaciones de usuarios y análisis de datos para recopilar información 
+sobre los problemas reales que enfrentan los clientes y la urgencia con la 
+que necesitan una solución.
+De acuerdo con la propuesta de Rogers (2023), esta etapa se conforma de 
+dos componentes:
+Validación del Problema (Problem Validation)
+Etapa 1
+01
+El problema
+El cual se conforma de distintos aspectos como su definición, las 
+alternativas existentes para su resolución y las necesidades no 
+satisfechas.
+Requiere la comprensión profunda de los desafíos, las oportunidades y las 
+aspiraciones de los clientes y del mercado en general. Aunque Rogers 
+(2023) aboga por un enfoque que considere tanto las necesidades 
+declaradas como las latentes de los clientes, así como las tendencias del 
+mercado y las oportunidades.
+Definición del problema
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Alternativas existentes o Existing alternatives
+Necesidades no satisfechas o Unmet needs
+Se refieren a las opciones o soluciones que ya están disponibles 
+en el mercado para abordar un determinado problema o 
+necesidad que enfrentan los clientes. Estas pueden incluir productos, 
+servicios o soluciones ofrecidas por competidores directos e indirectos, así 
+como también pueden incluir soluciones no tradicionales que los clientes 
+pueden utilizar para resolver su problema de una manera diferente.
+Son aquellas necesidades de los clientes que aún no han sido 
+completamente satisfechas por las soluciones existentes en el mercado. 
+Identificar y abordar estas necesidades es fundamental para el éxito 
+empresarial y la creación de valor.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+02
+El cliente
+Rogers (2023) considera que validar el cliente 
+implica tener presente los segmentos que se 
+atenderán, el cálculo del TAM y la búsqueda de quienes 
+puedan comprar primero.
+Se refieren a los segmentos de mercado específicos e identificables a los 
+cuales una empresa puede dirigirse con sus productos, servicios o 
+soluciones. Específicamente estos segmentos son aquellos que la empresa 
+puede alcanzar y comunicarse de manera efectiva a través de sus 
+estrategias de marketing y ventas.
+El Total Addressable Market (TAM), también conocido como Mercado 
+Total Abordable, se refiere al valor total de mercado disponible para un 
+producto o servicio en particular. Es el máximo potencial de ingresos que 
+una empresa podría generar si capturara el 100 % de la demanda de su 
+mercado objetivo, sin considerar la competencia u otros factores limitantes.
+Para realizar su cálculo te sugerimos la siguiente serie de pasos:
+Identificación del mercado objetivo: Comienza identificando y 
+delimitando claramente quiénes son los clientes potenciales para tu 
+producto o servicio. Define los segmentos de mercado que son más 
+relevantes para tu negocio.
+Estimación del tamaño del mercado: Utiliza informes de la 
+industria, investigaciones de mercado, datos del gobierno, entre otros, 
+para estimar el tamaño del mercado total en términos de unidades 
+vendidas o ingresos generados.
+Definición de criterios de inclusión y exclusión: Especifica 
+claramente qué parte del mercado total estás considerando en tu 
+cálculo. Por ejemplo, puedes excluir ciertos segmentos de mercado 
+que no son relevantes para tu producto o que están fuera de tu 
+alcance geográfico.
+Segmentos abordables o Addressables segments
+Cálculo del TAM (Total Addressable Market)
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Estimación de la penetración del mercado: 
+Determina cuál podría ser tu participación en el 
+mercado si capturas una parte significativa del mismo. 
+Esto puede basarse en la investigación de mercado, la 
+comprensión de la competencia y tus propias capacidades 
+comerciales.
+Cálculo del TAM: Calcular el TAM implica identificar el tamaño del 
+mercado objetivo y multiplicarlo por el precio promedio que los 
+clientes estarían dispuestos a pagar por el producto o servicio.
+Es importante tener en cuenta que el cálculo del TAM es una estimación y 
+puede variar según los datos disponibles, la precisión de las suposiciones y 
+las condiciones del mercado.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+Early adopters
+Son aquellos clientes o usuarios que están entre los primeros 
+en adoptar una nueva tecnología, producto o servicio en el 
+mercado. Estos individuos suelen ser visionarios y están dispuestos 
+a probar nuevas soluciones, incluso cuando estas están en una etapa 
+temprana de desarrollo o adopción.
+Rogers (2023) destaca la importancia de identificar y comprender a los 
+Early adopters como parte de la estrategia de lanzamiento de un nuevo 
+producto o servicio. Entenderlos puede ayudar a las empresas a diseñar 
+estrategias efectivas que permitan avanzar en la adopción de la innovación 
+en la era digital.
+Entonces, lo que se busca con la validación del problema es evitar 
+suposiciones y validar de manera empírica si el problema identificado es lo 
+suficientemente importante como para justificar el desarrollo de una 
+solución. Al validar el problema, se obtiene una comprensión más profunda 
+del mercado y se reduce el riesgo de desarrollar un producto o servicio que 
+no responda a una necesidad real.
+Una vez validado el problema, se pueden tomar decisiones más informadas 
+sobre cómo abordarlo de manera efectiva. Esto puede implicar ajustar la 
+dirección del producto, pivotar hacia una solución diferente o continuar 
+con el desarrollo del producto original, con la confianza de que se está 
+resolviendo un problema genuino y relevante para los clientes.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7
+
+--- p8 ---
+Reflexiones finales
+?
+?
+?
+?
+?
+?
+¿Qué etapa de validación tiene mayores 
+implicaciones para implementarse en tu 
+empresa u organización?, ¿cómo lo sabes?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+8

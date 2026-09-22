@@ -1,0 +1,69 @@
+# L0 · Cuánto sabes
+Genially 65fba79d93576c0015ccc89a
+
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que ayudes a Tania a resolver los siguientes cuestionamientos.
+Tania está por implementar el roadmap de transformación digital, pero antes reúne a todo su equipo en un kick off para elaborar un documento que resuelva las posibles dudas sobre cada etapa del plan, ¿puedes ayudarla? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Cuál de las siguientes afirmaciones describe mejor la importancia de definir una visión compartida para el futuro en una organización?
+Solo es relevante para el equipo directivo, no para los colaboradores de nivel inferior
+Es un proceso opcional que no tiene impacto en el desempeño empresarial
+Ayuda a alinear a todos los miembros de la organización hacia un objetivo común
+Es útil solo para empresas pequeñas, no para grandes corporaciones
+¡Correcto!
+Una visión compartida para el futuro, también llamada “ambición digital”, proporciona un sentido de propósito, motiva a los colaboradores, fomenta la colaboración y ayuda a alinear la toma de decisiones en toda la organización, lo que resulta en un mayor compromiso y éxito empresarial.
+¡Incorrecto!
+La respuesta correcta es Ayuda a alinear a todos los miembros de la organización hacia un objetivo común. Una visión compartida para el futuro, también llamada “ambición digital”, proporciona un sentido de propósito, motiva a los colaboradores, fomenta la colaboración y ayuda a alinear la toma de decisiones en toda la organización, lo que resulta en un mayor compromiso y éxito empresarial.
+Para garantizar que se resuelvan primero los problemas más urgentes y críticos
+¿Por qué es importante priorizar problemas al construir un roadmap de transformación digital en una empresa?
+Para delegar la responsabilidad de resolver los problemas a un equipo específico
+Para centrarse en problemas de tecnología y no en aspectos comerciales
+Para focalizar los problemas complejos y centrarse en soluciones simples
+Además, los problemas se priorizan con relación a su importancia y al valor que aportan a la organización, asegurando que los recursos y el esfuerzo se concentren en las áreas que generarán el mayor impacto y retorno de inversión.
+La respuesta correcta es Para garantizar que se resuelvan primero los problemas más urgentes y críticos. Los problemas se priorizan con relación a su importancia y al valor que aportan a la organización, asegurando que los recursos y el esfuerzo se concentren en las áreas que generarán el mayor impacto y retorno de inversión.
+¿Por qué es importante experimentar y validar iniciativas en la construcción de un roadmap de transformación digital?
+Para aprender de los éxitos y fracasos de manera rápida y económica, ajustando estrategias
+Para aumentar la adaptabilidad y la flexibilidad de la organización
+Para garantizar que todas las iniciativas sean implementadas con éxito
+Para disminuir el riesgo de implementar soluciones efectivas
+Esto facilita la adaptación ágil a cambios y la maximización del impacto de las estrategias en un proyecto de transformación digital.
+La respuesta correcta es Para aprender de los éxitos y fracasos de manera rápida y económica, ajustando estrategias. Aprender de los éxitos y fracasos facilita la adaptación ágil a cambios y la maximización del impacto de las estrategias en un proyecto de transformación digital.
+¿Cuál de las siguientes acciones se considera fundamental al gestionar el crecimiento exponencial de una empresa en un contexto de evolución digital?
+Enfocarse en la estabilidad actual del negocio y examinar opciones para crecer
+Implementar soluciones a corto plazo sin considerar el impacto a largo plazo
+Invertir en tecnología y así minimizar riesgos financieros a largo plazo
+Priorizar la escalabilidad y la flexibilidad en las soluciones tecnológicas propuestas
+Priorizar la escalabilidad y la flexibilidad en las soluciones tecnológicas propuestas permite a una empresa gestionar de manera más efectiva su crecimiento exponencial al garantizar que la tecnología pueda adaptarse y crecer junto con la organización de manera eficiente, ágil y con menor riesgo.
+La respuesta correcta es Priorizar la escalabilidad y la flexibilidad en las soluciones tecnológicas propuestas. Priorizar la escalabilidad y la flexibilidad en las soluciones tecnológicas propuestas permite a una empresa gestionar de manera más efectiva su crecimiento exponencial al garantizar que la tecnología pueda adaptarse y crecer junto con la organización de manera eficiente, ágil y con menor riesgo.
+¿Cuál sería uno de los beneficios clave de desarrollar capacidades digitales a futuro en un proyecto de transformación digital?
+Capacitar a los colaboradores para adaptarse a futuras innovaciones tecnológicas
+Procurar la colaboración exclusiva de consultores externos
+Invertir en tecnología y desarrollo de habilidades digitales
+Que los colaboradores accedan a la tecnología digital
+Además, es necesario capacitar a todos los colaboradores para garantizar la agilidad y competitividad de una empresa en un entorno digital en constante evolución.
+La respuesta correcta es Capacitar a los colaboradores para adaptarse a futuras innovaciones tecnológicas. Además, es necesario capacitar a todos los colaboradores para garantizar la agilidad y competitividad de una empresa en un entorno digital en constante evolución.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones

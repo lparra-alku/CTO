@@ -1,0 +1,107 @@
+<title>Roadmap de Transformación Digital</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600;700&display=swap">
+<style>
+:root{
+  --ground:#F6F7F9; --surface:#FFFFFF; --sunken:#EDF0F4;
+  --ink:#151A21; --ink-2:#3D4753; --ink-3:#6B7684; --line:#D9DEE6;
+  --c1:#0B6E64; --c1-bg:#E4F1EE;
+  --c2:#1D4ED8; --c2-bg:#E4EAFC;
+  --c3:#9A3412; --c3-bg:#FBEBE2;
+  --c4:#6D28D9; --c4-bg:#EEE8FB;
+  --c5:#A21457; --c5-bg:#FAE4EE;
+  --flag:#8A5A00; --flag-bg:#FBF1DC; --flag-line:#E4C77E;
+  --star:#0B6E64; --star-bg:#E4F1EE;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#4FD1BE; --c1-bg:#0E2B28;
+  --c2:#8AB0FF; --c2-bg:#121F3A;
+  --c3:#F0A87A; --c3-bg:#2E1A11;
+  --c4:#BFA3FF; --c4-bg:#211537;
+  --c5:#F58FBC; --c5-bg:#31101F;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}}
+:root[data-theme="dark"]{
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#4FD1BE; --c1-bg:#0E2B28;
+  --c2:#8AB0FF; --c2-bg:#121F3A;
+  --c3:#F0A87A; --c3-bg:#2E1A11;
+  --c4:#BFA3FF; --c4-bg:#211537;
+  --c5:#F58FBC; --c5-bg:#31101F;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  line-height:1.5;padding:clamp(20px,4vw,52px) clamp(14px,4vw,44px) 72px;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(22px,3vw,34px)}
+
+header{display:flex;flex-direction:column;gap:10px;padding-bottom:20px;border-bottom:2px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:"IBM Plex Serif",Georgia,serif;font-weight:700;margin:0;
+  font-size:clamp(28px,5.2vw,44px);letter-spacing:-.02em;text-wrap:balance;line-height:1.12}
+.sub{color:var(--ink-2);max-width:62ch;font-size:15.5px;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2);
+  background:var(--sunken);border:1px solid var(--line);border-radius:3px;padding:4px 9px}
+
+.branch{display:grid;grid-template-columns:minmax(150px,200px) 1fr;gap:clamp(14px,2.4vw,30px);
+  align-items:start}
+.stem{position:sticky;top:20px;display:flex;flex-direction:column;gap:7px;
+  padding:13px 15px;border-radius:4px;background:var(--bg);border-left:4px solid var(--hue)}
+.stem .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--hue);font-weight:600}
+.stem h2{font-family:"IBM Plex Serif",Georgia,serif;font-size:18px;font-weight:600;margin:0;
+  line-height:1.24;text-wrap:balance;color:var(--ink)}
+.stem p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.42}
+
+.nodes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));
+  padding-left:clamp(12px,1.6vw,20px);border-left:1px dashed var(--line)}
+.node{background:var(--surface);border:1px solid var(--line);border-radius:4px;
+  padding:13px 15px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.node h3{margin:0;font-size:12.5px;font-weight:600;letter-spacing:.01em;color:var(--hue);
+  display:flex;align-items:baseline;gap:7px}
+.node h3 .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-3);
+  letter-spacing:.06em;font-weight:500}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+li{font-size:13.5px;color:var(--ink-2);padding-left:13px;position:relative;line-height:1.42}
+li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:1.5px;background:var(--hue);opacity:.65}
+li b{color:var(--ink);font-weight:600}
+.seq{counter-reset:s;gap:5px}
+.seq li{padding-left:24px}
+.seq li::before{counter-increment:s;content:counter(s);width:auto;height:auto;background:none;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--hue);font-weight:600;
+  top:1px;opacity:1}
+
+.flag,.star{border-radius:4px;padding:15px 17px;display:flex;flex-direction:column;gap:7px}
+.flag{background:var(--flag-bg);border:1px solid var(--flag-line)}
+.star{background:var(--star-bg);border:1px solid var(--star);border-left-width:4px}
+.flag .lbl,.star .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;font-weight:600}
+.flag .lbl{color:var(--flag)} .star .lbl{color:var(--star)}
+.flag h3,.star h3{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.flag p,.star p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:74ch}
+.flag b,.star b{color:var(--ink)}
+
+.rank{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));margin-top:3px}
+.rk{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:10px 12px;
+  display:flex;flex-direction:column;gap:3px}
+.rk .p{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--star);font-weight:600}
+.rk .t{font-size:13px;font-weight:600;color:var(--ink)}
+.rk .d{font-size:12px;color:var(--ink-3);line-height:1.38}
+
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--ink-3);font-size:12.5px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;font-family:"IBM Plex Mono",monospace}
+@media (max-width:720px){
+  .branch{grid-template-columns:1fr;gap:12px}
+  .stem{position:static;border-left-width:4px}
+  .nodes{padding-left:0;border-left:none}
+}
+</style>
+
+<div class="wrap"><header><div class="eyebrow">Chief Digital Transformation Officer · SC 5.2</div><h1>Desarrollo del Roadmap de Transformación Digital</h1><p class="sub">El módulo es el libro de David Rogers (2023) en cinco pasos, uno por cada barrera: visión, prioridades, experimentación, gobierno y capacidades. Caso conductor: Tania, directora de una empresa de alimentos. Solo un 20 a 30 % de las empresas lo logra.</p><div class="meta"><span class="chip">Evaluación 40 % · 25 preguntas · 3 intentos</span><span class="chip">Reto 60 % · Construir un roadmap (5 × 20 pts)</span><span class="chip">Experto: José Marcelo “Pepe” Tam Málaga</span></div></header><section class="branch" style="--hue:var(--c1);--bg:var(--c1-bg)"><div class="stem"><div class="n">LECCIÓN 1</div><h2>Visión compartida</h2><p>La ambición digital: alinear a todos hacia un objetivo común</p></div><div class="nodes"><div class="node"><h3>Los 4 componentes</h3><ul class="seq"><li><b>Panorama futuro</b>: clientes · tecnología · competencia</li><li><b>Ventajas digitales</b> o derecho a ganar (3 fortalezas y 3 límites)</li><li><b>Estrella polar</b>: ¿qué impacto? · ¿qué solo tú resuelves? · ¿por qué te extrañarían?</li><li><b>Tesis empresarial</b>: teoría causal X → Y, no un business case</li></ul></div><div class="node"><h3>Competencia</h3><ul><li>Competidores <b>simétricos</b> y <b>asimétricos</b></li><li>Con el mismo modelo o con uno diferente</li><li>Movilidad: Toyota, Uber, Google</li><li style="color:var(--ink-3)">Viene del Playbook de Rogers (2016)</li></ul></div><div class="node"><h3>Ejemplos</h3><ul><li>Derecho a ganar: Netflix · Mastercard · Walmart · CAA</li><li>Tesis: Amazon · Tesla</li><li>La visión de Microsoft con Nadella</li></ul></div></div></section><section class="branch" style="--hue:var(--c2);--bg:var(--c2-bg)"><div class="stem"><div class="n">LECCIÓN 2</div><h2>Priorizar problemas</h2><p>Resolver primero lo más urgente</p></div><div class="nodes"><div class="node"><h3>Matriz P/O</h3><ul><li><b>Problema u oportunidad × cliente o negocio</b></li><li>4 cuadrantes, con mínimo 3 enunciados por cuadrante</li><li>Redacción “¿Cómo podríamos…?” · sin “y” · sin el “cómo”</li><li>En el lenguaje del cliente, con una métrica y una meta de 10x (estilo Kindle)</li></ul></div><div class="node"><h3>5 beneficios</h3><ul><li>Optimización de recursos</li><li>Enfoque estratégico</li><li>Maximización del valor</li><li>Mitigación de riesgos</li><li>Comunicación clara</li></ul></div><div class="node"><h3>Obstáculos y ejemplos</h3><ul><li><b>Regulaciones y políticas</b> · cultura · brecha digital</li><li style="color:var(--ink-3)">INEGI 2020: 51.3 % de hogares sin internet (dato viejo)</li><li>Zoetis · Mastercard · Acuity · Air Liquide · Walmart · Airbnb</li></ul></div></div></section><section class="branch" style="--hue:var(--c3);--bg:var(--c3-bg)"><div class="stem"><div class="n">LECCIÓN 3</div><h2>Experimentar y validar</h2><p>Aprender rápido y barato con un MVP</p></div><div class="nodes"><div class="node"><h3>MVP</h3><ul><li>Ries (2011) · Blank · Andreessen</li><li><b>Reduce riesgos y costos</b> · aprendizaje rápido · iteración · valor para el cliente</li><li>Éxito: muchas ideas · aprender del cliente · iterar · fallar barato · crecer rápido</li></ul></div><div class="node"><h3>Etapas de validación</h3><ul class="seq"><li>Descubrimiento</li><li><b>Problema</b>: definición, alternativas, necesidades · segmentos, TAM, early adopters</li><li><b>Solución</b>: propuesta de valor + jobs to be done</li><li><b>Producto</b>: uso, entrega, capacidades (unas 15 entrevistas)</li><li><b>Negocio</b>: CLV = valor × frecuencia × duración · path to profit</li></ul></div><div class="node"><h3>Señales para parar</h3><ul><li>En cada etapa: si el problema no existe o si nadie paga, se deja de invertir</li><li>Cierre inteligente, no fracaso</li></ul></div></div></section><section class="branch" style="--hue:var(--c4);--bg:var(--c4-bg)"><div class="stem"><div class="n">LECCIÓN 4</div><h2>Gestionar el crecimiento</h2><p>Escalar sin que la estructura lo impida</p></div><div class="nodes"><div class="node"><h3>BAU contra innovación</h3><ul><li>BAU: extenso · aislado · fraccionado · microgestionado · político</li><li>Innovación: <b>pequeño (<10) · multifuncional · dedicado · autónomo · responsable</b></li><li>Fracaso: que un alto ejecutivo apruebe cada innovación</li></ul></div><div class="node"><h3>Gobierno</h3><ul><li>Equipos y <b>juntas de crecimiento</b> · luz verde</li><li><b>Financiamiento iterativo</b> por etapas</li><li>Cierres inteligentes</li><li>Curva de innovación: más incertidumbre, menos inversión</li><li>Hackathon: 80 → 8 → 4 → <b>3</b> ideas</li></ul></div><div class="node"><h3>Los 3 caminos</h3><ul class="seq"><li>Negocio central con baja incertidumbre: equipos y presupuesto estándar</li><li>Negocio central con alta incertidumbre: unidad cercana + junta de crecimiento</li><li>Fuera del negocio central: unidad separada con presupuesto propio</li></ul></div></div></section><section class="branch" style="--hue:var(--c5);--bg:var(--c5-bg)"><div class="stem"><div class="n">LECCIÓN 5</div><h2>Desarrollar capacidades</h2><p>Tecnología, talento y cultura</p></div><div class="nodes"><div class="node"><h3>Ciclo de talento</h3><ul class="seq"><li>Contratación</li><li>Interacción (onboarding)</li><li><b>Capacitación</b></li><li>Retención</li><li>Salida</li></ul></div><div class="node"><h3>Cultura predigital → digital</h3><ul><li>De los expertos a <b>los datos propios</b></li><li>De las áreas a la <b>colaboración</b></li><li>De la cautela al <b>riesgo</b> · del plan a la <b>experimentación</b></li><li>De arriba hacia abajo a <b>de abajo hacia arriba</b></li><li>De las soluciones a la <b>obsesión por el cliente</b></li><li>Caso: Tesco (Clubcard + e-commerce)</li></ul></div><div class="node"><h3>Roles y consideraciones</h3><ul><li>Primero: <b>evaluar las necesidades futuras</b></li><li>Roles clave: líder de TD · TI · desarrollo · CX · RRHH · operaciones · seguridad</li><li>Roles de 2024: datos · <b>ingeniero de IA · desarrollador de algoritmos</b> · ciberseguridad · UX</li></ul></div></div></section><footer><span>Mapa de estudio · SC 5.2</span><span>Tec de Monterrey · The Learning Gate</span><span>Sept 2026</span></footer></div>

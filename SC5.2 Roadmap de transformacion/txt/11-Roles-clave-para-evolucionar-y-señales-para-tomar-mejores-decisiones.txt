@@ -1,0 +1,176 @@
+
+--- p1 ---
+señales para tomar 
+mejores decisiones
+Roles clave para 
+evolucionar y
+Identificar al talento adecuado puede garantizar una 
+ejecución fluida y exitosa del proceso de cambio 
+tecnológico en tu organización.
+
+--- p2 ---
+Los siguientes roles y actividades pueden variar según el tamaño de la 
+empresa, su estructura organizativa y la naturaleza de la transformación 
+digital en cuestión, pero generalmente incluyen:
+Roles clave para evolucionar
+Líder de 
+Transformación Digital
+Rol
+•
+Definir la visión y los objetivos de la transformación digital.
+•
+Establecer el alcance y la estrategia de la transformación. 
+•
+Comunicar y alinear la transformación digital con la alta dirección y 
+otros stakeholders.
+Equipo de Tecnología 
+de la Información (TI)
+•
+Evaluar, seleccionar e implementar nuevas tecnologías y sistemas 
+digitales.
+•
+Mantener y gestionar la infraestructura tecnológica existente.
+•
+Garantizar la seguridad, fiabilidad y escalabilidad de la infraestructura 
+tecnológica. 
+Actividades
+Equipo de Desarrollo 
+de Software
+•
+Diseñar, desarrollar e implementar aplicaciones y soluciones 
+digitales.
+•
+Colaborar con otras partes interesadas para entender los requisitos 
+del negocio.
+•
+Probar y mantener las soluciones digitales para garantizar su 
+funcionamiento óptimo. 
+Equipo de Experiencia 
+del Cliente (CX)
+•
+Recopilar y analizar datos sobre las necesidades, expectativas y 
+experiencias de los clientes.
+•
+Identificar áreas de mejora en la experiencia del cliente y proponer 
+soluciones digitales para abordarlas.
+•
+Diseñar e implementar soluciones digitales que mejoren la 
+satisfacción del cliente y fomenten la lealtad hacia la marca. 
+Equipo de Recursos 
+Humanos (RRHH)
+•
+Identificar habilidades digitales necesarias para la transformación 
+digital.
+•
+Reclutar y capacitar al personal adecuado para desarrollar estas 
+habilidades.
+•
+Fomentar una cultura organizacional que promueva la innovación, el 
+aprendizaje continuo y la colaboración. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Estos son solo algunos de los roles principales involucrados en un 
+roadmap de transformación digital. Es posible que haya otros roles y 
+equipos involucrados en el proceso, dependiendo obviamente de la 
+naturaleza de tu empresa u organización y de la escala de la transformación 
+digital a la que quieres llegar.
+Equipo de 
+Operaciones y 
+Procesos 
+Rol
+•
+Identificar oportunidades de mejora en los 
+procesos operativos de la organización.
+•
+Optimizar procesos para mejorar la eficiencia 
+y la productividad.
+•
+Automatizar y digitalizar procesos para 
+aprovechar al máximo las tecnologías 
+digitales.
+Actividades
+Equipo de 
+Seguridad de la 
+Información
+•
+Identificar y mitigar riesgos de seguridad en 
+la infraestructura de TI y los sistemas 
+digitales.
+•
+Implementar políticas y procedimientos de 
+seguridad para proteger los datos y la 
+infraestructura de la organización.
+•
+Garantizar el cumplimiento de las 
+regulaciones y estándares de seguridad de la 
+información. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Además de identificar los roles clave para el desarrollo y evolución de las 
+capacidades digitales en tu organización, es importante reconocer aquellos 
+síntomas de fracaso y éxito que te ayudarán a tomar decisiones informadas 
+con relación a esa evolución y desarrollo.
+Identificar las señales de fracaso permite corregir errores y ajustar tu 
+estrategia, evitando pérdidas financieras y de tiempo. Por otro lado, 
+reconocer las señales de éxito proporciona retroalimentación valiosa para 
+reforzar y expandir tus iniciativas, maximizando el retorno de la inversión 
+y la competitividad de tu empresa en el entorno digital, el cual se mantiene 
+en constante evolución.
+Síntomas de fracaso y de éxito
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Aquí te mostramos algunos ejemplos de síntomas de 
+fracaso y de éxito en las capacidades digitales que 
+pueden tener las empresas:
+Los sistemas de TI inflexibles refuerzan los 
+silos y limitan la colaboración.
+Los sistemas de TI modulares se integran en 
+toda la organización y con socios externos. 
+Síntomas de fracaso
+Capacidades digitales
+Síntomas de éxito
+Los datos son contradictorios, incompletos e 
+inaccesibles para los administradores en 
+tiempo real.
+Los datos proporcionan una única fuente de 
+verdad a los gerentes de toda la empresa.
+La gobernanza de TI centralizada provoca 
+cuellos de botella para nuevos proyectos.
+El gobierno de TI proporciona supervisión y al 
+mismo tiempo mantiene la innovación en 
+manos de la empresa.
+Los colaboradores carecen de habilidades 
+digitales, por lo que los proyectos digitales 
+deben subcontratarse. 
+Los colaboradores pueden crear e iterar 
+soluciones digitales ellos mismos. 
+Una cultura y una burocracia verticalistas 
+sofocan a los colaboradores, generando 
+individualismo e insatisfacción. 
+La cultura y los procesos empoderan a los 
+colaboradores, lo cual impulsa su 
+crecimiento.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Reflexiones finales
+En tu empresa, ¿cuáles son los roles clave para 
+tu evolución digital?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6

@@ -1,0 +1,59 @@
+# L1 · Pruébate
+Genially 65cc685a1e82890014b3aed0
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Adela a resolver algunas problemáticas.
+Adela es la líder del área de Diseño de soluciones digitales y su nueva tarea es definir la visión compartida de los nuevos proyectos de transformación digital, ¿podrías ayudarla? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Representan la determinación de una organización para alcanzar un futuro digitalmente vibrante y exitoso
+Es la principal razón por la que se considera que la visión compartida a futuro y la ambición digital son sinónimos.
+Ambos conceptos son relevantes para cualquier proyecto de transformación digital
+Ambos conceptos se enfocan al desarrollo de tecnología de última generación
+¡Correcto!
+Además, la visión compartida a futuro y la ambición digital se complementan y se refuerzan mutuamente al impulsar el progreso y la transformación digital.
+¡Incorrecto!
+La respuesta correcta es: representan la determinación de una organización para alcanzar un futuro digitalmente vibrante y exitoso. Además, la visión compartida a futuro y la ambición digital se complementan y refuerzan mutuamente al impulsar el progreso y la transformación digital.
+Es un síntoma de éxito en la visión que podemos adoptar y practicar en nuestra empresa u organización:
+La empresa sigue al mercado, reacciona ante los demás y se sorprende con nuevos competidores
+Las iniciativas digitales son genéricas, siguiendo el ejemplo de otros
+Sólo reciben inversión las iniciativas digitales con una ventaja competitiva
+Además, los síntomas de éxito y fracaso ofrecen oportunidades para aprender y mejorar continuamente.
+La respuesta correcta es: sólo reciben inversión las iniciativas digitales con una ventaja competitiva. Además, los síntomas de éxito y fracaso ofrecen oportunidades para aprender y mejorar continuamente.
+De acuerdo con los cuatro tipos de competidores que menciona Rogers (2023), estos competidores pueden provenir de industrias diferentes o adoptar enfoques innovadores que desafíen las normas del mercado establecido.
+Competidores con un diferente modelo de negocio
+Competidores con el mismo modelo de negocio
+Competidores asimétricos
+Además, este tipo de competidores poseen características, recursos o estrategias distintas en comparación con la empresa en cuestión.
+La respuesta correcta es: competidores con un diferente modelo de negocio. Además, este tipo de competidores poseen características, recursos o estrategias distintas en comparación con la empresa en cuestión.
+¿Qué componente se relaciona con la definición de las fortalezas y los límites únicos de una organización?
+Ventajas digitales
+Panorama futuro
+Estrella polar
+Definir las fortalezas y los límites de tu empresa es parte de tu identidad y de tus ventajas digitales en el mercado.
+La respuesta correcta es: ventajas digitales. Recuerda que definir las fortalezas y los límites de tu empresa es parte de tu identidad y de tus ventajas digitales en el mercado.
+¿Qué componente se relaciona con las hipótesis sobre cómo esperas recuperar las inversiones que realizarás en el futuro?
+Tesis empresarial
+Además, tus hipótesis deben explicar cómo crearás y capturarás valor para los clientes.
+La respuesta correcta es: tesis empresarial, en la cual tus hipótesis deben explicar cómo crearás y capturarás valor para los clientes.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

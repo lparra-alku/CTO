@@ -1,0 +1,57 @@
+# L3 · Pruébate
+Genially 6601aea62cd77200149e3dbd
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Graciela a resolver algunas problemáticas.
+Graciela es la encargada de liderar la transformación digital de una universidad local y se percató que los estudiantes se enfrentan al desafío de encontrar pasantías relevantes para sus áreas de estudio, así que decidió poner manos a la obra, ¿podrías orientarla sobre la experimentación, los MVPs y el Customer Development? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Graciela tiene dudas sobre los beneficios de experimentar con un Producto Mínimo Viable (MVP), ¿qué le dirías al respecto?
+Un MVP permite obtener retroalimentación precisa a partir de un producto completo con todas sus funcionalidades
+El MVP es una estrategia útil para lanzar un producto sin considerar las necesidades y opiniones de los usuarios
+Un MVP ayuda a reducir riesgos y costos al validar ideas y funcionalidades antes de hacer fuertes inversiones
+¡Correcto!
+El Producto Mínimo Viable (MVP) es una versión simplificada de un producto que se desarrolla con el propósito de probar y validar hipótesis clave con el mínimo esfuerzo y recursos posibles.
+¡Incorrecto!
+La respuesta correcta es la opción b) Un MVP ayuda a reducir riesgos y costos al validar ideas y funcionalidades antes de hacer fuertes inversiones. Recuerda que el Producto Mínimo Viable (MVP) es una versión simplificada de un producto que se desarrolla con el propósito de probar y validar hipótesis clave con el mínimo esfuerzo y recursos posibles.
+Una vez que Graciela ha decidido experimentar con un MVP, ¿cuál sería la primera etapa de validación que debe realizar, según el Customer Development?
+Validación del Producto
+Validación del Problema
+Validación de la Solución
+La validación del problema es una etapa inicial en el proceso de desarrollo de un producto o servicio, en la cual se busca confirmar la existencia y la magnitud de un problema o necesidad en el mercado objetivo, evitando suposiciones y validando empíricamente que el problema es lo suficientemente importante para justificar su solución.
+La respuesta correcta es la opción a) Validación del Problema. Recuerda que esta es una etapa inicial en el proceso de desarrollo de un producto o servicio, en la cual se busca confirmar la existencia y la magnitud de un problema o necesidad en el mercado objetivo, evitando suposiciones y validando empíricamente que el problema es lo suficientemente importante para justificar su solución.
+Graciela tiene la siguiente duda: ¿en qué etapa de validación se debe comenzar con el desarrollo del MVP de su solución digital, la plataforma que concentrará opciones de pasantías según los intereses de los estudiantes?
+La validación de la solución implica poner a prueba la solución mediante la creación de un Producto Mínimo Viable (MVP) que se pueda lanzar al mercado para recopilar retroalimentación y validar su eficacia.
+La respuesta correcta es la opción b) Validación de la Solución. Recuerda que esta etapa implica poner a prueba la solución mediante la creación de un Producto Mínimo Viable (MVP) que se pueda lanzar al mercado para recopilar retroalimentación y validar su eficacia.
+Ya que tiene en claro la etapa anterior, Graciela quiere saber ¿en qué consiste la validación del producto?
+En recopilar feedback de los usuarios para evaluar si el producto cumple con sus necesidades y expectativas
+En confirmar que todas las características y funcionalidades planificadas se hayan implementado correctamente
+En asegurarse de que el producto tenga un buen diseño visual y una interfaz atractiva para los usuarios
+La validación del producto se refiere a obtener retroalimentación de los usuarios reales para evaluar si el producto cumple con sus necesidades, expectativas y deseos.
+La respuesta correcta es la opción c) En recopilar feedback de los usuarios para evaluar si el producto cumple con sus necesidades y expectativas. Recuerda que la validación del producto se refiere a obtener retroalimentación de los usuarios reales para evaluar si el producto cumple con sus necesidades, expectativas y deseos.
+Por último, si Graciela decide emplear métricas sobre la captura de valor, el Customer Lifetime Value (CLV), los costos y el Path to Profit, ¿a qué etapa de validación está haciendo referencia?
+Validación del Negocio
+En la validación del negocio se evalúa la viabilidad del modelo de negocio en su conjunto, a partir de métricas que ayuden a revisar la captura de valor, el Customer Lifetime Value (CLV), los costos y el Path to Profit.
+La respuesta correcta es c) Validación del Negocio. Recuerda que en esta última etapa se evalúa la viabilidad del modelo de negocio en su conjunto, a partir de métricas que ayuden a revisar la captura de valor, el Customer Lifetime Value (CLV), los costos y el Path to Profit.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

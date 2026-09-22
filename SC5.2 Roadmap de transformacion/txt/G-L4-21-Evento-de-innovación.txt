@@ -1,0 +1,13 @@
+# L4 · Evento de innovación
+Genially 65e6222441d71400143d1cad → 65e6222941d71400143d1fdc
+
+Evento de
+innovación
+¿Conoces o has asistido a un hackathon? Estos eventos fomentan la colaboración, la creatividad y la resolución rápida de problemas, impulsando la innovación y generando soluciones efectivas en un corto período de tiempo.
+CODIGO NO BORRAR
+Con relación a la gestión del crecimiento exponencial, existen eventos de innovación en algunas empresas para desarrollar soluciones a problemas reales. Estos eventos son denominados hackathones, según Laboratoria (2022) “este término (hackathon) surge en el año 1999 como una fusión de las palabras hacking y marathon para definir a un evento de innovación en el que se crean soluciones a problemas complejos en un periodo corto de tiempo.”
+Los hackathones son eventos intensivos y colaborativos donde equipos multidisciplinarios se reúnen durante un período limitado para desarrollar soluciones innovadoras a desafíos específicos. Estos eventos fomentan la creatividad, la experimentación y el trabajo en equipo, reuniendo a programadores, diseñadores y otros profesionales.
+Durante el hackathon, los participantes idean, prototipan y presentan sus soluciones, con el objetivo de encontrar nuevas formas de abordar problemas o crear productos digitales. Los hackathones son una poderosa herramienta para la innovación, la creación de redes y el impulso de la cultura empresarial centrada en la tecnología.
+Estos eventos funcionan de la siguiente manera:
+En términos estadísticos, de 80 ideas que se tengan, solo el 10 % sobrevive después de evaluar su viabilidad, es decir esas 8 ideas se montan a una Plataforma de lanzamiento de productos, de esas solo el 50 % sobrevive para después desarrollarla más a fondo (acelerarla), y al final se llega con 3 ideas implementadas.
+Continúa con el estudio de la lección.

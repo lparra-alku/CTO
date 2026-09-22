@@ -1,0 +1,61 @@
+# L5 · Pruébate
+Genially 65f4a0d22f60fd001488d9d5
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a David a resolver algunas problemáticas.
+David es líder de innovación en una empresa dedicada a la fabricación de juguetes. Debido a la demanda de clientes y proveedores cada vez más digitales, la empresa tiene ahora la necesidad de adentrarse en proceso de transformación digital. Antes de iniciar, David necesita ayuda para estudiar algunos conceptos relacionados con el desarrollo de capacidades digitales, ¿puedes ayudarlo? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Es una de las acciones que guía el desarrollo y evolución de las capacidades digitales:
+Mantener los propósitos que se han venido dando desde hace años
+Delegar los procesos de innovación a solo algunos miembros de alto rango
+Fomentar una cultura de innovación y aprendizaje continuo
+¡Correcto!
+Además, el desarrollo y evolución de capacidades digitales implica la implementación de procesos y prácticas que fomenten la innovación y la adopción de tecnología.
+¡Incorrecto!
+La respuesta correcta es: Fomentar una cultura de innovación y aprendizaje continuo. Además, el desarrollo y evolución de capacidades digitales implica la implementación de procesos y prácticas que fomenten la innovación y la adopción de tecnología.
+¿A qué beneficio se refieren las siguientes características: La automatización de tareas manuales, la optimización de flujos de trabajo y la implementación de herramientas digitales pueden ayudar a reducir costos y aumentar la productividad?
+Adaptación a cambios externos
+Competitividad
+Eficiencia operativa
+Además, la eficiencia operativa permite a las empresas trabajar de manera más inteligente, rápida y rentable.
+La respuesta correcta es: Eficiencia operativa. Recuerda que la eficiencia operativa permite a las empresas trabajar de manera más inteligente, rápida y rentable.
+De acuerdo con el ciclo de gestión de talento, a qué etapa se refiere el siguiente objetivo: Mejorar el rendimiento individual y colectivo, así como fomentar el crecimiento profesional y personal de los colaboradores.
+Capacitación
+Desarrollo y retención
+Interacción
+Durante esta etapa, la organización proporciona oportunidades de aprendizaje y desarrollo a los colaboradores para mejorar sus habilidades y conocimientos.
+La respuesta correcta es: Capacitación. Durante esta etapa, la organización proporciona oportunidades de aprendizaje y desarrollo a los colaboradores para mejorar sus habilidades y conocimientos.
+¿Cuáles son los roles que se relacionan con la capacidad para manejar y adaptar la Inteligencia Artificial y valerse del aprendizaje automático?
+Ingeniero de IA y Desarrollador de algoritmos
+Diseñador e Investigador de UX
+Científico de datos e Ingeniero de datos
+Estos roles están mejor preparados para para diseñar, desarrollar e implementar sistemas y algoritmos de inteligencia artificial.
+La respuesta correcta es: Ingeniero de IA y Desarrollador de algoritmos. Estos roles están mejor preparados para para diseñar, desarrollar e implementar sistemas y algoritmos de inteligencia artificial.
+Es un elemento que debes tomar en cuenta para el desarrollo de las capacidades tecnológicas en tu empresa u organización.
+Validar ante los ejecutivos tu propuesta de transformación digital
+Revisar procesos digitales de otra empresa
+Evaluar las necesidades futuras
+Te recomendamos revisar cómo podrían cambiar los requisitos del mercado en el que te desenvuelves, las expectativas de tus clientes y las demandas operativas debido a avances tecnológicos emergentes.
+La respuesta correcta es: Evaluar las necesidades futuras. La recomendación es revisar cómo podrían cambiar los requisitos del mercado en el que te desenvuelves, las expectativas de tus clientes y las demandas operativas debido a avances tecnológicos emergentes.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

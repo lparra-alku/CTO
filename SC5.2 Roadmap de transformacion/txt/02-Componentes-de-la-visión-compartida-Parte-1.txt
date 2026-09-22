@@ -1,0 +1,225 @@
+
+--- p1 ---
+de la visión compartida.
+Parte 1
+Componentes
+Como líder, es necesario que adquieras la capacidad 
+de definir una visión compartida dentro del proceso 
+de transformación digital de tu empresa. Descubre 
+en esta lectura los primeros dos elementos para 
+lograrlo.
+
+--- p2 ---
+Existen cuatro componentes esenciales de una visión 
+compartida sólida. Estos componentes ayudan a definir los 
+objetivos, valores y principios que guiarán la 
+transformación digital, asegurando que todos los miembros 
+de la organización comprendan y estén comprometidos con el 
+cambio.
+Cada componente busca responder una pregunta diferente:
+Veamos los primeros dos componentes:
+Panorama futuro: ¿hacia dónde crees que se dirige tu mundo y tu 
+contexto empresarial?
+Ventajas digitales o tu derecho a ganar: ¿cuáles son las fortalezas y 
+los límites únicos de tu organización que definirán el papel que 
+desempeñarás?
+Estrella polar: ¿qué impacto buscas lograr a largo plazo y por qué?
+Tesis empresarial: ¿cómo esperas capturar valor y recuperar las 
+inversiones que realizas para el futuro?
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Deberás enfocar la visión en estos tres direccionadores de futuro: 
+a) Clientes: céntrate en comprender los comportamientos, expectativas y 
+necesidades cambiantes de tus clientes. Al hacerlo, ten en cuenta las 
+influencias externas a tu industria.
+b)Tecnología: identifica y aprende todo lo que puedas sobre las nuevas 
+tecnologías que están dando forma a la experiencia de tus clientes, 
+especialmente las tecnologías que utilizan para descubrir, comprar y 
+utilizar servicios como el tuyo. Pero concéntrate también en las 
+tecnologías que afectan tus operaciones comerciales internas y las 
+operaciones de tus socios, la cadena de suministro y las industrias 
+adyacentes.
+c) Competencia: adopta una visión 
+amplia de los competidores y 
+socios mientras buscas 
+comprender el ecosistema 
+empresarial que definirá tu futuro.  
+▪
+¿Quiénes son los nuevos 
+participantes en tu industria?
+▪
+¿Qué nuevos productos y 
+modelos de negocio se están 
+probando?
+▪
+¿Cuál es el ritmo del cambio y el 
+nivel de amenaza competitiva 
+que enfrentas en las diferentes 
+partes de tu negocio?
+1. Panorama futuro
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Rogers (2023) menciona que existen varios tipos de 
+competidores (simétricos, asimétricos, con el mismo 
+modelo de negocio y finalmente aquellos con un modelo de 
+negocio diferente al nuestro). Veamos a qué se refiere cada uno: 
+• Simétricos. Se refiere a una entidad, ya sea una empresa u otra 
+organización, que posee características y recursos similares a los de la 
+empresa en cuestión. Esto 
+implica que el competidor 
+simétrico opera en el mismo 
+mercado objetivo, ofrece 
+productos o servicios similares 
+y tiene una posición 
+comparable en términos de 
+tamaño, alcance geográfico, 
+tecnología u otros aspectos 
+relevantes. 
+• Asimétricos. Se refiere a una entidad que posee características, 
+recursos o estrategias diferentes en comparación con la empresa en 
+cuestión. Los competidores asimétricos pueden provenir de industrias 
+diferentes, adoptar enfoques innovadores o utilizar tecnologías 
+disruptivas que desafían las normas establecidas del mercado. 
+Los competidores asimétricos pueden representar tanto oportunidades 
+como amenazas para una empresa. Por un lado, ofrecen nuevos 
+enfoques o soluciones que inspiren la innovación dentro de la industria. 
+Por otro lado, representan una amenaza competitiva al capturar partes 
+del mercado objetivo o desplazar a los competidores tradicionales con 
+sus propuestas únicas y atractivas.
+Es fundamental para las empresas estar atentas a los competidores 
+asimétricos y adaptarse rápidamente a los cambios en el panorama 
+competitivo para mantener su relevancia y competitividad en el 
+mercado.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+• Con el mismo modelo de negocio. Se refiere a una 
+entidad que opera en el mismo mercado objetivo y ofrece 
+productos o servicios similares utilizando un enfoque 
+operativo y comercial comparable al de la empresa en cuestión. 
+Esto implica que tanto la estructura como las operaciones 
+fundamentales de ambas empresas son similares, incluidos los canales 
+de distribución, las relaciones con los clientes, los socios estratégicos y la 
+forma en que generan ingresos.
+La presencia de competidores con el mismo modelo de negocio puede 
+intensificar la competencia en el mercado y generar desafíos adicionales 
+para la empresa en términos de diferenciación y captura de cuota de 
+mercado. Para mantenerse competitiva, la empresa debe buscar formas 
+de destacarse y agregar valor único a su propuesta para atraer y retener 
+a los clientes, ya sea a través de innovación en productos, excelencia en 
+el servicio al cliente, eficiencia operativa u otros medios. 
+• Con un diferente modelo de negocio. Se refiere a una entidad que 
+no solo posee características, recursos o estrategias distintas en 
+comparación con la empresa en cuestión, sino que además emplea un 
+modelo de negocio radicalmente diferente. Estos competidores pueden 
+provenir de industrias diferentes o adoptar enfoques innovadores que 
+desafíen las normas del mercado 
+establecido. Por ejemplo, una empresa 
+tradicional de taxis enfrentando a 
+competidores asimétricos como 
+aplicaciones de transporte compartido 
+como Uber o Lyft, que han 
+revolucionado la industria con un 
+modelo de negocio basado en la 
+economía colaborativa y la tecnología 
+móvil. Estos competidores asimétricos 
+pueden presentar desafíos significativos 
+al cambiar las reglas del juego y 
+capturar cuotas de mercado mediante 
+enfoques disruptivos y novedosos.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Observa el siguiente esquema que muestra la ubicación de 
+Toyota respecto a otro tipo de competidores:
+Al analizar a tu competencia futura, asegúrate de considerar tanto a los 
+competidores simétricos (tus pares tradicionales, con el mismo modelo de 
+negocio que el tuyo) como a los competidores asimétricos (empresas con 
+una propuesta de valor competitiva pero un modelo de negocio diferente). 
+En muchos casos, los competidores asimétricos incluirán a tus socios 
+comerciales más cercanos.
+Si como empresa dedicada a la producción automotriz quieres competir en 
+los dos lados, entonces tal vez te falte un servicio de movilidad.
+UBER
+GOOGLE
+TOYOTA
+FORD
+VOLKSWAGEN
+HONDA
+Competidores asimétricos
+Propuesta de valor competitiva 
+Diferente modelo de negocio
+Competidores simétricos
+Propuesta de valor competitiva
+Mismo modelo de negocio
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+Recordemos la pregunta que ayuda a definir este componente: 
+¿Cuáles son las fortalezas y los límites únicos de tu organización que 
+definirán el papel que desempeñarás? 
+Por ejemplo, en la siguiente tabla observarás las ventajas digitales únicas 
+que tienen algunas empresas exitosas:
+2. Ventajas digitales
+Empresa
+Netflix 
+•
+Base de suscriptores.
+•
+Datos sobre las preferencias multimedia de los 
+clientes. 
+•
+Capacidad de ofrecer experiencias personalizadas.
+Mastercard
+•
+Red de socios comerciales (bancos y comerciantes).
+•
+Red de consumidores (usuarios de tarjetas). 
+•
+Cantidad incomparable de datos económicos 
+procesables de transacciones.
+Walmart
+•
+Tiendas minoristas.
+•
+Proximidad a los clientes.
+•
+Datos sobre patrones de compra de 150 millones de 
+compradores.
+Asociación 
+Canadiense del 
+Automóvil (CAA)
+•
+Base de membresía.
+•
+Datos de transacciones a través de los programas de 
+fidelización de CAA.
+•
+La marca más confiable del país, en cualquier industria.
+Ventajas digitales únicas
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7
+
+--- p8 ---
+Reflexiones finales
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+?
+?
+?
+?
+?
+?
+¿Qué barreras culturales y organizativas podrían 
+obstaculizar la realización de tu visión compartida 
+(ambición digital) y cómo podrías superarlas?
+Tecnológico de Monterrey © 2024 | The Learning Gate
+8
