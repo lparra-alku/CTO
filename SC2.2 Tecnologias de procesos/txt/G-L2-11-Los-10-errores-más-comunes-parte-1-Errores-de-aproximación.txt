@@ -1,0 +1,24 @@
+# L2 · Los 10 errores más comunes (parte 1): Errores de aproximación
+Genially 65bd78b4922a3a00149cd9b9
+
+Los 10 errores
+más comunes (parte 1): Errores de aproximación
+Para Gartner, los 10 errores más comunes en iniciativas de automatización se dividen en errores de aproximación, errores de implementación y errores en el impacto (Guttridge & Shotton, 2023). En este recurso, conocerás los errores de aproximación.
+1. Enamorarse de una sola tecnología
+Una vez que una organización ha comprado e implementado con éxito una tecnología en un proceso, es natural querer adoptarla de una forma más amplia; sin embargo, para amplificar el valor de la automatización es útil tener un portafolio de herramientas, no solo una.
+Cada tecnología tiene sus fortalezas y debilidades, así que aunque una sola sea capaz de resolver varios casos de sistemas heredados, procesos manuales y soluciones alternativas, es importante evaluar si algunos enfoques tradicionales de automatización pudieran ofrecer menores costos, menor tiempo de implementación o menos riesgos.
+2. Implementar sin la participación de TI
+Debido a que muchos proveedores promocionan la facilidad de uso de sus herramientas por parte de los usuarios, muchas organizaciones llegan a creer que la adopción de las tecnologías no requiere de un equipo de TI. Sin embargo, sí es necesaria la participación de TI para la gestión de permisos y privilegios, con el fin de controlar los accesos a datos y sistemas potencialmente sensibles.
+Además, generalmente los usuarios no cuentan con el conocimiento técnico de cómo funcionan los registros en las bases de datos, por lo que es posible que hagan un mal manejo de información o de una codificación errónea del proceso, por lo que el TI se encargará de arreglarlo.
+Seguir los lineamientos de TI, como pruebas y ciclos de calidad, asegura una aplicación de gobernanza más amplia en la automatización y la agilización de los enfoques, lo que es clave para el éxito de la automatización. Por todo esto, es esencial establecer un Centro de Experiencia o Área especializada multidisciplinaria.
+3. No involucrar a todos los interesados (stakeholders)
+La decisión de cambiar las prácticas laborales hacia la automatización tendrá un impacto en múltiples departamentos de la organización. Normalmente, las barreras culturales o mentales de las personas resultan en una resistencia que prolonga, y muchas veces impide, la aplicación de la automatización, así que invertir en habilidades de construcción de relaciones y compromiso es una acción necesaria.
+Gracias por tu respuesta
+Tomando en cuenta estos errores comunes de aproximación, ¿consideras que tu organización está lista para comenzar con un proyecto de automatización?, ¿por qué?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+Cumplimiento, riesgo, auditoría, legal y TI, sin dejar de lado las operaciones comerciales. Además, como existe un cambio en los roles de los empleados, la participación de RRHH es crucial.
+Las herramientas suelen facilitar la definición de pasos del proceso, algoritmos y reglas que determinarán el proceso automatización.

@@ -1,0 +1,107 @@
+<title>Tecnologías de Procesos</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600;700&display=swap">
+<style>
+:root{
+  --ground:#F6F7F9; --surface:#FFFFFF; --sunken:#EDF0F4;
+  --ink:#151A21; --ink-2:#3D4753; --ink-3:#6B7684; --line:#D9DEE6;
+  --c1:#1E5A8A; --c1-bg:#E3ECF5;
+  --c2:#6B3FA0; --c2-bg:#EEE7F7;
+  --c3:#0F7A6B; --c3-bg:#E0F2EF;
+  --c4:#A0520F; --c4-bg:#F8EBDD;
+  --c5:#8A1F4A; --c5-bg:#F6E2EA;
+  --flag:#8A5A00; --flag-bg:#FBF1DC; --flag-line:#E4C77E;
+  --star:#0B6E64; --star-bg:#E4F1EE;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#7FB6E6; --c1-bg:#10212F;
+  --c2:#C09CF0; --c2-bg:#1F1731;
+  --c3:#5ED1BE; --c3-bg:#0D2A26;
+  --c4:#EFB172; --c4-bg:#2B1D0F;
+  --c5:#F08BB1; --c5-bg:#2E1220;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}}
+:root[data-theme="dark"]{
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#7FB6E6; --c1-bg:#10212F;
+  --c2:#C09CF0; --c2-bg:#1F1731;
+  --c3:#5ED1BE; --c3-bg:#0D2A26;
+  --c4:#EFB172; --c4-bg:#2B1D0F;
+  --c5:#F08BB1; --c5-bg:#2E1220;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  line-height:1.5;padding:clamp(20px,4vw,52px) clamp(14px,4vw,44px) 72px;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(22px,3vw,34px)}
+
+header{display:flex;flex-direction:column;gap:10px;padding-bottom:20px;border-bottom:2px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:"IBM Plex Serif",Georgia,serif;font-weight:700;margin:0;
+  font-size:clamp(28px,5.2vw,44px);letter-spacing:-.02em;text-wrap:balance;line-height:1.12}
+.sub{color:var(--ink-2);max-width:62ch;font-size:15.5px;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2);
+  background:var(--sunken);border:1px solid var(--line);border-radius:3px;padding:4px 9px}
+
+.branch{display:grid;grid-template-columns:minmax(150px,200px) 1fr;gap:clamp(14px,2.4vw,30px);
+  align-items:start}
+.stem{position:sticky;top:20px;display:flex;flex-direction:column;gap:7px;
+  padding:13px 15px;border-radius:4px;background:var(--bg);border-left:4px solid var(--hue)}
+.stem .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--hue);font-weight:600}
+.stem h2{font-family:"IBM Plex Serif",Georgia,serif;font-size:18px;font-weight:600;margin:0;
+  line-height:1.24;text-wrap:balance;color:var(--ink)}
+.stem p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.42}
+
+.nodes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));
+  padding-left:clamp(12px,1.6vw,20px);border-left:1px dashed var(--line)}
+.node{background:var(--surface);border:1px solid var(--line);border-radius:4px;
+  padding:13px 15px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.node h3{margin:0;font-size:12.5px;font-weight:600;letter-spacing:.01em;color:var(--hue);
+  display:flex;align-items:baseline;gap:7px}
+.node h3 .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-3);
+  letter-spacing:.06em;font-weight:500}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+li{font-size:13.5px;color:var(--ink-2);padding-left:13px;position:relative;line-height:1.42}
+li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:1.5px;background:var(--hue);opacity:.65}
+li b{color:var(--ink);font-weight:600}
+.seq{counter-reset:s;gap:5px}
+.seq li{padding-left:24px}
+.seq li::before{counter-increment:s;content:counter(s);width:auto;height:auto;background:none;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--hue);font-weight:600;
+  top:1px;opacity:1}
+
+.flag,.star{border-radius:4px;padding:15px 17px;display:flex;flex-direction:column;gap:7px}
+.flag{background:var(--flag-bg);border:1px solid var(--flag-line)}
+.star{background:var(--star-bg);border:1px solid var(--star);border-left-width:4px}
+.flag .lbl,.star .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;font-weight:600}
+.flag .lbl{color:var(--flag)} .star .lbl{color:var(--star)}
+.flag h3,.star h3{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.flag p,.star p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:74ch}
+.flag b,.star b{color:var(--ink)}
+
+.rank{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));margin-top:3px}
+.rk{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:10px 12px;
+  display:flex;flex-direction:column;gap:3px}
+.rk .p{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--star);font-weight:600}
+.rk .t{font-size:13px;font-weight:600;color:var(--ink)}
+.rk .d{font-size:12px;color:var(--ink-3);line-height:1.38}
+
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--ink-3);font-size:12.5px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;font-family:"IBM Plex Mono",monospace}
+@media (max-width:720px){
+  .branch{grid-template-columns:1fr;gap:12px}
+  .stem{position:static;border-left-width:4px}
+  .nodes{padding-left:0;border-left:none}
+}
+</style>
+
+<div class="wrap"><header><div class="eyebrow">Chief Digital Transformation Officer · SC 2.2 · 10 h</div><h1>Tecnologías Estratégicas de Procesos para la Transformación Digital</h1><p class="sub">Cuatro tecnologías que cambian cómo se ejecutan los procesos —RPA, blockchain, realidad extendida e IA generativa—, cada una en una fase distinta de madurez. Y una advertencia que las cruza a todas: fracasan por el proceso, la gente y las expectativas, no por la tecnología.</p><div class="meta"><span class="chip">Evaluación 40 % · 25 preguntas · 3 intentos</span><span class="chip">Reto 60 %</span><span class="chip">Experto: Marco Otilio Peña Díaz</span></div></header><section class="branch" style="--hue:var(--c1);--bg:var(--c1-bg)"><div class="stem"><div class="n">LECCIÓN 1</div><h2>Tecnologías emergentes</h2><p>Qué son y cómo seguirlas</p></div><div class="nodes"><div class="node"><h3>Definición</h3><ul><li>En desarrollo o disponible en <b>5 a 10 años</b></li><li><b>Novedad · rápido crecimiento · efecto transformador</b></li><li><b>No tienen que ser digitales</b> — ej. vacunas de ARNm</li><li style="color:var(--ink-3)">El cómputo personal NO es emergente</li></ul></div><div class="node"><h3>Las seis con impacto directo</h3><ul><li>Nube · IoT · <b>RPA</b></li><li><b>Minería de procesos</b></li><li>Realidad virtual y aumentada</li><li><b>IA generativa</b></li></ul></div><div class="node"><h3>Hype Cycle de Gartner</h3><ul class="seq"><li>Lanzamiento</li><li>Pico de expectativas sobredimensionadas</li><li>Abismo de desilusión</li><li>Rampa de consolidación</li><li>Meseta de productividad</li></ul></div></div></section><section class="branch" style="--hue:var(--c2);--bg:var(--c2-bg)"><div class="stem"><div class="n">LECCIÓN 2</div><h2>RPA</h2><p>Robots de software sobre la interfaz</p></div><div class="nodes"><div class="node"><h3>Qué es</h3><ul><li>Robots de software que usan la <b>misma interfaz</b> que una persona</li><li>Opera <b>solo en la GUI</b>, no por API — un cambio de pantalla lo rompe</li><li>Término de <b>Patrick Geary, Blue Prism, 2012</b></li><li>24/7, más barato, mejor calidad, escalable</li></ul></div><div class="node"><h3>Las 3 condiciones críticas</h3><ul class="seq"><li><b>Calidad de los datos</b></li><li><b>Proceso susceptible</b> — reglas, sin juicio, repetitivo, estable</li><li><b>Disponibilidad y selección</b> de la tecnología</li></ul></div><div class="node"><h3>Los 10 errores <span class='tag'>Gartner</span></h3><ul><li><b>Aproximación</b> — una sola tecnología · sin TI · sin interesados</li><li><b>Implementación</b> — automatizar siempre · pocas pruebas · procesos complejos · replicar</li><li><b>Impacto</b> — ignorar a la gente · métricas incorrectas · sin monitoreo</li></ul></div><div class="node"><h3>Casos <span class='tag'>Osman 2019</span></h3><ul><li><b>Australia Post</b> — 120 bots, 18 000 h/año, −15 % costo</li><li><b>Federal Bank</b> — 250 registros/hora vs. 1 día</li><li><b>Coca-Cola</b> — auditoría de RR. HH.</li><li style="color:var(--ink-3)">Minería de procesos: diagnosticar antes del bot</li></ul></div></div></section><section class="branch" style="--hue:var(--c3);--bg:var(--c3-bg)"><div class="stem"><div class="n">LECCIÓN 3</div><h2>Blockchain</h2><p>Confianza sin intermediarios</p></div><div class="nodes"><div class="node"><h3>Cómo funciona</h3><ul><li>Bloques enlazados → <b>libro mayor</b> distribuido</li><li>Cada participante es un <b>nodo</b> con copia completa</li><li><b>Consenso</b> para modificar → <b>inmutabilidad</b></li><li>Stornetta 1991 · <b>Bitcoin 2008</b> · Ethereum y contratos inteligentes</li></ul></div><div class="node"><h3>Más allá de las finanzas</h3><ul><li><b>Cadena de suministro</b> — procedencia en minutos</li><li>Bienes raíces — tokenización</li><li>Votación · certificados y títulos</li><li>NFT — Beeple, <b>69 M USD</b>, 2021</li></ul></div><div class="node"><h3>¿Cuándo tiene sentido?</h3><ul><li><b>Casi nunca dentro de una sola empresa</b> — una base central basta</li><li>Su valor: <b>entre organizaciones que no confían entre sí</b></li><li>Desventajas: escalabilidad · <b>consumo energético</b> · regulación</li></ul></div></div></section><section class="branch" style="--hue:var(--c4);--bg:var(--c4-bg)"><div class="stem"><div class="n">LECCIÓN 4</div><h2>Realidad extendida</h2><p>De lo real a lo virtual</p></div><div class="nodes"><div class="node"><h3>El espectro</h3><ul class="seq"><li>Ambiente real</li><li><b>Realidad aumentada</b> — añade al mundo real</li><li><b>Realidad mixta</b> — entre AR y VR · Pokémon Go</li><li>Virtualidad aumentada</li><li><b>Realidad virtual</b> — el usuario está “dentro”</li></ul></div><div class="node"><h3>En la industria</h3><ul><li>Asistencia remota · conciencia situacional</li><li>Simulación · mantenimiento · inspección</li><li><b>VR para entrenar</b>, <b>AR para operar</b></li><li style="color:var(--ink-3)">No uses VR donde el técnico necesita ver</li></ul></div><div class="node"><h3>Madurez <span class='tag'>Gartner 2023</span></h3><ul><li>VR en el <b>abismo</b> — poco contenido, poca escala</li><li>AR en la <b>rampa</b> — por su uso empresarial</li><li>Inhibidores: mareos, usabilidad, falta de estándares</li><li>Sutherland, <i>The Ultimate Display</i>, 1965</li></ul></div></div></section><section class="branch" style="--hue:var(--c5);--bg:var(--c5-bg)"><div class="stem"><div class="n">LECCIÓN 5</div><h2>IA generativa</h2><p>Crear, no clasificar</p></div><div class="nodes"><div class="node"><h3>Qué es</h3><ul><li>Genera contenido, datos o soluciones con <b>aprendizaje profundo</b></li><li>vs. IA <b>discriminativa</b>, que clasifica</li><li><b>GAN</b> — Goodfellow, 2014 — imágenes</li><li><b>LLM</b> — texto</li></ul></div><div class="node"><h3>El potencial <span class='tag'>McKinsey 2023</span></h3><ul><li><b>2.6 a 4.4 billones USD</b> al año</li><li>75 % en operación con clientes, marketing, software e I+D</li><li>Banca: <b>200 a 340 mil millones</b>/año</li><li>Crece por <b>tamaño de mercado + datos masivos</b></li></ul></div><div class="node"><h3>Riesgos</h3><ul><li><b>Alucinaciones</b> · sesgos · deepfakes y fraude</li><li>Propiedad intelectual — solo una persona física es autora</li><li style="color:var(--ink-3)">Copilot: ~40 % del código con vulnerabilidades</li></ul></div></div></section><div class="flag"><div class="lbl">Errores del curso — verificados</div><h3>Cuatro datos que no uses con un cliente</h3><p>El gasto en RPA no llegó a <b>23 mil millones en 2023</b>: fue ~4.4; esa cifra es de 2030. <b>“AlphaMind” no existe</b>: es AlphaFold. Los <b>“15.7 billones para 2028”</b> son lo que PwC estima que toda la IA aportará al PIB en 2030. Y blockchain <b>sí</b> procesa monedas fiduciarias: JPMorgan liquida miles de millones de dólares al día en depósitos tokenizados. En el examen, responde la versión del curso.</p></div><footer><span>Mapa de estudio · SC 2.2</span><span>Tec de Monterrey · The Learning Gate</span><span>Sept 2026</span></footer></div>

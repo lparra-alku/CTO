@@ -1,0 +1,129 @@
+
+--- p1 ---
+para un proyecto exitoso
+Condiciones críticas
+No todos los procesos son adecuados para la 
+automatización, sino que es necesario que los 
+procesos consistan en tareas basadas en reglas y 
+que no requieran juicio humano. 
+
+--- p2 ---
+Tal como en el resto de las tecnologías estratégicas o 
+emergentes, hay una serie de condiciones que deben estar 
+presentes para que un proyecto de implementación de RPA sea exitoso.
+ 
+A diferencia de otras metodologías, como las APIs, la RPA opera solo a 
+nivel de interfaz gráfica de usuario (GUI, del inglés Graphical User 
+Interface), simulando el comportamiento humano al interactuar con el 
+programa a automatizar o integrar, por lo que cualquier cambio en la 
+aplicación o en el proceso exige la reconfiguración del robot. Al 
+ser una tecnología de TI, la RPA solo se puede aplicar en datos 
+electrónicos, los cuales deben soportar el mismo formato para ser leídos y 
+manipulados por los bots. Por todo esto, una condición crítica es la 
+calidad de los datos (Osman, 2019).
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Asimismo, una de las condiciones más críticas para tener un 
+proyecto exitoso de RPA es identificar cuáles procesos son 
+susceptibles a ser automatizados con esta tecnología, así como definir 
+y acotar el resultado esperado. Algunos parámetros a considerar son:
+Análisis y descripción del proceso. Para poder automatizar el 
+proceso, se debe conocer a detalle cada paso, incluyendo excepciones y 
+condiciones de proceso exitoso o fallido, lo que se conoce como mapeo 
+del proceso. Si el proceso no se analiza a detalle, hay riesgo de fallas 
+continuas o resultados incorrectos. Las reglas del proceso deben ser 
+sumamente claras, acotadas, estáticas y verificables, con acceso a datos de 
+calidad adecuada. El involucramiento de un analista de procesos puede 
+ser de gran ayuda en este paso. Se deben definir los siguientes parámetros 
+sobre el proceso:
+▪
+Qué tan repetitivo y estable es el proceso. Un proceso altamente repetitivo 
+o transaccional suele ser mejor candidato para ser automatizado. En 
+cambio, un proceso que tiene muchas excepciones o que cambia 
+regularmente puede ser complejo o costoso de automatizar.
+▪
+Roles involucrados, tanto dentro de la organización (departamento 
+dueño del proceso, TI, etc.) como fuera (clientes o proveedores).
+▪
+Entrada y salida de información de cada paso y reglas de transformación, 
+manipulación, aceptación o rechazo de cada dato.
+▪
+Sistemas y herramientas involucrados.
+▪
+Volumen de transacciones por unidad de tiempo.
+▪
+Tiempo de procesamiento para cada paso.
+▪
+Restricciones de tiempo y de proceso.
+▪
+Métricas para medir la eficiencia y desempeño          
+del proceso.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Metas de implementación. ¿Se automatizará el proceso 
+completo o parcial?, ¿se desarrollará internamente o se 
+involucrará a un proveedor?, ¿cuáles son las metas esperadas?
+Áreas de negocio impactadas. ¿Qué áreas de la organización serán 
+impactadas?, ¿qué sistemas o herramientas se requieren?, ¿se verá 
+afectada la estructura laboral?, ¿se deberá entrenar al personal?
+Estimación de ahorros y beneficios. ¿Los ahorros que traerá consigo 
+justifican la inversión o gasto?, ¿el tiempo de implementación del 
+proyecto se refleja en estas estimaciones?, ¿se está considerando el costo 
+de mantenimiento de la solución?, ¿el costo de mantenimiento es menor 
+que los ahorros generados?, ¿por cuánto tiempo será útil esta solución?, 
+¿cómo se reflejarán los ahorros directos en la organización?: 
+▪
+Productividad (más trabajo por unidad de tiempo)
+▪
+Disminución directa de horas asignadas al proceso
+▪
+Disminución de errores (menos horas dedicadas a retrabajos)
+▪
+Satisfacción del cliente
+Estimación de riesgos. ¿Qué 
+riesgos se tienen al automatizar el 
+proyecto?, ¿qué riesgos se tienen al 
+no automatizarlo?, ¿qué aspectos 
+técnicos pueden impedir su 
+implementación exitosa?, ¿hay 
+temas de seguridad de información 
+que se deban considerar?
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Otra condición crítica es la disponibilidad y la 
+selección de la tecnología. Hay múltiples proveedores de 
+productos de RPA, cada uno con diferenciadores, ventajas y 
+desventajas. ¿Cuál tecnología de los proveedores se adecúa más a 
+mis procesos?, ¿de cuál hay más disponibilidad de soporte?, ¿cuál 
+proveedor me ofrece una solución dentro del presupuesto disponible?, ¿el 
+equipo de TI de la empresa tiene las habilidades tecnológicas para 
+implementar y operar la tecnología seleccionada?, ¿qué infraestructura se 
+requerirá para operar el proyecto de RPA?
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Reflexiones finales
+Piensa en cuáles procesos de tu organización 
+pueden tener las condiciones para ser 
+automatizables con RPA, ¿son repetitivos?, 
+¿están lo suficientemente entendidos?, ¿se 
+conocen las entradas y salidas de datos de 
+manera precisa?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6

@@ -1,0 +1,13 @@
+# L1 · Roles frente a las tecnologías emergentes
+Genially 654bd3e561c5ef00118c8c49 → 654bd3bc833c7c0011eb3666
+
+Roles frente a las
+tecnologías emergentes
+Si bien no hay recetas que cubran todos los casos de implementación de un proyecto de tecnología emergente, es importante que todos en la organización trabajen orientados hacia el mismo esfuerzo.
+CODIGO NO BORRAR
+Rol de toma de decisiones
+El estudio Top 10 Emerging Skills for the C-Suite de Gartner (2019) muestra que las empresas buscan líderes con habilidades duras alrededor de la tecnología (IA, aprendizaje automático, ciberseguridad, IoT, entre otras), las cuales les permitan encaminar estrategias de negocio efectivamente y promover procesos de automatización empresariales para generar eficiencia.
+Aunque no es necesario conocer las minucias técnicas de una nueva tecnología, sí es indispensable entender los conceptos para poder determinar la estrategia y el impacto en procesos de negocio, generación de oportunidades y productos, servicio al cliente, la rentabilidad de un proyecto de implementación y cambio cultural de la organización.
+Rol de corte técnico o asesoría tecnológica
+Es importante no solo entender los conceptos e implicaciones técnicas, sino también saber comunicar las ideas, así como conocer el alcance del proyecto en todos los niveles de la organización, los pormenores del proyecto de adopción o implementación, los riesgos e impactos al negocio y evaluar proveedores, productos y su deuda técnica.
+Continúa con el estudio de la lección.

@@ -1,0 +1,22 @@
+# L2 · Los 10 errores más comunes (parte 3): Errores en el impacto
+Genially 65c46112735bc90014da2537
+
+Los 10 errores
+más comunes (parte 3): Errores en el impacto
+Para Gartner, los 10 errores más comunes en iniciativas de automatización se dividen en errores de aproximación, errores de implementación y errores en el impacto (Guttridge & Shotton, 2023). En este recurso, conocerás los errores en el impacto.
+8. Ignorar el impacto en la cultura y el empleado
+Muchas iniciativas de automatización se enfocan en la operación del negocio, por lo que la mayoría del impacto recae en los empleados encargados de la operación, así que es de suma importancia que el equipo de liderazgo tome en cuenta su reacción desde una perspectiva contextual.
+Involucrar al personal y mejorar la comunicación de implementación del cambio incluye priorizar casos de uso que mejoren el trabajo del empleado sobre aquellos que generen el mayor ahorro de costos. Por ello, no hay que ignorar la resistencia cultural, sino trabajar cerca de ella y, así, identificar el valor de la automatización desde esta perspectiva.
+9. Usar las métricas incorrectas para medir el éxito
+Medir el éxito solo en términos de ahorro de costos puros puede ser limitante, pues existen otras métricas útiles y significativas. Antes de comenzar con las iniciativas, es importante tener una medición de referencia actual de la métrica, como SLA, puntos de satisfacción del cliente o tasa de error.
+10. No poner suficiente énfasis en el monitoreo de producción, soporte y otras actividades
+Los proyectos de automatización tienen ciclos de vida: comienza con la necesidad de automatización y termina cuando se elimina esa necesidad. Mientras tanto, se requerirá la participación de TI en evaluaciones continuas, monitoreo y controles de calidad regulares. Además, se deberán crear y mantener planes de recuperación en caso de desastres o contingencias, para asegurar que cualquier falla tecnológica, virus u otros problemas tecnológicos no impidan continuar con las operaciones.
+Como puedes ver, el potencial de la automatización con RPA es grande y puede traer grandes beneficios, pero requiere un enfoque correcto y la participación y el compromiso de toda la organización.
+Gracias por tu respuesta
+La pregunta más importante es: ¿tu organización está lista para empezar a automatizar procesos con RPA?, ¿por qué lo consideras así?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Esto no significa que la reducción de costos y el aumento de ingresos no sean importantes, sino que no se pueden dejar de lado métricas que midan la mejora de la satisfacción y compromiso del cliente.
+La expectativa es que la madurez y la experiencia en la automatización progrese hacia la hiperautomatización, lo que recreará y reinventará negocios, así que es importante que las empresas adopten un cambio cultural significativo para impulsar ideas y repensar operaciones.
+Una clave para hacer llegar el mensaje es posicionar la automatización como la eliminación de tareas mundanas, no de la participación de los empleados en la operación.
+Y aunque eso esté bajo el cargo del equipo de TI, los gerentes de operaciones necesitarán aprender habilidades orientadas a TI para gestionar y auditar herramientas de automatización, tratándolas como parte de sus responsabilidades laborales.

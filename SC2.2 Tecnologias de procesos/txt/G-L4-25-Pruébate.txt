@@ -1,0 +1,39 @@
+# L4 · Pruébate
+Genially 65d394b3b063c0001405c979
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Norman a resolver algunas problemáticas.
+Norman es un apasionado de la tecnología de la realidad extendida (y todo el continuo que abarca) desde hace varios años. Ahora, su jefe le pidió que retome su experiencia y conocimientos para verificar si es viable la implementación de este tipo de tecnología en la empresa en la que trabaja. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Ambientes tridimensionales “virtuales” con técnicas computacionales que posibilitan la interacción con elementos por medio de sensores
+Norman está buscando la mejor opción para describir el término de realidad virtual de una forma breve y clara:
+La inmersión del usuario en un ambiente ficticio e idéntico de la vida que vive por fuera
+Juegos de rol en espacios virtuales, como foros o salas de chat para miembros exclusivos
+¡Correcto!
+Estos ambientes tridimensionales virtuales permiten que el usuario experimente la sensación de estar “dentro”.
+¡Incorrecto!
+Recuerda que la realidad virtual consiste en la creación de ambientes tridimensionales “virtuales” con técnicas computacionales que posibilitan la interacción con elementos por medio de sensores y que, además, permiten que el usuario experimente la sensación de estar “dentro”.
+¿Dónde se puede ubicar la realidad mixta?
+Entre la realidad aumentada y la realidad extendida
+Entre la realidad virtual y la realidad aumentada
+Entre la realidad física y la realidad virtual
+Este tipo de tecnología permite la interacción del usuario con el contenido generado computacionalmente sobre el ambiente real, como sería el juego de Pokémon Go.
+La realidad mixta se ubica entre la realidad virtual y la realidad aumentada. Permite la interacción del usuario con el contenido generado computacionalmente sobre el ambiente real, como sería el juego de Pokémon Go.
+¿Cuál de las siguientes NO es una razón por la que la cantidad y calidad de la oferta de contenido de realidad virtual siga siendo limitado?
+El miedo y escepticismo de los usuarios
+Personalización y escalabilidad limitada
+Lenta generación de productos
+Para el 2023, Gartner situó a la tecnología de realidad virtual en el abismo de desilusión y la realidad aumentada se movió a la rampa de consolidación, pero el problema principal de estas tecnologías es la personalizada y escalabilidad limitada, así como la lenta generación de productos por parte del ecosistema de proveedores.
+El problema principal de tecnologías como realidad virtual o realidad aumentada es la personalizada y escalabilidad limitada, así como la lenta generación de productos por parte del ecosistema de proveedores, no el miedo o escepticismo de los usuarios.
+Norman había oído hablar de la Augmented Reality for Enterprise Alliance, pero no recuerda exactamente cuál era su objetivo. ¿Puedes ayudarlo?
+Formar alianzas de empresas que utilicen la realidad virtual como parte de sus procesos u ofertas
+Promover la adopción de sistemas interoperables de realidad aumentada
+Equipar a empresas de distintas industrias con equipos de realidad extendida
+Algunos de los casos que presenta la asociación Augmented Reality for Enterprise Alliance son: asistencia remota, consciencia situacional, simulación, mantenimiento e inspección.
+La Augmented Reality for Enterprise Alliance es una asociación que busca promover la adopción de sistemas interoperables de realidad aumentada y algunos de los casos que presentan son: asistencia remota, consciencia situacional, simulación, mantenimiento e inspección.
+¿Cómo podría Norman agrupar algunos de los impactos del uso de esta tecnología en los negocios?
+Reducción de costos de entrenamiento y de riesgos, mejora de tiempos y nuevas maneras de interacción y colaboración
+Reducción de costos generales, estandarización de procesos y eliminación de problemas de la salud
+Soluciones escalables, más opciones de personalización y mayor oferta para los clientes
+La realidad extendida presenta impactos significativos en los negocios, como la reducción de costos de entrenamiento y de riesgos, mejora de tiempos y nuevas maneras de interacción y colaboración.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.

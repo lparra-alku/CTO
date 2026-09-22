@@ -1,0 +1,65 @@
+# L2 · Pruébate
+Genially 65c31bcfd9e3f90014c50a59
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Leonardo a resolver algunas problemáticas.
+Leonardo está contemplando la implementación de RPA en ciertos procesos repetitivos de su negocio masivo de venta en línea de boletos de espectáculos. Convocó una reunión donde se resolverían todas las dudas y se aclararían los aspectos teóricos de la adopción de la tecnología. ¿Puedes ayudarlo a resolver algunas cuestiones? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Leonardo comenzó definiendo brevemente qué es la tecnología RPA. Selecciona la opción más adecuada para definirla:
+Herramientas que utilizan robots entrenados de software que interactúan con programas existentes
+Técnica de programación avanzada para realizar tareas complejas sin intervención humana
+Programas informáticos que utilizan solo robots físicos para tareas en entornos industriales
+¡Correcto!
+Además, estos robots entrenados interactúan con otros sistemas de información a través de la interfaz de usuario.
+¡Incorrecto!
+Recuerda que la tecnología RPA consiste en herramientas diseñadas para realizar tareas manuales y repetitivas utilizando robots entrenados, los cuales interactúan con otros sistemas a través de la interfaz de usuario.
+Un colega quiere saber cuáles son las condiciones críticas para la implementación de un proyecto de RPA, a lo que Leonardo dice que:
+La calidad de los datos, la susceptibilidad del tipo de proceso y la disponibilidad de tecnología
+Aceptación del consumidor sobre el uso de RPA, presupuesto y servidores disponibles, virtualización
+Número de empleados en la empresa, antigüedad de los procesos y calidad de los datos
+Entre las condiciones críticas para implementar un proyecto de RPA exitoso, es necesario contar con una buena calidad de datos, conocer a profundidad el proceso y tener en cuenta la disponibilidad y selección de la tecnología según los diferentes proveedores y las necesidades de la empresa.
+Recuerda que entre las condiciones críticas para implementar un proyecto de RPA exitoso, es necesario contar con una buena calidad de datos, conocer a profundidad el proceso y tener en cuenta la disponibilidad y selección de la tecnología según los diferentes proveedores y las necesidades de la empresa.
+Leonardo pidió una lluvia de ideas sobre las ventajas de la adopción de una tecnología RPA en la empresa, pero alguien dijo una equivocada. Selecciona la opción que NO represente una ventaja.
+Aumento de tareas de los empleados
+Eliminación de errores humanos
+Ahorro de costos
+De manera general, las RPA traen ventajas para las empresas, como la reducción de carga de trabajo, eliminación de errores de empleados humanos y el ahorro de costos.
+Recuerda que, de manera general, las RPA traen ventajas para las empresas, como la reducción de carga de trabajo, eliminación de errores de empleados humanos y el ahorro de costos, por lo que el aumento de tareas de los empleados no es una ventaja de la RPA.
+Leonardo quiere mencionar los 10 errores más comunes que identifica Gartner, con el fin de que el equipo los conozca para evitarlos. ¿Cuáles son las 3 grandes categorías en las que pueden dividirse?
+Errores de aproximación, errores de implementación y errores en el impacto
+Errores de mejora, errores de redundancia y errores de personalidad
+Errores de impacto, errores de riesgos y errores de presunción
+Dentro de estas tres categorías, se puede entrar el “enamorarse de una sola tecnología”, “pensar que la automatización es siempre la respuesta” e “ignorar el impacto en la cultura y el empleado”, por mencionar algunas.
+Gartner recopila los 10 errores más comunes en las iniciativas de automatización, los cuales pueden dividirse en tres categorías: Errores de aproximación, errores de implementación y errores en el impacto.
+Finalmente, a Leonardo le interesa conocer cómo cree su equipo que una herramienta RPA puede generar una diferencia al automatizar un proceso de su negocio masivo de venta en línea de boletos de espectáculos. Selecciona la opción que NO sea viable.
+Vaciar los datos en una base de datos que ordene todos los detalles de la compra
+Automatizar la generación de recibos y facturas a partir de los sistemas en uso
+Organizar campañas de ventas telefónicas
+Una herramienta RPA podría ayudar al negocio de Leonardo para analizar patrones de venta de boletos y evitar la reventa ilegal, así como mantener un vaciado de datos que orden todos los detalles de la compra. Sin embargo, organizar campañas de ventas telefónicas no sería algo con lo que una herramienta RPA podría ayudarles a sacar provecho.
+Organizar campañas de ventas telefónicas no es un uso eficiente de una herramienta RPA para el negocio de Leonardo, pero podría ayudarle a analizar patrones de venta de boletos y evitar la reventa ilegal, así como mantener un vaciado de datos que orden todos los detalles de la compra.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

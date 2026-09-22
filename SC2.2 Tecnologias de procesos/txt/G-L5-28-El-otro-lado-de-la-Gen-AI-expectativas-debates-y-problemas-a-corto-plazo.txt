@@ -1,0 +1,17 @@
+# L5 · El otro lado de la Gen AI: expectativas, debates y problemas a corto plazo
+Genially 65e155fe4eacb70014d12e68 → 65e165a34eacb70014d914fb
+
+El otro lado de la Gen AI
+Expectativas, debates y problemas a corto plazo
+Yann LeCun, jefe del área de investigación de IA en Meta, ganador del premio Turing y escéptico, junto a muchos otros, del impacto de la IA a corto plazo.
+CODIGO NO BORRAR
+Expertos en IA
+Yann LeCun menciona que los modelos de IA actuales solo sirven para entretenimiento y no para aplicaciones reales, al menos no en tiempos inmediatos; recalca que para que la Gen AI sea realmente útil, debe poder interpretar los problemas del mundo real y apoyar a las personas en su vida diaria (Pandey, 2022).
+Propiedad intelectual
+Además, el uso de la IA ha derivado un sinfín de debates éticos, filosóficos y legales, sobre todo en el ámbito de la propiedad intelectual de las obras generadas por inteligencia artificial. Por lo pronto, en muchos países, la postura es que solamente una persona física puede tener la autoría de una obra (Magaña Rufino, s.f.) y la Organización Mundial de la Propiedad Intelectual (s.f.) está al frente del “Diálogo sobre la PI e IA”, una serie de sesiones enfocadas en el tema.
+Derecho de propiedad
+Todos los modelos de Gen AI requieren entrenarse con una gran cantidad de datos para poder crear contenido y, muchas veces, este contenido es sacado directamente de internet. El problema es que, aunque el contenido esté disponible en internet, no significa que no sea de nadie: el autor del contenido conserva su derecho de propiedad.
+Durante el 2023, hubo varios casos de demandas legales de escritores (Alter & Harris, 2023), de artistas plásticos y gráficos (Noveck & O'Brien, 2023) y de periódicos (Grynbaum & Mac, 2023) contra empresas de Gen AI por el uso no autorizado de las obras para entrenar modelos.
+Discusiones
+Asimismo, discusiones sobre el uso de estas tecnologías en el cine, tanto en la parte visual como en los guiones (Dalton, 2023) y en la música, donde la organización de los premios Grammy determinó que solamente creadores humanos se harán acreedores al premio (Sherman, 2023).
+Continúa con el estudio de la lección.

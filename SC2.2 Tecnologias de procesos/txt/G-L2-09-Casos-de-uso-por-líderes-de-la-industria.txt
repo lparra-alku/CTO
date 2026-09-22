@@ -1,0 +1,16 @@
+# L2 · Casos de uso por líderes de la industria
+Genially 65bd60f75f9ded00148481ae → 65bd71bdf4f55500140500b8
+
+Casos de uso
+por líderes de la industria
+Osman (2019) recopila tres casos de uso de herramientas RPA por empresas de renombre, tales como Coca-Cola, Federal Bank y Australian Post.
+CODIGO NO BORRAR
+Recursos Humanos en Coca-Cola
+Coca-Cola implementó un proyecto de automatización con RPA en un proceso de auditoría de RRHH. Aunque este proceso suele consumir mucho tiempo, ya que los reportes resultantes deben seguir formatos específicos, la generación automatizada de informes utilizando RPA redujo el tiempo y ofreció a los empleados más tiempo para centrarse en otras tareas.
+La productividad también aumentó debido a su operación 24/7. Además, la experiencia del cliente mejoró gracias a una mayor interacción humana en otros puntos de contacto. Su objetivo no es reemplazar a los empleados con robots, sino planear un mayor de entrenamiento de personal, para lograr una integración de empleados en proyectos de RPA.
+Proceso de identificación de clientes en la banca
+Federal Bank, banco líder del sector privado con sede en Kerala, India, llevó a cabo un proyecto de RPA para cumplir con las regulaciones que exigían códigos de identificación únicos para la gestión de clientes.
+El resultado fue satisfactorio, pues los robots lograban fusionar alrededor de 250 registros en una hora, mientras que los empleados necesitaban un día completo. La RPA permitió automatizar el proceso ahorrando tiempo, costos y esfuerzos, cumpliendo con el plazo. Actualmente, 15 procesos están automatizados, pero estiman alcanzar 53 en desarrollos futuros.
+Procesos contables en sector público
+Las más de 4,000 oficinas postales de Australian Post optimizan sus flujos de trabajo de contabilidad gracias a los bots RPA. Hasta ahora, 25 procesos de back-office y tareas repetitivas están automatizados con RPA reforzadas con 120 bots, ahorrando alrededor de 18,000 horas anuales y disminuyendo costos en un 15 %.
+Continúa con el estudio de la lección.

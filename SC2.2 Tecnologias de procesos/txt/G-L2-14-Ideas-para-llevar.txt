@@ -1,0 +1,12 @@
+# L2 · Ideas para llevar
+Genially 65c31c18d9e3f90014c529f5
+
+Ideas para llevar
+Continúa con tu aprendizaje en la siguien te lección.
+Considera en todo momento que:
+Descarga la versión impresa en el apartado Archivos adjuntos.
+En el contexto de RPA, un robot o bot es un software que se ejecuta en un entorno computacional interoperable, utilizando la misma interfaz gráfica que utiliza una persona.
+Lo atractivo de una tecnología RPA es que es capaz de operar 24/7 a un costo menor que la mano de obra humana, entregando resultados de mayor calidad y escalables.
+Hay condiciones críticas para que un proyecto de implementación de RPA sea exitoso, como: calidad de los datos, procesos susceptibles a la automatización y la disponibilidad y selección de la tecnología.
+Para Gartner, los 10 errores más comunes en iniciativas de automatización se dividen en errores de aproximación , errores de implementación y errores en el impacto.
+Las herramientas de RPA (Robotic Process Automation) están diseñadas para realizar tareas manuales y repetitivas utilizando robots de software entrenados.

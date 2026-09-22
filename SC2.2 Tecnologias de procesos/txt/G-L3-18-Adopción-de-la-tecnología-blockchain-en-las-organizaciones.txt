@@ -1,0 +1,31 @@
+# L3 · Adopción de la tecnología blockchain en las organizaciones
+Genially 65f9c4fb86903400141b8ae0
+
+Adopción de
+la tecnología blockchain en las organizaciones
+Al pensar en la adopción de la tecnología en la organización es importante considerar todos los puntos anteriores y además analizar concienzudamente el caso de negocio.
+Aunque hay casos relevantes , adoptar una blockchain dentro de una organización no siempre tiene sentido, ya que este tipo de tecnologías son más complejas y costosas que sistemas tradicionales centralizados, además de que al interior de la organización es relativamente fácil determinar las reglas y mecanismos para compartir información, haciendo que los mecanismos de consenso de blockchain sean irrelevantes.
+Por otro lado, y a diferencia de otras tecnologías emergentes, la adopción de blockchain puede afectar directamente los procesos de negocio con clientes y proveedores, por lo que será relevante considerar el entorno completo de la solución. Si se quieren aprovechar las ventajas para interoperar con otras organizaciones, es necesario estudiar las alternativas actuales y evaluar de manera objetiva si la cadena de bloques es la mejor opción
+Por ello, es útil que, como empresa, te hagas las siguientes preguntas para determinar si la adopción de una tecnología como blockchain es la indicada para tu organización y los problemas que pudieran enfrentar:
+Como en cualquier proceso de transformación digital donde se evalúa la opción de integrar tecnologías emergentes, es indispensable considerar la gestión del cambio en la organización; se deben considerar las implicaciones no técnicas de blockchain, como los cambios al modelo operativo del negocio, el diseño organizacional, la gestión de los procesos y el gobierno de datos, además del convencimiento de las personas que implementarán y utilizarán la tecnología, tanto dentro como fuera de la organización.
+Finalmente, te compartimos un ejemplo de cómo se aplica el blockchain.
+Demostrar la aplicabilidad de blockchain para resolver problemas de confianza y eficiencia en ecosistemas multipartitos, contrastando su uso con bases de datos tradicionales y destacando el valor de los contratos inteligentes.
+La empresa le dedica mucho tiempo a estar resolviendo disputas sobre "quién dijo que" o "dónde está el producto" con sus proveedores y clientes.
+Problemática común
+En cadenas de suministro complejas (logística, agricultura), docenas de actores tienen sus propios registros aislados. Cuando hay problemas (mercancía dañada, pagos retrasados), conciliar estas "verdades" aisladas toma semanas de auditorías y correos, elevando los costos de transacción y frenando el negocio por falta de una fuente única de verdad.
+Solución desde la información de la lección Blockchain ofrece un Libro Mayor Distribuido como solución estructural: Fuente única de verdad: Todos comparten el mismo registro inmutable; nadie puede alterar el historial de entregas unilateralmente. Smart contracts: Automatización de pagos ("Si el sensor IoT marca <5°C y llega a puerto -> liberar pago"). Reduce burocracia y tiempos de ciclo. Trazabilidad: Rastreo detallado de origen para certificaciones de calidad y origen.
+Errores comunes que deben evitarse Tecnología por moda: Usar blockchain internamente donde una base de datos centralizada (SQL) es más eficiente. Solo es útil si hay desconfianza entre partes externas. "Garbage In, Garbage Forever": La inmutabilidad impide corregir errores de datos introducidos al inicio. Costos de integración: Subestimar la dificultad de conectar blockchain con sistemas ERP legados.
+Puntos clave
+Blockchain garantiza integridad y transparencia mediante descentralización (sin intermediarios). Aplicaciones potentes: Trazabilidad, identidad digital soberana y contratos inteligentes. No es universal: Evaluar costos de diseño, implementación, energéticos y regulatorios antes de implementar. Reduce costos de fricción en comercio global mediante confianza computacional.
+Gracias por tu respuesta
+¿Consideras que tu empresa está lista para adoptar una tecnología blockchain?, ¿cómo podría beneficiarse de eso?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+¿Utilizar blockchain será una mejor solución que una solución tradicional existente basada en EDI?
+Como un sistema de votación de un país.
+¿Mi organización tiene la capacidad de mantener a largo plazo una solución de este tipo?
+¿Serán las ventajas de blockchain suficientemente relevantes para que toda mi red de colaboradores, clientes y proveedores adopten y usen la solución propuesta?
+¿En el mercado hay personas con las habilidades necesarias para desarrollar una solución así?
+¿Estas ventajas justifican el costo de desarrollo de una solución basada en blockchain?
+Como ejemplo, las tecnologías alrededor del estándar EDI ( Electronic data interchange o intercambio electrónico de datos, en español) son usadas desde hace décadas alrededor del mundo por millones de negocios en la cadena de suministro para interactuar con clientes y proveedores.
+¿Puedo combinar o integrar ambas soluciones? Por ejemplo, hay empresas tecnológicas que están trabajando en integraciones entre EDI y blockchain, como Sensefinity.

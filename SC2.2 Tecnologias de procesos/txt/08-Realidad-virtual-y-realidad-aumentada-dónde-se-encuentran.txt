@@ -1,0 +1,127 @@
+
+--- p1 ---
+Aunque estas tecnologías ya tienen muchos años en desarrollo, se 
+siguen considerando tecnologías emergentes, ya que no han alcanzado 
+el nivel de productividad definido en la curva de Gartner.
+¿dónde se encuentran?
+Realidad virtual y 
+realidad aumentada:
+
+--- p2 ---
+En el 2017, Gartner indicó que la realidad virtual se encontraba en la rampa 
+de consolidación con una llegada estimada a la meseta de la 
+productividad dentro de 2 a 5 años posteriores, y que la realidad 
+aumentada aún se encontraba en el abismo de la desilusión, con una llegada a 
+la productividad en 5 a 10 años (Walker, 2017). En ese año, se mencionó que el 
+número de dispositivos de realidad virtual desplegados era cercano a 10 
+millones, pero que su nivel de uso aún era pequeño y en crecimiento. Además, 
+el nivel de personalización venía con un alto costo.
+Expectativas
+Tiempo
+Lanzamiento
+La meseta de productividad será alcanzada en:
+Pico de 
+expectativas 
+sobredimensionadas
+Abismo de 
+desilusión
+Rampa de 
+consolidación
+Realidad 
+Aumentada
+Realidad 
+Virtual
+Meseta de 
+productividad
+Julio 2017
+Menos de 
+dos años
+2 - 5 años
+5 - 10 años
+Más de
+10 años
+Obsoleto 
+antes de la 
+productividad
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Para el 2023, el mismo Gartner movió ambas tecnologías de la curva de 
+tecnologías emergentes hacia la curva de experiencia de usuario, pero 
+situó a la realidad virtual en el abismo de la desilusión, mientras que la 
+realidad aumentada se movió a la rampa de la consolidación. La 
+realidad virtual tomó mucha tracción con el concepto del metaverso, 
+publicitado enormemente por las grandes empresas tecnológicas; sin embargo, 
+la cantidad y calidad de la oferta de contenido de realidad virtual sigue 
+siendo limitado, la personalización y escalabilidad limitada hace que las 
+experiencias de realidad virtual sean más caras que las de realidad aumentada, 
+además de que el ecosistema de proveedores de soluciones de realidad virtual 
+ha tardado en generar productos más avanzados (O'Connor et al., 2023).
+Expectativas
+Tiempo
+Lanzamiento
+Menos de 
+dos años
+2 - 5 años
+La meseta de productividad 
+será alcanzada en:
+Pico de 
+expectativas 
+sobredimensionadas
+Abismo de 
+desilusión
+Rampa de 
+consolidación
+Realidad 
+Aumentada
+Realidad 
+Virtual
+Meseta de 
+productividad
+Julio 2023
+5 - 10 años
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+La realidad aumentada avanzó en la curva por 
+el interés creciente en el ámbito empresarial 
+e industrial para soluciones que incrementen la 
+seguridad, la eficiencia y la efectividad de la persona a 
+través de soluciones para entrenamiento y mejoramiento del flujo de 
+trabajo, además de la existencia de mejores herramientas de integración y 
+alianzas de proveedores de software y hardware.
+La liberación del visor Vision Pro de Apple a principios de 2024, a pesar de su 
+costo muy por encima de los competidores, puede significar un fuerte impulso a 
+la realidad extendida en general, debido al alto grado de influencia que la 
+empresa tiene en el mercado del consumidor final. Otras empresas enfocadas 
+normalmente en el mercado empresarial o industrial, como Magic Leap, Vuzix 
+o RealWear, están desarrollando dispositivos que, por su precio y 
+características, se pueden empezar a considerar más cercanos al público 
+general.
+La industria se encuentra en 
+pleno crecimiento, con múltiples 
+proveedores, tanto de software 
+como de hardware en desarrollo; 
+sin embargo, aún queda camino 
+por recorrer para que la realidad 
+extendida sea parte del día a día 
+en la empresa y la vida personal. 
+Por lo pronto, continúa con el 
+siguiente recurso y conoce las 
+aplicaciones actuales en 
+diferentes segmentos.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Reflexiones
+¿Consideras que, dentro de tu contexto laboral, la 
+realidad virtual o la realidad aumentada podrían generar 
+un impacto significativo?, ¿por qué?, ¿con qué uso?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5

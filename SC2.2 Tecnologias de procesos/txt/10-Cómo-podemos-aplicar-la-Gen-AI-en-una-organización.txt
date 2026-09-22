@@ -1,0 +1,182 @@
+
+--- p1 ---
+en una organización?
+¿Cómo podemos 
+aplicar la Gen AI 
+Sectores como la programación, la salud, las 
+finanzas, la arquitectura y la banca han sido 
+impactados significativamente por la inteligencia 
+artificial generativa.
+
+--- p2 ---
+Un año antes de que ChatGPT hiciera su debut al público 
+en general, el sitio de repositorios de código GitHub liberó 
+una herramienta para autocompletar código conocida como 
+Copilot, basada en una versión especial de ChatGPT. GitHub es una 
+de las plataformas más grandes y conocidas del mundo en cuestiones de 
+programación, por lo que la liberación de Copilot fue un éxito. Estos 
+asistentes incrementan la productividad del programador al analizar el 
+código y sugerir el código siguiente en tiempo real, diseñar pruebas, 
+generar documentación e, incluso, escribir programas sencillos completos. 
+Pero a diferencia de ChatGPT, que puede generar texto de cualquier tema y 
+en muchos idiomas, estos asistentes solamente pueden generar código de 
+programación, por lo pronto. Sin embargo, se tienen preocupaciones de 
+seguridad, ya que un estudio publicado en el simposio de seguridad y 
+privacidad de la IEEE encontró que de más de 1,500 programas generados 
+con Copilot, aproximadamente el 40 % tenía vulnerabilidades (Pearce, 
+Ahmad, Tan, Dolan-Gavitt, & Karri, 2022). 
+Asistentes de programación
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+La inteligencia artificial generativa se usa para crear sistemas que puedan 
+ingerir, ordenar y curar información financiera, a través del 
+entrenamiento de modelos que utilizan información financiera y generan 
+predicciones basadas en escenarios de precios. También le habilita a los 
+inversionistas y consejeros la creación de análisis personalizados de 
+portafolios, comunicándolos en un lenguaje entendible para el humano 
+(Taulli, 2023).
+Finanzas
+Salud
+El costo del desarrollo de nuevos medicamentos ha 
+incrementado sustancialmente en las últimas décadas, y 
+aunque la pandemia de COVID-19 demostró que es posible 
+mejorar los tiempos de desarrollo, aún siguen siendo bastante 
+largos. Estos factores han provocado que la industria farmacéutica esté 
+explorando usos de la Gen AI, por lo que se espera que para 2025 más del 30 
+% de los medicamentos y materiales sean descubiertos sistemáticamente 
+utilizando técnicas de inteligencia artificial. La inteligencia artificial generativa 
+ya se ha usado para diseñar medicamentos en meses, ofreciendo a la industria 
+oportunidades para reducir los costos y tiempos de desarrollo (Wiles, 2023).
+DeepMind, subsidiaria de Google, desarrolló AlphaMind, un producto que 
+utiliza modelos de aprendizaje profundo para crear modelos tridimensionales 
+de proteínas. Para el verano de 2022, el sistema era capaz de predecir 214 
+millones de proteínas, que es casi el número total de proteínas existentes en la 
+tierra de humanos, bacterias y plantas (Taulli, 2023).
+Durante una mesa redonda sobre el posible impacto de la inteligencia artificial 
+en el diseño, Patrik Schumacher, de Zaha Hadid Architects, mencionó que 
+generan ideas de diseño para los proyectos utilizando generadores de imágenes 
+como DALL-E y Midjourney. Aunque la tecnología no se usa en cada proyecto, 
+Arquitectura
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Schumacher aboga por su uso en concursos y en etapas 
+tempranas de diseño para explicar un rango más amplio de 
+opciones (PA Editorial Team, 2023).
+A finales del 2023, Autodesk, creador del programa Autocad, 
+anunció el producto Autodesk AI como una tecnología que facilita el 
+trabajo de diseño en múltiples áreas, proveyendo asistencia inteligente y 
+capacidades de generación (Autodesk PR, 2023).
+El McKinsey Global Institute estima que de los sectores industriales, la 
+banca es uno de los sectores con la mayor oportunidad de ganancia de 
+valor: un potencial anual que va de los 200 mil millones a los 340 mil 
+millones de dólares, principalmente por el incremento en productividad 
+(Kamalnath et al., 2023).
+Algunas de las aplicaciones de la tecnología dentro de la banca son:
+Banca
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Compromiso y captación del cliente
+Las soluciones de inteligencia artificial generativa 
+pueden convertir a los procesos manuales tediosos en 
+interacciones atractivas y eficientes. Por ejemplo, el 
+asistente virtual de un prestamista guía al personal a través 
+del proceso de solicitud de préstamo con extractos del historial de 
+chat, complementando con explicaciones de los términos, agilizando el 
+proceso.
+Síntesis de contenido (experto virtual) 
+Los modelos de Gen AI aumentan la productividad de los empleados al 
+resumir y extraer información de enormes cantidades de datos y 
+creando informes de investigación, presentaciones de ventas, análisis de 
+sentimiento del cliente y manuales de instrucciones. El banco de 
+inversión global Morgan Stanley ha construido un asistente de IA 
+utilizando GPT-4, que ayuda a sus decenas de miles de asesores 
+patrimoniales a encontrar y sintetizar rápidamente respuestas de una 
+enorme base de conocimiento interna; también resume el contenido de 
+las reuniones con clientes y genera correos electrónicos de seguimiento.
+Generación de contenido 
+Los modelos de IA generativa pueden crear contenido personalizado en 
+tiempo real para muchos casos de uso, como materiales de marketing y 
+ventas personalizados, basados en perfiles de clientes, historial y 
+detalles de productos. 
+En general, prácticamente todas las industrias han sido o serán impactadas 
+por alguna aplicación de esta tecnología. Adicionalmente, como en todas 
+las tecnologías emergentes, los equipos de liderazgo de las organizaciones 
+deben considerar el uso ético de estas tecnologías, la generación de 
+políticas, la gestión de cambio, el impacto en procesos y negocios y los 
+riesgos de implementación, lo que observaremos en el siguiente recurso.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Ahora te mostramos un ejemplo de la aplicación de la 
+inteligencia artificial generativa.
+Objetivo
+Problemática común
+Solución desde la información de la lección
+Ilustrar el potencial de la IA Generativa como un "copiloto" para potenciar 
+la creatividad y productividad humana, identificando simultáneamente los 
+riesgos críticos de propiedad intelectual y veracidad (alucinaciones) que 
+deben ser mitigados.
+El equipo creativo y técnico sufre de "fatiga de página en blanco" 
+y pierde horas sintetizando información dispersa.
+La productividad moderna se frena por tareas cognitivas repetitivas: 
+primeros borradores, resúmenes de minutas, código "boilerplate" o 
+ideación visual inicial. Esto consume tiempo que debería ir al análisis 
+estratégico. Además, la búsqueda de información en silos corporativos es 
+ineficiente y lenta.
+La IA Generativa actúa como acelerador masivo:
+1. Síntesis: Empleados "conversan" con la base de conocimiento 
+interna para obtener respuestas y síntesis inmediatas de los miles de 
+documentos disponibles en la organización.
+2. Desarrollo: Los desarrolladores utilizan la funcionalidad de 
+sugerencia automática de bloques de código y documentación, 
+eliminando trabajo tedioso para programadores.
+3. Ideación: El equipo de mercadotecnia genera múltiples variantes 
+visuales en minutos para ampliar el abanico creativo antes del diseño 
+detallado.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Errores comunes que deben evitarse
+Puntos clave
+1. Confianza ciega (alucinaciones): Asumir que la IA 
+dice la verdad. Puede inventar datos financieros o legales. 
+Error crítico: Automatizar sin revisión humana 
+("Human-in-the-loop").
+2. Riesgos de IP: Usar contenido generado en productos finales sin 
+considerar la falta de copyright, o exponer datos secretos en 
+herramientas públicas.
+3. Falta de transparencia: Ocultar que el contenido es artificial, 
+dañando la confianza.
+La IA Generativa crea contenido nuevo (texto, imagen, código) 
+aprendiendo patrones; no solo analiza.
+Impacto económico gigante en banca, software y farmacéutica.
+Productividad vs. Riesgo: Requiere gestión estricta de alucinaciones y 
+derechos de autor.
+Estrategia: "Inteligencia Aumentada" (Humano + IA), no sustitución 
+total.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+Reflexiones finales
+¿Cómo puedes visualizar el futuro de esta 
+tecnología en tu organización?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

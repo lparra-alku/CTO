@@ -1,0 +1,113 @@
+
+--- p1 ---
+La aplicación de Bitcoin y su funcionamiento se basa en la tecnología de 
+blockchain, por lo que el auge de las criptomonedas ha estado fuertemente 
+vinculado con esta tecnología.
+Criptomonedas
+
+--- p2 ---
+Puede decirse que la tecnología de blockchain se dio a 
+conocer de manera global en el 2008 con la primera 
+implementación a escala masiva de una moneda digital 
+llamada Bitcoin, descrita en el artículo “Bitcoin: A Peer-to-Peer Electronic Cash 
+System” por Satoshi Nakamoto, pseudónimo de una persona que sigue siendo 
+desconocida hasta la fecha. Sin embargo, los conceptos asociados pueden 
+encontrarse en una serie de artículos entre 1991 y 1997 de W. Scott Stornetta y 
+colaboradores, mismos que fueron referenciados en el artículo de Nakamoto 
+(Tyagi & Shaveta, 2021). 
+Aunque desde la perspectiva de una persona, Bitcoin no es más que una 
+aplicación móvil o de computadora que permite almacenar, transferir o recibir 
+bitcoins (como moneda), detrás de escena, la red de Bitcoin consiste en 
+una cadena de bloques. En su caso, el libro mayor usa una red mundial 
+descentralizada punto-a-punto (distribuida) facilitada por los usuarios, lo que 
+permite que los puntos (partes, o peers en inglés) se conecten entre sí 
+directamente sin intermediarios ni autoridad central, utilizando en su lugar 
+firmas criptográficas para controlar las transacciones (de ahí viene el nombre 
+“criptomoneda”) y permite que cualquier persona pueda verificar la validez de 
+cualquier transacción (Bitcoin.org, s.f.).
+Es importante recalcar que Bitcoin es 
+una aplicación de blockchain, pero no 
+todas las aplicaciones de blockchain 
+toman la forma de criptomoneda. Por 
+ejemplo, la Web3, que es una 
+colección de tecnologías para el 
+desarrollo de aplicaciones web 
+descentralizadas enfocadas en que el 
+usuario final controle su propia 
+identidad e información. Web3 usa 
+blockchain como mecanismo de 
+verificación de confianza (Resnick et 
+al., 2022).
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+El reporte de las curvas de Gartner para estas tecnologías se 
+muestra continuación (Leow et al., 2023):
+Como puedes observar en la gráfica, algunas aplicaciones, como el Metaverso, 
+aún se encuentran muy lejos de llegar a la productividad, a pesar de que han 
+tenido gran cobertura mediática; sin embargo, otras aplicaciones, como las 
+criptomonedas, se encuentra de camino a la meseta de productividad con un 
+tiempo esperado de 2 a 5 años. 
+La meseta de productividad 
+será alcanzada en:
+menos de
+dos años
+más de
+10 años
+será obsoleto antes de alcanzar la productividad
+2 - 5 años
+5 - 10 años
+Tiempo
+Lanzamiento
+Pico de expectativas 
+sobredimensionadas
+Decentralized Autonomous 
+Organization Web 2.5
+Authenticated Provenance
+Secure Multiparty
+Computation
+DeFi
+Layer 1
+Blockchains
+Consensus Mechanisms
+Blockchain Wallets
+Cryptocurrencies
+Decentralized Applications
+Blockchain Intelligence 
+and Analytics
+Enhanced Blockchain as a Service
+Zero-Knowledge Proofs
+Stablecoins
+Blockchain and IoT
+Blockchain Oracles
+Decentralized Exchanges
+Retail CBDC
+Decentralized Identity
+Blockhain Interoperability
+Web3
+Tokenization
+Smart Contracts
+NFT
+Layer 2
+Abismo de desilusión
+Rampa de consolidación
+Meseta de productividad
+Julio 2023
+Expectativas
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+¿Has sido partícipe de un intercambio de criptomonedas, ya sea en 
+el ámbito personal o laboral?, ¿cómo fue tu experiencia?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+El gran impulso que ha tenido Bitcoin ha traído consigo una multitud de 
+criptomonedas y servicios alrededor de ellas, cada una con distintos atributos y 
+mejoras. Ethereum, una de las más conocidas, es la criptomoneda que 
+popularizó el concepto de contratos inteligentes (Buterin, 2015). Conoce más al 
+respecto en el siguiente video.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4

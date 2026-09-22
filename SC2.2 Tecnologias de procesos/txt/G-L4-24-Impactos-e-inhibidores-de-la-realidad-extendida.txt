@@ -1,0 +1,25 @@
+# L4 · Impactos e inhibidores de la realidad extendida
+Genially 65d398e58e6557001435d7bb → 65d398e8b063c00014087770
+
+Impactos e inhibidores dela realidad extendida
+En la industria y los negocios
+Aunque los impactos del uso de la realidad extendida en los negocios son variados, aún se presentan obstáculos o inhibidores para su adopción a gran escala.
+CODIGO NO BORRAR
+Impacto en los negocios
+Reducción de costos de entrenamiento. Reducción de riesgos a través de la simulación de tareas. Optimización de tiempos de ciclos de diseño. Nuevas maneras de colaboración. Nuevas maneras de interacción con clientes.
+(O'Connor et al., 2023).
+Obstáculos o inhibidores
+El contenido disponible sigue siendo limitado. La usabilidad de los dispositivos sigue teniendo áreas de mejora.
+La disponibilidad de una variedad de formas de dispositivos es limitada. Las soluciones existentes carecen de escalabilidad.
+Existen aún problemas de seguridad y confort, tales como jaquecas y náuseas, al usar dispositivos de realidad extendida por un largo periodo de tiempo. Falta de estandarización.
+(Zijadic et al., 2020).
+Finalmente, veamos un ejemplo de la importancia de la realidad extendida. Objetivo del ejemplo Diferenciar estratégicamente entre Realidad Virtual (VR) y Aumentada (AR) para seleccionar la tecnología adecuada en función del objetivo operativo, por ejemplo: capacitación inmersiva vs. asistencia en el flujo de trabajo.
+Problemática común ¿Cómo transferir el conocimiento de expertos veteranos a nuevos empleados sin detener la operación ni arriesgar la seguridad? Las industrias enfrentan una crisis de talento por jubilaciones. El entrenamiento en aula no enseña habilidades manuales y el entrenamiento en planta es peligroso y costoso (paros de línea). Además, enviar expertos a sitios remotos para reparaciones genera inactividad y altos costos de viaje.
+Solución desde la información de la lección
+La Realidad Extendida (XR) ofrece soluciones específicas:
+Entrenamiento (VR): Simuladores inmersivos para practicar situaciones de riesgo (emergencias, maquinaria pesada) sin peligro físico, generando memoria muscular. Operación Diaria (AR): Instrucciones superpuestas en el campo visual (gafas inteligentes). Caso Boeing: Reducción del 50 % en tiempo de ensamble y menos errores al liberar las manos del técnico. Telepresencia (AR): Asistencia remota donde el experto ve lo que ve el técnico y guía en tiempo real.
+Errores comunes que deben evitarse
+Confusión de herramientas: Usar VR (que tapa la visión) para tareas operativas donde el técnico necesita ver el entorno (riesgo de accidentes). Ignorar la ergonomía (UX): Dispositivos pesados que causan fatiga o mareos tras minutos de uso, llevando al rechazo del usuario. Soluciones aisladas: Demos tecnológicas ("Toy apps") que no se integran con los datos reales de ingeniería de la empresa.
+Puntos clave
+VR sustituye la realidad (ideal para simulación). AR complementa la realidad (ideal para asistencia). Beneficios: Reducción de costos de entrenamiento, minimización de riesgos laborales y optimización de tiempos. Clave: Iniciar con pilotos de ROI medible (seguridad, velocidad) antes de escalar.
+Continúa con el estudio de la lección.

@@ -1,0 +1,66 @@
+# L1 · Pruébate
+Genially 654bd3d2ad97aa00128ce678
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Diana a resolver algunas problemáticas.
+Diana tiene un rol de toma de decisiones en la empresa donde trabaja, por lo que está gestionando estrategias de implementación de tecnologías emergentes y necesita tu ayuda para aclarar las dudas que puedan surgirle en el camino. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Cuáles características puede identificar Diana en las tecnologías emergentes?
+Novedad, rápido crecimiento y potencial efecto transformador
+Novedad, lento crecimiento y potencial efecto auxiliar
+Tradicionales, auxiliares y potencial efecto transformador
+¡Correcto!
+Las tecnologías emergentes suelen caracterizarse por su novedad, rápido crecimiento y potencial efecto transformador, incluso en aspectos personales y sociales, no solo profesionales.
+¡Incorrecto!
+Recuerda que las tecnologías emergentes suelen caracterizarse por su novedad, rápido crecimiento y potencial efecto transformador, incluso en aspectos personales y sociales, no solo profesionales.
+Diana quiere distinguir cuál de las siguientes NO es una tecnología emergente con impacto directo en la transformación digital de una organización.
+Inteligencia artificial generativa
+Cómputo personal
+Minería de procesos
+Esta no es una tecnología emergente con impacto directo en la habilitación de la transformación digital de una organización, a diferencia de minería de procesos, IA generativa, cómputo en la nube, IoT, RPA o realidad aumentada.
+Esta sí es una tecnología emergente con impacto directo en la habilitación de la transformación digital de una organización, pero el cómputo personal no lo es.
+Un colega le alega a Diana que las tecnologías emergentes solamente pueden ser digitales. ¿Cuál debería ser la respuesta de Diana?
+Las tecnologías emergentes pueden provenir de cualquier área de la ciencia o la ingeniería
+Las tecnologías emergentes solo pueden ser digitales
+Las tecnologías emergentes nunca son digitales
+Una tecnología emergente puede provenir de cualquier área de la ciencia o la ingeniería, no necesariamente de lo digital.
+Recuerda que una tecnología emergente puede provenir de cualquier área de la ciencia o la ingeniería, no necesariamente de lo digital.
+Le preguntaron a Diana quiénes serán los responsables de los esfuerzos en la adopción de las tecnologías estratégicas, a lo que ella debería responder que:
+El esfuerzo debe cubrir a toda la organización
+Gerencias y puestos ejecutivos
+Los líderes
+El esfuerzo para un proyecto de implementación de tecnologías estratégicas debe cubrir a toda la organización: desde los equipos de liderazgo ( C-suite ) hasta la persona que ejecuta la operación del día a día.
+Recuerda que el esfuerzo para un proyecto de implementación de tecnologías estratégicas debe cubrir a toda la organización: desde los equipos de liderazgo ( C-suite ) hasta la persona que ejecuta la operación del día a día.
+¿Cómo puede describir brevemente Diana lo que es una tecnología emergente?
+Tecnología usada exclusivamente para llevar a la organización a la transformación digital
+Tecnología que aún está en desarrollo o que estará disponible en los próximos 5 a 10 años
+Tecnología con potencial de resolver crisis o emergencias en la organización
+Una tecnología emergente es aquella que aún está en desarrollo o que estará disponible en los próximos 5 o 10 años, y que tiene el potencial para impactar a la sociedad o la economía (Winston & Strawn LLP., 2023).
+Recuerda que una tecnología emergente es aquella que aún está en desarrollo o que estará disponible en los próximos 5 o 10 años, y que tiene el potencial para impactar a la sociedad o la economía (Winston & Strawn LLP., 2023).
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

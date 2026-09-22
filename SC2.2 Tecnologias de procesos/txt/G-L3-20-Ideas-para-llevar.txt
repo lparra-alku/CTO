@@ -1,0 +1,11 @@
+# L3 · Ideas para llevar
+Genially 65f9c47d75af4b00144c3176
+
+Ideas para llevar
+Continúa con tu aprendizaje en la siguien te lección.
+Blockchain permite la descentralización del control, sin una autoridad central o intermediarios es posible que cualquier persona pueda verificar la validez de datos.
+Un contrato inteligente es un programa que se monta en blockchain y la lógica de negocios que contiene será ejecutada automáticamente cuando las condiciones bajo las que está creado el contrato se cumplan.
+Además de los servicios financieros, existen muchos casos que aprovechan las características de la cadena de bloques, como en la cadena de suministro, bienes raíces, sistemas de votación y certificados.
+Descarga la versión impresa en el apartado Archivos adjuntos.
+Si una organización planea adoptar la tecnología de blockchain, debe considerar la gestión del cambio en el modelo operativo, el diseño organizacional, la gestión de los procesos y el gobierno de datos.
+La blockchain es una estructura de bloques que se enlazan juntos para formar una colección de registros, llamada “libro mayor” o “registro”, lo que contiene todas las transacciones procesadas del sistema y cada participante, o nodo, tiene una copia.

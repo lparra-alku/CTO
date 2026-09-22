@@ -1,0 +1,30 @@
+# L4 · Aplicaciones de la realidad extendida (parte 1)
+Genially 65d3990a4821cf0014cfd609
+
+Aplicaciones
+de la realidad extendida (parte 1)
+A pesar de sus limitaciones actuales, las aplicaciones de la realidad extendida en todas sus variantes son múltiples: desde videojuegos hasta ingeniería, que son las que veremos a continuación.
+Realidad extendida en las artes
+Para los artistas, la realidad virtual es un nuevo medio de expresión que, a diferencia de los tradicionales, no está limitado por las leyes físicas del mundo real. Se pueden hacer trabajos donde la escala ya no es un impedimento, los pintores no están limitados por un lienzo plano y los escultores pueden crear obras que cambian con la interacción del usuario (Aukstakalnis, 2016).
+Si esta realidad virtual en las artes puede presentar una verdadera interacción del usuario con una obra artística, ¿hasta qué punto un usuario podría ser partícipe de no solo la interpretación y conclusión de cualquier producto artístico, sino también parte de su producción?
+Realidad extendida en los videojuegos
+Prácticamente todas las grandes empresas tecnológicas con relación en un segmento del entretenimiento han desarrollado o están desarrollando productos afines con los videojuegos y la realidad extendida: hardwares, softwares y objetos virtuales.
+Realidad extendida en arquitectura y construcción
+Desde la experiencia inmersiva donde el arquitecto puede visualizar por dentro el diseño y crear paseos virtuales por la construcción antes de existir, hasta la aplicación de la realidad aumentada para visualizar avances, volúmenes e instalaciones a partir de modelos informáticos de construcción (BIM, por las siglas en inglés de Building Information Modeling), el uso de la realidad extendida se ha permeado de manera natural en esta área.
+Por el lado de la comercialización de bienes raíces, la generación de paseos inmersivos pueden facilitar el proceso de venta de los inmuebles, aprovechando el rápido cambio hacia lo digital derivado de la pandemia de COVID-19.
+Realidad extendida en la ingeniería
+En múltiples ramas de la ingeniería se está utilizando la realidad virtual como herramienta de diseño y simulación, permitiéndoles a equipos interdisciplinarios de ingenieros y diseñadores colaborar en un ambiente virtual común, incluso antes de que se construya un prototipo físico. La calidad de las simulaciones provee a los equipos una graduación altamente precisa de colores, contrastes, sombras, texturas, iluminación y reflejos (Aukstakalnis, 2016).
+Paul Davies, de Boeing Research & Technology, diseñó un estudio de realidad aumentada en conjunto con la Universidad de Iowa, cuyo objetivo era armar una maqueta de ala de avión (Hunter, 2017). Dividió a un grupo de personas en tres subgrupos, los cuales recibían las mismas instrucciones, pero cambiaba el modo de presentación:
+Gracias por tu respuesta
+¿Qué aplicaciones de la realidad extendida imaginas para tu organización dentro de un par de años?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Al primer grupo se le dieron las instrucciones en una computadora fija, con dibujos en 2D e instrucciones simples en texto.
+El éxito de juegos como Ingress o Pokémon Go ha demostrado el interés del mercado por la realidad mixta, a pesar de las limitaciones. Incluso, hay iniciativas de lugares especializados, como Zero Latency, donde los jugadores deambulan libremente en un espacio físico y virtual en compañía de otros jugadores.
+Desde la ingeniería automotriz, donde algunas grandes marcas utilizan estas tecnologías inmersivas para el diseño y la simulación de producto, hasta la industria aeroespacial, donde el uso de la realidad extendida tiene décadas de desarrollo, como con los primeros simuladores de vuelo y su uso en diseño aeronáutico, ergonómico o procesos de mantenimiento.
+Umberto Eco (1992) proponía que las obras artísticas (ya sea literatura, escultura, pintura, etcétera) no estaban terminadas sino hasta que el usuario reaccionara a ellas, es decir, hasta que el espectador sufre su goce estético, la valora y la interpreta, es que una obra de arte es concluida.
+La evolución del plano arquitectónico en papel hacia el despliegue hiperrealista tridimensional generado por computadora en la actualidad tendió un camino natural en dirección al uso de la realidad extendida en la arquitectura.
+Al tercer grupo se le dieron las instrucciones en un sistema de realidad aumentada, donde “las piezas volaban al lugar”. Este fue el grupo con mejor resultado, pues completó el proceso en la mitad de tiempo que el grupo 1 y con menos errores.
+Este es uno de los segmentos de mercado con mayor potencial de crecimiento y rentabilidad debido al alto número de entusiastas. Así que todo tipo de juegos, desde juegos de primera persona hasta juegos multijugador, están en desarrollo.
+Con la propuesta de la realidad virtual en las artes, ¿consideras que podría llevarse más lejos la poética propuesta por Eco en Obra Abierta?
+Al segundo grupo se le dieron las mismas instrucciones en una tableta portátil.

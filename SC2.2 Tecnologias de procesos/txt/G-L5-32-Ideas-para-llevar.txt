@@ -1,0 +1,12 @@
+# L5 · Ideas para llevar
+Genially 65de392193e26d0013aec1d1
+
+Ideas para llevar
+Continúa con tu aprendizaje en la siguien te lección.
+Considera en todo momento que:
+Descarga la versión impresa en el apartado Archivos adjuntos.
+La Gen AI funciona gracias a técnicas de machine learning, lo que permite que, a través de un algoritmo, una computadora pueda aprender relaciones y patrones entre datos para hacer una predicción o inferencia cuando se presente un nuevo dato.
+Las redes generativas adversarias son un modelo de redes neuronales profundas que permiten crear imágenes, mientras que los generadores de texto más conocidos son los LLM, por sus siglas en inglés de Large Language Models.
+A partir de la Gen AI se han derivado un sinfín de debates éticos, filosóficos y legales, sobre todo en el ámbito de la propiedad intelectual.
+Los riesgos de la Gen AI que deben tomarse en cuenta son el uso malicioso de la tecnología, la poca o nula transparencia, la falta de precisión constante, los sesgos, la seguridad y el fraude.
+La inteligencia artificial generativa (Gen AI, por el término en inglés Generative Artificial Intelligence ) es un tipo de IA que utiliza algoritmos y modelos de aprendizaje profundo para generar contenido, datos o soluciones.

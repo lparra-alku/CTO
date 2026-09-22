@@ -1,0 +1,15 @@
+# L5 · Posición actual de la Gen AI
+Genially 65de385693e26d0013ae3383
+
+actual de la Gen AI
+A pesar de lo visto en el recurso anterior, en aplicaciones de la inteligencia artificial generativa, con definiciones menos estrictas de “inteligencia”, hay modelos que han demostrado su utilidad en escenarios acotados.
+ChatGPT-3 puede generar artículos, ensayos, bromas e, incluso, poesía a partir del prompt (Hu, 2023). La interacción es por medio de un chatbot , es decir, la aplicación tiene una interfaz diseñada para replicar una conversación con lenguaje natural a través de texto, como en un chat con una persona. Las versiones más nuevas incluso permiten la creación de tu propio chatbot para integrarlo en productos particulares.
+La calidad en la generación de texto e imágenes ha mejorado sustancialmente y se han empezado a liberar modelos capaces de crear textos en una multitud de idiomas, con diversos estilos y longitudes, generar videos, códigos de programación e, incluso, nuevas estructuras de proteínas. Es innegable el impacto que ha tenido esta tecnología en todas las áreas, desde la industria hasta las artes, desde la banca hasta los juegos.
+Incluso la consultora Gartner generó una de sus reconocidas gráficas de curvas exclusivamente para la tecnología (Chandrasekaran & Ramos, 2023).
+Como puedes ver, para Gartner, la mayor parte de las tecnologías relacionadas con la inteligencia artificial generativa se encuentra en la etapa de lanzamiento o en el pico de expectativas sobredimensionadas. Por ello es necesario distinguir las aplicaciones reales de la sobreexcitación sobre la tecnología.
+Gracias por tu respuesta
+¿Crees que, en tu contexto laboral, la inteligencia artificial generativa tenga un uso provechoso?, ¿en qué aspectos?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Esta mejoría podría ser una consecuencia de la intención de conseguir un mejor modelo o producto, pues se han liberado productos similares al de OpenAI en varios países del mundo, respaldados por reconocidas universidades, grandes tecnológicas o startups con apoyo de inversionistas.
+Este producto de la empresa OpenAI alcanzó 100 millones de usuarios a tan solo dos meses después de su liberación en noviembre de 2022, consiguiendo el récord del crecimiento más rápido de base de usuarios.

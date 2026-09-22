@@ -1,0 +1,61 @@
+# L0 · ¿Cuánto sabes?
+Genially 65e65f31865ae90014885523
+
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Daniel a resolver algunas problemáticas.
+Daniel está revisando los problemas internos de Milport para entender a fondo cuál es la raíz de los errores y retrasos en la cadena de producción de la empresa. Además, planea encontrar las tecnologías emergentes de procesos que pudieran ayudar a la resolución de problemáticas. ¿Puedes ayudarlo en el proceso? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Los empleados de Milport dedican mucho tiempo a tareas repetitivas, el cual podrían aprovechar para resolver otros procesos que sí quieren más atención al detalle y criterio humano. ¿Cuál crees que sea la tecnología adecuada para que Daniel mejore estas condiciones?
+Ciberseguridad para evitar hackeos a las redes de los transportistas
+Automatización de tareas a través de RPA
+Monitoreo en tiempo real
+¡Correcto!
+La tecnología de RPA es ideal para automatizar tareas repetitivas y susceptibles al error que no necesitan atención al detalle ni criterio humano. Si Daniel implementa esta tecnología en Milport, podría liberar la carga de trabajo a los empleados para que se dediquen a procesos más críticos e importantes.
+¡Incorrecto!
+La respuesta correcta es Automatización de tareas a través de RPA. En este problema, Daniel podría implementar la tecnología RPA, pues es ideal para automatizar tareas repetitivas y susceptibles al error que no necesitan atención al detalle ni criterio humano. De esta manera, se podría liberar la carga de trabajo de los empleados para que se dediquen a procesos más críticos e importantes.
+El CEO de Milport quiere saber si alguno de los problemas puede ser resuelto por inteligencia artificial generativa y Daniel propone tres opciones, pero solo una de ellas es correcta, selecciónala:
+Sistema de interconexión entre todas las áreas para mantener un monitoreo en tiempo real
+Análisis de tiempos y movimientos para mantener en inventario lo indispensable
+Implementación de un chatbot para proveer soporte al cliente 24 horas e incrementar la lealtad
+La inteligencia artificial generativa es una opción excelente para la creación de un chatbot que pueda dar soporte 24 horas al día cualquier día de la semana a los clientes.
+La respuesta correcta es Implementación de un chatbot para proveer soporte al cliente 24 horas e incrementar la lealtad. La implementación de un chatbot con la inteligencia artificial generativa permite ofrecer soporte a cualquier hora, cualquier día de la semana, al cliente, facilitando la interacción e incrementando la lealtad.
+Los clientes se han quejado de que el rastreo de sus productos y envíos no es confiable y, por lo tanto, existen muchos errores de sincronización entre quien envía el pedido y quien lo recibe. ¿Cuál es una tecnología que podría proponer Daniel para solucionar este problema?
+Aplicación con blockchain para rastrear envíos
+Colaboración con proveedores con un sistema CRM
+Análisis predictivo de tiempos de entrega con IA
+La aplicación de una cadena de bloques o blockchain podría incrementar la confiabilidad del rastreo de productos, lo que aumentaría considerablemente la satisfacción del cliente de Milport.
+La respuesta correcta es Aplicación con blockchain para rastrear envíos. Una buena opción para incrementar la confiabilidad del rastreo de productos es la aplicación de cadena de bloques o blockchain, esto aumentaría considerablemente la satisfacción del cliente de Milport.
+Debido a que Milport trabaja con procesos complejos que requieren un gran tiempo de entrenamiento, Daniel está pensando en implementar una tecnología emergente para acortar la curva de aprendizaje. ¿Cuál es la opción más adecuada entre las siguientes?
+Actualizar sus políticas de onboarding para utilizar autoaprendizaje
+Adoptar un sistema de capacitación con realidad aumentada
+Incrementar el uso de tabletas electrónicas para cada empleado
+Un sistema de realidad aumentada puede disminuir considerablemente los tiempos de entrenamiento del personal, además de mejorar la retención de la capacitación.
+La respuesta correcta es Adoptar un sistema de capacitación con realidad aumentada. Adoptar un sistema de capacitación que haga uso de realidad aumentada puede disminuir considerablemente los tiempos de entrenamiento del personal, además de mejorar su retención en las capacitaciones.
+El CEO de Milport señala la importancia de asegurarse de que la tecnología a adoptar sea eficaz en el contexto de la empresa. Daniel explica que utilizará una herramienta para conocer la madurez y la adopción general de las tecnologías a lo largo de la industria, la cual es:
+IT Market Placement
+Hype Cycle de Gartner
+Curva de desilusión
+El Hype Cycle de Gartner es una herramienta muy reconocida y de renombre que funciona como una representación gráfica de la madurez y adopción de las tecnologías a lo largo de la industria. Aunque no garantiza el éxito y la eficiencia de la tecnología en el contexto de una empresa específica, sí brinda una visión general para tomar una decisión informada.
+La respuesta correcta era Hype Cycle de Gartner. Aunque no garantiza el éxito y la eficiencia de la tecnología en el contexto de una empresa específica, el Hype Cycle de Gartner brinda una visión general para tomar una decisión informada. Esta es una herramienta muy reconocida y de renombre que funciona como una representación gráfica de la madurez y adopción de las tecnologías a lo largo de la industria.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

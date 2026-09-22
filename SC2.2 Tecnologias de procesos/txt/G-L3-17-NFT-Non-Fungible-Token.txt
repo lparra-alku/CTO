@@ -1,0 +1,17 @@
+# L3 · NFT: Non-Fungible Token
+Genially 65f9c4d6a71b2000141c786f → 65f9c4eca71b2000141c882e
+
+Non-Fungible Token
+Existe otro tipo de tokens, conocidos como NFT, siglas del término en inglés Non-Fungible Token ( Token No Fungible) , protagonistas en la subasta de la obra “EVERYDAYS: THE FIRST 5000 DAYS” de Beeple.
+CODIGO NO BORRAR
+¿Qué es fungible?
+En términos económicos, algo fungible tiene la propiedad de intercambiarse por otra cosa del mismo tipo y valor, como intercambiar un billete de $100 por otro billete de $100 o por dos billetes de $50. Algo no fungible no puede ser intercambiado, por ejemplo, una pintura coleccionable, que es única y distinguible de las demás (Bashir, 2023).
+¿Qué es un NFT?
+Los NFT son artículos únicos, verificados y asegurados por una blockchain que provee autenticidad de origen, propiedad y permanencia para el NFT en cuestión a través de un contrato inteligente (Fortnow & Terry, 2021). Se puede transferir la propiedad del NFT a través de una transacción en la blockchain.
+¿De dónde surgió?
+En 2021, el artista Beeple subastó en 69 millones de dólares su obra de arte digital “EVERYDAYS: THE FIRST 5000 DAYS” a través de la casa de subastas Christie’s. La obra fue entregada directamente por el autor, acompañada de un NFT que indicaba los derechos de propiedad, la autenticidad de la obra y la firma del artista (Christie’s, s.f.).
+Y el concepto explotó…
+Durante la pandemia de COVID-19, la cultura digital se incrementó. Se generaron multitud de obras digitales, cada una más cara que la anterior, con artistas y personalidades hablando públicamente del asunto, con inversionistas y especuladores pagando precios cada vez más altos.
+…hasta que se saturó
+Pero pronto, el mercado de NFT se saturó. El principio de oferta y demanda se impuso, además del entendimiento de que no todos los NFT mantendrían su valor. Después de la pandemia, colapsó el mercado de criptomonedas y el apetito para inversiones de alto riesgo, como los NFT, disminuyó (Gimpsey, 2024).
+Continúa con el estudio de la lección.

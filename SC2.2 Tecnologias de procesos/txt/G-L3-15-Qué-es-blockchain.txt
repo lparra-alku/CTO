@@ -1,0 +1,24 @@
+# L3 · ¿Qué es blockchain?
+Genially 65f9c43286903400141af6f2
+
+blockchain?
+La tecnología blockchain permite un seguimiento descentralizado del control de la información, por lo que el rol de un intermediario es obsoleto en este caso.
+¿Qué es blockchain?
+La blockchain, o cadena de bloques, puede ser descrita como una estructura de bloques que se enlazan para formar una colección de registros, llamada “libro mayor” o “registro” , traducción literal del término contable en inglés ledger. Este libro mayor contiene el historial de las transacciones procesadas en el sistema y cada participante del sistema tiene una copia.
+Podríamos ver a la tecnología de blockchain como un sistema de pagos donde en vez intercambiar dinero directamente en la transacción, cada participante lleva en una libreta propia (nodo) que registra las entradas y salidas de dinero, tanto propias como de todos los demás participantes al mismo tiempo, es decir, distribuyen la responsabilidad del registro y todos están en consenso con este esquema.
+Ahora, imagina que se tienen 4 participantes en el sistema:
+Abarrotero
+Peluquera
+Carnicera
+El Abarrotero va a afeitarse y registra en su libreta una transacción de 5 monedas a favor de la Peluquera, luego le manda mensaje a los otros 3 participantes para que registren en sus libretas tal transacción. En otro momento, el Herrero visita al Abarrotero y compra algo por 7 monedas, y tanto él como los demás anotarán esta transacción como en la transacción anterior. Esto se hará con todas las transacciones que realicen.
+Para asegurar aún más el sistema, después de cada número predefinido de transacciones (bloque) , el participante que esté disponible valida ese bloque de transacciones y estampa su firma en los registros de las libretas de todos los participantes. Además, para evitar que se introduzcan registros en medio de otros anteriores, enlaza (o encadena) su firma con la firma del bloque anterior, asegurando que solamente se puedan agregar registros nuevos al final de cada libreta.
+Si todos los participantes llevan el registro de todas las transacciones de todos y, además, se tiene la firma de alguien en todos los registros, el sistema de pagos será altamente confiable, ya que se requeriría el consenso de todos los participantes en la red para modificar el historial de transacciones, lo que hace que ese historial prácticamente sea inmutable.
+Si alguno de los participantes pierde o daña su libreta, la información se puede recuperar desde la libreta de alguno de los otros participantes. Además, al entrar un nuevo participante, se le debe copiar en su libreta la historia existente en el sistema antes de que pueda agregar nuevas transacciones. Esta participación de todas las partes hace innecesario el rol de un intermediario que lleve el control de las transacciones.
+Existen implementaciones de redes públicas, redes privadas y redes autorizadas de blockchain.
+Gracias por tu respuesta
+Conociendo esto, ¿cómo se te ocurre que podría funcionar en tu organización la tecnología de blockchain?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+En las redes privadas solamente los participantes autorizados pueden ver y participar. Estas redes se usan en casos donde la privacidad es crucial, como en hospitales o instituciones financieras.
+Las redes públicas suelen ser grandes y descentralizadas, por lo que cualquier persona tiene acceso, además de tener la posibilidad de contar con un nodo de la red, introducir transacciones o revisar el historial de la cadena de bloques (Laurence, 2019).
+Las redes autorizadas ( permissioned en inglés) pueden ser públicas o privadas, pero la participación es controlada por alguna autoridad. Se utilizan en ambientes que requieren algún tipo de regulación, control o seguridad más estricta, por ejemplo, en una red de transacciones financieras, donde se pueda asegurar el cumplimiento regulatorio.

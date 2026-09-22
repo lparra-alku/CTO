@@ -1,0 +1,129 @@
+
+--- p1 ---
+con tecnología blockchain
+Casos de uso
+Además del nicho natural en servicios financieros, 
+existen varios casos de uso que aprovechan las 
+características de blockchain para reforzar o generar 
+nuevos procesos de negocio.
+
+--- p2 ---
+Las características de la cadena de bloques pueden ser 
+eficientes para múltiples casos de uso en la industria y a 
+continuación analizaremos algunos de ellos, tomando como 
+base a Karnoupakis (2023). 
+A través de la coordinación y la ejecución de transacciones entre múltiples 
+partes y jurisdicciones y su posterior registro en un “libro mayor” 
+compartido a nivel global, blockchain habilita la construcción de 
+infraestructura escalable, segura e interoperable, conectando sistemas en 
+papel que previamente eran incompatibles. Este registro global e histórico 
+de transacciones se puede utilizar para rastrear cualquier producto hasta 
+su origen en cuestión de minutos, caso que en un sistema tradicional 
+podría llevar días. 
+Algunos de los beneficios de utilizar blockchain en la cadena de suministro 
+son:
+Procedencia. Se conoce el origen y la historia completa de un 
+producto.
+Cadena de valor. Se conoce el valor agregado en cada paso de la 
+cadena de suministro.
+En el caso específico de la logística, el uso de blockchain permite el 
+seguimiento a detalle de la cadena de suministro, la autenticación y 
+verificación de productos, además de obtener beneficios como la 
+optimización de pagos y la gestión de inventarios. Y debido a la 
+descentralización de la información, aumenta la transparencia y confianza 
+entre los colaboradores (ya sean internos o externos), clientes y la empresa. 
+Por otro lado, el uso de contratos inteligentes puede agilizar los procesos de 
+negociación entre la cadena de suministro y proveedores, lo que facilita los 
+Cadena de suministro
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+procesos, permite una gestión más efectiva de los 
+recursos y, por supuesto, mejora la satisfacción del 
+cliente.
+Sin embargo, hay que considerar que, a pesar de los 
+beneficios, existen algunos inconvenientes (Tyagi & 
+Shaveta, 2021):
+La tecnología de blockchain es altamente dependiente de internet; una 
+mala infraestructura de telecomunicaciones puede arruinar la 
+implementación.
+La contabilidad y la auditoría dependen de la legislación, por lo que el 
+proceso debe poder adecuarse inmediatamente a cualquier cambio en 
+la regulación.
+Se debe identificar un área donde el valor sea creado y los beneficios 
+compartidos por todos los jugadores.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Bienes raíces
+Sistemas de votación
+En algunos países se han llevado a cabo ejercicios electorales donde el voto 
+electrónico es respaldado por una cadena de bloques, lo que asegura la 
+integridad, la trazabilidad y la inmutabilidad del voto. En México, el 
+Sistema de Voto Electrónico por Internet (SIVEI), diseñado para que las 
+personas de origen mexicano residentes en otro país puedan ejercer su 
+La tokenización de bienes raíces es un área que en 
+muchos países empieza a madurar. Existen iniciativas 
+donde se fracciona el valor de proyectos o construcciones en 
+tokens digitales (NFT), permitiendo ventas parciales del 
+proyecto. En México, existen proyectos donde un token 
+representa los derechos sobre una propiedad inmobiliaria y el 
+aprovechamiento derivado de su explotación (Escobar, 2023).
+Algunos retos en la aplicación de esta tecnología en esta área, de acuerdo 
+con Furlonger & Uzureau (2023), son:
+El marco regulatorio es incierto, incluyendo la parte contable y fiscal.
+Deudas, hipotecas o préstamos preexistentes pueden complicar la 
+tokenización de una propiedad.
+El formato de token, el registro y la asignación de lotes pueden 
+generar estructuras de tokenización costosas o que prevengan la 
+liquidez de la propiedad.
+El actual mercado digital de tokens está muy fragmentado, evitando la 
+adopción masiva.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Certificados, credenciales y títulos educativos
+El uso de blockchain para crear, emitir, ver y verificar certificados ya tiene 
+varios años. Existen estándares abiertos y reconocidos en uso por 
+reconocidas universidades e instituciones alrededor del mundo, entre ellas 
+el Tecnológico de Monterrey, que menciona en su sitio de Tecnologías 
+Educativas Emergentes lo siguiente (Mostla, s.f.):
+derecho al voto, utiliza tecnología de blockchain  
+(INE/CG234/2020). 
+Adicionalmente, los sistemas de votación basados en 
+blockchain deben asegurar la privacidad del votante y 
+garantizar el no repudio, esto es que el votante no pueda rechazar el voto 
+que emitió.
+Un título electrónico en blockchain moderniza el proceso de verificación 
+por parte de universidades y empleadores, eliminando la necesidad de 
+recurrir a la fuente original de emisión para verificar la autenticidad de los 
+mismos. También se puede compartir en redes sociales profesionales, 
+utilizando un vínculo a tu título electrónico.
+Al obtener un título electrónico te conviertes en dueño de tus registros 
+académicos oficiales. En otras palabras, el Tecnológico de Monterrey no 
+sólo te enviará una copia digital de tu título; te emite tu título original.
+Al ser dueño de tus registros, ya no es necesario conseguir copias 
+originales cada vez que lo necesites. Puedes simplemente enviar tu título 
+electrónico a través de correo electrónico, mensaje de texto, pegar el 
+enlace de tu título electrónico en tu CV o perfil de LinkedIn, etc.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+¿Alguno de estos usos sería práctico en la 
+organización donde te desenvuelves?, ¿por qué 
+lo crees así?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6

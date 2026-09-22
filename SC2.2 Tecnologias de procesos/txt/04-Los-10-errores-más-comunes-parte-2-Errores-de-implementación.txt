@@ -1,0 +1,103 @@
+
+--- p1 ---
+Para Gartner, los 10 errores más comunes en iniciativas de automatización 
+se dividen en errores de aproximación, errores de implementación y 
+errores en el impacto (Guttridge & Shotton, 2023). En este recurso, 
+conocerás los errores de implementación.
+Errores de implementación 
+Los 10 errores más 
+comunes (parte 2):
+
+--- p2 ---
+La automatización suele ser la mejor opción a largo plazo para procesos que no 
+han sido actualizados, donde ciertas integraciones no se han implementado o la 
+inversión en TI es limitada; incluso, puede ser una solución temporal mientras 
+se implementan las soluciones de largo plazo de los planes de modernización.
+Sin embargo, muchas organizaciones están utilizando la automatización para 
+cubrir las brechas de un proceso mal diseñado, lo que puede ser perjudicial, 
+pues extienden la vida de las aplicaciones heredadas y retrasan la 
+inversión en modernización. En estos casos, es mejor encontrar 
+alternativas de reemplazo de sistemas que puedan generar más y mejores 
+beneficios. Es por esto que no se debe omitir la evaluación del beneficio 
+de automatizar contra el de reemplazar, es decir, ¿qué pesará más: las 
+ganancias a corto plazo o la robustez de una solución de largo plazo?
+4. Pensar que la automatización es 
+siempre la respuesta correcta
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Es importante que los algoritmos y las reglas sean exactamente 
+correctos para que la tecnología de automatización funcione, sobre 
+todo si se trata de una hiperautomatización, pues en ese caso existe una 
+combinación de múltiples tecnologías para un proceso largo o complejo. Si esta 
+exactitud de algoritmos y reglas no se cumple, las tecnologías podrían 
+arruinar los datos empresariales, recabar datos deficientes o crear 
+cuellos de botella. Por lo tanto, no se lograrían los resultados deseados y, 
+además, podría afectar a clientes, empleados y procesos. Todo esto podría 
+convertirse en un problema mayor si los datos se corrompen o los resultados 
+son incorrectos y, en esos casos, el costo de deshacer un solo error puede 
+superar el costo de implementación de la automatización en sí. Para evitarlo, es 
+imperativo realizar pruebas exhaustivas que examinen el proceso de 
+principio a fin, no solo las funciones y programación de la automatización.
+5. No dedicar suficiente tiempo a las pruebas
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+En algunas situaciones, las 
+organizaciones descubrirán que 
+seleccionaron el proceso 
+equivocado para automatizar, 
+incluso si llevaron a cabo una 
+cuidadosa identificación de procesos, 
+pero esto sucede cuando los procesos 
+no están claramente documentados, 
+si el flujo de trabajo no es consistente 
+o si hay demasiadas variantes en la 
+toma de decisiones.
+Esto lleva a desperdiciar tiempo y 
+esfuerzos significativos, por eso, es 
+recomendable desarrollar un 
+conjunto de reglas que ayuden a 
+descartar procesos o tareas que 
+no están preparados para la 
+automatización y, de esta manera, 
+evitar gastos a futuro. Las 
+directrices podrían basarse en el 
+número de pasos en el proceso, las 
+integraciones requeridas o la claridad 
+del entendimiento del proceso. Como 
+consejo, la regla de Pareto 80/20 
+es una herramienta útil para 
+seleccionar las herramientas, 
+considerando el costo de 
+implementación vs. las horas 
+ahorradas.
+6. Desperdiciar esfuerzo en procesos demasiado complejos o 
+que no son adecuados
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Un error común en la implementación de herramientas de automatización de 
+procesos es replicar el proceso existente, sin evaluar reingenierías que puedan 
+lograr un mejor resultado. Aplicar metodologías de reingeniería de 
+procesos encamina hacia una implementación exitosa, centrándose en 
+los objetivos y metas empresariales para usar tecnologías que 
+entreguen resultados eficientes.
+7. Tratar la automatización como un ejercicio de replicación 
+de procesos
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Considerando los errores de implementación, ¿crees que 
+tu organización tiene claros los procesos que se llevan a 
+cabo para comenzar con su automatización?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+Reflexiones

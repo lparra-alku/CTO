@@ -1,0 +1,24 @@
+# L4 · Historia de la realidad extendida
+Genially 65d394a88e65570014332256 → 65d394acb063c0001405c55f
+
+Historia de la
+realidad extendida
+El nacimiento de la realidad virtual no fue espontáneo. Podemos rastrearlo desde los simuladores de transporte (auto, avión, tren) que permitían a los usuarios interactuar con un ambiente parcialmente virtual.
+CODIGO NO BORRAR
+Décadas 1920 y 1930
+Edward Link crea los primeros simuladores de vuelo para entretenimiento de pilotos, utilizando dispositivos electromecánicos para replicar y simular el movimiento de avión, turbulencias o disturbios externos (Virtual Reality Society, s.f.).
+“Las gafas de Pigmalión”, historia de ciencia ficción de Stanley G. Weinbaum, describe la idea de un par de anteojos que permiten experimentar un mundo ficticio a través de hologramas, aromas, sabores y el tacto.
+Décadas 1960 y 1970
+El artículo “The Ultimate Display” de Ivan Sutherlan describe el concepto de realidad simulada, convirtiéndose en la base de los conceptos de la realidad virtual actual.
+Inventos que podrían considerarse predecesores directos de los dispositivos modernos, como las pantallas montadas en cabeza de Morton Heili o el simulador de vuelo de Thomas Furness.
+Décadas 1980 y 1990
+Jaron Lanier popularizó el término de realidad virtual. Su empresa VPL fue la primera en vender dispositivos de realidad virtual, tales como visores y guantes.
+Dispositivos al alcance del público enfocados en los videojuegos.
+Gran impacto de la película Matrix, acercando el tema de realidad virtual a la población.
+Década 2010
+El proyecto Oculus de Palmer Luckey, financiado por la plataforma Kickstarter, genera un parteaguas en los dispositivos para público general.
+Este proyecto fue comprado por la empresa Facebook.
+NASA crea el proyecto VIEW.
+Empieza la oferta de visores de realidad virtual por todas las grandes empresas tecnológicas de productos para el consumidor.
+La realidad virtual, como la conocemos en la actualidad, ha sido posible hasta hace poco gracias a un incremento significativo en el poder computacional y, sobre todo, en la capacidad de generar imágenes por computadora en tiempo real y la habilitación entre el usuario y el mundo virtual, también en tiempo real (Fuchs et al., 2011).
+Continúa con el estudio de la lección.

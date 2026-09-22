@@ -1,0 +1,64 @@
+# L5 · Pruébate
+Genially 65de391d93e26d0013aebf68
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Adriana a resolver algunas problemáticas.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+En los últimos meses, Adriana se ha encargado de liderar una investigación sobre inteligencia artificial generativa para ver si es viable implementar la tecnología en el despacho de arquitectos donde trabaja. Sin embargo, necesita tu ayuda para terminar de comprender ciertos temas y conceptos, ¿puedes ayudarla? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Adriana quiere explicar de forma concisa cuál es el enfoque de la inteligencia artificial generativa. Selecciona la opción más adecuada para ello:
+Tipo de IA que utiliza algoritmos y modelos de aprendizaje profundo para generar contenido, datos o soluciones
+Tipo de IA que utiliza patrones, sensores y algoritmos para automatizar un proceso existente
+Tipo de IA que permite a los robots tomar decisiones sin intervención humana
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+¡Correcto!
+La capacidad de creación de la Gen AI se basa en el aprendizaje de patrones y estructuras de los datos de entrenamiento para luego producir resultados coherentes.
+¡Incorrecto!
+La inteligencia artificial generativa es un tipo de IA que utiliza algoritmos y modelos de aprendizaje profundo para generar contenido, datos o soluciones, cuya capacidad de creación se basa en el aprendizaje de patrones y estructuras de los datos de entrenamiento para luego producir resultados coherentes.
+Para contemplar la adopción de la tecnología en su despacho, Adriana quiere enlistar las razones por las que la Gen AI ha tenido un crecimiento tan grande. Selecciona la opción que reúna dos de las razones principales:
+La promoción de las grandes empresas tecnológicas y la habilidad de reemplazar la mano de obra humana
+Los problemas con derechos de autor y el uso libre de la información de propiedad intelectual
+El enorme potencial del tamaño de mercado y la generación masiva de datos
+El enorme potencial del tamaño de mercado y la generación masiva de datos son resultado del avance continuo de la investigación académica, el desarrollo de proyectos y productos de IA y la continua innovación de sistemas.
+Las razones principales para el crecimiento exponencial que ha tenido la Gen AI en los últimos años tiene que ver con el enorme potencial del tamaño de mercado y la generación masiva de datos.
+Adriana tiene en claro que la Gen AI funciona gracias al machine learning, ¿pero a qué se refiere este término?
+Al campo de estudio que le permite a las computadoras “aprender” sin ser explícitamente programadas
+A la generación de energía sustentable, como la hidráulica o eólica
+Al aprendizaje por medio de dispositivos electrónicos o modalidades en línea
+El machine learning, o aprendizaje automático, permite que, a través de algoritmos, las computadoras aprendan relaciones y patrones entre datos, con lo que pueden hacer una predicción o inferencia cuando se presenta un nuevo dato.
+El machine learning, o aprendizaje automático, es el campo de estudio que le permite a las computadoras “aprender” sin ser explícitamente programadas.
+Ahora bien, Adriana sabe que la Gen AI es capaz de generar imágenes completamente nuevas gracias al machine learning, pero ¿cuál es la técnica específica que se utiliza para ello?
+Modelo de redes generativas adversarias
+Large Language Models
+Redes de consciencia artificial profunda
+El modelo de redes generativas adversarias es un modelo de redes neuronales profundas creado en 2014 por Ian Goodfellow, el cual permite crear imágenes.
+Recuerda que el modelo de redes generativas adversarias es un modelo de redes neuronales profundas creado en 2014 por Ian Goodfellow, el cual permite crear imágenes.
+Por último, Adriana quiere presentar una propuesta de cómo la inteligencia artificial generativa puede impactar en el despacho de arquitectura en el que trabaja. Selecciona la opción que NO brinde una solución para su empresa todavía.
+Asistencia inteligente para los procesos de diseño
+Generación de ideas incipientes para el diseño
+Seguimiento de procesos burocráticos
+El seguimiento de procesos burocráticos no es una solución viable del uso de la Gen AI en un despacho de arquitectura, pues uno de los riesgos de esta tecnología es la poca precisión y la poca transparencia en su generación.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

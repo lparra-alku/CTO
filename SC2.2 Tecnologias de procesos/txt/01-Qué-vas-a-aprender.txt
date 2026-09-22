@@ -1,0 +1,67 @@
+
+--- p1 ---
+Tecnologías emergentes de procesos para 
+apoyar la transformación digital
+¿Qué vas a aprender?
+Cómo saber cuál es el mejor uso de 
+tecnologías de acuerdo con las necesidades y 
+características de la organización.
+Cuáles son las tecnologías emergentes de 
+procesos que están cobrando una importancia 
+relevante en varios sectores industriales.
+La transformación digital requiere, además de un cambio de mentalidad y de cultura general, la adopción de tecnologías 
+emergentes que permitan una innovación en los procesos de la organización. Por eso, en este curso conocerás:
+La aplicación de estas tecnologías 
+emergentes de procesos en diversas áreas y 
+con usos eficientes.
+Así que te damos la bienvenida al curso 
+“Tecnologías emergentes de procesos 
+para apoyar la transformación digital”
+Los retos, las ventajas, desventajas y 
+beneficios para tomar decisiones informadas 
+según lo que tu contexto laboral necesita.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p2 ---
+Material de consulta
+Conoce a continuación algunas de las referencias del curso por 
+tema, copia y pega en una pestaña nueva los enlaces de tu interés.
+Introducción a las tecnologías emergentes
+CompTIA. (Mayo de 2020). The Role of Emerging Technology in Digital Transformation. https://
+www.comptia.org/en-us/resources/research/the-role-of-emerging-technology-in-digital-
+transformation/
+Fæste, L., Reeves, M., Whitaker, K. (2019). The Science of Organizational Change. Boston Consulting 
+Group. https://www.bcg.com/publications/2019/science-organizational-change 
+
+--- p3 ---
+Robotic Process Automation (RPA)
+Blockchain
+Material de consulta
+Conoce a continuación algunas de las referencias del curso por 
+tema, copia y pega en una pestaña nueva los enlaces de tu interés.
+Nota: Los enlaces a las páginas web incluidos en esta bibliografía fueron consultados y verificados por última vez 
+el 01 de octubre del 2025 y su disponibilidad depende del autor.
+Driscoll, T. (01 de marzo de 2018). Value through Robotic Process Automation. Strategic Finance.
+                https://www.sfmagazine.com/articles/2018/march/value-through-robotic-process-automation/
+Bashir, I. (2023). Mastering Blockchain (4th Edition). Packt Publishing.   
+Tyagi, S., & Shaveta, B. (2021). Blockchain for Business. Wiley-Scrivener.   
+Osman, C. C. (2019). Robotic Process Automation: Lessons Learned from Case Studies. 
+         Informatica Economica, 23, 66-75. doi:10.12948/issn14531305/23.4.2019.06 
+
+--- p4 ---
+Material de consulta
+Conoce a continuación algunas de las referencias del curso por 
+tema, copia y pega en una pestaña nueva los enlaces de tu interés.
+Realidad virtual/aumentada
+Hunter, L. (2017). Augmented Reality for the Industrial Enterprise. O’Reilly Media, Inc.
+Sutherland, I. (1965). The Ultimate Display. Proceedings of IFIP Congress, (506-508). 
+https://www.semanticscholar.org/paper/The-Ultimate-Display-Sutherland/
+dce55f83dd425c68e5d1c1714dd0c8bbb43e54d9 
+Inteligencia artificial generativa
+Chui, M., Hazan, E., Roberts, R., Singla, A., Smaje, K., Sukharevsky, A., Yee, L. & Zemmel, R. (14 
+de junio de 2023). The economic potential of generative AI. McKinsey & Company. https://
+www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-
+generative-ai-the-next-productivity-frontier#introduction
+Pandey, M. (19 de diciembre de 2022). Why is No One Taking Generative AI Seriously? 
+Analytics India Magazine. https://analyticsindiamag.com/why-is-no-one-taking-
+generative-ai-seriously/

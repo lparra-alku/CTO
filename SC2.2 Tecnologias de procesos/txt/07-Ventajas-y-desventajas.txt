@@ -1,0 +1,208 @@
+
+--- p1 ---
+Como en todas las tecnologías, blockchain tiene ventajas y desventajas, por 
+lo que existen fuertes retos que tiene que afrontar o sortear para lograr un 
+impacto duradero en las organizaciones.
+desventajas
+Ventajas y 
+
+--- p2 ---
+Simplificación de paradigmas. En muchas industrias, cada entidad 
+mantiene sus propios datos, por lo que compartirlos puede ser complicado 
+debido a la disparidad de sistemas existentes. Sin embargo, una cadena de 
+bloques puede servir como una libreta compartida entre todas las partes 
+interesadas, reduciendo la complejidad de gestionar y mantener sistemas 
+separados en cada entidad.
+Tratos ágiles. En la industria financiera, una cadena de bloques puede 
+jugar un rol importante al habilitar la liquidación rápida de operaciones o 
+posiciones de inversión al no requerir un proceso extensivo de verificación, 
+reconciliación y autorización, ya que existe una única versión de datos 
+previamente acordados en una libreta compartida entre las organizaciones.
+Ahorros. Al no haber intermediarios o terceros centralizados, se pueden 
+reducir los gastos de tarifas.
+Ventajas
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Tenencia inteligente. Es 
+posible ligar un activo digital o 
+físico a la cadena de bloques de 
+tal manera que no pueda ser 
+reclamado por nadie más. 
+Inmutabilidad. Una vez que se 
+ha escrito un dato en la cadena 
+de bloques es sumamente difícil 
+cambiarlo o reemplazarlo. No es 
+genuinamente inmutable, pero 
+es tan complicado y “casi tan 
+imposible” cambiar un dato, que 
+se considera como inmutable. 
+Esto es un beneficio en 
+escenarios de auditoría y 
+cumplimiento regulatorio.
+Alta disponibilidad. En una 
+cadena de bloques digital actual, 
+una red puede estar compuesta 
+de miles de nodos 
+punto-a-punto, y cada dato y 
+transacción se replica en cada 
+nodo, haciendo que el sistema 
+esté disponible en cada 
+momento, incluso si nodos 
+abandonan el sistema o pierden 
+conectividad.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Alta seguridad. Las 
+transacciones en una cadena de 
+bloques se aseguran utilizando 
+herramientas criptográficas, 
+proveyendo así integridad. Todas 
+y cada una de las transacciones 
+en el sistema se verifican bajo un 
+conjunto preestablecido de 
+reglas y solamente transacciones 
+válidas se seleccionan para ser 
+incluidas en un bloque de la 
+cadena. 
+Contratos inteligentes. El 
+uso de contratos inteligentes 
+provee flexibilidad, agilidad, 
+seguridad y automatización para 
+escenarios de negocio reales. 
+Estos contratos se pueden 
+programar para desempeñar 
+cualquier acción que el usuario 
+necesite de acuerdo con los 
+requerimientos del negocio. 
+Aunque es importante recordar 
+que no todas las blockchains 
+tienen los mecanismos para 
+ejecutar contratos inteligentes.
+A pesar de las múltiples ventajas, 
+también hay desventajas y retos que 
+Desventajas
+requieren reforzar la robustez, 
+utilidad y accesibilidad del sistema. 
+Por ejemplo (Bashir, 2023):
+Escalabilidad. Las redes 
+actuales de blockchain no son 
+tan escalables como, por 
+ejemplo, las redes financieras 
+modernas. Esta es un área de 
+preocupación general.
+Consumo energético. El 
+Departamento Federal del 
+Medio Ambiente, Transportes, 
+Energía y Comunicación de 
+Suiza estima que el mecanismo 
+de consenso más común de las 
+cadenas de bloque es 
+responsable de un consumo de 
+más de 100TWh por año, el 
+equivalente a la electricidad 
+producida por 10 centrales 
+nucleares. Este consumo se 
+deriva de todos los equipos 
+computacionales requeridos 
+para mantener la red en 
+funcionamiento (Coroamă, 
+2021). Actualmente, existen 
+varias líneas de desarrollo para 
+disminuir este consumo en 
+muchas de las tecnologías de 
+blockchain.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Regulación. Debido a la misma naturaleza descentralizada de la cadena 
+de bloques, la regulación por parte de gobiernos o grandes organizaciones 
+es casi imposible, sobre todo en las blockchain públicas. Esto se puede ver 
+como una barrera de adopción, sobre todo en el ámbito de las 
+criptomonedas, porque, tradicionalmente, debido a la existencia de 
+autoridades reguladoras, los consumidores tienen cierto nivel de confianza 
+de que si algo sucede, alguien será hecho responsable. El reciente colapso 
+de la casa de intercambio de criptomonedas FTX en 2022, donde 1 millón 
+de acreedores perdieron al menos 8,000 millones dólares y el fundador fue 
+procesado legalmente y está en espera de sentencia en los EE. UU., es un 
+ejemplo de los casos que influyen en la confianza de los consumidores.
+Mientras existen algunos intentos aislados de la legalización de las 
+criptomonedas, siendo el caso de El Salvador uno de los conocidos, donde 
+el bitcoin es una moneda de curso legal desde el 2021 (Asamblea 
+Legislativa De La República De El Salvador, 2021), aún existen otros países 
+que prohíben expresamente el uso de criptomonedas, como Argelia, 
+Bolivia, China, Marruecos, Egipto y Nepal (Reyes, 2021). 
+Privacidad. En muchas tecnologías de bitcoin que se manejan de manera 
+pública, como la misma aplicación Bitcoin, todas las personas pueden ver 
+todas las transacciones, por lo que la privacidad es una preocupación. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Conociendo el identificador de 
+alguien puedes rastrear todo su 
+historial de transacciones. Esta 
+transparencia no es deseable en 
+muchas industrias, como la 
+financiera, la legal o la médica. 
+En los últimos años, se han 
+desarrollado, y se siguen 
+investigando y desarrollando, 
+esquemas que puedan asegurar 
+la privacidad en blockchain.
+Tecnología inmadura. A 
+diferencia de otras tecnologías 
+informáticas que tienen décadas 
+de evolución y madurez, las 
+cadenas de bloques aún tienen 
+áreas de oportunidad en 
+experiencia de usuario, 
+seguridad e interoperabilidad. 
+Algunas aplicaciones, como el 
+aseguramiento de identidad en 
+Web3, requieren madurar aún 
+en temas de regulación, 
+gobernanza y seguridad.
+Interoperabilidad. Es un 
+problema de dos frentes. 
+Primero, la interoperabilidad de 
+blockchain con los sistemas 
+empresariales en uso; y 
+segundo, la interoperabilidad 
+entre distintas tecnologías de 
+blockchain.
+Adopción. Aunque el uso de 
+blockchain en ciertas áreas tiene 
+un gran número de usuarios, 
+como el caso de las 
+criptomonedas, aún queda un 
+largo camino antes de la 
+adopción en masa de la 
+tecnología. Por otro lado, el 
+personal con las habilidades 
+para poder diseñar, desarrollar e 
+implementar un sistema basado 
+en cadena de bloques es escaso, 
+a pesar de que el mercado para 
+estas habilidades ha sido 
+altamente competitivo desde 
+hace algunos años.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+¿Cómo crees que tu organización podría aprovechar las ventajas? 
+Por otro lado, ¿consideras que está preparada para afrontar las 
+desventajas?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Definitivamente, blockchain es una tecnología con muchos retos que afrontar, 
+y fuera de las criptomonedas, que es el caso de uso más conocido en la 
+actualidad, existen muchas áreas donde la cadena de bloques puede ser útil. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7

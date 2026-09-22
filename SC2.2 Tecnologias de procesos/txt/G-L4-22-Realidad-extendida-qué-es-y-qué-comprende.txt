@@ -1,0 +1,35 @@
+# L4 · Realidad extendida: ¿qué es y qué comprende?
+Genially 65d394afb063c0001405c75c
+
+extendida: ¿qué es y qué comprende?
+La realidad extendida se emplea como un término sombrilla que abarca la realidad virtual, la virtualidad aumentada , la realidad aumentada y la realidad mixta. ¿Cómo podemos definir cada uno de estos términos?
+El término de realidad extendida se utiliza de manera amplia para referirse a todas las tecnologías que aumentan o reemplazan nuestra visión del mundo: desde la realidad aumentada hasta la realidad virtual.
+Realidad extendida (XR)
+Realidad mixta (MR)
+Realidad aumentada (AR)
+Virtualidad aumentada (AV)
+Realidad virtual (VR)
+Ambiente real
+Realidad virtual
+La realidad virtual es el uso de técnicas computacionales para construir ambientes tridimensionales virtuales en los que un usuario puede percibirse como si estuviera “dentro” y donde puede interactuar con las entidades del ambiente por medio de métodos que combinan sensores y motores (Fuchs et al., 2011). A medida que avanza la tecnología, la realidad virtual va conjuntado más disciplinas, tanto de la ciencia y la tecnología como de las ciencias humanas y naturales.
+Virtualidad aumentada
+La virtualidad aumentada consiste en un ambiente de realidad virtual donde el usuario interactúa principalmente con objetos virtuales, pero es posible agregar elementos del mundo real a este ambiente virtual.
+Realidad aumentada
+La realidad aumentada, por su parte, es una manera de ver el mundo real “aumentándolo” o complementándolo con gráficos, audios o videos generados por computadora. A diferencia de la realidad virtual, no se crea un ambiente nuevo, sino que agrega información que se visualiza sobre el mundo real.
+Esta tecnología es muy utilizada en teléfonos inteligentes, donde la aplicación requiere que el usuario sostenga el teléfono frente a él para que, utilizando la cámara, se pueda desplegar información o gráficos sobre la imagen (Arm Editorial Team, 2022).
+Aunque la experiencia de la realidad aumentada en los teléfonos inteligentes ha ido mejorando con los años, todavía nos obligan a tener un dispositivo en las manos. Por ello, se ha buscado una mejor experiencia a través de gafas inteligentes o smart glasses, aunque sus aplicaciones siguen siendo limitadas tanto para el mercado de consumidor como para el mercado empresarial.
+Realidad mixta
+La realidad mixta se ubica entre la realidad virtual, donde todo el ambiente es generado, y la realidad aumentada, donde el contenido generado se muestra en el mundo real. Este tipo de tecnología permite la interacción del usuario con el contenido generado computacionalmente sobre el ambiente real.
+Gracias por tu respuesta
+Hablando de la realidad aumentada, ¿conoces alguna otra aplicación que utilice la combinación de cámara y pantalla del teléfono inteligente para presentar información sobre algo del mundo real?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+El casco de Iron Man o las pantallas de Minority Report son ejemplos de realidad mixta en las películas. En la vida real, el juego Pokémon Go es un ejemplo conocido de esta tecnología.
+Para muchos especialistas, la interacción con el ambiente virtual es una condición obligada, por lo que, de manera estricta, no considerarían realidad virtual una película en 3D tradicional. Sin embargo, otros especialistas sí consideran una película en 3D como una forma simple de realidad virtual, ¿tú qué opinas?
+Ciencia y tecnología: Ciencia computacional, robótica, electrónica y mecánica, tanto óptica como acústica. Ciencias humanas y naturales: Ergonomía, fisiología, neurobiología e, incluso, la psicología.
+Dispositivos que combinan cómputo, sensores y pantallas integrados en un formato de gafas tradicionales.
+En el mercado de consumidor, los productos tienen limitaciones tecnológicas de procesamiento o despliegue comparados con las expectativas que han generado las películas o la literatura.
+Dado que es complicado definir el punto exacto donde la realidad mixta se convierte en realidad virtual o realidad aumentada, en los 90s, el investigador Paul Milgram desarrolló una escala en un continuo para mostrar dónde se sitúan estos términos (Mealy, 2018).
+En el mercado empresarial existen opciones con funcionalidad más avanzada y especificaciones de protección de nivel industrial; sin embargo, el costo es más elevado y la estética, factor importante en un producto de consumidor, puede ser relegada a segundo plano a favor de la ergonomía y funcionalidad.
+Por ejemplo, incorporando objetos físicos, personas o paisajes del mundo real dentro del mundo virtual creado artificialmente.
+Filtros de Instagram y Snapchat, el traductor de texto en tiempo real de Google o la información que se sobrepone sobre un campo de juego en un deporte, como las líneas virtuales de primero y diez creado por la empresa SMT para el fútbol americano.

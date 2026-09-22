@@ -1,0 +1,176 @@
+
+--- p1 ---
+realidad extendida
+(parte 2)
+Aplicaciones de la
+A pesar de sus limitaciones actuales, las 
+aplicaciones de la realidad extendida en todas sus 
+variantes son múltiples: desde varias áreas de la 
+industria hasta usos militares, que son los que 
+veremos a continuación.
+
+--- p2 ---
+La realidad extendida también se 
+utiliza ampliamente en varias áreas 
+de la industria. Incluso, existe una 
+asociación llamada Augmented 
+Reality for Enterprise Alliance 
+que busca promover la 
+adopción de sistemas 
+interoperables de realidad 
+aumentada (Augmented Reality 
+for Enterprise Alliance, s.f.). 
+Algunos de los casos de uso que 
+presenta esta asociación son:
+Asistencia remota, donde 
+un experto puede guiar a 
+técnicos o usuarios en otro 
+lugar en el desempeño de 
+alguna tarea o proceso.
+Consciencia situacional, 
+donde se provee información 
+sobre datos actuales o 
+históricos a un usuario de 
+realidad aumentada en el 
+contexto adecuado para tomar 
+una decisión informada. Por 
+ejemplo, proveer información 
+sobre un proceso de ensamble, 
+en áreas de la industria
+Realidad extendida
+una guía de mantenimiento 
+o inspección, etc.
+Simulación, donde se utiliza 
+realidad extendida para 
+simular la inserción o 
+reposicionamiento de objetos 
+utilizando modelos 3D. Estos 
+modelos pueden ser flujos de 
+algún tipo, equipo industrial, 
+infraestructura, etc.
+Mantenimiento, donde se 
+usan sistemas asistidos por 
+realidad aumentada para 
+diagnosticar problemas y para 
+proveer información e 
+instrucciones visuales al 
+usuario en las tareas de 
+reparación y mantenimiento.
+Inspección, donde se usa la 
+realidad aumentada para 
+inspeccionar el resultado de 
+procesos, productos o lugares 
+de trabajo con enfoque en 
+seguridad, calidad o 
+documentación.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+en la salud
+Realidad extendida
+Aunque en la ciencia ficción el uso de realidad extendida para tareas de 
+salud es un lugar común desde hace décadas, la realidad extendida ya se 
+utiliza en el área de la salud y la medicina para educación, 
+entrenamiento, ensayo de procedimientos, ayuda en 
+recuperación y rehabilitación e, incluso, como apoyo en 
+procedimientos quirúrgicos. 
+Estos son solamente algunos de los casos de usos que la 
+asociación presenta, sin embargo, cada industria 
+puede tener usos específicos para alguno de los 
+tipos de realidad extendida. Por ejemplo, Caterpillar, 
+la empresa de maquinaria pesada, está desarrollando una 
+aplicación de realidad aumentada para simplificar el 
+mantenimiento de sus equipos. La visión es que solamente sea 
+necesario tomar el teléfono inteligente y apuntarlo para que la aplicación te 
+muestre lo que se requiere. Además, con realidad aumentada, un experto 
+puede asesorar remotamente sin necesidad de viajar (Hunter, 2017).
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+De acuerdo con un estudio, la realidad virtual juega un 
+rol importante en el mejoramiento del desempeño del 
+médico y debe ser usado como una herramienta 
+educativa complementaria. Por ejemplo, la cirugía con 
+laparoscopía puede ser enseñada utilizando realidad 
+virtual, lo que lleva a una mayor precisión.
+Su uso en telemedicina también está 
+incrementando, permitiendo a los 
+médicos especialistas atender 
+de manera remota y más 
+especializada. Por poner un 
+ejemplo, muchos de los pacientes 
+con derrame cerebral atendidos por 
+el Instituto Tecnológico de Georgia 
+tienen una severa debilidad 
+muscular o parálisis, conocida como 
+hemiparesia. El doctor Nick Housley 
+del Laboratorio de Integración 
+Sensimotora del instituto trabaja 
+con pacientes a los que se les ponen 
+dispositivos robóticos con sensores y 
+actuadores en el miembro con parálisis. Estos dispositivos, en conjunto con 
+visores de realidad virtual, permiten al doctor Housley interactuar en tiempo 
+real con un paciente que está lejos, al mismo tiempo que recibe información 
+detallada de los sensores para poder guiar al paciente (Brodsky, 2022). 
+Por la parte de cirugía, la realidad virtual permite practicar antes 
+del procedimiento actual. Cleveland Clinic (Brodksy, 2022) desarrolló 
+un sistema para afinar las técnicas quirúrgicas de los neurocirujanos 
+utilizando realidad virtual: tomando imágenes del cerebro con resonancia 
+magnética, se genera un modelo 3D, que después se transfiere a una 
+plataforma de realidad virtual, donde el cirujano puede planear y practicar 
+la cirugía antes del procedimiento real, mejorando la posibilidad de 
+resultados exitosos. Existen también simuladores para operaciones de 
+cataratas, uso de instrumental dental y otros. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Así como el entrenamiento para pilotos 
+que utiliza el simulador de vuelta, existen 
+varios sistemas de simulación y 
+entrenamiento en muchas ramas de 
+los ejércitos de casi todas las naciones 
+industrializadas. Hay simuladores como 
+el U.S. Navy’s USS Trayer, un simulador 
+de barco destructor donde los reclutas 
+entrenan cómo responder a distintos 
+escenarios; el entrenamiento virtual inmersivo para mejorar habilidades, 
+ensayar misiones y tener errores sin consecuencias en la integridad de la 
+persona y con costos eficientes; y los simuladores de realidad virtual para 
+entrenar paracaidistas y soldados de infantería.
+Los casos de los pilotos de los jets militares integran ya sistemas de 
+realidad mixta, donde incluso se pueden apuntar armas con solo mirar a 
+un objetivo, gracias a los sistemas de visión nocturna y sistemas de visión 
+de 360 grados, donde se combinan imágenes de fuera de la cabina en el 
+visor, como si no existiera la estructura del avión.
+Estas son algunas de las aplicaciones más relevantes en la actualidad en el 
+campo de la realidad extendida, pero está lejos de ser el fin de esta lista, 
+sobre todo en los próximos años.
+en usos militares
+Realidad extendida
+Otro ejemplo es la empresa Vicarious Surgical, 
+que combina brazos robóticos de alta precisión con 
+tecnología de realidad virtual para realizar operaciones 
+quirúrgicas abdominales con mínima invasión a través 
+de una incisión de 1.5 centímetros.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Reflexiones finales
+¿Has pensado en un proyecto o algún proceso 
+de tu organización que podría facilitarse con el 
+uso de realidad extendida?, ¿cuál?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6

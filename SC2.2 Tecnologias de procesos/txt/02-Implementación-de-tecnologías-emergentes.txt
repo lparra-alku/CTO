@@ -1,0 +1,147 @@
+
+--- p1 ---
+tecnologías emergentes
+Implementación de 
+Para Isaac Sacolick, “cada negocio debe evolucionar 
+sus mercados objetivo, productos, servicios, cultura y 
+operaciones para un mundo global y digital donde la 
+experiencia de usuario es un diferenciador” (Khan y 
+Anderson, 2021).
+
+--- p2 ---
+Específicamente para la habilitación y transformación digital en la 
+industria y los negocios, algunas de las tecnologías emergentes con 
+impacto directo son:
+Cómputo en la nube
+Internet de las cosas
+RPA
+Minería de procesos
+Realidad virtual y aumentada
+Inteligencia artificial generativa
+Estas tecnologías afectan desde la 
+manera de obtener datos hasta la 
+forma de tomar decisiones sobre el 
+negocio, y permiten, a su vez, 
+habilitar la creación o transformación 
+de servicios o productos, su difusión 
+y su distribución. Esto implica que la 
+tecnología debe considerarse como 
+parte de la estrategia de un negocio.
+Cada día surgen nuevas tecnologías y, dependiendo del autor o de la 
+empresa que las reporta, la lista de tecnologías aplicables a cierto ámbito 
+puede cambiar. Hay múltiples fuentes de información para conseguir 
+información sobre estas tecnologías, siendo las más conocidas el Reporte 
+Anual de Tecnologías Emergentes del World Economic Forum y los 
+múltiples reportes de Tecnologías Emergentes de las grandes consultoras y 
+agencias de inteligencia de mercados como Gartner, McKenzie, Forrester, 
+IDC, entre otros.
+REPORTE
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Uno de los análisis más conocidos en la industria es el Hype 
+Cycle de Gartner, definido como “una representación gráfica en 
+forma de curva que representa la madurez y adopción de las tecnologías 
+y apps y cómo son potencialmente relevantes para resolver problemas 
+comerciales reales y aprovechar nuevas oportunidades” (Gartner, s.f.). Esta 
+metodología, la cual puede traducirse literalmente como “Ciclo de 
+Sobreexplotación” al español y es llamada a menudo “Curva de Gartner”, 
+permite visualizar la evolución de una tecnología con el paso del tiempo, lo 
+que brinda información sólida para gestionar su implementación según las 
+metas y objetivos de la organización.
+Expectativas
+Pico de expectativas
+sobredimencionadas
+Lanzamiento
+Abismo de
+desilusión
+Rampa de
+consolidación
+Meseta de
+productividad
+Tiempo
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Gartner define cada una de las cinco fases clave del ciclo de vida 
+de una tecnología a continuación (Gartner, s.f.):
+Lanzamiento: Potencial avance tecnológico que entra al mercado. 
+Las primeras pruebas y el interés de los medios generan una 
+publicidad considerable. Es común que, para este momento, aún no 
+existan productos utilizables, por lo que no se puede demostrar su 
+viabilidad comercial. 
+Pico de expectativas sobredimensionadas: La publicidad 
+temprana que se le dio a la tecnología o producto produce historias de 
+éxito, pero también de fracasos. 
+Abismo de desilusión: Cuando los experimentos y las 
+implementaciones no cumplen las expectativas que se habían 
+generado, el interés se desvanece. Puede ser que los productores de la 
+tecnología se tambaleen o, incluso, fracasen. Para sobrevivir, tienen 
+que mejorar sus productos y satisfacer a los usuarios. 
+Rampa de consolidación: Se materializan más ejemplos de cómo 
+la tecnología puede beneficiar y el público comienza a entenderla. Se 
+crean productos de segunda y tercera generación. Algunas empresas 
+innovadoras financian proyectos piloto, mientras las conservadoras 
+siguen siendo cautelosas. 
+Meseta de productividad: Despega la adopción generalizada y se 
+definen los criterios para la evaluación de la viabilidad del producto. 
+Se reconoce la aplicabilidad y relevancia de la tecnología.
+Aunque no es el único análisis tecnológico existente en la industria, es uno 
+de los más utilizados, por lo que es conveniente entenderlo. Dado el nivel 
+de incertidumbre de las tecnologías emergentes, recuerda siempre compa-
+rar ideas, publicaciones, artículos y autores para que tus decisiones sean lo 
+mejor informadas.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Adoptar una nueva tecnología es tan 
+interesante como retador, pues no hay 
+receta o procedimiento que aplique 
+para todos los casos en todos los 
+entornos pero es muy importante no 
+olvidar la gestión de cambio 
+organizacional. Una encuesta de 
+Boston Consulting Group reveló que 
+solamente 1 de 4 esfuerzos de 
+transformación obtienen los resultados 
+anticipados (2019), lo que es 
+consecuencia de proyectos definidos de 
+manera incompleta y mal 
+comunicados, generando miedo, 
+frustración y resistencia en la gente.
+Históricamente, se ha delegado al área 
+de informática el liderazgo de las 
+iniciativas de transformación digital, 
+sin embargo, para que un proyecto de 
+implementación o de transformación 
+sea exitoso, el esfuerzo debe cubrir 
+a toda la organización: desde los 
+equipos de liderazgo (C-suite) hasta la 
+persona que ejecuta la operación del 
+día a día.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+¿Puedes pensar en qué limitaciones tiene 
+mantener la misma manera de hacer las cosas 
+por un largo tiempo? Por ejemplo, ¿en qué 
+casos crees que conviene mantenerse al día en 
+la tecnología?, ¿en qué casos conviene ser 
+conservador?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Continúa con el siguiente recurso y conoce de manera general el papel de 
+cada rol en la organización frente a la adopción de tecnologías emergentes.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6

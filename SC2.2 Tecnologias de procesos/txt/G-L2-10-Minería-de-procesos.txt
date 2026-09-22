@@ -1,0 +1,21 @@
+# L2 · Minería de procesos
+Genially 65cbb9e3e8f9c30014a9d242 → 65cbba3776c8c600147104b9
+
+de procesos
+Otro componente importante dentro de las tecnologías emergentes de hiperautomatización es la minería de procesos.
+CODIGO NO BORRAR
+Minería de procesos
+La minería de procesos es una técnica diseñada para descubrir, monitorear y mejorar procesos reales a través de la extracción de información de las bitácoras de los sistemas que procesan la información del proceso. Aplica algoritmos especiales sobre esas bitácoras para identificar patrones, tendencias, tiempos y restricciones de un proceso específico.
+Al aplicar una técnica de minería de procesos a un ERP o un sistema de administración, se pueden empezar a detectar los tiempos que dura cada paso del proceso, los cuellos de botella, las restricciones en tiempo, etc.
+Por ejemplo: “El procesamiento de revisión facturas tarda 48 horas a partir de la recepción; el proceso de envío a pago tarda 7 horas e involucra a 3 personas interactuando con el sistema; por último, la dispersión de pago tarda 1 hora, pero el proceso completo tiene 23 variaciones diferentes dependiendo de las condiciones descritas”.
+Al igual que RPA, la minería de procesos depende de la calidad y disponibilidad de los datos relacionados con cada paso o tarea del proceso a analizar, de la complejidad del mismo proceso, de la cantidad y roles de personas involucradas e incluso de la resistencia al cambio dentro de la organización.
+Finalmente, te mostramos un ejemplo de la implementación de RPA. Objetivo del ejemplo Diagnosticar procesos organizacionales susceptibles de automatización mediante RPA, diferenciando entre tareas basadas en reglas y tareas cognitivas, y aplicando criterios de selección para evitar la automatización de ineficiencias.
+Problemática común En la organización existe una "deuda técnica" donde sistemas modernos (CRM en la nube) conviven con sistemas legados (ERP antiguos). Los empleados dedican horas a extraer datos de uno y capturarlos manualmente en otro, generando: Baja moral: Sentimiento de subutilización. Errores de datos: Captura manual y falta de estandarización. Cuellos de botella: Procesos detenidos al finalizar el turno laboral.
+Solución desde la información de la lección
+La Automatización Robótica de Procesos (RPA) soluciona el problema mediante:
+Interoperabilidad no invasiva: El bot opera en la interfaz de usuario (GUI), iniciando sesión y moviendo datos entre sistemas sin APIs o integraciones tradicionales que pueden ser costosas en tiempo y dinero. Velocidad y disponibilidad: Los bots pueden procesar cientos de registros por hora (vs. capacidad humana limitada) y op erar 24/7. Minería de Procesos: Se puede hacer un análisis previo de bitácoras de los sistemas para identificar ineficiencias antes de configurar el bot.
+Errores comunes que deben evitarse
+Automatizar sin optimizar: Replicar un proceso ineficiente ("pavimentar el camino de la vaca") sin dedicarle tiempo a mapear y “planchar” el proceso. Subestimar la complejidad: Elegir procesos que requieren juicio humano subjetivo en lugar de reglas fijas. Excluir a TI: Implementación por áreas de negocio sin supervisión técnica, creando riesgos de seguridad.
+Puntos clave
+RPA es software que emula la interacción humana con interfaces digitales (teclado/mouse). Beneficios clave: Reducción de errores (calidad), operación 24/7 y liberación de talento humano. Éxito: Depende de la calidad de los datos y la selección de procesos de alto volumen y baja variabilidad. Gestión del cambio: Posicionar la herramienta como apoyo, no como reemplazo total.
+Continúa con el estudio de la lección.

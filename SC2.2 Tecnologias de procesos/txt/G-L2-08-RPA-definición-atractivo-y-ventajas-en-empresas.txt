@@ -1,0 +1,31 @@
+# L2 · RPA: definición, atractivo y ventajas en empresas
+Genially 65bd38a3922a3a0014758ddf
+
+definición, atractivo y ventajas en empresas
+La tecnología es Automatización Robótica de Procesos, aunque en la industria es más común llamarla RPA, por las siglas del término en inglés (Robotic Process Automation).
+Cristina Claudia Osman, en su artículo “Robotic Process Automation: Lessons Learned from Case Studies” (2019), menciona que las herramientas de RPA están diseñadas para realizar tareas manuales y repetitivas utilizando robots entrenados, los cuales se comunican con otros sistemas de información a través de la misma interfaz de usuario.
+Así que cuando vemos trabajar a un robot de RPA, podría parecer que una persona está manipulando la computadora , pero de una manera sumamente rápida. Por eso, algunas de las ventajas que las RPA traen para las empresas es la reducción de carga de trabajo, así como de los errores de empleados humanos y, por consiguiente, el ahorro de costos.
+El concepto como tal no es nuevo, desde los inicios de las computadoras digitales se han tratado de automatizar procesos repetitivos, manuales, transaccionales o tediosos. Sin embargo, el término RPA fue utilizado por primera vez en 2012 por Patrick Geary, director de mercadotecnia de Blue Prism, empresa dedicada a la RPA, a lo que le siguieron casi inmediatamente muchos otros proveedores.
+Timothy Driscoll (2018) resalta la posibilidad de que esta tecnología opere 24/7 a un costo menor que la mano de obra humana, entregando resultados de mayor calidad y escalables. Menciona también que es posible enfocar las iniciativas de RPA hacia las tareas recurrentes de los empleados, para rediseñarlas como actividades basadas en reglas que puedan ser realizadas por robots o herramientas de software.
+Tampoco se pueden dejar de lado las métricas con las que se medirían estos rendimientos, por lo que Driscoll (2018) presenta la siguiente tabla con métricas de valor incluidas, aunque no limitadas:
+% de reducción en ciclos de tiempo
+% de incremento en productividad
+La promesa de mejorar en estas métricas es de interés para cualquier organización. Así, para el 2020, el gasto global en RPA era de alrededor 2 mil millones de dólares (Vailshery, 2022b), pero el gasto creció, incluso durante la pandemia, y se espera que para el 2023 llegue a los 23 mil millones de dólares (Vailshery, 2022a).
+Gasto Global (mil millones)
+Beneficios
+Satisfacción
+Característica
+El impulso fue tan grande que en 2021, Gartner realizó una encuesta a 236 tomadores de decisiones técnicas sobre percepciones y adopción de la tecnología (Gartner, 2021) y de las tres cuartas partes que han adoptado las herramientas RPA en su organización se concluye que:
+Gracias por tu respuesta
+De acuerdo con esto, ¿puedes pensar en cuáles actividades no pueden ser realizadas aún por un programa computacional en tu organización?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Utilizar la interfaz de usuario existente no requiere mayores modificaciones al programa o el desarrollo de aplicaciones o interfaces de bajo nivel, a diferencia de otros métodos de interoperabilidad entre sistemas basados en ingeniería de software tradicional.
+El programa utiliza el mouse o una simulación de entrada por teclado para seleccionar elementos o introducir información directamente en la interfaz del programa que se quiere manipular, elementos como menús, botones, listas, cuadros de texto, entre otros.
+57 % de los encuestados están satisfechos con sus herramientas. Además, 70 % de los encuestados posiblemente recomendaría el uso de RPA; el 20 % muy posiblemente lo recomendaría; mientras que solo el 10 % no lo recomendaría.
+La característica más buscada de las herramientas de RPA son tableros de control centralizados y capacidad de desarrollo de bajo-código o no-código, lo que permite programar un sistema con uso mínimo de lenguaje de programación de uso especializado, dando mayor énfasis en interfaces gráficas y de fácil uso.
+Concuerdan con que las organizaciones que usan RPA tienen ventajas sobre las que no la usan, pero también reconocen que las estructuras laborales pueden ser impactadas. 73 % considera la reducción de errores como el principal beneficio de RPA, seguido del 60 % que considera que es el incremento en la productividad.
+En el contexto de RPA, un robot o bot se refiere a un software que se ejecuta en un entorno computacional con interoperabilidad con otros sistemas o programas informáticos.
+Estos beneficios representan un caso de negocio atractivo y que crea valor significativo.
+56 % considera que la integración es el mayor reto, mientras que el 48 % considera que son los costos.
+Así, algunas tareas repetitivas, rutinarias y manuales que requieren interacción intensiva con un programa computacional, pero sin necesidad de experiencia humana para toma de decisiones, pueden ser automatizadas, permitiendo enfocarse en actividades complejas que demanden procesos cognitivos, análiticos o de interacción con gente.

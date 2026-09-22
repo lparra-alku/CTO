@@ -1,0 +1,14 @@
+# L5 · Riesgos y retos de la Gen AI
+Genially 65de385d93e26d0013ae3924 → 65de387593e26d0013ae4a0f
+
+Riesgos y retos de
+la Gen AI
+Dentro de la adopción, implementación y aplicación de las tecnologías de inteligencia artificial generativa, un líder del proceso de transformación digital debe conocer cuáles son los riesgos y los retos.
+CODIGO NO BORRAR
+Para el líder de un proceso de transformación digital, la inteligencia artificial generativa es atractiva y prometedora, pero como con todas las tecnologías emergentes, es importante evaluar su impacto real en la organización, así como los riesgos y los retos de su implementación, tanto en la gente como en los procesos.
+Los riesgos asociados con la implementación de estas tecnologías están evolucionando rápidamente. Por ejemplo, los actores maliciosos que generan deep fakes , esto se refiere a copias digitales de personas con calidad muy cercana a una grabación, para llevar a cabo fraudes.
+Riesgos de la Gen AI (Gartner, s.f.)
+Además, como bien señala Gartner (s.f.), hay otros riesgos que hay que tomar en cuenta: Poca o nula transparencia. Los modelos generativos pueden ser impredecibles, por lo que no siempre se entiende cómo funcionan o cómo se genera el contenido.
+Precisión. Los modelos de inteligencia artificial generativa a veces producen respuestas inexactas o fabricadas, lo que se conoce como alucinación. Se requiere un diagnóstico de todo el contenido generado para asegurar la precisión y la utilidad real.
+Sesgos. Se requieren políticas y controles para detectar el contenido generado sesgado y para tratarlo de manera adecuada. Seguridad y fraude. Las organizaciones deben prepararse para el uso malicioso de estas tecnologías en ciberataques y fraudes, y establecer los controles adecuados para mitigar los riesgos.
+Continúa con el estudio de la lección.

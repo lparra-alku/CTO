@@ -1,0 +1,12 @@
+# L3 · Características generales de blockchain
+Genially 65f9c43aca92570013438d6e → 65f9c43d65b1f50014779620
+
+Características generales
+de blockchain
+A partir del ejemplo anterior, podemos generalizar las distintas características de una cadena de bloques.
+CODIGO NO BORRAR
+Una cadena de bloques digital funciona de la misma manera que el ejemplo que revisamos en el recurso anterior, pero a escala mundial; además, aprovechando la velocidad y alcance de las redes de telecomunicaciones modernas, se puede considerar que es en tiempo real. Por ello, las características generales son las mismas.
+Cada participante en el sistema es un nodo de la red. Un conjunto de transacciones forma un bloque. Cada validación de bloque se encadena con la validación del bloque inmediato anterior. Cada participante mantiene copia de todos los registros del sistema, lo que mantiene el registro de manera distribuida.
+No se requieren intermediarios, porque la validación de las transacciones es descentralizada. Se requiere el consenso de todos los participantes sobre el mecanismo de registro para modificar el historial de la cadena de bloques. Se mantiene la inmutabilidad del historial de las transacciones, dando certeza a los participantes de la integridad de la información contenida.
+Estas características han permitido que surjan conceptos, tecnologías y aplicaciones derivadas de la tecnología de blockchain original. Continúa con los siguientes recursos y conoce cuáles son.
+Continúa con el estudio de la lección.

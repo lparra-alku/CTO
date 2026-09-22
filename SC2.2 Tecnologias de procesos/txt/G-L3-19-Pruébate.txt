@@ -1,0 +1,58 @@
+# L3 · Pruébate
+Genially 65f9c47a75af4b00144c2ef4
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Aurora a resolver algunas problemáticas.
+Aurora trabaja en una empresa dedicada al área de Finanzas, por lo que el asunto de blockchain es muy importante en su área. Su jefe le encargó que investigara lo más que pudiera al respecto y aunque Aurora ha avanzado considerablemente, necesita tu ayuda con las siguientes preguntas. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Aurora encontró tres definiciones generales de blockchain en internet, pero solo una de ellas es correcta, ayúdala a seleccionarla:
+Una estructura de bloques que se enlazan juntos para formar una colección de registros
+Las monedas electrónicas y digitales en la banca 3.0
+Los movimientos encriptados de cualquier acción en la red
+¡Correcto!
+La tecnología de blockchain consiste en una estructura de bloques que se enlazan juntos para formar una colección de registros. Es útil para descentralizar la información y aumentar la transparencia, pues cada involucrado en esa estructura de bloques tiene una copia del historial de movimientos.
+¡Incorrecto!
+Recuerda que la tecnología de blockchain consiste en una estructura de bloques que se enlazan juntos para formar una colección de registro. Es útil para descentralizar la información y aumentar la transparencia, pues cada involucrado en esa estructura de bloques tiene una copia del historial de movimientos.
+Aurora quiere recordar cómo se llaman los participantes en una cadena de bloques.
+Los nodos son los dispositivos o libretas que participan dentro del libro mayor en la estructura de los bloques, que es donde se distribuye la responsabilidad del registro.
+Recuerda que los nodos son los dispositivos o libretas que participan dentro del libro mayor en la estructura de los bloques, que es donde se distribuye la responsabilidad del registro.
+¿Puedes explicarle a Aurora a qué se refiere el término de “inmutabilidad” en una cadena de bloques?
+A que es imposible agregar o eliminar nodos o miembros del blockchain, pues están protegidos por consenso
+A que es imposible decodificar un consenso dado en blockchain, ya que todos los involucrados son responsables
+A que es imposible editar, modificar o alterar la información y datos almacenados en blockchain
+La inmutabilidad en una cadena de bloques se refiere a la imposibilidad de editar, modificar o alterar la información y los datos almacenados, lo que permite que los participantes tengan certeza de la integridad de la información.
+Recuerda que la inmutabilidad en una cadena de bloques se refiere a la imposibilidad de editar, modificar o alterar la información y los datos almacenados, lo que permite que los participantes tengan certeza de la integridad de la información.
+Ayuda a Aurora a seleccionar cuál de los siguientes NO es un uso o aplicación de la tecnología blockchain.
+Procesamiento de transacciones en monedas fiduciarias
+Contratos inteligentes
+Criptomonedas
+La tecnología blockchain permite procesar transacciones en criptomonedas, pero su uso aún no se ha extendido hacia las transacciones en monedas fiduciarias, como pesos, dólares o euros.
+La tecnología blockchain permite crear contratos inteligentes y procesar transacciones en criptomonedas, pero su uso aún no se ha extendido hacia las transacciones en monedas fiduciarias, como pesos, dólares o euros.
+Finalmente, selecciona cuál es una desventaja de la tecnología de blockchain para que Aurora lo tenga en consideración.
+La descentralización de información
+La inmutabilidad de los datos
+El consumo energético
+El consumo energético es una de las mayores desventajas de la tecnología blockchain, pues se estima que el mecanismo de consenso más común de las cadenas de bloque es responsable de un consumo de más de 100TWh por año, el equivalente a la electricidad producida por 10 centrales nucleares.
+Una de las mayores desventajas de la tecnología blockchain es el consumo energético, pues se estima que el mecanismo de consenso más común de las cadenas de bloque es responsable de un consumo de más de 100TWh por año, el equivalente a la electricidad producida por 10 centrales nucleares.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
