@@ -1,0 +1,39 @@
+# L2 · Componentes del Aprendizaje Automático (ML)
+Genially 658b153a0af31300148fc3e9
+
+Componentes
+del Aprendizaje Automático (ML)
+El aprendizaje automático es una rama de la Inteligencia Artificial centrada en el desarrollo de algoritmos que permiten a las computadoras aprender patrones y realizar tareas sin ser programadas explícitamente. Conoce sus principales componentes.
+Pedro Domingos (2015) menciona que el aprendizaje automático implica el desarrollo de algoritmos que pueden mejorar automáticamente su rendimiento en una tarea específica, a través de la experiencia que van acumulando. A medida que la máquina se expone a datos, patrones o regularidades en esos datos, puede ajustar su comportamiento o mejorar su rendimiento sin intervención humana directa.
+El Machine Learning es fundamental para muchos avances en Inteligencia Artificial, tales como el reconocimiento de patrones, la clasificación y la toma de decisiones automatizada. Continúa con el siguiente slide y conoce los principales elementos en torno al Aprendizaje Automatizado o Machine Learning.
+Inteligencia Artificial
+Machine Learning
+Deep Learning
+Aprendizaje profundo
+Algoritmo
+Aprendizaje
+Minería de datos
+Autonomía
+Clasificación
+Redes neuronales
+Análisis de datos
+Como puedes ver, en el contexto de la transformación digital, la inteligencia artificial difiere del aprendizaje automático, pues este último permite analizar grandes cantidades de datos para extraer información valiosa, predecir tendencias y tomar decisiones más informadas.
+Gracias por tu respuesta
+¿Cuál de estas tecnologías tendría mayor impacto en tu empresa u organización?, ¿sería posible implementar ambas de forma integral?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+En el siguiente esquema, se señalan los principales elementos en torno al Aprendizaje Automatizado o Machine Learning:
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+Un algoritmo es el conjunto de instrucciones o reglas bien definidas y ordenadas que describen, paso a paso, cómo llevar a cabo una tarea o resolver un problema específico.
+Se utiliza para automatizar procesos, mejorar la eficiencia operativa y ofrecer experiencias más personalizadas a los clientes.
+En el contexto del Machine Learning, la autonomía se refiere a la capacidad de un sistema para operar y tomar decisiones de manera independiente sin intervención humana constante.
+En el Machine Learning, es una tarea que implica asignar una etiqueta o categoría a una entrada basándose en sus características, esto permite construir modelos que aprenden patrones a partir de datos de entrenamiento y, posteriormente, hacen predicciones sobre nuevas instancias no vistas.
+En términos de IA, el aprendizaje se refiere al proceso mediante el cual un modelo o algoritmo mejora su rendimiento en una tarea específica a medida que se le proporciona más información o datos.
+El término “IA” hace referencia a la capacidad de las máquinas para imitar la inteligencia humana.
+Son un modelo computacional que se inspira en la estructura y funcionamiento del cerebro humano, estas tienen la capacidad de aprender y generalizar a partir de datos para realizar tareas como el reconocimiento de patrones, la clasificación, la regresión, el procesamiento de lenguaje natural.
+El aprendizaje profundo se enfoca en el entrenamiento de modelos neuronales con múltiples capas (de ahí el término "profundo") que permiten aprender patrones y representaciones más complejas y abstractas a partir de datos, esto permite realizar tareas específicas.
+La minería de datos tiene como objetivo convertir grandes cantidades de datos en información significativa y útil para la toma de decisiones y/o la realización de tareas específicas.
+Una constante en el Machine Learning es la búsqueda de mejoras en el rendimiento de los modelos con la adición de datos u otras estrategias.
+Esta fase es crucial en el flujo de trabajo del Machine Learning, ya que implica examinar, comprender y procesar conjuntos de datos con el objetivo de extraer patrones, información valiosa y conocimientos que puedan ser utilizados para entrenar modelos.

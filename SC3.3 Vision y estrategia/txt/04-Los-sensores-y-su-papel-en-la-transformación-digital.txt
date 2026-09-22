@@ -1,0 +1,133 @@
+
+--- p1 ---
+transformación digital
+Los sensores y su 
+papel en la
+Los dispositivos inteligentes suelen estar equipados 
+con sensores que recopilan datos del entorno. 
+Descubre qué es un sensor, sus principales 
+aplicaciones y el papel que tiene en la transformación 
+digital.
+
+--- p2 ---
+Los sensores son componentes fundamentales que 
+capturan información del entorno físico y la 
+convierten en datos digitales que pueden ser 
+transmitidos y procesados. Existe una amplia variedad de sensores 
+para medir diferentes tipos de variables: temperatura, humedad, presión, 
+movimiento, luz, entre otros. Estos sensores permiten que los objetos 
+cotidianos se vuelvan "inteligentes" al recopilar información y responder a 
+su entorno.
+A partir de ello, el Internet de las Cosas tiene aplicaciones en diversos 
+sectores, tales como las siguientes:
+• En la vida diaria, podemos encontrar dispositivos como termostatos 
+inteligentes, cámaras de seguridad conectadas, asistentes de voz y 
+electrodomésticos inteligentes, todos formando parte del ecosistema del 
+IoT.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+• En la industria, el IoT se utiliza para el monitoreo y 
+control de procesos, mantenimiento predictivo de 
+maquinaria y gestión eficiente de la cadena de suministro. Los 
+sensores en fábricas y almacenes pueden proporcionar datos en 
+tiempo real para mejorar la eficiencia operacional.
+• En el sector de la salud, el IoT facilita la monitorización remota de 
+pacientes, la gestión de medicamentos y la recopilación de datos para la 
+investigación médica. Dispositivos como los monitores de glucosa y los 
+wearables son ejemplos de IoT en la atención médica.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+• En el ámbito gubernamental y social, el IoT 
+contribuye a la creación de ciudades inteligentes al permitir 
+la gestión eficiente de recursos, el monitoreo del tráfico, la 
+iluminación pública inteligente y la gestión de residuos. Esto 
+mejora la calidad de vida de los ciudadanos y reduce el impacto 
+ambiental.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Hasta este punto hemos revisado el impacto positivo del 
+Internet de las Cosas. Sin embargo, a medida que el IoT se 
+expande, surgen desafíos como la interoperabilidad, la 
+estandarización, la seguridad y la gestión de grandes cantidades de datos.
+Estos aspectos deben ser abordados para garantizar un desarrollo 
+sostenible y ético, dado que los dispositivos recopilan grandes cantidades 
+de datos, la seguridad y la privacidad se han vuelto aspectos críticos que 
+requieren la implementación de medidas para proteger la integridad de los 
+datos y la privacidad de los usuarios.
+Por otra parte, el Internet de las Cosas y los sensores desempeñan un papel 
+crucial en la transformación digital, ya que proporcionan datos 
+fundamentales para la automatización, la toma de decisiones inteligente y 
+la mejora de la eficiencia en diversos sectores y aplicaciones.
+• Recopilación de datos en tiempo real:
+Los sensores permiten la recopilación continua de datos en tiempo real. 
+Esto es esencial para la transformación digital, ya que proporcionan 
+información inmediata sobre el estado de los procesos, productos o 
+entornos.
+• Automatización y eficiencia operativa:
+La información recopilada por los sensores se utiliza para automatizar 
+procesos y mejorar la eficiencia operativa. Por ejemplo, en la 
+manufactura, los sensores en maquinaria pueden monitorear el 
+rendimiento y anticipar necesidades de mantenimiento.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+• Mejora de la experiencia del usuario: 
+En aplicaciones de consumo, los sensores permiten la 
+creación de productos y servicios más inteligentes y 
+personalizados. Por ejemplo, algunos dispositivos 
+domésticos conectados pueden adaptarse automáticamente 
+a las preferencias del usuario.
+• Toma de decisiones basada en datos:
+Los datos recopilados por sensores son fundamentales para la toma de 
+decisiones basada en datos. Esto es aplicable en diversos sectores, desde 
+la salud con el monitoreo de pacientes hasta la logística a través del 
+seguimiento de inventario y rutas.
+• Desarrollo de nuevos modelos de negocio:
+La presencia de sensores en productos y servicios puede abrir 
+oportunidades para nuevos modelos de negocio. Por ejemplo, en la 
+agricultura, los sensores en campos pueden proporcionar datos para 
+optimizar la gestión de cultivos.
+• Conectividad e integración:
+Los sensores facilitan la conectividad y la integración de sistemas, lo 
+cual permite que diferentes dispositivos y plataformas trabajen juntos, 
+de manera sinérgica.
+• Seguridad:
+En entornos industriales, los sensores pueden contribuir a la seguridad 
+mediante la detección de condiciones peligrosas.
+• Salud:
+En aspectos sanitarios, se puede llevar a cabo la monitorización remota 
+a través de sensores, lo cual permite un seguimiento más efectivo de las 
+condiciones médicas de distintos pacientes.
+• Eficiencia energética: 
+Los sensores en edificios y sistemas de gestión permiten la optimización 
+de la eficiencia energética. Por ejemplo, ajustar la iluminación y la 
+climatización según la ocupación real de los espacios.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones finales
+¿Consideras que estas tecnologías son 
+fundamentales para la transformación digital 
+en una empresa?, ¿qué desafíos de 
+interoperabilidad, estandarización, seguridad 
+y gestión de datos traen consigo estas 
+tecnologías? 
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

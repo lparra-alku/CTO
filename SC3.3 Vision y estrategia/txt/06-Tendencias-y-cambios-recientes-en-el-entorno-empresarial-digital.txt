@@ -1,0 +1,218 @@
+
+--- p1 ---
+La transformación digital es un proceso dinámico 
+que cada año experimenta cambios impulsados por 
+los avances tecnológicos y las tendencias 
+emergentes que influyen en el mercado y la sociedad 
+digital.
+recientes en el entorno 
+empresarial digital
+Tendencias y cambios
+
+--- p2 ---
+Revisemos algunas tendencias que están transformando a las 
+empresas y a la sociedad, de acuerdo con Carriazo (2023):
+1. Implementación de Inteligencia Artificial (AI) en el 
+Servicio al cliente
+Esta tendencia tecnológica ofrece beneficios tanto para las empresas como 
+para los clientes. Para las empresas, ayuda a automatizar tareas repetitivas 
+y mejorar la eficiencia operativa, ya que los sistemas están disponibles 
+24/7. Además permite analizar grandes cantidades de datos para 
+comprender patrones de comportamiento de los clientes y así personalizar 
+interacciones, ofrecer recomendaciones y soluciones adaptadas a las 
+necesidades específicas de cada cliente.
+Para los clientes, esta tendencia se traduce en respuestas rápidas a sus 
+consultas, acceso instantáneo a la información sin esperar en líneas de 
+atención al cliente, una experiencia personalizada con interacciones más 
+relevantes y adaptadas a sus necesidades particulares.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+2. Automatización de procesos de marketing para 
+    impulsar la eficiencia
+La automatización en marketing elimina tareas manuales como la 
+generación de informes y la implementación de campañas, así se reduce el 
+tiempo y los recursos dedicados a estas actividades para mejorar la 
+eficiencia. También se facilita la toma de decisiones basada en información 
+precisa y oportuna, con lo cual se produce una segmentación mejorada que 
+conduce a respuestas rápidas a consultas y, en definitiva, a una experiencia 
+del cliente personalizada.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+3. Personalización de la comunicación entre marca
+     y clientes
+Al adaptar la comunicación según el comportamiento y las necesidades 
+individuales de los clientes, las empresas pueden contribuir a la retención 
+de clientes. Estos son más propensos a ser leales a una marca que ofrece 
+experiencias personalizadas y relevantes a lo largo del tiempo, lo que 
+conduce al aumento en las tasas de conversión y a las posibilidades de 
+realizar ventas adicionales.
+Para los clientes, la marca se vuelve más significativa, mejora su percepción 
+y su satisfacción con ella, ya que se sienten valorados por una empresa que 
+muestra interés y busca conocerlos a profundidad.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+4. Democratización de los datos de calidad
+Esta tendencia se refiere a proporcionar acceso equitativo y generalizado a 
+información de alta calidad dentro de una organización, garantizando que 
+los datos sean precisos, confiables y pertinentes para su uso en diversas 
+áreas. Esto beneficia a las empresas en la toma de decisiones, la innovación 
+y la eficiencia operativa.
+Para los clientes, se traduce en experiencias personalizadas más 
+transparentes y satisfactorias, contribuyendo así a entablar relaciones 
+sólidas y duraderas con la empresa.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+5. Personalización del marketing más allá de las cookies
+Esta tendencia se refiere a estrategias y prácticas de marketing que 
+prescinden o reducen significativamente el uso de cookies, es decir, 
+pequeños archivos de texto que se usan para rastrear y recopilar datos 
+sobre el comportamiento de los usuarios en la web.
+ 
+Consiste en buscar formas más éticas y respetuosas de abordar el rastreo y 
+personalización, respetando la privacidad de los usuarios y cumpliendo con 
+las regulaciones nacionales e internacionales de protección de datos.
+Entonces, en lugar de rastrear automáticamente la actividad del usuario, las 
+empresas pueden optar por solicitar el consentimiento explícito de los usuarios.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+6. Audiencias líquidas conectadas a la televisión digital
+Esta tendencia refleja la fluidez en el consumo de contenido, la conexión, 
+interactividad y personalización a través de plataformas digitales, siendo 
+acorde a la realidad cambiante de las audiencias, su experiencia y participación 
+en el contenido multimedia de la era digital. Con lo cual se promueve que las 
+empresas se acerquen a sus nuevas audiencias de forma distinta.
+Entonces, las personas tienen la capacidad de acceder al contenido 
+televisivo desde diferentes dispositivos y lugares, brindando mayor 
+movilidad y flexibilidad en la experiencia de visualización.
+Este fue un breve recorrido por algunas de las tendencias en 
+transformación digital más recientes. No obstante, seguirán produciéndose 
+nuevas tendencias en los próximos años, la clave reside en mantenerse 
+flexibles y abiertos a experimentar con nuevas metodologías, tecnologías y 
+ajustar la visión estratégica siempre que sea necesario.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+1. Objetivo del ejemplo
+2. Problemática común
+Comprender la importancia de analizar a profundidad el entorno interno y 
+externo de la organización antes de diseñar o implementar una estrategia de 
+transformación digital, para asegurar que las acciones respondan a la realidad 
+y necesidades del negocio.
+Antes de invertir en tecnología o innovación, ¿qué deberíamos entender 
+primero sobre nuestra organización y su entorno para asegurar que vamos en 
+la dirección correcta? Veamos el siguiente caso. 
+A mediados de la década de 2010, una empresa conocida como marca de 
+electrónica de consumo (televisores, bombillas, equipos de sonido) detectó un 
+cambio profundo en su entorno:
+•
+Los márgenes en productos de consumo se reducían.
+•
+La competencia asiática crecía con rapidez.
+•
+El envejecimiento poblacional y el aumento de enfermedades crónicas 
+impulsaban la demanda de soluciones médicas.
+•
+La digitalización estaba redefiniendo la atención sanitaria y el bienestar.
+Al encontrarse con estos hallazgos y después de un análisis exhaustivo, 
+decidieron que, en lugar de seguir compitiendo en mercados saturados, 
+reorientarían toda su estrategia hacia el
+sector de la salud digital. Y así nació su visión de convertirse en una empresa 
+líder en “HealthTech”, enfocada en conectar datos, personas y tecnología para 
+mejorar la salud global.
+Ahora te mostraremos un ejemplo de una empresa que tuvo que 
+implementar estrategias de transformación digital efectivas.
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p9 ---
+9
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Este cambio no fue improvisado:
+•
+Realizaron un análisis profundo del entorno para identificar tendencias y 
+oportunidades.
+•
+Evaluaron sus capacidades internas: talento, procesos, cultura, tecnología.
+•
+Decidieron vender divisiones tradicionales (como iluminación y audio) y 
+concentrarse en áreas con mayor potencial como la imagen médica, el 
+monitoreo de pacientes, el análisis de datos y la atención en el hogar.
+•
+Invirtieron en innovación digital, alianzas con hospitales y startups, e 
+impulsaron una cultura más ágil y centrada en el usuario.
+La estrategia se apoyó en dos pilares:
+1. Optimizar lo existente (Transformación A): Mejorar la eficiencia operativa, 
+integrar digitalmente sus líneas médicas y fortalecer su cadena de 
+suministro.
+2. Explorar lo nuevo (Transformación B): Desarrollar plataformas digitales de 
+salud e integrar dispositivos, datos clínicos y servicios en la nube.
+Actualmente, la empresa es reconocida mundialmente por su visión 
+estratégica y su comprensión del entorno, que le permitió pasar de ser una 
+empresa de productos a una empresa de soluciones integradas.
+En esta lección revisamos a detalle los factores internos y externos del entorno 
+organizacional, utilizando herramientas y analizando conceptos para reforzar 
+la importancia de no solo “instalar tecnología”, sino entender nuestro modelo 
+de negocio, pero también la cultura, operaciones y cada aspecto que ayude a la 
+toma de decisiones informadas.
+Con el ejemplo anterior, podemos ilustrar muy bien que, para implementar su 
+transformación digital, ellos necesitaron comprender su entorno organizacio-
+nal: entendieron los cambios demográficos, tecnológicos, de salud, el desplaza-
+miento del valor de producto a servicio.
+3. Solución desde la información desarrollada en la lección
+
+--- p10 ---
+10
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+•
+Implementar tecnología sin tener claridad sobre las necesidades del nego-
+cio.
+•
+No realizar un diagnóstico profundo del entorno antes de tomar decisiones 
+estratégicas.
+•
+Subestimar la cultura organizacional y las capacidades internas.
+•
+No anticipar tendencias ni escuchar al mercado.
+•
+Creer que la transformación digital es solo responsabilidad del área de TI.
+•
+La comprensión del entorno organizacional es la base de cualquier estrate-
+gia de transformación digital efectiva.
+•
+Las organizaciones deben mirar tanto hacia afuera (mercado, tendencias, 
+competencia, clientes) como hacia adentro (procesos, cultura, talento, 
+recursos).
+•
+La transformación digital no se trata de tecnología, sino de estrategia y 
+propósito.
+4. Errores comunes que deben evitarse
+5. Puntos clave
+
+--- p11 ---
+Reflexiones finales
+¿Tienes algún ejemplo de estas tendencias 
+tecnológicas en tu vida cotidiana?, ¿cómo se 
+podrían implementar en tu empresa u 
+organización?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+11
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

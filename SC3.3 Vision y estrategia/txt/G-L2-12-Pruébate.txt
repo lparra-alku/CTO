@@ -1,0 +1,54 @@
+# L2 · Pruébate
+Genially 658b1bf109842e0014e77e94
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Lucía a resolver algunas problemáticas.
+Lucía es consultora de TI y una empresa de recolección de residuos la ha contratado para construir un sistema automatizado de recolección, clasificación y reducción de basura, ya que la zona residencial a la que atienden quiere mejorar su impacto ambiental y la calidad de vida de los residentes. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+La empresa le comentó a Lucía que buscan automatizar la clasificación de residuos para hacer una recolección "inteligente" mediante el uso de algoritmos programados explícitamente, ¿con qué tendencia tecnológica sería posible realizarlo?
+Computación en la nube
+Inteligencia Artificial
+Aprendizaje Automático
+¡Correcto!
+La automatización de tareas rutinarias y procesos sencillos se realiza mediante el uso de algoritmos programados explícitamente, lo cual corresponde a la Inteligencia Artificial.
+¡Incorrecto!
+La respuesta correcta es a) Inteligencia Artificial. Recuerda que la automatización de tareas rutinarias y procesos sencillos mediante algoritmos programados explícitamente corresponde a la Inteligencia Artificial.
+Lucía contempla automatizar tareas complejas y mejorar continuamente los procesos de recolección de residuos, ¿qué tendencia tecnológica haría posible esto?
+Internet de las Cosas (IoT)
+El Aprendizaje Automático se enfoca en adaptarse y aprender de datos y experiencia acumulada, permitiendo la automatización de tareas complejas y la mejora continua de servicios.
+La respuesta correcta es b) Aprendizaje Automático. Recuerda que el Aprendizaje Autónomo se centra en adaptarse y aprender de datos y experiencia acumulada, permitiendo la automatización de tareas complejas y la mejora continua de servicios.
+Lucía sugiere recopilar datos en tiempo real para tomar decisiones ágiles sobre la gestión de residuos en la zona residencial, ¿qué tendencia tecnológica sería apropiada para implementar esta recomendación?
+Edge computing
+El Internet de las Cosas (IoT) facilita la recopilación de datos en tiempo real, siendo esencial para la toma de decisiones ágil.
+La respuesta correcta es c) Internet de las Cosas (IoT). Recuerda que el IoT facilita la recopilación de datos en tiempo real, siendo esencial para la toma de decisiones ágil.
+Para lograr agilidad en la gestión de residuos, Lucía destaca la necesidad de acceder a recursos informáticos a pedido, ¿qué tendencia tecnológica se caracteriza por el pago por uso?
+La Computación en la nube implica acceso a pedido de recursos informáticos, coincidiendo con el pago por uso mencionado por Lucía.
+La respuesta correcta es a) Computación en la nube. Recuerda que la Computación en la nube implica acceso a pedido de recursos informáticos, coincidiendo con el pago por uso mencionado por Lucía.
+La empresa le ha pedido a Lucía reducir costos de implementación mediante el ahorro de ancho de banda y la disminución de la carga de trabajo de las redes, ¿qué tendencia tecnológica sería más conveniente?
+El Edge computing realiza el procesamiento de datos ahorrando ancho de banda y con una carga ligera en las redes, reduciendo la latencia y mejorando la eficiencia de la empresa.
+La respuesta correcta es b) Edge computing. Recuerda que el Edge computing realiza el procesamiento de datos ahorrando ancho de banda y con una carga ligera en las redes, reduciendo la latencia y mejorando la eficiencia de la empresa.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.

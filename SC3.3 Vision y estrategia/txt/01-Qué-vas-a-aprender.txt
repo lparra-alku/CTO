@@ -1,0 +1,112 @@
+
+--- p1 ---
+Visión y estrategia de la
+Transformación Digital
+¿Qué vas a aprender?
+Identificar los conceptos fundamentales asociados a la visión estratégica de la transformación digital.
+La visión estratégica de la transformación digital implica una comprensión profunda y una planificación cuidadosa 
+sobre cómo aprovechar las tecnologías emergentes para lograr los objetivos empresariales. En este curso podrás:
+Reconocer cómo la transformación 
+digital puede cambiar y mejorar los 
+procesos internos de una organización.
+Así que te damos la 
+bienvenida al curso 
+“Visión y estrategia 
+de la Transformación 
+Digital”.
+Discutir la importancia de enfocar 
+la transformación digital hacia las 
+necesidades y expectativas del cliente en 
+el contexto digital actual.
+Definir de manera clara y precisa la 
+dirección deseada y los objetivos a largo 
+plazo de una organización en el contexto 
+de la transformación digital.
+Describir el papel de las tecnologías 
+que impulsan la visión estratégica de la 
+transformación digital.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p2 ---
+Bibliografía
+Introducción a la visión estratégica de la 
+transformación digital
+AMAZON. (2023). Quienes somos. https://www.aboutamazon.es/quienes-somos
+Domingos, P. (2015). The Master Algorithm. Penguin Books.  
+Hamel, G. & Breen, B. (2007). El futuro de la Administración. Norma   
+Harari, Y. N. (2018). 21 lecciones para el siglo XXI. Debate.  
+Kim, W. C. (2020). La Estrategia del Océano Azul. Profit  
+Li, Ch. & Bernoff, J. (2009). El mundo groundswell. Empresa Activa.  
+Porter, M. (2015) Ventaja Competitiva: Creación y sostenimiento de un desempeño superior, Grupo 
+Editorial Patria  
+Ross, J.; Beath, C. & Mocker, M. (2019). Designed for Digital: How to Architect Your Business for 
+Sustained Success (Management on the Cutting Edge). The MIT Press  
+Russell, S. J.; Norvig, P. (2004). Inteligencia Artificial. Un Enfoque Moderno, Segunda edición. Person 
+Prentice Hall
+
+--- p3 ---
+Bibliografía
+Tendencias tecnológicas
+Domingos, P. (2015). The Master Algorithm: How the Quest for the Ultimate 
+Learning Machine Will Remake Our World. Penguin.  
+Fauna, (2021). Edge computing vs. cloud computing: What’s the difference? https://
+fauna.com/blog/edge-computing-vs-cloud-computing-whats-the-difference
+IBM (s/f). ¿Qué es la computación en la nube?, IBM blog: https://www.ibm.com/es-es/topics/cloud-
+computing
+McAfee, A.& Brynjolfsson, E. (2015). The Second Machine Age: Work, Progress, and Prosperity in a 
+Time of Brilliant Technologies. Norton.  
+NIST (2010). Cloud computing Forum and Workshop. NIST blog: https://csrc.nist.gov/Events/2010/
+Cloud-Computing-Forum-Workshop
+Russell, S. J. & Norvig, P. (2004). Inteligencia Artificial. Un Enfoque Moderno (2da edición). Person 
+Prentice Hall.  
+Schmidt, E. & Cohen, J. (2014). The New Digital Age. Anaya Multimedia.  
+Shanks, C. (2023). Unraveling the Power of Machine Learning: Past, Present, and Future, https://www.
+ekocyber.com/power-of-machine-learning/
+Tegmark, M. (2018). LIFE 3.0: Being Human in The Age of Artificial Intelligence. Penguin  
+Varshney, A. (2015). Augmentarium. Maryland Blended Reality Center. https://www.mbrc.umd.edu/
+augmentarium/
+
+--- p4 ---
+Bibliografía
+Comprensión del entorno organizacional
+Carriazo, J. (2023). Seis tendencias de transformación digital. Recuperado de 
+https://www.wearemarketing.com/es/blog/6-tendencias-transformacion-
+digital.html#
+Drucker, P. F. (1985). Innovation and Entrepreneurship. Harper & Row.  
+Hamel, G. (2008). El futuro de la Administración. Editorial Norma.  
+McGrath, R. (2013). The End of Competitive Advantage. Harvard Business Review Press.  
+Michaux, S., & Cadiat, A. (2016). Las cinco fuerzas de Porter: Cómo distanciarse de la competencia 
+con éxito. 50Minutos.Es.  
+Porter, M. (2010). Competitive Advantage: Creating and Sustaining Superior Performance. Pirámide.  
+Riquelme Leiva, R. (2015, junio). Las 5 Fuerzas de Porter – Clave para el Éxito de la Empresa. 
+Recuperado de https://www.5fuerzasdeporter.com/
+Tapscott, D., & Williams, A. D. (2006). Wikinomics: How Mass Collaboration Changes Everything. 
+Penguin Group.
+
+--- p5 ---
+Bibliografía
+Visión estratégica de la Transformación Digital 
+enfocada en el cliente
+Drucker, F. P. (2006a). Managing for Results. Harper Business.  
+Drucker, F. P. (2006b). The Practice of Management. Harper Business.  
+Drucker, F. P. (2007). Innovation and Entrepreneurship. Harper Business.  
+Gartner. (2024). Tu guía detallada de las 10 principales tendencias tecnológicas estratégicas de 
+Gartner para 2024. https://www.gartner.es/es/tecnologia-de-la-informacion/insights/principales-
+tendencias-tecnologicas.
+Ries, E. (2011). The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create 
+Radically Successful Businesses. Crown Currency.  
+Sinek, S. (2018). Empieza con el porqué cómo los grandes líderes motivan a actuar. Empresa Activa.  
+Solís, B. (2015). X: La experiencia cuando los negocios se encuentran con el diseño. Wiley.
+
+--- p6 ---
+Bibliografía
+Formulación de la visión estratégica
+Círculo de empresarios. (2021). Alcance e Implicaciones de la Transformación 
+Digital: principales ámbitos de actuación. Recuperado de https://
+circulodeempresarios.org/transformacion-digital/wp-content/
+uploads/2021/03/Transformación-digital-Alcance-e-Implicaciones-
+Circulo-de-Empresarios_Febrero2021.pdf
+McAfee, A., & Brynjolfsson, E. (2013). La segunda era de las máquinas. Temas Grupo Editorial.  
+Ross, J., Beath, C., & Mocker, M. (2019). Diseñando Sistemas de Información para la Transformación 
+Digital. The MIT Press.  
+Weill, P., & Woerner, S. L. (2018). What’s Your Digital Business Model? Harvard Business Review Press.

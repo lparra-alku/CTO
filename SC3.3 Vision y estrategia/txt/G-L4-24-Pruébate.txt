@@ -1,0 +1,64 @@
+# L4 · Pruébate
+Genially 65cbcf0f1428370014acbae0
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Laura a resolver algunas problemáticas.
+El Café Digital está pensando lanzar un producto estrella, para ello han recurrido a Laura, quien les ayudará a analizar la experiencia del cliente, identificando los puntos clave de interacción y proponiendo mejoras basadas en los principios de transformación digital centrada en el cliente y agilidad empresarial. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Qué características debería tener el diseño de la experiencia centrada en el cliente que busca realizar Laura?
+Seguir modas sobre el uso de diferentes dispositivos y plataformas tecnológicas
+La personalización de servicios y anticipar las necesidades del cliente
+Recopilación de datos estáticos sobre los clientes
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+¡Correcto!
+El diseño de la experiencia centrada en el cliente implica la personalización de servicios y la capacidad de anticipar las necesidades del cliente, ya que estas características son esenciales para satisfacer las demandas de clientes informados y exigentes.
+¡Incorrecto!
+La respuesta correcta es c) La personalización de servicios y anticipar las necesidades del cliente. Recuerda que el diseño de la experiencia centrada en el cliente implica la personalización de servicios y la capacidad de anticipar las necesidades del cliente, ya que estas características son esenciales para satisfacer las demandas de clientes informados y exigentes.
+Laura tiene pensado implementar una aplicación móvil que permita integrar pedidos en línea, entrega a domicilio, reserva de mesas en cafetería y atención a través de chatbots, ¿qué perspectiva de experiencia del cliente está aplicando?
+El diseño de experiencias centradas en el cliente que plantea Solis
+La Experiencia Total que plantea Gartner
+El enfoque en el porqué de Sinek
+Laura está haciendo alusión a la Experiencia Total, es decir, la combinación de la multiexperiencia (MX), la experiencia del cliente (CX), la experiencia del empleado (EX) y la experiencia del usuario (UX) para mejorar la experiencia general de todos los involucrados.
+La respuesta correcta es b) La Experiencia Total que plantea Gartner. Ten presente que la aplicación móvil que propone Laura corresponde a la combinación de la multiexperiencia (MX), la experiencia del cliente (CX), la experiencia del empleado (EX) y la experiencia del usuario (UX) para mejorar la experiencia general de todos los involucrados.
+La aplicación también permite que después de una compra, los clientes califiquen su pedido, dejen una reseña o compartan su experiencia en redes sociales, ¿a qué efecto de la transformación digital en la experiencia del cliente se está refiriendo?
+Experiencia inmersiva
+Feedback instantáneo
+Personalización
+Este rasgo de la aplicación móvil corresponde al feedback instánteo, el cual consiste en que los clientes puedan compartir sus opiniones de manera instantánea a través de reseñas en línea, comentarios en redes sociales, encuestas o formularios en línea y otras plataformas de retroalimentación digital.
+La respuesta correcta es a) Feedback instantáneo. Ten presente que la posibilidad de que los clientes puedan compartir sus opiniones de manera instantánea a través de reseñas en línea, comentarios en redes sociales, formularios en línea y otras plataformas de retroalimentación digital corresponde al feedback instantáneo.
+¿Cómo puede propiciar Laura la adaptabilidad y flexibilidad organizativa que se requiere en la cafetería para enfocarse en la experiencia del cliente desde la transformación digital?
+Implementando un sistema de pedidos en línea sin considerar la capacitación del personal
+Contratando consultores externos sin involucrar al equipo interno
+Promoviendo la comunicación abierta y la colaboración entre los empleados
+Laura puede propiciar la adaptabilidad y flexibilidad organizativa promoviendo la comunicación abierta y la colaboración entre los empleados para adaptarse a los cambios. Esta medida fomentaría un ambiente donde todos los miembros del equipo estén involucrados en el proceso y puedan aportar ideas y soluciones.
+La respuesta correcta es b) Promoviendo la comunicación abierta y la colaboración entre los empleados. Recuerda que la comunicación abierta y la colaboración son fundamentales para involucrar al equipo en el proceso de transformación digital y fomentar una cultura de adaptabilidad y flexibilidad organizativa en la cafetería.
+Tras implementar la aplicación móvil, los datos muestran que los clientes prefieren una opción de pago en línea más rápida, ¿qué se tendría que hacer para aplicar los principios de la agilidad empresarial?
+Ajustar el menú de la aplicación para incorporar nuevas bebidas
+Comenzar un proceso de investigación muy extenso
+Implementar una nueva función de pago en la aplicación
+La agilidad empresarial implica una comprensión profunda de las necesidades y expectativas del cliente, esto permite adaptarse rápidamente para satisfacer esas demandas particulares.
+La respuesta correcta era c) Implementar una nueva función de pago en la aplicación. Recuerda que la agilidad empresarial implica una comprensión profunda de las necesidades y expectativas del cliente, esto permite adaptarse rápidamente para satisfacer esas demandas particulares.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

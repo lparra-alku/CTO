@@ -1,0 +1,107 @@
+<title>Visión y Estrategia</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600;700&display=swap">
+<style>
+:root{
+  --ground:#F6F7F9; --surface:#FFFFFF; --sunken:#EDF0F4;
+  --ink:#151A21; --ink-2:#3D4753; --ink-3:#6B7684; --line:#D9DEE6;
+  --c1:#0B6E64; --c1-bg:#E4F1EE;
+  --c2:#1D4ED8; --c2-bg:#E4EAFC;
+  --c3:#9A3412; --c3-bg:#FBEBE2;
+  --c4:#6D28D9; --c4-bg:#EEE8FB;
+  --c5:#A21457; --c5-bg:#FAE4EE;
+  --flag:#8A5A00; --flag-bg:#FBF1DC; --flag-line:#E4C77E;
+  --star:#0B6E64; --star-bg:#E4F1EE;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#4FD1BE; --c1-bg:#0E2B28;
+  --c2:#8AB0FF; --c2-bg:#121F3A;
+  --c3:#F0A87A; --c3-bg:#2E1A11;
+  --c4:#BFA3FF; --c4-bg:#211537;
+  --c5:#F58FBC; --c5-bg:#31101F;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}}
+:root[data-theme="dark"]{
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#4FD1BE; --c1-bg:#0E2B28;
+  --c2:#8AB0FF; --c2-bg:#121F3A;
+  --c3:#F0A87A; --c3-bg:#2E1A11;
+  --c4:#BFA3FF; --c4-bg:#211537;
+  --c5:#F58FBC; --c5-bg:#31101F;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  line-height:1.5;padding:clamp(20px,4vw,52px) clamp(14px,4vw,44px) 72px;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(22px,3vw,34px)}
+
+header{display:flex;flex-direction:column;gap:10px;padding-bottom:20px;border-bottom:2px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:"IBM Plex Serif",Georgia,serif;font-weight:700;margin:0;
+  font-size:clamp(28px,5.2vw,44px);letter-spacing:-.02em;text-wrap:balance;line-height:1.12}
+.sub{color:var(--ink-2);max-width:62ch;font-size:15.5px;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2);
+  background:var(--sunken);border:1px solid var(--line);border-radius:3px;padding:4px 9px}
+
+.branch{display:grid;grid-template-columns:minmax(150px,200px) 1fr;gap:clamp(14px,2.4vw,30px);
+  align-items:start}
+.stem{position:sticky;top:20px;display:flex;flex-direction:column;gap:7px;
+  padding:13px 15px;border-radius:4px;background:var(--bg);border-left:4px solid var(--hue)}
+.stem .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--hue);font-weight:600}
+.stem h2{font-family:"IBM Plex Serif",Georgia,serif;font-size:18px;font-weight:600;margin:0;
+  line-height:1.24;text-wrap:balance;color:var(--ink)}
+.stem p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.42}
+
+.nodes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));
+  padding-left:clamp(12px,1.6vw,20px);border-left:1px dashed var(--line)}
+.node{background:var(--surface);border:1px solid var(--line);border-radius:4px;
+  padding:13px 15px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.node h3{margin:0;font-size:12.5px;font-weight:600;letter-spacing:.01em;color:var(--hue);
+  display:flex;align-items:baseline;gap:7px}
+.node h3 .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-3);
+  letter-spacing:.06em;font-weight:500}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+li{font-size:13.5px;color:var(--ink-2);padding-left:13px;position:relative;line-height:1.42}
+li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:1.5px;background:var(--hue);opacity:.65}
+li b{color:var(--ink);font-weight:600}
+.seq{counter-reset:s;gap:5px}
+.seq li{padding-left:24px}
+.seq li::before{counter-increment:s;content:counter(s);width:auto;height:auto;background:none;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--hue);font-weight:600;
+  top:1px;opacity:1}
+
+.flag,.star{border-radius:4px;padding:15px 17px;display:flex;flex-direction:column;gap:7px}
+.flag{background:var(--flag-bg);border:1px solid var(--flag-line)}
+.star{background:var(--star-bg);border:1px solid var(--star);border-left-width:4px}
+.flag .lbl,.star .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;font-weight:600}
+.flag .lbl{color:var(--flag)} .star .lbl{color:var(--star)}
+.flag h3,.star h3{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.flag p,.star p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:74ch}
+.flag b,.star b{color:var(--ink)}
+
+.rank{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));margin-top:3px}
+.rk{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:10px 12px;
+  display:flex;flex-direction:column;gap:3px}
+.rk .p{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--star);font-weight:600}
+.rk .t{font-size:13px;font-weight:600;color:var(--ink)}
+.rk .d{font-size:12px;color:var(--ink-3);line-height:1.38}
+
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--ink-3);font-size:12.5px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;font-family:"IBM Plex Mono",monospace}
+@media (max-width:720px){
+  .branch{grid-template-columns:1fr;gap:12px}
+  .stem{position:static;border-left-width:4px}
+  .nodes{padding-left:0;border-left:none}
+}
+</style>
+
+<div class="wrap"><header><div class="eyebrow">Chief Digital Transformation Officer · SC 3.3</div><h1>Visión y Estrategia de la Transformación Digital</h1><p class="sub">Antes de la tecnología va la visión: una declaración clara, concisa e inspiradora del estado futuro deseado. Se construye entendiendo el entorno, poniendo al cliente en el centro y eligiendo solo las tecnologías que sirven a los objetivos. La tecnología es el medio, no el fin.</p><div class="meta"><span class="chip">Evaluación 40 % · 25 preguntas · 3 intentos</span><span class="chip">Reto 60 % · Desarrolla la visión estratégica</span><span class="chip">Experto: Jeffry K. Pulido Aguilar</span></div></header><section class="branch" style="--hue:var(--c1);--bg:var(--c1-bg)"><div class="stem"><div class="n">LECCIÓN 1</div><h2>Visión estratégica</h2><p>Qué es y por qué importa</p></div><div class="nodes"><div class="node"><h3>Qué es la TD</h3><ul><li><b>Brynjolfsson y McAfee</b>: convergencia de tecnologías</li><li><b>Charlene Li</b>: reimaginar cómo opera y sirve al cliente</li><li style="color:var(--ink-3)">El Pruébate atribuye “reimaginar” a Brynjolfsson</li></ul></div><div class="node"><h3>Qué es la visión</h3><ul><li><b>Porter</b>: fuerzas competitivas, diferenciarse</li><li><b>Hamel</b>: crear el futuro, no reaccionar</li><li><b>Kim</b>: océano azul, mercados nuevos</li><li>Apple lidera · BlackBerry cae al 0 %</li></ul></div><div class="node"><h3>6 elementos · 4 funciones</h3><ul><li>Alineación · anticipación · modelo de negocio</li><li>CX · cultura y habilidades · gobernanza y seguridad</li><li>Funciones: <b>guiar, alinear, motivar, dar coherencia</b></li><li style="color:var(--ink-3)">Ross: nunca un proyecto aislado de Sistemas</li></ul></div></div></section><section class="branch" style="--hue:var(--c2);--bg:var(--c2-bg)"><div class="stem"><div class="n">LECCIÓN 2</div><h2>Tendencias tecnológicas</h2><p>IA · ML · IoT · nube · edge</p></div><div class="nodes"><div class="node"><h3>IA y ML</h3><ul><li>Russell y Norvig: 4 enfoques (piensan o actúan × humanos o racionales)</li><li><b>IA</b> = algoritmos programados explícitamente</li><li><b>ML</b> = tareas complejas y mejora continua con datos</li><li>7 aplicaciones: automatizar, predecir, personalizar…</li></ul></div><div class="node"><h3>IoT y sensores</h3><ul><li><b>Kevin Ashton, 1999</b> · M2M</li><li><b>Recopilar → compartir → procesar → actuar</b></li><li>Retos: interoperabilidad, estándares, seguridad, datos</li></ul></div><div class="node"><h3>Nube y edge</h3><ul><li><b>NIST</b>: bajo demanda · <b>pago por uso</b></li><li><b>IaaS · PaaS · SaaS</b></li><li><b>Edge</b>: procesa cerca de la fuente</li><li>Menos latencia y ancho de banda · más privacidad</li></ul></div></div></section><section class="branch" style="--hue:var(--c3);--bg:var(--c3-bg)"><div class="stem"><div class="n">LECCIÓN 3</div><h2>Entorno organizacional</h2><p>Porter, factores, competitividad</p></div><div class="nodes"><div class="node"><h3>5 fuerzas de Porter</h3><ul><li>Nuevos competidores · sustitutos</li><li>Poder de compradores · poder de proveedores</li><li>Rivalidad entre competidores</li><li style="color:var(--ink-3)">El Reto pide el diagrama</li></ul></div><div class="node"><h3>Factores del entorno</h3><ul><li><b>Externos</b>: económico, tecnológico, sociocultural, político-legal, competitivo, ecológico</li><li><b>Internos</b>: estructura, cultura, RR. HH., finanzas, tecnología</li><li>Tendencia del mercado = externo · lo que ya usas = interno</li></ul></div><div class="node"><h3>Competitividad</h3><ul><li><b>Porter</b>: costo · diferenciación · enfoque</li><li><b>Drucker</b>: innovación · <b>McGrath</b>: ventajas transitorias</li><li>Máquinas que ahorran tiempo = <b>eficiencia operativa</b></li><li>6 tendencias (Carriazo) · caso Philips → HealthTech</li></ul></div></div></section><section class="branch" style="--hue:var(--c4);--bg:var(--c4-bg)"><div class="stem"><div class="n">LECCIÓN 4</div><h2>Cliente y agilidad</h2><p>CX + agilidad empresarial</p></div><div class="nodes"><div class="node"><h3>Experiencia del cliente</h3><ul><li><b>Solis</b>: suma de todas las interacciones · personalizar y anticipar</li><li><b>Gartner, Experiencia Total</b>: MX + CX + EX + UX</li><li><b>Sinek</b>: el porqué</li></ul></div><div class="node"><h3>7 impactos en la CX</h3><ul><li>Personalización · accesibilidad · velocidad omnicanal</li><li><b>Feedback instantáneo</b> · transparencia</li><li>Experiencias inmersivas · innovación continua</li></ul></div><div class="node"><h3>Agilidad</h3><ul><li><b>Drucker</b>: resultados, descentralización, empoderamiento</li><li><b>Ries</b>: MVP · construir-medir-aprender · validar</li><li><b>Nadella</b>: cultura de crecimiento, nube e IA</li><li>Caso Netflix: del DVD al streaming</li></ul></div></div></section><section class="branch" style="--hue:var(--c5);--bg:var(--c5-bg)"><div class="stem"><div class="n">LECCIÓN 5</div><h2>Formular la visión</h2><p>6 pasos + implicaciones</p></div><div class="nodes"><div class="node"><h3>6 pasos</h3><ul class="seq"><li>Comprender el entorno</li><li>Definir objetivos estratégicos</li><li><b>Evaluar el impacto</b></li><li>Involucrar a las partes interesadas</li><li>Identificar tecnologías clave</li><li><b>Declaración</b>: clara, concisa, orientadora</li></ul></div><div class="node"><h3>Pautas</h3><ul><li><b>Weill y Woerner</b>: clientes · oferta digital · procesos</li><li><b>Ross et al.</b>: objetivos · innovación · flexibilidad</li><li>Después: <b>plan → comunicar → iterar</b></li><li>Microsoft: “empoderar a cada persona…”</li></ul></div><div class="node"><h3>Implicaciones</h3><ul><li>Cambio cultural · reevaluar procesos</li><li><b>Inversión en tecnología y capacitación</b></li><li>Enfoque en el cliente · más competencia</li><li style="color:var(--ink-3)">Error: confundir la visión con los objetivos</li></ul></div></div></section><footer><span>Mapa de estudio · SC 3.3</span><span>Tec de Monterrey · The Learning Gate</span><span>Sept 2026</span></footer></div>

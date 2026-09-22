@@ -1,0 +1,61 @@
+# L0 · ¿Cuánto sabes?
+Genially 65dd023f64fcd80014035593
+
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que ayudes a Miguel a resolver los siguientes cuestionamientos.
+Miguel debe formular la visión estratégica para guiar correctamente la transformación digital de Café Digital, pero antes debe resolver algunas dudas que tiene sobre los aspectos necesarios para plantear una declaración clara, precisa y concisa de la visión estratégica, ¿puedes ayudarlo? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Para empezar, Miguel no tiene en claro qué es una visión estratégica, ¿qué le dirías al respecto?
+Es la capacidad para articular y comprender el impacto de las tecnologías digitales en tu organización
+Es la implementación de tecnologías digitales por moda y sin un propósito claro
+Es la convergencia de avances tecnológicos emergentes
+¡Correcto!
+La visión estratégica de la transformación digital es la capacidad de una organización para articular y comprender de manera clara y holística cómo la aplicación de tecnologías digitales afectará y mejorará sus operaciones, su posición en el mercado y su capacidad para alcanzar objetivos a largo plazo.
+¡Incorrecto!
+La respuesta correcta es: es la capacidad para articular y comprender el impacto de las tecnologías digitales en tu organización. La visión estratégica de la transformación digital es la capacidad de una organización para articular y comprender de manera clara y holística cómo la aplicación de tecnologías digitales afectará y mejorará sus operaciones, su posición en el mercado y su capacidad para alcanzar objetivos a largo plazo.
+¿Cuál de las siguientes tendencias tecnológicas podría implementar Miguel en Café Digital para mejorar la experiencia del cliente?
+Inteligencia Artificial (IA) y aprendizaje automático
+Internet de las cosas (IoT)
+Edge computing
+Miguel puede implementar Inteligencia Artificial (IA) y aprendizaje automático para la optimización de procesos, ofrecer servicios más eficientes y personalizados, mejorando así la experiencia del cliente.
+La respuesta correcta es: Inteligencia Artificial (IA) y aprendizaje automático. Ten presente que Miguel puede implementar Inteligencia Artificial (IA) y aprendizaje automático para la optimización de procesos, ofrecer servicios más eficientes y personalizados, con lo cual mejore la experiencia del cliente.
+¿Por qué es crucial para Miguel analizar el entorno organizacional y las tendencias del mercado al liderar la transformación digital de la cafetería?
+Para identificar oportunidades que permitan incluir la tecnología más avanzada para digitalizar procesos
+Porque permite identificar amenazas, adaptar la estrategia y garantizar una transformación digital efectiva
+Para asegurarse de que la transformación digital esté alineada con los valores y la identidad de Café Digital
+Analizar el entorno organizacional y las tendencias del mercado es crucial para identificar oportunidades y amenazas, adaptar la estrategia a las necesidades del mercado y garantizar que la transformación digital de Café Digital sea efectiva y exitosa.
+La respuesta correcta es: porque permite identificar amenazas, adaptar la estrategia y garantizar una transformación digital efectiva. Ten presente que analizar el entorno organizacional y las tendencias del mercado permiten identificar oportunidades y amenazas, adaptar la estrategia a las necesidades del mercado y garantizar que la transformación digital de Café Digital sea efectiva y exitosa.
+¿De qué manera podría Miguel lograr que la empresa aumente su competitividad y se adapte de forma continua a los cambios del mercado?
+Realizando estudios de mercado y haciendo benchmarking cada seis meses
+Implementando tecnologías sin considerar las necesidades del cliente
+Aplicando principios de agilidad empresarial
+Miguel deberá aplicar principios de agilidad empresarial para responder rápidamente a las demandas del cliente y aprovechar la tecnología digital disponible actualmente para mejorar la competitividad de la empresa.
+La respuesta correcta es: aplicando principios de agilidad empresarial. Para aumentar la competitividad empresarial y la capacidad de adaptación a cambios del entorno, Miguel deberá aplicar principios de agilidad empresarial para responder rápidamente a las demandas del cliente y aprovechar la tecnología digital disponible actualmente.
+¿Qué pasos siguió Miguel para elaborar una visión estratégica clara y efectiva para la transformación digital de la cafetería?
+Analizar la situación actual, el entorno organizacional, las tendencias del mercado y establecer objetivos estratégicos
+Confiar únicamente en su intuición y experiencia sin involucrar a otros miembros del equipo
+Realizar una lista de deseos sin considerar la viabilidad técnica ni operativa
+Miguel siguió el siguiente proceso para formular una visión estratégica clara y efectiva: analizar la situación actual del negocio, definir objetivos estratégicos claros, analizar el entorno organizacional, así como las tendencias y cambios en el mercado actual.
+La respuesta correcta es: analizar la situación actual, el entorno organizacional, las tendencias del mercado y establecer objetivos estratégicos. Miguel siguió el siguiente proceso para formular una visión estratégica clara y efectiva: analizar la situación actual del negocio, definir objetivos estratégicos claros, analizar el entorno organizacional, así como las tendencias y cambios en el mercado actual.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

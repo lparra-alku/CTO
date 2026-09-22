@@ -1,0 +1,30 @@
+# L5 · Consideraciones clave sobre la visión estratégica
+Genially 65d4ebf45e723c0014712313 → 65d4ebee5e723c0014711e4d
+
+Consideraciones clave sobre la visión estratégica
+desde la perspectiva de Weill y Woerner
+Weill y Woerner (2018) argumentan que la visión estratégica de la transformación digital debe centrarse en tres áreas clave. Conócelas en el siguiente recurso.
+CODIGO NO BORRAR
+La perspectiva de Weill y Woener
+Weill y Woerner (2018) sugieren que las organizaciones deben desarrollar una comprensión profunda de las necesidades y expectativas de sus clientes, también de cómo aprovechar la tecnología para crear nuevas ofertas de valor y optimizar sus operaciones para competir en la economía digital.
+Entender a los clientes
+Esto implica desde conocer sus preferencias actuales hasta anticipar sus demandas y comportamientos futuros, por lo que las organizaciones deben utilizar datos y análisis para obtener información valiosa sobre los clientes y crear una experiencia digital que sea relevante y atractiva para ellos.
+Definir la oferta de valor digital
+Las empresas deben examinar críticamente su oferta actual y determinar cómo pueden mejorarla o transformarla mediante el uso de la tecnología digital. Esto podría implicar desarrollar nuevos productos o servicios digitales, mejorar la personalización o encontrar formas innovadoras de interactuar con los clientes a través de múltiples canales digitales.
+Optimizar los procesos y operaciones
+La transformación digital no se trata solo de mejorar la experiencia del cliente; también se trata de optimizar los procesos internos y las operaciones comerciales. Weill y Woerner (2018) sugieren la adopción de tecnologías digitales para aumentar la eficiencia, reducir los costos y mejorar la agilidad operativa.
+Implicaciones
+La optimización incluye la automatización de procesos, el uso de análisis de datos para la toma de decisiones y la implementación de plataformas digitales para la colaboración y la comunicación. Ahora te mostraremos un ejemplo de cómo generar una visión estratégica.
+1. Objetivo del ejemplo
+Comprender cómo es que se define una visión estratégica de transformación digital clara, inspiradora y alcanzable, capaz de orientar la innovación, guiar las decisiones y alinear a toda la organización hacia un mismo propósito digital.
+2. Problemática común
+¿Qué diferencia hay entre una empresa que adopta tecnología y una que realmente transforma su modelo de negocio a partir de una visión digital clara? Veamos el siguiente ejemplo. En el 2014, una empresa tecnológica multinacional enfrentaba un futuro incierto: El mercado de PC estaba en declive. Su cultura interna era rígida y competitiva. Su estrategia se centraba en el software tradicional, justo cuando el mundo se movía hacia la nube. La directora en turno había comprendido que el verdadero cambio no era tecnológico, sino mental y cultural. Por eso, formuló una nueva visión estratégica de transformación digital: “Empoderar a cada persona y organización en el planeta para lograr más”.
+Esta frase sencilla redirigió a toda la compañía hacia un propósito común, ya no se trataba de “vender licencias”, sino de crear plataformas, servicios e inteligencia digital que impulsaran el potencial humano. Esa visión permitió: Reorganizar toda la estrategia hacia la nube. Transformar su cultura interna hacia la colaboración y el aprendizaje continuo. Innovar con productos centrados en la experiencia del usuario. Potenciar un liderazgo empático y adaptable, que impulsó la confianza y la creatividad del personal. Actualmente, esta empresa es un ejemplo global de cómo una visión bien comunicada puede reorientar una organización gigante hacia el futuro, combinando propósito, tecnología y cultura. ¿Qué crees que debe transmitir una visión de transformación digital para ser realmente inspiradora y útil?
+3. Solución desde la información desarrollada en la lección
+En esta lección aprendiste las bases para formular tu visión estratégica de la transformación digital, y que es fundamental porque marcará el rumbo, el propósito y el enfoque de toda la transformación organizacional. Aunque el ejemplo es clave para entender cómo la visión y estrategia llevó nuevamente al éxito de la empresa, también abre la puerta a una reflexión profunda sobre el papel real de la visión estratégica dentro de la transformación digital: ¿Una visión tan corta como la del ejemplo puede ser poderosa? La respuesta es sí, si se comprende en su contexto, aunque no cumpla con todas las consideraciones formales, ya que una empresa consolidada ya cuenta con valores, objetivos, pilares estratégicos y hojas de ruta tecnológicas que desarrollan el “cómo”, entonces su visión funciona como un eje de cultura, más que como un documento operativo.
+4. Errores comunes que deben evitarse
+Redactar visiones genéricas. Confundir la visión con los objetivos o los proyectos tecnológicos. No involucrar a los líderes y colaboradores en la formulación. No conectar la visión con la cultura y valores de la organización. Crear una visión sin indicadores que permitan medir avances.
+5. Puntos clave
+La visión de transformación digital debe ser inspiradora, clara y accionable. Su propósito es alinear a toda la organización hacia un mismo futuro digital. La tecnología es el medio, no el fin de la transformación. La visión debe conectar con la estrategia, la cultura y el propósito organizacional. Una visión bien formulada guía decisiones, impulsa la innovación y da sentido al cambio.
+Continúa con el estudio de la lección.
+Por el contrario, en organizaciones que apenas comienzan su transformación digital, una visión más desarrollada y estructurada, es esencial para dar claridad y cohesión a todo el proceso. Si deseas conocer el caso completo, puedes hacerlo en el siguiente enlace: https://www.youtube.com/watch?v=wIcTirhQiU8

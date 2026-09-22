@@ -1,0 +1,309 @@
+ 
+The Learning Gate | Tecnológico de Monterrey 
+Reto | Desarrolla la visión estratégica de tu empresa 
+ 
+Formato de Evaluación 
+La actividad será evaluada utilizando la siguiente lista: 
+ 
+ 
+No cumplió 
+(0%) 
+Falta desarrollar 
+(50%) 
+En desarrollo 
+(80%) 
+Sobresaliente 
+(100%) 
+Puntuació
+n máxima 
+Análisis de la 
+situación actual 
+de la empresa 
+0 ptos. 
+No cumple 
+con lo 
+solicitado. 
+10 ptos. 
+Responde solo a dos 
+preguntas y desarrolla 
+solo 
+tres 
+elementos 
+solicitados, 
+integrando respuestas 
+poco 
+relevantes 
+o 
+ambiguas. 
+16 ptos. 
+Responde claramente a 
+las tres preguntas, pero 
+solo 
+desarrolla 
+cuatro 
+elementos 
+solicitados, 
+integrando pocos puntos 
+relevantes 
+en 
+cada 
+recuadro. 
+20 ptos. 
+Responde claramente a 
+las 
+tres 
+preguntas 
+y 
+desarrolla 
+todos 
+los 
+elementos 
+solicitados, 
+integrando 
+puntos 
+relevantes 
+en 
+cada 
+recuadro. 
+20 ptos. 
+Establecimiento 
+de los objetivos 
+de la 
+transformación 
+digital 
+0 ptos. 
+No cumple 
+con lo 
+solicitado. 
+10 ptos. 
+Responde solo a dos 
+preguntas y desarrolla 
+menos de cuatro de 
+los puntos solicitados 
+de forma ambigua o 
+poco clara. 
+16 ptos. 
+Responde claramente a 
+las 
+tres 
+preguntas 
+y 
+desarrolla casi todos los 
+puntos solicitados, pero 
+no toma en cuenta el 
+formato 
+de 
+objetivos 
+SMART. 
+20 ptos. 
+Responde claramente a 
+las 
+tres 
+preguntas 
+y 
+desarrolla 
+todos 
+los 
+puntos 
+solicitados, 
+tomando en cuenta el 
+formato 
+de 
+objetivos 
+SMART. 
+20 ptos. 
+Identificación y 
+selección de 
+tecnologías 
+clave 
+0 ptos. 
+No cumple 
+con lo 
+solicitado. 
+8 ptos. 
+Responde solo a dos 
+preguntas y desarrolla 
+un 
+objetivo 
+colocando 
+solo 
+un 
+punto 
+sobre 
+las 
+tecnologías 
+que 
+permiten 
+el 
+cumplimiento de los 
+objetivos. 
+12 ptos. 
+Responde a todas las 
+preguntas, 
+pero 
+desarrolla 
+el 
+objetivo 
+colocando 
+puntos 
+relevantes 
+sobre 
+las 
+tecnologías 
+que 
+permiten el cumplimiento 
+del objetivo. 
+ 
+15 ptos. 
+Responde claramente a 
+todas las preguntas y 
+desarrolla el objetivo con 
+puntos 
+relevantes 
+por 
+cada 
+tecnología 
+que 
+permite el cumplimiento 
+del objetivo. 
+15 ptos. 
+ 
+The Learning Gate | Tecnológico de Monterrey 
+Formulación de 
+la visión 
+estratégica 
+0 ptos. 
+No cumple 
+con lo 
+solicitado. 
+13 ptos. 
+Elabora 
+una 
+declaración ambigua 
+que apenas cumple 
+con algunos aspectos 
+clave 
+de 
+la 
+visión 
+estratégica y no toma 
+en 
+cuenta 
+las 
+necesidades 
+y 
+consideraciones de la 
+empresa. 
+20 ptos. 
+Elabora una declaración 
+poco clara, pero concisa 
+que cumple con algunos 
+aspectos clave de la 
+visión 
+estratégica, 
+tomando 
+en 
+cuenta 
+algunas necesidades y 
+consideraciones de la 
+empresa. 
+25 ptos. 
+Elabora una declaración 
+clara 
+y 
+concisa 
+que 
+cumple con todos los 
+aspectos clave de la 
+visión 
+estratégica, 
+tomando en cuenta las 
+necesidades 
+y 
+consideraciones de la 
+empresa. 
+25 ptos. 
+Implicaciones 
+de la visión 
+estratégica 
+0 ptos. 
+No cumple 
+con lo 
+solicitado. 
+5 ptos. 
+Responde 
+ambiguamente a dos 
+preguntas sin justificar 
+sus respuestas. 
+8 ptos. 
+Responde claramente a 
+todas las preguntas, pero 
+con 
+una 
+justificación 
+ambigua 
+de 
+sus 
+respuestas. 
+10 ptos. 
+Responde claramente a 
+todas 
+las 
+preguntas, 
+justificando 
+adecuadamente 
+sus 
+respuestas. 
+10 ptos. 
+Evaluación de 
+la formulación 
+de la visión 
+estratégica 
+0 ptos. 
+No cumple 
+con lo 
+solicitado. 
+5 ptos. 
+Responde 
+positivamente 
+a 
+menos de tres rubros 
+del checklist y aunque 
+establece 
+un 
+mecanismo 
+de 
+monitoreo, no permite 
+garantizar 
+la 
+relevancia 
+y 
+efectividad 
+de 
+la 
+visión estratégica. 
+8 ptos. 
+Responde positivamente 
+a más de tres rubros del 
+checklist, 
+aunque 
+establece un mecanismo 
+poco 
+claro 
+para 
+garantizar la relevancia y 
+efectividad de la visión 
+estratégica, a medida 
+que avanza el proyecto. 
+10 ptos. 
+Responde positivamente 
+a todos los rubros del 
+checklist y establece un 
+mecanismo que permite 
+garantizar la relevancia y 
+efectividad de la visión 
+estratégica, a medida 
+que avanza el proyecto. 
+10 ptos. 
+TOTAL 100 ptos. 
+ 

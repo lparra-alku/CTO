@@ -1,0 +1,23 @@
+# L2 · Cualidades del Edge computing
+Genially 658b1b910af3130014929665 → 658b1b9409842e0014e7527f
+
+Cualidades del
+Edge computing
+El Edge computing es un modelo informático distribuido que lleva el procesamiento de datos y la ejecución de servicios más cerca de la fuente de los datos. Conoce sus principales cualidades:
+CODIGO NO BORRAR
+Reducción de latencia y ahorro de ancho de banda
+En el Edge computing, el procesamiento local de datos minimiza la latencia al ejecutarse en dispositivos cercanos a la fuente, mejorando la capacidad de respuesta y la experiencia del usuario. Y al procesar y filtrar datos localmente se reduce la necesidad de enviar grandes cantidades de información a la nube, generando ahorro de ancho de banda y aligerando la carga de las redes.
+Adaptabilidad a la movilidad
+El Edge computing resulta más adecuado para entornos móviles y situaciones en las que los dispositivos o sensores están en constante movimiento. Esto permite la ejecución eficiente de aplicaciones móviles y en tiempo real, como la realidad aumentada, la realidad virtual y los servicios basados en la ubicación.
+Privacidad y seguridad mejoradas
+El Edge computing también puede mejorar la privacidad y la seguridad al reducir la necesidad de enviar información sensible a ubicaciones remotas y procesar datos sensibles localmente, en vez de enviarlos a la nube.
+Procesamiento en situaciones de conectividad limitada
+Aunado a lo anterior, el Edge computing permite el procesamiento de datos incluso en situaciones de conectividad intermitente o limitada, siendo crucial en entornos remotos o en movimiento, como aplicaciones industriales o vehículos autónomos.
+Conclusión
+Nodos de dispositivos
+Aplicación
+Distribución
+En resumen, el Edge computing impulsa la transformación digital al mejorar la eficiencia, la velocidad de respuesta y la seguridad, permitiendo la adopción efectiva de tecnologías emergentes en una variedad de aplicaciones y sectores.
+Volumen de data
+Reducción de costos
+Continúa con el estudio de la lección.

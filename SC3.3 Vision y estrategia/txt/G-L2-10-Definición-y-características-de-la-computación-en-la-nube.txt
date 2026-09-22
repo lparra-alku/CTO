@@ -1,0 +1,37 @@
+# L2 · Definición y características de la computación en la nube
+Genially 658b1b220af3130014926240
+
+Definición y
+características de la computación en la nube
+Existen múltiples definiciones de la computación en la nube, pero todas coinciden en las siguientes características. Conócelas a continuación, así como los modelos de servicio que existen en la actualidad.
+De acuerdo con IBM, la computación en la nube es el acceso bajo demanda a recursos informáticos, alojados en un centro de datos remoto, administrado por un proveedor de servicios de nube. También se refiere a la tecnología que hace posible que la nube funcione como la infraestructura de TI virtualizada.
+El National Institute of Standards and Technology (NIST) define al cloud computing o computación en la nube como un modelo que hace posible el acceso ubicuo, conveniente y bajo demanda a un conjunto compartido de recursos informáticos configurables, como redes, servidores, almacenamiento, aplicaciones y servicios, liberados con un esfuerzo mínimo de gestión o interacción con el proveedor del servicio.
+Por lo tanto, la computación en la nube implica la entrega de servicios de cómputo a través de internet, es decir, que no buscan poseer y mantener servidores y recursos físicos y locales. Esto permite acceder a estos servicios mediante proveedores virtuales.
+Las características de la computación en la nube son las siguientes:
+Acceso remoto.
+Escalabilidad.
+Pago por uso.
+Flexibilidad y agilidad.
+Respaldo y recuperación.
+Seguridad.
+Cabe destacar que existen varios modelos de servicio en la nube:
+Infraestructura como Servicio (IaaS).
+Plataforma como Servicio (PaaS).
+Software como Servicio (SaaS).
+Por lo tanto, la computación en la nube ha transformado la forma en que las empresas y los individuos gestionan y acceden a recursos informáticos, proporcionando eficiencia, escalabilidad y flexibilidad.
+Gracias por tu respuesta
+¿Qué modelo de servicio en la nube sería más adecuado para tu negocio?, ¿de qué manera se podría conseguir la eficiencia, escalabilidad y flexibilidad a través de la computación en la nube en tu organización?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Los proveedores de servicios en la nube implementan medidas de seguridad para proteger los datos y la infraestructura. Sin embargo, es responsabilidad del usuario tomar medidas adicionales según sus necesidades y regulaciones.
+Los servicios en la nube suelen ofrecer respaldo automático, lo que mejora la disponibilidad y la recuperación de datos en caso de fallos.
+Consectetur adipiscing elit
+Como aplicaciones, servidores físicos y virtuales, almacenamiento de datos, herramientas de desarrollo, capacidades de red y más.
+Proporciona una plataforma completa para desarrollar, probar y ejecutar aplicaciones sin preocuparse por la infraestructura subyacente.
+Tales como redes, servidores, software de sistema operativo y software especial que permita la agrupación y división independiente del hardware físico y sus límites.
+Ofrece aplicaciones de software completas a través de internet, eliminando la necesidad de instalación y mantenimiento local.
+Los servicios en la nube son accesibles a través de internet desde cualquier lugar y en cualquier momento, siempre que haya conexión a la red.
+El modelo de pago por uso significa que los usuarios pagan solo por los recursos y servicios que consumen, en lugar de invertir en infraestructura fija.
+Ofrece recursos virtuales como máquinas virtuales y almacenamiento.
+Los usuarios pueden aumentar o disminuir la cantidad de recursos computacionales y de almacenamiento según la demanda.
+La computación en la nube permite una rápida implementación y despliegue de servicios y aplicaciones para la gestión y el desarrollo ágil y flexible de proyectos.

@@ -1,0 +1,60 @@
+# L5 · Pruébate
+Genially 65d4ec04a19a9c00147c918d
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Christian a resolver algunas problemáticas.
+El dueño de Café Digital ha contratado a Christian para mejorar la competitividad de la cafetería a través de la transformación digital. Ayúdalo a resolver una serie de dudas e inquietudes sobre cómo formular la visión estratégica de este proceso de transformación y comprender sus implicaciones generales. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Tras comprender el entorno empresarial actual y definir los objetivos estratégicos de la transformación digital, ¿cuál es el siguiente paso que debe realizar Cristian para la formulación de la visión estratégica?
+Evaluar el impacto de la transformación digital
+Identificar tecnologías clave
+Involucrar a las partes interesadas
+¡Correcto!
+Cristian debe analizar cómo la transformación digital afectará a todos los aspectos de la organización, desde procesos internos hasta la experiencia del cliente.
+¡Incorrecto!
+Recuerda que el tercer paso es evaluar el impacto de la transformación digital , a partir de analizar cómo la transformación digital afectará a todos los aspectos de la organización, desde procesos internos hasta la experiencia del cliente.
+Tras realizar un análisis exhaustivo sobre el Internet de las cosas (IoT), la computación en la nube, la analítica de datos y la inteligencia artificial (IA), Christian determinó que conviene usar las dos últimas para mejorar la oferta de productos. ¿Qué paso acaba de realizar Christian?
+Comprender el entorno empresarial actual
+Identificar tecnologías clave consiste en determinar qué tecnologías digitales son necesarias para alcanzar los objetivos estratégicos de la organización, tales como Internet de las cosas (IoT), computación en la nube, analítica de datos, inteligencia artificial (IA), entre otras.
+Recuerda que identificar tecnologías clave consiste en determinar qué tecnologías digitales son necesarias para alcanzar los objetivos estratégicos de la organización, tales como Internet de las cosas (IoT), computación en la nube, analítica de datos, inteligencia artificial (IA), entre otras.
+Una vez que Christian tiene todos los elementos y consideraciones anteriores, es momento de que formule la visión estratégica. Pero no tiene en claro ¿cómo debe ser la declaración de la visión estratégica?
+Debe ser tan detallada como sea posible para guiar acciones específicas
+Debe describir el estado futuro deseado de forma clara, concisa y orientadora
+Debe incluir solo metas a corto plazo para mayor flexibilidad
+Es momento de que Christian desarrolle una declaración clara y concisa que describa el estado futuro deseado y oriente el proceso de transformación digital de la organización.
+Recuerda que la declaración de la visión estratégica debe ser clara y concisa, que describa el estado futuro deseado y oriente el proceso de transformación digital de la organización.
+¿Qué se requiere para la implementación exitosa de la visión estratégica de transformación digital en Café Digital?
+Inversiones significativas en tecnología y capacitación de colaboradores
+Inversiones significativas en marketing digital y publicidad en redes sociales
+Optimización de los procesos de producción de café
+La implementación exitosa de la visión estratégica de la transformación digital requiere inversiones significativas en tecnología y capacitación de los colaboradores de la empresa u organización.
+Recuerda que la implementación exitosa de la visión estratégica de la transformación digital requiere inversiones significativas en tecnología y capacitación de los colaboradores de la empresa u organización.
+¿Cómo podría Christian mejorar la experiencia del cliente de Café Digital mediante personalización, conveniencia y accesibilidad?
+Usar analítica de datos para hacer recomendaciones basadas en el historial de cada cliente
+Ampliar el horario de atención de la cafetería con sistemas automatizados
+Redecorar el interior de la cafetería con un diseño moderno y elegante
+La analítica de datos permite ofrecer recomendaciones basadas en el historial de compras de cada cliente, lo que mejora su experiencia al sentirse atendidos de manera personalizada.
+Ten presente que la analítica de datos permite ofrecer recomendaciones basadas en el historial de compras de cada cliente , mejorando así la experiencia del cliente.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

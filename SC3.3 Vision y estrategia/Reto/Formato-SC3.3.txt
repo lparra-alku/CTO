@@ -1,0 +1,281 @@
+
+Reto | Desarrolla la visión estratégica de tu empresa
+
+
+
+Entregable final del reto
+Documento editable por el participante
+
+
+
+Nombre del participante:
+
+Indicaciones:  
+Genera una copia de este documento y edítala con tu nombre de la siguiente manera: tunombre_Reto_CS3.3
+
+Al finalizar el reto, conviértelo en archivo PDF y súbelo como evidencia presionando el botón “Añadir publicación”.
+
+El archivo entregable será evaluado con base en el cumplimiento de los requerimientos y a su contenido.
+
+
+
+
+Instrucciones:
+Cada paso que des te permitirá avanzar en la formulación de una visión estratégica poderosa y transformadora. Desde la comprensión profunda de las necesidades y desafíos de tu empresa hasta la articulación de objetivos claros y alcanzables, tendrás que poner en práctica los conocimientos y habilidades adquiridas hasta este momento. Recuerda que con cada decisión y acción, te acercarás más a una visión que no solo revolucionará la forma en que tu organización opera, sino que también la impulsará hacia nuevos niveles de éxito y relevancia en un mundo digital en constante evolución.
+
+Para el desarrollo del reto sigue los siguientes pasos:
+
+PASO 1. Análisis de la situación actual de la empresa
+Reflexiona sobre los siguientes aspectos clave de tu empresa u organización, respondiendo a las siguientes preguntas: 
+-635210185¿Qué productos o servicios ofrece?
+
+¿Cuáles son sus puntos fuertes y áreas de mejora? Enlístalos a continuación.
+Tabla 1. Análisis interno de tu empresa
+Puntos fuertes
+Áreas de mejora
+
+
+
+
+
+
+
+
+
+
+
+¿Cuáles son los factores internos o externos que se deben tomar en cuenta?, ¿por qué? Te sugerimos retomar la tabla 2.
+
+Tabla 2. Factores internos y externos de tu empresa
+Factores internos
+Justificación
+
+
+
+
+
+
+
+
+
+
+Factores externos
+Justificación
+
+
+
+
+
+
+
+
+
+
+
+
+Utiliza el formato del Diagrama de Porter para plasmar la situación actual de tu empresa. Te sugerimos retomar el siguiente formato correspondiente.
+ 
+Diagrama de Porter
+center215900Poder de negociación de los proveedores:
+Intensidad de la rivalidad entre competidores existentes:
+Oportunidades que ofrecemos a los clientes:
+Proveedores:
+Amenaza de nuevos competidores:
+Perfil de nuestros clientes:
+Barreras ante la amenaza de productos sustitutos:
+Amenaza de productos sustitutos:
+Poder de negociación de los compradores (clientes):
+00Poder de negociación de los proveedores:
+Intensidad de la rivalidad entre competidores existentes:
+Oportunidades que ofrecemos a los clientes:
+Proveedores:
+Amenaza de nuevos competidores:
+Perfil de nuestros clientes:
+Barreras ante la amenaza de productos sustitutos:
+Amenaza de productos sustitutos:
+Poder de negociación de los compradores (clientes):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PASO 2. Establecimiento de los objetivos de la transformación digital
+Reflexiona sobre los siguientes aspectos que te permitan identificar posibles objetivos estratégicos:
+left377972¿Qué es lo que te gustaría mejorar con la transformación digital: la empresa en general, un producto o un servicio?
+
+left3920880¿De qué manera la transformación digital mejorará a tu empresa, al producto o servicio seleccionado?
+
+left616585¿Qué objetivos te gustaría lograr con la transformación digital: aumentar la eficiencia operativa, mejorar la experiencia del cliente o expandir tu alcance en línea?
+
+Para elaborar los objetivos, te sugerimos retomar la siguiente plantilla que te ayudará a plasmar objetivos.
+Metodología SMART
+S
+Escribe tu objetivo CONCRETO
+
+M
+Cómo lo vas a MEDIR, menciona tus indicadores
+
+A
+Revisa si es ALCANZABLE, aunque sea ambicioso
+
+R
+Para qué será RELEVANTE
+
+T
+Cuándo lo vas a TERMINAR
+
+
+PASO 3. Identificación y selección de tecnologías clave
+Toma en cuenta las siguientes cuestiones para hacer la identificación de tecnologías clave:
+¿Cuáles son las tecnologías con las que actualmente cuenta tu empresa? Enlístalas en la siguiente tabla.
+Tabla 3. Recursos tecnológicos de tu empresa
+Tecnologías
+
+
+
+
+
+
+
+
+¿Qué problemas te gustaría resolver? Descríbelos en la siguiente tabla.
+Tabla 4. Problemas a resolver de tu empresa
+Problema
+Descripción
+
+
+
+
+
+
+
+
+
+
+
+¿Qué tecnologías crees que podrían ayudarte a resolverlos? Te sugerimos retomar la siguiente tabla.
+Tabla 5. Resolución de problemas con tecnología
+Problema
+Tecnología
+
+
+
+
+
+
+
+
+
+
+
+Valida las tendencias tecnológicas propuestas y reflexiona sobre cuales te ayudarán a cumplir con tus objetivos utilizando el siguiente formato de Tecnologías clave.
+
+Objetivos
+Tendencias tecnológicas
+
+Inteligencia Artificial
+Aprendizaje automático
+Internet de las cosas (IoT)
+Sensores
+Computación en la nube
+Edge computing
+#1
+
+
+
+
+
+
+#2
+
+
+
+
+
+
+#3
+
+
+
+
+
+
+
+
+
+PASO 4. Formulación de la visión estratégica
+Basándote en los objetivos estratégicos planteados con antelación, crea una declaración de visión estratégica clara y concisa que describa cómo quieres que sea tu empresa después de la transformación digital.
+-5687814242
+PASO 5. Implicaciones de la visión estratégica
+Reflexiona sobre cómo la visión estratégica de la transformación digital que has formulado podrá impactar en la competitividad de tu empresa, respondiendo a las siguientes preguntas:
+left3797300¿Cómo ayudará la transformación digital a que tu empresa se distinga de la competencia?
+
+left3720190¿Qué ventaja(s) competitiva(s) se busca obtener mediante la transformación digital?
+
+left3791860¿Cómo afectará la transformación digital a la percepción de valor de tus clientes?
+
+
+PASO 6. Evaluación de la formulación de la visión estratégica
+Revisa la declaración de la visión estratégica que has formulado y coloca una paloma en cada recuadro del checkList.
+
+Aspecto
+Pregunta orientadora
+Selección
+Observaciones
+
+
+Sí
+No
+
+Claridad
+¿La declaración de visión estratégica es clara y fácil de entender?
+
+
+
+Alineación con objetivos organizacionales
+¿La visión estratégica está alineada con los objetivos y la misión general de la organización?
+
+
+
+Relevancia y adaptabilidad
+¿Se ha tenido en cuenta la capacidad de adaptación a posibles cambios en el entorno empresarial y tecnológico?
+
+
+
+Viabilidad y recursos
+¿La visión estratégica es factible en términos de recursos disponibles, como presupuesto, tecnología y talento?
+
+
+
+Alcance
+¿La visión estratégica permite inspirar y motivar a los equipos, pero también es realista en términos de lo que se puede lograr?
+
+
+
+Implicaciones organizacionales
+¿Se han identificado y abordado posibles desafíos relacionados con el cambio de cultura, la capacitación del personal y la gestión del cambio?
+
+
+
+
+left6121400Establece un mecanismo de monitoreo de la visión estratégica a lo largo del tiempo, para asegurar que siga siendo relevante y efectiva a medida que evoluciona la transformación digital de la organización.
+

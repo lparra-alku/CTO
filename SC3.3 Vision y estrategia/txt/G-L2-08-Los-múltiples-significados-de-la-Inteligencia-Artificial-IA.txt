@@ -1,0 +1,17 @@
+# L2 · Los múltiples significados de la Inteligencia Artificial (IA)
+Genially 658b13a70af31300148f090d → 658b13ab161be8001421535c
+
+Los múltiples significados de la Inteligencia Artificial
+Russell y Norving (2004) definieron a la IA como una rama de la informática ocupada de la automatización de comportamientos inteligentes; sin embargo, retomaron ideas de otros autores. Conócelos a continuación.
+CODIGO NO BORRAR
+La IA son sistemas que piensan como humanos
+Para Haugeland (1985), la IA trata de un nuevo y excitante esfuerzo para hacer que los computadores piensen como “máquinas con mentes”. Sin embargo, para Bellman (1978), se trata de la automatización de actividades vinculadas a procesos de pensamiento humano, tales como la toma de decisiones, la resolución de problemas y el aprendizaje.
+La IA son sistemas que piensan racionalmente
+De acuerdo con Charniak y McDermott (1985), la IA implica el estudio de las facultades mentales mediante el uso de modelos computacionales, esto complementa la idea de Winston (1992) sobre el estudio de los cálculos que hacen posible percibir, razonar y actuar.
+La IA son sistemas que actúan como humanos
+Kurzweil (1990) consideró que la IA implica el desarrollo de máquinas con la capacidad de realizar funciones que requieren de inteligencia. Eso se relaciona con la idea de Rich y Knight (1991) acerca de cómo lograr que los computadores realicen tareas que, para ese entonces, los humanos hacían mejor.
+La IA son sistemas que actúan racionalmente
+De acuerdo con Poole et al. (1998), la IA surge del estudio del diseño de agentes inteligentes, mejor conocido como “Inteligencia Computacional”, mientras que Nilsson (1998) señala que la IA está relacionada con conductas inteligentes en artefactos.
+Conclusión
+Estas definiciones reflejan la variedad de perspectivas y enfoques de la Inteligencia Artificial (IA). Sin embargo, independientemente de la perspectiva, la IA implica que las máquinas realicen tareas humanas inteligentes, como el aprendizaje, el razonamiento y el procesamiento del lenguaje. Un ejemplo actual son los asistentes de voz, que usan procesamiento del lenguaje natural y reconocimiento de voz para realizar diversas funciones, desde enviar mensajes hasta controlar dispositivos en el hogar.
+Continúa con el estudio de la lección.
