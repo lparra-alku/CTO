@@ -1,0 +1,162 @@
+
+--- p1 ---
+La tercera etapa de la transformación digital consiste en pasar de la 
+recopilación de información y la creación de consenso a la producción de 
+resultados reales.
+todas las transformaciones 
+exitosas (Iterate-Iterar) 
+CONSTRUIR (BUILD): 
+Las cinco etapas de
+
+--- p2 ---
+El objetivo de cualquier programa de transformación digital es ser más rápido y 
+mejor a la hora de hacer frente al cambio. Para ello, debe crear y establecer una 
+nueva forma de trabajar, colaborar y mejorar de forma iterativa para sustituir el 
+antiguo enfoque.
+ 
+En este sentido, el grupo de liderazgo de transformación y los equipos de 
+proyecto autodirigidos, compuestos por personal con las habilidades necesarias 
+para construir, probar y aprender en ciclos iterativos, se dedican a ejecutar 
+proyectos basados en métodos ágiles y de pensamiento de diseño. Esto se hace 
+con el fin de evitar el desarrollo de productos o servicios que los clientes no 
+desean, fomentando la innovación genuina que pueda transformar el negocio. 
+Los proyectos se evalúan continuamente según objetivos predefinidos, lo que 
+permite tomar decisiones ágiles y fundamentadas en pruebas medibles y 
+observables.
+¿Cómo iterar?
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+1. Maximiza el número de proyectos (y espera que fluctúe)
+El primer principio a la hora de ejecutar un programa de transformación 
+digital es ejecutar tantos proyectos como te permitan tus recursos, ya que 
+cuando utilizas el enfoque iterativo, solo escalarás los que demuestren 
+resultados empresariales reales. 
+2. Mantén los proyectos en ciclos cortos
+Mantener ciclos iterativos cortos le permite iniciar y ejecutar varios 
+proyectos a la vez con bajos costos iniciales y un riesgo mínimo, ya que solo 
+se necesita un ciclo de "construir, probar, aprender y mejorar" para obtener 
+resultados medibles y significativos. 
+3. Establece objetivos para los equipos de proyecto y cúmplalos
+En la transformación digital, se construyen objetivos y se diseñan proyectos 
+para mejorar las métricas que impulsan el éxito de tu organización. 
+4. La opinión de nadie importa más que la del cliente
+5. Criterios para evaluar los proyectos de transformación
+Para cualquier organización, hay cinco categorías de criterios para la toma 
+de decisiones a tener en cuenta a la hora de evaluar la viabilidad de un 
+proyecto dentro de un programa de transformación digital; estos criterios 
+son: 
+¿Cómo iniciar un proyecto de transformación 
+digital bajo un enfoque iterativo?
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+•
+Valor para el cliente: ¿Valoran los clientes el resultado del proyecto lo 
+suficiente como para que valga la pena la inversión? 
+•
+Ventaja competitiva: ¿Se ofrece en otros lugares y cómo se comparará la 
+nuestra? 
+•
+Impacto en el negocio: ¿Puede la empresa habilitarlo y apoyarlo a largo 
+plazo? 
+•
+Viabilidad técnica: ¿Cuál es el costo y cuál es el impacto en los sistemas 
+existentes? 
+•
+Escalabilidad: ¿Se puede personalizar y es aplicable en toda la empresa?
+En esta etapa definir los objetivos correctos es la clave del éxito, pues todo el 
+proceso de gestión y evaluación de la transformación digital de una 
+organización se reduce a establecer objetivos claros y comprobables para cada 
+una de sus rutas hacia la transformación. 
+Para establecer los objetivos correctos te recomendamos seguir esta lista de 
+cotejo: 
+¿Están los objetivos asignados a su visión de transformación compartida? 
+¿Están los objetivos vinculados a los impulsores del éxito de su organización? 
+¿Se pueden medir los objetivos con respecto a los cinco puntos de los criterios 
+de evaluación? 
+¿Se pueden aplicar los objetivos en las tres etapas del proyecto y más allá? 
+¿Son medibles y comprobables empíricamente? 
+¿Dejan el "cómo" abierto para que el equipo multifuncional decida?
+Al establecer tus objetivos evita estos errores:
+1. Incluir métricas de vanidad 
+2. No establecer un punto de referencia
+3. Ser incomprobable 
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Metodologías probadas 
+Hay muchas metodologías diferentes que se puede combinar para ejecutar con 
+éxito proyectos iterativos, por ejemplo:
+• Agile 
+Agile es la metodología más utilizada para ejecutar proyectos iterativos, pero 
+está plagada de terminología especializada y procesos complejos que se 
+malinterpretan fácilmente. Por esta razón, es importante conocer la forma 
+correcta de abordarlo antes incluso de profundizar en qué es o los beneficios 
+que ofrece. 
+Cómo funciona Agile: Cada ciclo de un proyecto ágil se denomina sprint; los 
+sprints suelen tener una duración de dos semanas porque es tiempo suficiente 
+para que el equipo planifique y construya un conjunto de características 
+completas, pero no tanto como para retrasar la producción de resultados 
+regulares en caso de que las pruebas revelen problemas o cambios necesarios. 
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Los sprints se gestionan y planifican haciendo que el equipo divida cada pieza 
+de trabajo en requisitos más pequeños y autónomos llamados "historias de 
+usuario" porque están escritos desde la perspectiva del usuario final. 
+Razones para adoptar métodos Agile
+1. Es el mejor enfoque de gestión de proyectos para empoderar a los equipos y 
+facilitar el trabajo colaborativo. 
+2. Los proyectos ágiles son más fáciles de gobernar debido a la responsabilidad 
+compartida y la alta transparencia. 
+3. Agile se adapta fácilmente al cambio y se puede utilizar para mantener el 
+producto una vez finalizado el proyecto. 
+• Design Thinking
+Es una metodología probada para usar a lo largo de un proyecto de 
+transformación digital (Christensen, 1997), especialmente en conjunto con 
+Agile, pero es especialmente útil al principio, cuando aún se sabe poco sobre 
+cómo lograr los objetivos establecidos para la ruta de transformación del 
+proyecto. 
+Cómo funciona el Design Thinking: Los proyectos iterativos siguen un ciclo de 
+"construir, probar, mejorar y repetir" hasta que una solución esté lista para 
+pasar a la siguiente etapa. El Design Thinking se utiliza dentro de cada uno de 
+esos ciclos para informar qué se debe construir, cómo se debe probar y qué 
+mejoras se deben realizar.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Al terminar la etapa 3 la empresa tendrá: 
+•
+Equipos de proyecto multifuncionales. 
+ 
+•
+Soluciones que comienzan como prototipos simples y se hacen más grandes 
+y complejos.  
+•
+Resultados y procesos de evaluación que revelan soluciones.
+•
+Puntos de referencia de las pruebas que informarán los indicadores clave de 
+rendimiento.   
+Tan pronto como sus proyectos iterativos comiencen a mostrar algún nivel de 
+resultados exitosos, estará listo para la Etapa 4 de BUILD: Aprovechamiento; 
+mismo que se abordará en el siguiente recurso. 
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+Reflexiones
+¿Qué papel juega el feedback de los clientes en el proceso 
+de iteración de los proyectos de transformación digital y 
+cómo los utilizas para mejorar continuamente las 
+soluciones ofrecidas?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

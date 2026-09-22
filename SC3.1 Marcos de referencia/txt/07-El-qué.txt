@@ -1,0 +1,181 @@
+
+--- p1 ---
+(Balancea el objetivo de tu 
+transformación digital)
+El qué
+A medida que diseñas tu programa de 
+transformación digital, es esencial enmarcar tus 
+iniciativas digitales de acuerdo con su impacto en 
+tus operaciones actuales y alineado a tu objetivo de 
+transformación.
+
+--- p2 ---
+Equilibrar el objetivo de transformación 
+digital con otros aspectos clave de la estrategia 
+empresarial es crucial para garantizar una transformación 
+digital exitosa y sostenible que agregue valor tanto para la empresa como 
+para sus clientes y empleados.
+Para lograr este equilibrio es importante mapear tus iniciativas digitales, 
+esto permitirá establecer una dirección clara, priorizar recursos, gestionar 
+el cambio, medir el progreso y adaptarse continuamente a un entorno 
+empresarial en evolución.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Es importante que para este mapeo consideres 
+2 dimensiones: La amplitud de reconfiguración 
+requerida dentro de la cadena de valor actual y 
+el nivel de reinvención necesario en la oferta principal 
+o modelo de negocio. 
+ 
+Observa el siguiente esquema en el que se muestran los aspectos clave de la 
+tu estrategia empresarial que se incluyen en cada dimensión. 
+3
+Transformación de la 
+cadena de valor
+Reinvención del modelo 
+de negocio
+Procesos centrales
+Cruzar los límites de la 
+organización
+Procesos, sistemas, personas, 
+datos y cambio organizacional 
+Cambio del modelo de 
+negocio central
+Ecosystem-based 
+Estrategias de plataforma
+Reingeniería digital
+Propuesta de 
+valor digital
+Nivel de reinvención necesario en la oferta principal o modelo de negocio
+Proceso único/función
+Rediseño de extremo a extremo
+Zero-based digital redesign 
+Productos y servicios
+Nuevo modelo económico 
+Basada en análisis de datos
+Mapeo de las Iniciativas Digitales. 
+“El Qué” del Portafolio de la transformación digital.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Las transformaciones de la cadena de valor son esfuerzos complejos que 
+invariablemente afectarán a los procesos, sistemas, datos, personas y 
+organizaciones. Estas iniciativas a menudo trascienden los límites de la 
+organización (por ejemplo, funciones o geografías), por lo tanto, el perfil de 
+riesgo y el tiempo de valoración son mayores. 
+¿En qué consiste cada elemento del mapeo?
+Ejemplo:
+Una empresa de fabricación de teléfonos inteligentes 
+utiliza tecnologías digitales para transformar su 
+cadena de valor. Implementan robots en la línea de 
+ensamblaje para mejorar la eficiencia, desarrollan una 
+aplicación móvil para que los clientes personalicen y 
+ordenen sus teléfonos, incorporan realidad aumentada 
+para la experiencia de compra y utilizan un sistema de 
+gestión de la cadena de suministro basado en la nube 
+para una mejor coordinación. Esto mejora la eficiencia 
+operativa y la experiencia del cliente, manteniéndolos 
+competitivos en el mercado digital.
+Transformación de la cadena de valor
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Las oportunidades que crea la tecnología digital para reconfigurar procesos 
+y funciones son numerosas; no obstante, algunas iniciativas tendrán un 
+alcance limitado dentro de su cadena de valor (por ejemplo, una sola 
+función o proceso) y no cambiarán fundamentalmente tu oferta o modelo 
+de negocio existente.
+ 
+A menudo existe la necesidad de poner a cero un proceso existente y 
+reconfigurarlo digitalmente de principio a fin con la intención de mejorar 
+la eficiencia operativa, la eficacia de las ventas, o ambas.
+Algunas de estas iniciativas serán más difíciles que otras, dependiendo del 
+nivel de gestión del cambio requerido, pero todas deben proporcionar un 
+marco de tiempo razonablemente corto para obtener valor. Por lo tanto, 
+estas iniciativas son componentes esenciales de la cartera para 
+impulsar la inversión y demostrar éxitos tempranos.
+Ejemplo:
+Schindler, líder mundial en ascensores y escaleras 
+mecánicas, proporcionó a su personal acceso a 
+actualizaciones en tiempo real de los sensores 
+integrados en los ascensores. Con esto les ayudó a 
+responder de forma proactiva a las interrupciones y a 
+programar las visitas de servicio de forma eficiente, 
+ahorrando así 40 millones de kilómetros de conducción 
+y evitando 4.435 toneladas de emisiones al año.
+Reingeniería Digital
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Reinventar las ofertas o los modelos de negocio 
+no tiene por qué ser disruptivo; puede tratarse de
+combinar productos y servicios de formas nuevas e innovadoras, hacer un 
+mejor uso de la analítica, diseñar nuevos modelos económicos o 
+reempaquetar una oferta existente. Estos servicios innovadores pueden 
+desarrollarse en un plazo razonable, ya que no exigen 
+necesariamente una reestructuración fundamental de la cadena de valor 
+existente. El riesgo también se puede gestionar mediante el uso de 
+pruebas de concepto y experimentación.
+Ejemplo:
+Una empresa de servicios financieros transforma su 
+propuesta de valor digitalmente al ofrecer una 
+plataforma intuitiva, asesoramiento financiero 
+personalizado con inteligencia artificial, servicios de 
+atención al cliente mediante un chatbot, y contenido 
+educativo sobre finanzas personales. Esto mejorará la 
+experiencia del cliente, la accesibilidad y la 
+diferenciación en el mercado.
+Propuesta de Valor Digital
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reinventar tu modelo de negocio no es una decisión que vayas 
+a tomar a la ligera, es, con mucho, la más desafiante de las transiciones. 
+Las organizaciones seguirán este camino si están reaccionando a una 
+disrupción importante de la industria que amenaza el negocio, o si han 
+identificado una oportunidad importante. Dicha transformación implicará 
+invariablemente un ecosistema externo de socios, un ejercicio sustancial de 
+recualificación y adquisición de habilidades y, en la mayoría de los casos, 
+alguna cirugía en su modelo organizativo actual.
+Como puedes concluir, el mapeo de iniciativas digitales dentro del marco 
+de transformación propuesto por Capgemini es fundamental para: Guiar 
+de manera efectiva el proceso de transformación digital.
+Alinear las iniciativas digitales con los objetivos estratégicos de tu empresa 
+y priorizarlas en función de su impacto potencial para maximizar el valor 
+generado por la transformación digital.
+Ejemplo:
+GE pasó de ser un fabricante de equipos industriales a 
+un vendedor de software y servicios centrados en los 
+datos. La visión de GE para 2020 era ser una de las 10 
+principales empresas de software. Tan solo en 2015 su 
+negocio digital (GE Digital) creció un 20 % y generó 
+ingresos de 5.000 millones de dólares; incluso para 
+finales de 2016, llegaron a tener 200.000 activos bajo 
+gestión, 100 aplicaciones y 20.000 desarrolladores.
+Reinvención del Modelo de Negocio
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+Reflexiones finales
+¿Cómo podrías asegurar que las iniciativas 
+digitales mapeadas estén alineadas de manera 
+efectiva con los objetivos estratégicos de tu 
+empresa y contribuyan significativamente a la 
+creación de valor para tus clientes y stakeholders?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

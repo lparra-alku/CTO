@@ -1,0 +1,373 @@
+
+
+Reto | Navegando los Horizontes del Cambio
+ 
+ 
+ 
+Entregable final del reto 
+Documento editable por el participante 
+ 
+ 
+ 
+Nombre del participante: 
+ 
+
+
+Indicaciones:   
+Al terminar tu reto de aplicación, deberás guardar el archivo en formato PDF con tu nombre de la siguiente manera: tunombre_Reto_CS3.1
+ 
+Al finalizar el reto, conviértelo en archivo PDF y súbelo como evidencia presionando el botón “Subir archivo”. 
+ 
+El archivo entregable será evaluado con base en el cumplimiento de los requerimientos y a su contenido. 
+ 
+
+
+Instrucciones: 
+
+
+El propósito de este reto es fomentar la comprensión profunda y la aplicación práctica de los modelos de referencia clave en el ámbito de la transformación digital: el Modelo Capgemini, el Ciclo de Vida de Gartner y la teoría de los Tres Horizontes; además de inspirar a los participantes a pensar de manera creativa, analítica y estratégica mientras navegan por el paisaje empresarial digital en constante evolución.
+
+
+Por ello, al finalizar, habrás fortalecido tu capacidad para diseñar soluciones innovadoras que impulsen el crecimiento y la sostenibilidad en tu entorno empresarial altamente competitivo y dinámico.
+
+Para el desarrollo del reto sigue los siguientes pasos: 
+
+
+
+PASO 1. Recopilación de datos de mi empresa
+Recopila la información relevante que te permita conocer la estrategia actual de transformación digital de tu empresa, como, documentos estratégicos, informes financieros y cualquier otro material funcional.
+Elabora una lista de los documentos y recursos que podrían proporcionar información sobre la estrategia de transformación digital de tu empresa (puede incluir planes estratégicos, informes anuales, presentaciones ejecutivas, políticas y procedimientos, entre otros).
+(Tabla 1)
+Documentos
+Recursos
+ 1. 
+ 1. 
+ 2. 
+ 2. 
+ 3. 
+ 3. 
+ 4. 
+ 4. 
+ 5.
+ 5.
+
+
+
+
+
+
+
+Revisa cada documento identificado y busca información relacionada con la estrategia de transformación digital. Presta atención a los objetivos, iniciativas, proyectos en curso, recursos asignados y cualquier otra información relevante.
+
+(Tabla 2)
+
+Información relacionada con la estrategia de transformación digital 
+
+Documento/recurso 1
+
+
+
+
+
+Documento/recurso 2
+
+
+
+
+
+Documento/recurso 3
+
+
+
+
+
+Documento/recurso 4
+
+
+
+
+
+Documento/recurso 5
+
+
+
+
+
+Si es posible, entrevista a los responsables de liderar la estrategia de transformación digital en tu empresa. Pregunta sobre los objetivos estratégicos, los desafíos enfrentados, los logros alcanzados y los planes futuros.
+
+
+
+Recopila datos tanto cuantitativos como cualitativos sobre la estrategia de transformación digital y organiza la información recopilada en un formato fácil de entender y analizar.
+(Tabla 3)
+Datos cualitativos
+Datos cuantitativos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reflexiona sobre la información recopilada y trata de identificar tendencias, patrones y áreas de fortaleza y debilidad en la estrategia de transformación digital de tu empresa.
+
+
+
+
+
+
+
+
+
+
+
+PASO 2. Análisis del modelo Capgemini
+Utilizando los principios del Modelo Capgemini, deberás evaluar cómo tu empresa está abordando la transformación digital en términos de visión, estrategia, ejecución y resultados. Para ello, deberás identificar áreas de fortaleza y oportunidades de mejora.
+Examina la visión de tu empresa en relación con la transformación digital. Para ello, te sugerimos contestar las siguientes preguntas:
+¿Existe una visión clara y compartida por todos los miembros de la organización? 
+¿Está alineada con los objetivos estratégicos a largo plazo de la empresa? 
+¿Se comunica de manera efectiva a todos los niveles de la organización?
+Analiza la estrategia actual de transformación digital de tu empresa. Para ello, te sugerimos contestar las siguientes preguntas: 
+¿Se han establecido objetivos claros y medibles para la transformación digital? 
+¿Existen planes estratégicos detallados para alcanzar estos objetivos? 
+¿Se han asignado recursos adecuados para ejecutar la estrategia?
+Evalúa cómo se está ejecutando la estrategia de transformación digital en tu empresa. Para ello, te sugerimos contestar las siguientes preguntas:
+¿Se están implementando de manera efectiva las iniciativas y proyectos relacionados con la transformación digital? 
+¿Se están cumpliendo los plazos y presupuestos establecidos? 
+¿Existe una adecuada gestión del cambio y la resistencia organizacional?
+
+Analiza los resultados obtenidos hasta el momento de la estrategia de transformación digital. Reflexiona las siguientes preguntas y desarrolla la conclusión a la que llegues con cada una.
+
+¿Se están alcanzando los objetivos establecidos?
+
+
+
+
+
+
+¿Se están generando beneficios tangibles para la empresa, como aumento de ingresos, mejora de la eficiencia operativa o mejoras en la experiencia del cliente? 
+
+
+
+
+
+¿Se están identificando y abordando de manera proactiva los desafíos y obstáculos encontrados?
+
+
+
+
+
+Basándote en tu análisis, identifica las áreas de fortaleza y oportunidades de mejora en la estrategia actual de transformación digital de tu empresa. 
+(Tabla 4)
+Áreas de fortaleza
+Oportunidades de mejora
+
+
+
+
+
+
+
+
+
+
+
+
+
+PASO 3. Evaluación del ciclo de vida de Gartner
+Reflexiona sobre las iniciativas y proyectos de transformación digital implementados en tu empresa y determina en qué etapa del ciclo de vida de Gartner (Inicio, Aprendizaje, Dominio, Estrategia, Transformación y Rendimiento) se encuentran actualmente. ¿En qué etapa se encuentra?
+
+
+
+
+Para la etapa identificada, evalúa la efectividad de las iniciativas y proyectos de transformación digital implementados hasta el momento. ¿Han logrado cumplir sus objetivos?, ¿se han alcanzado los hitos y métricas establecidos para esta etapa del ciclo?, ¿qué lecciones se han aprendido y qué áreas necesitan mejorar? Desarrolla tus análisis.
+
+
+
+
+
+Basándote en tu evaluación, identifica las acciones específicas que deben tomarse para avanzar hacia la siguiente etapa del Ciclo de Vida de Gartner.
+(Tabla 5)
+Iniciativas o enfoques estratégicos
+Cambios en la estrategia que impulsen el progreso
+1. 
+
+1. 
+2.
+ 
+2. 
+3.
+
+3.
+4.
+
+4.
+5.
+
+5.
+
+Elabora un plan de acción detallado que describa las acciones específicas que se deben llevar a cabo para avanzar hacia la siguiente etapa del ciclo de vida. Incluye los recursos necesarios, los responsables de la implementación y un calendario de actividades para garantizar la ejecución exitosa del plan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PASO 4. Aplicación de los Tres horizontes
+1. A través de la teoría de los Tres horizontes, identificarás y clasificarás las iniciativas de transformación digital según su impacto a corto, mediano y largo plazo. Determina si existe un equilibrio adecuado entre la innovación incremental y la disruptiva.
+Identifica y enumera todas las iniciativas y proyectos de transformación digital en los que está trabajando tu empresa o que están planeados para el futuro cercano. Esto puede incluir actualizaciones de tecnología, lanzamientos de nuevos productos, mejoras en procesos, entre otros.
+(Tabla 6)
+Iniciativas
+Proyectos de transformación
+1. 
+1. 
+2.
+2.
+3. 
+3. 
+4.
+4.
+5.
+5.
+6.
+6.
+7.
+7.
+8.
+8.
+9.
+9.
+10.
+10.
+
+
+
+
+
+
+
+
+
+
+
+
+Para cada iniciativa identificada, clasifícala según su impacto a corto, mediano y largo plazo, utilizando los Tres horizontes. 
+(Tabla 7)
+
+Horizonte 1 (H1)
+Horizonte 2 (H2)
+Horizonte 3 (H3)
+
+Iniciativa 1
+
+
+
+
+
+
+
+Iniciativa 2
+
+
+
+
+
+
+
+Iniciativa 3
+
+
+
+
+
+
+
+Iniciativa 4
+
+
+
+
+
+
+
+Iniciativa 5
+
+
+
+
+
+
+
+Analiza la distribución de iniciativas entre los tres horizontes y evalúa si existe un equilibrio adecuado entre la innovación incremental y la disruptiva. Guíate de la siguiente pregunta: ¿la mayoría de las iniciativas se centran en la mejora de los procesos existentes (H1), o hay un enfoque equilibrado que también incluye iniciativas de exploración y transformación radical (H2 y H3)?
+
+Reflexiona sobre tus hallazgos y determina si es necesario ajustar la distribución de iniciativas entre los tres horizontes para lograr un equilibrio óptimo y contesta las siguientes preguntas:
+ ¿Hay áreas donde se pueda aumentar la inversión en innovación disruptiva para asegurar la relevancia futura de la empresa?, ¿cuáles, por qué?
+
+
+
+
+
+
+¿Es necesario enfocarse más en la optimización y mejora de procesos existentes para maximizar los beneficios a corto plazo?, ¿por qué?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PASO 5. Propuesta de mejoras estratégicas
+1. Basándote en los análisis realizados, propone recomendaciones concretas para mejorar la implementación de los modelos de referencia en la empresa. Estas recomendaciones deben ser específicas, factibles y alineadas con los objetivos estratégicos de tu organización. Enlístalas en la siguiente tabla. 
+
+(tabla 8)
+Objetivo de la empresa:
+
+
+
+
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+

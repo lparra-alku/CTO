@@ -1,0 +1,66 @@
+# L1 · Pruébate
+Genially 65c258a1ebd980001401b9f4
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a María a resolver algunas problemáticas.
+Has ingresado como CDO (Chief Digital Officer) a una nueva empresa de consumos de bebidas, María, la gerente, necesita tu ayuda para conocer la importancia de los marcos de referencia de la transformación digital. Responde las siguientes preguntas y ayúdala. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Al aplicar la transformación digital es necesario un cambio cultural, ¿cómo los marcos de referencia te permitirán intervenir en este cambio?
+Ofrecen una experiencia coherente a través de todos los canales digitales y físicos. Así los clientes cambian entre canales sin perder información o progreso
+Ayudan en la gestión del cambio al proporcionar estructuras para la comunicación, la capacitación y la participación de los empleados
+Permiten identificar áreas críticas de mejora, establecer metas claras y definir una hoja de ruta estratégica
+¡Correcto!
+Recuerda que es importante que el cambio cultural sea significativo, es decir, este debe impactar en la forma en que las organizaciones operan y piensan.
+¡Incorrecto!
+La respuesta correcta es a), recuerda que el cambio cultural debe ser significativo, es decir, este debe impactar en la forma en que las organizaciones operan y piensan.
+¿Qué acción debes llevar a cabo para realizar un análisis detallado de la situación actual de la organización?
+Conoce a tu cliente
+Estrategia digital
+Diagnóstico inicial
+El diagnóstico inicial también te permitirá identificar las fortalezas, debilidades, oportunidades y amenazas en relación con la transformación digital.
+La respuesta correcta es b), el diagnóstico inicial también te permitirá identificar las fortalezas, debilidades, oportunidades y amenazas en relación con la transformación digital.
+Con la implementación de la transformación digital, es necesario que el personal adopte de forma exitosa las nuevas tecnologías, ¿cuál de los siguientes pilares permitirá al personal adoptar este cambio?
+Capacitación y desarrollo de habilidades
+Cambio cultural
+Innovación continua
+La capacitación y el desarrollo facilitará la competencia y la adaptabilidad del personal a las nuevas tecnologías.
+La respuesta correcta es a), la capacitación y el desarrollo facilitará la competencia y la adaptabilidad del personal a las nuevas tecnologías.
+¿Cuál de los siguientes elementos debes trabajar dentro de la organización para lograr un Cambio cultural exitoso en el personal?
+Promover la colaboración entre diferentes departamentos y equipos para impulsar la innovación
+Identifica las tecnologías digitales que mejor se alineen con tus objetivos y necesidades específicas
+Evaluación de la infraestructura actual
+La colaboración y trabajo en equipo será uno de los elementos que te guiará el éxito de la transformación en la organización.
+La respuesta correcta es c), la colaboración y trabajo en equipo será uno de los elementos que te guiará el éxito de la transformación en la organización.
+¿Cuál de las siguientes tecnologías habilitadoras puedes utilizar si requieres que se realicen tareas que normalmente requieren inteligencia humana?
+Internet de las cosas (loT)
+Robótica y automatización
+Inteligencia Artificial (IA)
+Esta tecnología facilitará algunas tareas como el procesamiento de lenguaje natural, el reconocimiento de patrones y la toma de decisiones autónoma.
+La respuesta correcta es b), la Inteligencia Artificial es capaz de facilitar algunas tareas como el procesamiento de lenguaje natural, el reconocimiento de patrones y la toma de decisiones autónoma.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones

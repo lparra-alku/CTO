@@ -1,0 +1,62 @@
+# L0 · ¿Cuánto sabes?
+Genially 65fb1ed39b18510014624248
+
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que ayudes a Eliza a resolver los siguientes cuestionamientos.
+Dada la complejidad del proceso de transformación digital en Salud Total, Eliza necesita de una orientación experta. Quiere discutir cómo aplicar los marcos de referencia de Gartner, Capgemini y los 3 Horizontes para abordar desafíos específicos y desarrollar una estrategia integral de transformación digital. ¿Puedes ayudarla? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Eliza tendrá una reunión con Dirección General para exponer sus ideas. En esa reunión un miembro del comité le preguntó por qué usará los marcos de referencia para la transformación digital ¿Cuál consideras que sea la respuesta más adecuada a esta cuestión?
+Porque ofrecen una guía estratégica para alinear el camino de transformación digital con los objetivos comerciales y la visión de largo plazo de las organizaciones
+Porque permiten diseñar aplicaciones con interfaces amigables, con el fin de construir soluciones digitales e iniciativas innovadoras que mejoren la atención al cliente
+Porque permiten analizar las principales tendencias tecnológicas en el mercado, así como las posibilidades de innovación en el mercado
+¡Correcto!
+Los marcos de referencia ayudan a las organizaciones a alinear sus estrategias comerciales con la transformación digital. Proporcionan un marco que permite a las empresas identificar áreas críticas de mejora, establecer metas claras y definir una hoja de ruta estratégica.
+¡Incorrecto!
+Recuerda que los marcos de referencia proporcionan una guía estratégica para alinear el camino de transformación digital con los objetivos comerciales y la visión de largo plazo de las organizaciones.
+Eliza se ha reunido con su equipo para seleccionar algunos elementos que proporcionen orientación y estructura para llevar a cabo el proceso de transformación digital de Salud Total de manera efectiva. ¿Cuáles crees que son esos elementos?
+Principios y valores, cultura y estructura organizativa, arquitectura empresarial y KPI´s
+Principios y valores, visión, misión, cultura tecnológica, innovación y digitalización
+Atención al cliente, cultura organizacional, filosofía organizacional y digitalización
+La combinación de estos elementos en un marco de referencia proporciona a las organizaciones una guía integral para abordar la transformación digital de manera estratégica y sistemática.
+La respuesta es Principios y valores, cultura y estructura organizativa, arquitectura empresarial y KPI´s. La combinación de estos elementos en un marco de referencia proporciona a las organizaciones una guía integral para abordar la transformación digital de manera estratégica y sistemática.
+Eliza debe establecer una visión clara y definir objetivos digitales ambiciosos para Salud Total. ¿A qué marco de referencia podría recurrir para esto?
+Marco de 3 Horizontes
+Marco de Gartner
+Marco de Capgemini
+Este marco permite definir las ambiciones digitales y equilibrar las iniciativas entre optimización o transformación para lograr una ejecución ágil hacia un futuro.
+La respuesta es el Marco de Gartner, este marco permite definir las ambiciones digitales y equilibrar las iniciativas entre optimización o transformación para lograr una ejecución ágil hacia un futuro.
+Eliza quiere que la transformación digital de Salud Total sea integral, por lo que debe cuidar aspectos como la infraestructura, los procesos y la cultura organizacional. ¿Qué marco de referencia puede usar para lograr esto?
+Marco de 3 horizontes
+El marco de Capgemini ayuda en la transformación de la infraestructura al evaluar la tecnología existente y proponer soluciones modernas. En los procesos, identifica ineficiencias y sugiere mejoras para aumentar la eficacia. En cuanto a la cultura, fomenta la colaboración y la innovación para impulsar el cambio organizacional.
+La respuesta es el Marco de Capgemini, este ayuda en la transformación de la infraestructura al evaluar la tecnología existente y proponer soluciones modernas. En los procesos, identifica ineficiencias y sugiere mejoras para aumentar la eficacia. En cuanto a la cultura, fomenta la colaboración y la innovación para impulsar el cambio organizacional.
+Eliza sabe que debe equilibrar la innovación a corto plazo con la preparación para el futuro, cuidando el negocio “central” de Salud total, pero a su vez pensar en las oportunidades futuras para garantizar la competitividad a largo plazo. ¿Qué marco de referencia puede utilizar para lograr esto?
+Marco de los 3 horizontes
+El marco de 3 Horizontes permite asegurar que haya un equilibrio entre la innovación a corto plazo para impulsar el crecimiento actual y la inversión en investigación y desarrollo para prepararse para las oportunidades futuras y mantener la competitividad a largo plazo.
+La respuesta es Marco de Capgemini. Este permite asegurar que haya un equilibrio entre la innovación a corto plazo para impulsar el crecimiento actual y la inversión en investigación y desarrollo para prepararse para las oportunidades futuras y mantener la competitividad a largo plazo.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.

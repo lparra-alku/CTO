@@ -1,0 +1,61 @@
+# L3 · Pruébate
+Genially 65eeac4db41083001480a263
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Raquel a resolver algunas problemáticas.
+La empresa de telecomunicaciones Conexión Chispeante enfrenta desafíos relacionados con la satisfacción y retención de clientes debido a la competencia y la evolución del mercado. Para abordar esto, Jesús, el Chief Digital Officer decidió iniciar un proceso de transformación digital mediante la integración del modelo de 3 horizontes de McKinsey y el marco de transformación digital de Capgemini. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Jesús conoce los tres horizontes de McKinsey y ha decidido realizar algunas acciones. Primero decide abordar el negocio central (Horizonte 1). ¿Cuál de las siguientes acciones corresponde con dicho horizonte?
+Actualizar los sistemas de atención al cliente e implementar herramientas de autoservicio para reducir tiempos de espera
+Establecer alianzas estratégicas con plataformas de comercio electrónico y ampliar sus áreas de negocio
+Formar equipos multidisciplinarios dedicados a la investigación y desarrollo de proyectos de vanguardia
+¡Correcto!
+Actualizar los sistemas de atención al cliente y utilizar herramientas para reducir tiempos de espera corresponde al H1. Esta acción se centra en la gestión y mejora continua del negocio principal de la organización e incluye los productos, servicios y procesos que la empresa ya ofrece.
+¡Incorrecto!
+La respuesta correcta es Actualizar los sistemas de atención al cliente e implementar herramientas de autoservicio para reducir tiempos de espera. Pues esta acción corresponde al H1 al centrarse en la mejora continua de los productos, procesos y servicios que la empresa ya ofrece y que constituyen la base de sus operaciones.
+La estrategia de Jesús también incluye el desarrollo de acciones correspondientes al Horizonte 2 (H2). ¿Cuál de las siguientes acciones corresponden con dicho horizonte?
+Actualizar sus sistemas y herramientas para mejorar la atención al cliente, además de crear programas de fidelización
+Utilizar análisis de datos para identificar oportunidades de crecimiento y personalizar las ofertas de servicios
+Colaborar con una Starup que le permita crear soluciones disruptivas en el mercado
+Con esta acción Jesús puede analizar las oportunidades y expandir los servicios y productos de Conexión Chispeante hacia mercados relacionados con su servicio principal.
+La respuesta correcta es Utilizar análisis de datos para identificar oportunidades de crecimiento y personalizar las ofertas de servicios. Esta acción corresponde al H2 y permitirá a la empresa explorar y expandirse hacia nuevos productos, servicios o mercados que están relacionados con su negocio central.
+Para que Jesús logre una transformación digital equilibrada también ha incluido acciones relacionadas al Horizonte 3 (H3). ¿Cuál de las siguientes acciones corresponde con dicho horizonte?
+Colaborar con starups, laboratorios de innovación u organizaciones dedicadas a la innovación y la experimentación
+Diseñar un plan de marketing integral con estrategias de promoción, posicionamiento comunicación
+Expandir su línea de servicios con un nuevo servicio de hogar inteligente fundamentado en IoT
+Con esta acción Jesús podría explorar oportunidades de innovación radical y crecimiento que podrían cambiar fundamentalmente el curso del negocio de las telecomunicaciones.
+La respuesta correcta es Colaborar con starups, laboratorios de innovación u organizaciones dedicadas a la innovación y la experimentación. Esta acción puede ayudar a generar iniciativas transformacionales que pueden llevar a la empresa a nuevas áreas de negocio y disruptir el mercado.
+Ahora que Jesús logró equilibrar los tres horizontes de crecimiento, ha decidido ubicar sus acciones dentro del marco de Capgemini, el cual contempla 4 rubros. ¿Cuáles son estos rubros?
+Innovación, tendencias tecnológicas, servicio al cliente y cultura
+Estrategia, experiencia del cliente, operaciones y cultura
+Cultura, innovación, operaciones y servicio
+Recuerda que el marco de Capgemini se basa en la comprensión de que la transformación digital no se trata solo de adoptar nuevas tecnologías, sino de reinventar por completo los modelos de negocio, los procesos operativos y la cultura organizacional para aprovechar al máximo las oportunidades de la era digital.
+La respuesta correcta es Estrategia, experiencia del cliente, operaciones y cultura, ya que el marco de Capgemini se basa en la comprensión de que la transformación digital no se trata solo de adoptar nuevas tecnologías, sino de reinventar por completo los modelos de negocio, los procesos operativos y la cultura organizacional para aprovechar al máximo las oportunidades de la era digital.
+Jesús sabe que, de acuerdo con el marco de Capgemini, existen tres tipos de tendencias digitales a considerar para lograr una estrategia sólida. Actualmente está considerando la adopción de la Inteligencia Artificial. ¿A qué tipo de tendencia digital corresponde?
+Tendencias digitales y discontinuidades en las que existe incertidumbre
+Tendencias digitales en las que existe un nivel significativo de certeza
+Tendencias digitales en las que existe una gran probabilidad
+Jesús está consciente de la creciente atención en torno a la inteligencia artificial (IA) y su potencial para transformar la industria de las telecomunicaciones. Sin embargo, dado que el alcance completo y los efectos de la IA aún son inciertos, la empresa se encuentra en una posición de espera para evaluar cómo implementar esta tecnología de manera efectiva.
+La respuesta correcta era Tendencias digitales y discontinuidades en las que existe incertidumbre. Si bien Jesús es consciente del apogeo y potencial de la Inteligencia Artificial para transformar la industria de las telecomunicaciones, aún se desconoce el alcance completo y sus efectos son inciertos, por lo que será necesario evaluar a detalle cómo implementar esta tecnología de manera efectiva.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

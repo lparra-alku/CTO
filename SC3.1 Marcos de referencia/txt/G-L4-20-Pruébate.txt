@@ -1,0 +1,65 @@
+# L4 · Pruébate
+Genially 65f33780ba97a10014af91b1
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Salud Vital a resolver algunas problemáticas.
+Salud Vital Se especializa en el desarrollo de plataformas de telemedicina, gestión de registros médicos electrónicos y análisis de datos de salud. En los últimos años ha experimentado un crecimiento significativo y se enfrenta al desafío de optimizar sus operaciones internas y mejorar la entrega de sus soluciones digitales al mercado. Ayúdales a implementar el marco de Gartner para gestionar su proceso de transformación. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Salud Vital necesita definir sus ambiciones digitales. ¿Cuál es uno de los elementos que deben considerar durante este proceso?
+El potencial de las tecnologías emergentes
+El estado de disrupción de la industria
+Los comportamientos de sus clientes
+¡Correcto!
+Las industrias estables deben optar por la optimización, ya que la transformación sería una distracción costosa. En cambio, industrias que operan en sectores disruptivos deben priorizar la transformación en áreas comerciales clave.
+¡Incorrecto!
+La respuesta es el estado de disrupción de la industria, por ejemplo, si una industria es estable deberá optar por la optimización, ya que la transformación sería una distracción costosa. En cambio, industrias que operan en sectores disruptivos deben priorizar la transformación en áreas comerciales clave.
+Salud Vital implementó un sistema de gestión de registros médicos electrónicos (EMR) para que los médicos accedan fácilmente a la información del paciente y den un diagnóstico preciso, mejorando así la eficiencia operativa y la calidad de la atención. ¿Cuál es el alcance de su proceso de transformación?
+Implementación de tecnología
+Transformación digital del negocio
+Optimización digital
+Al implementar este sistema ERM Salud Vital está optando por la optimización, mejorando los procesos existentes y las experiencias de sus clientes internos y externos.
+La respuesta es optimización digital, pues con esta acción Salud Vital solo está mejorando los procesos existentes y las experiencias de sus clientes internos y externos.
+Luego del buen funcionamiento de su sistema para gestionar registros médicos electrónicos, Salud vital considera necesario implementar una iniciativa de trasformación. ¿Cuál de las siguientes iniciativas es un buen ejemplo de transformación digital y va más allá de la optimización digital?
+Implementar IA para el análisis de datos de pacientes históricos para predecir posibles complicaciones y mejorar el tratamiento
+Implementar una plataforma que permita a los pacientes tener video consultas con médicos
+Implementar un sistema de gestión hospitalaria que permita automatizar tareas administrativas
+Con esta iniciativa Salud Vital reinventa la forma en que atiende a su mercado a través de infraestructura, productos, servicios o modelos de negocio netamente nuevos.
+La respuesta es implementar un sistema de análisis con IA, ya que esta propuesta no solo mejora procesos ya existentes, sino que reinventa la forma en que la organización atiende a su mercado a través de infraestructura, productos, servicios o modelos de negocio netamente nuevos.
+¿Cuál consideras que es el objetivo que tiene Salud Vital con la iniciativa de utilizar la IA para el análisis de los datos históricos de sus pacientes?
+Capitalizar la captura de nuevos ingresos o valor a través de nuevos productos y modelos de negocio digital
+Incrementar el valor de sus acciones en el mercado y llegar a un segmento de clientes jóvenes
+Reducir los tiempos de consulta e irrumpir en el mercado de las tecnologías
+Este enfoque estratégico no solo permite la expansión y diversificación de las fuentes de ingresos, sino que también impulsa la diferenciación competitiva y fortalece la posición de Salud Vital en el mercado.
+La respuesta es capitalizar nuevos ingresos o valor a través de nuevos productos y modelos de negocio digital, pues esto permite no solo la expansión y diversificación de las fuentes de ingreso de Salud Vital, si no que también impulsa su diferencia competitiva.
+Hasta ahora Salud Vital ha logrado equilibrar con éxito sus iniciativas de transformación y optimización digital. ¿Cuál crees que es el factor que ha permitido este éxito?
+El mindset de transformación digital
+El uso de tecnologías en tendencia
+La ejecución ágil de sus iniciativas
+La ejecución digital ágil es fundamental para garantizar la entrega de resultados mínimos viables (MVP) en el desarrollo de productos y servicios digitales.
+La respuesta es la ejecución ágil de sus iniciativas, pues este enfoque es fundamental para garantizar la entrega de resultados mínimos viables (MVP) en el desarrollo de productos y servicios digitales.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones

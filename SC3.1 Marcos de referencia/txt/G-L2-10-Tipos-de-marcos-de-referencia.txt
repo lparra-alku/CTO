@@ -1,0 +1,24 @@
+# L2 · Tipos de marcos de referencia
+Genially 65d3d98b67c86a001388c951
+
+marcos de referencia
+Existen varios tipos de marcos de referencia que las organizaciones pueden utilizar para orientar y estructurar su proceso de transformación digital. A continuación, veremos algunos de los más comunes.
+Arquitectura Empresarial
+Frameworks como TOGAF (The Open Group Architecture Framework) proporcionan principios y prácticas para el diseño y gestión de la arquitectura empresarial durante la transformación digital. Este marco de referencia proporciona una vista integral de la organización, abordando aspectos como procesos, datos, tecnología y personas; además, ayuda a alinear la estrategia empresarial con la infraestructura tecnológica, garantizando que ambas estén sincronizadas.
+Se basa en principios de arquitectura, modelos y estándares; su enfoque iterativo permite a las organizaciones adaptarse a cambios continuos, asegurando que la arquitectura evolucione al ritmo de las necesidades empresariales. TOGAF consiste en una metodología paso a paso y un conjunto de herramientas para el desarrollo y gestión de la arquitectura empresarial. Este marco ayuda a las organizaciones a estructurar su enfoque de transformación digital desde la definición de la visión hasta la implementación y el mantenimiento.
+Gestión de Proyectos
+Enfoques como PRINCE2 (Projects IN Controlled Environments) y PMBOK (Project Management Body of Knowledge) ofrecen directrices detalladas para la gestión efectiva de proyectos, incluidos los relacionados con la transformación digital. PRINCE2 permite la asignación eficiente de recursos, asegurando la disponibilidad adecuada para cada tarea, ya que fomenta la colaboración entre equipos y partes interesadas, mejorando la comunicación y la coordinación. Este modelo proporciona un enfoque estructurado para la planificación , ejecución y control de proyectos , lo que facilita su gestión, garantizando que los proyectos se entreguen dentro del plazo y presupuesto establecidos.
+Otro ejemplo clásico de marco de referencia para la Gestión de Proyectos es el PMBOK (Project Management Body of Knowledge) del Project Management Institute (PMI). El PMBOK define un conjunto de buenas prácticas y estándares en la gestión de proyectos. El PMBOK se ha convertido en un estándar reconocido internacionalmente, utilizado por profesionales de la gestión de proyectos en diversas industrias para planificar y ejecutar proyectos de manera efectiva.
+DevOps no es solo una metodología, sino un conjunto de prácticas y culturas que buscan mejorar la colaboración entre los equipos de desarrollo y operaciones, acelerando el ciclo de vida de desarrollo y entrega de software. Este modelo fomenta una colaboración más estrecha entre equipos de desarrollo y operaciones, mejorando la eficiencia y la calidad. Además, permite actualizaciones rápidas y frecuentes en entornos de producción, se enfoca la automatización de procesos, reduciendo errores y acelerando el ciclo de vida del desarrollo, lo que permite optimizar la eficiencia operativa al eliminar silos entre equipos y alinear los objetivos de desarrollo y operaciones.
+Un ejemplo de implementación de DevOps es la plataforma Jenkins. Jenkins es una herramienta de código abierto que automatiza el proceso de construcción, prueba y despliegue de software. Al establecer pipelines de integración y entrega continuas (CI/CD), Jenkins permite a los equipos de desarrollo desplegar automáticamente cambios en entornos de producción de manera rápida y segura. Esta automatización mejora la eficiencia del desarrollo y la calidad del software, al tiempo que fomenta una colaboración más estrecha entre los equipos de desarrollo y operaciones.
+Actualizando
+Gracias por tu respuesta
+¿Qué marco de referencia consideras que podría adaptarse mejor a tu organización y por qué?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+Facilita la gestión de cambios organizacionales al proporcionar una comprensión clara de las interrelaciones y dependencias.
+Divide la organización en capas y dominios, como la arquitectura de negocios, la arquitectura de datos, la arquitectura de aplicaciones y la arquitectura tecnológica.
+Proporciona una estructura detallada que abarca desde la definición de los procesos de gestión de proyectos hasta las áreas de conocimiento clave, como la gestión del alcance, tiempo, costos, calidad, recursos humanos, comunicaciones, riesgos e integración.

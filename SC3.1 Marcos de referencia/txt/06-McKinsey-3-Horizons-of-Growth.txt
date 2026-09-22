@@ -1,0 +1,229 @@
+
+--- p1 ---
+Horizons of Growth
+McKinsey 3
+Explora cómo equilibrar la gestión de tu negocio 
+actual con la exploración de nuevas oportunidades y 
+la preparación para el futuro.
+
+--- p2 ---
+Los Tres Horizontes de Crecimiento (3 Horizons of Growth) 
+es un modelo desarrollado por McKinsey & Company para 
+ayudar a las organizaciones a gestionar sus estrategias de 
+innovación y crecimiento a lo largo del tiempo. Este modelo fue 
+introducido en 1999 en el libro de Mehrdad Baghai, Stephen Coley y David 
+White, titulado "The Alchemy of Growth”. 
+ 
+El modelo, propuesto por Mckinsey & Company, propone dividir las 
+iniciativas de expansión empresarial en 3 horizontes, los cuales simbolizan 
+las posibilidades actuales, oportunidades a largo plazo que demandan 
+inversiones significativas e ideas de oportunidades futuras que pueden ser 
+empleadas como pruebas, proyectos piloto o inversiones minoritarias en 
+nuevas empresas. Dichos horizontes se dividen de la siguiente manera: 
+Horizonte 1 
+Core business (Negocio central)  
+Este horizonte se centra en la gestión y 
+optimización del negocio existente. 
+Plazo  
+A corto plazo, típicamente de 1 a 2 años.  
+Actividades  
+Mejoras operativas, eficiencia, reducción de 
+costos y maximización del rendimiento en el 
+negocio principal actual. 
+Horizonte 2 
+Adjacent Business 
+(Negocios Adyacentes)   
+Su enfoque radica en la exploración y expansión 
+hacia nuevos productos, servicios o mercados 
+relacionados con el negocio principal. 
+Plazo  
+A medio plazo, generalmente de 2 a 5 años. 
+Actividades  
+Identificación y desarrollo de oportunidades de 
+crecimiento en áreas relacionadas, pero no 
+completamente explotadas o subutilizadas.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Horizonte 3 
+Transformacional o de Vanguardia   
+Se centra en la investigación y desarrollo de 
+oportunidades de innovación radical y 
+transformación que podrían cambiar 
+fundamentalmente el curso del negocio. 
+Plazo  
+A largo plazo, más allá de 5 años. 
+Actividades  
+Experimentación con tecnologías 
+emergentes, desarrollo de nuevos modelos de 
+negocio, exploración de oportunidades de 
+mercado disruptivas. 
+Los 3 horizontes también se pueden graficar a través de un plano cartesiano, 
+donde el eje X muestra el tiempo requerido para las innovaciones, mientras 
+el eje Y el valor de retorno potencial para la empresa.  
+Modelo de tres horizontes de crecimiento
+Valor
+Adaptado de Baghall, Coley y White, 
+The Alchemy of Growth, 1999.
+Tiempo
+Horizonte 1
+Horizonte 2
+Horizonte 3
+Negocio Central
+Negocios 
+Adyacentes
+Transformacional
+o vanguardia
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+La idea clave detrás de los 3 Horizontes de Crecimiento es
+que una empresa debe equilibrar sus esfuerzos en 
+estos tres horizontes para garantizar un crecimiento 
+sostenible y rentable a corto, medio y largo plazo. La combinación 
+equilibrada de los tres horizontes busca proporcionar una estrategia holística 
+para el crecimiento y la sostenibilidad a largo plazo con rentabilidad.
+ 
+¿Qué pasaría si una compañía se enfocará únicamente en un horizonte? 
+ 
+Si únicamente se centrará en el horizonte actual (H1), una empresa podría 
+perder oportunidades futuras o andar en un modo disociado apagando fuegos 
+operativos y tácticos. Por otro lado, al centrarse solo en la innovación a largo 
+plazo (H3), puede descuidar su rendimiento actual y dejar de lado las 
+nimiedades que constituyen el desempeñar táctico, que es la fuente 
+primordial de ingresos o la gasolina para la compañía. 
+ 
+Para comprender mejor el modelo, te invitamos a revisar el siguiente ejemplo.  
+ 
+Cash & Chuckles ha estado operando como un banco tradicional durante 
+muchos años. Sin embargo, con la creciente digitalización del sector 
+financiero y la entrada de competidores disruptivos en el mercado, se 
+enfrenta a la necesidad urgente de transformarse digitalmente, por lo que ha 
+contratado a Diana, una consultora experta que aplicará el modelo McKinsey 
+3 Horizons of Growth para guiar el proceso de transformación digital y 
+asegurar el crecimiento continuo de la compañía en el mercado financiero. 
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+¿Cómo se aplica el modelo en este caso? 
+Horizonte 1 
+Core business (Negocio central)  
+Cash & Chuckles se enfocaría en optimizar y 
+mejorar sus servicios financieros existentes.
+Plazo  
+A corto plazo, típicamente de 1 a 2 años.
+Actividades  
+Modernizar sus sistemas de banca en línea 
+y aplicaciones móviles para mejorar la 
+experiencia del usuario y la accesibilidad.
+Implementar medidas de seguridad 
+cibernética avanzadas para proteger la 
+información confidencial de los clientes y 
+garantizar la integridad de las 
+transacciones.
+Integrar herramientas de análisis de datos 
+para obtener información valiosa sobre el 
+comportamiento y las necesidades de los 
+clientes, lo que permitiría ofrecer servicios 
+personalizados y relevantes.
+Automatizar procesos internos, como la 
+aprobación de préstamos o la gestión de 
+riesgos, para mejorar la eficiencia 
+operativa y reducir los costos.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Horizonte 2
+Adjacent Business 
+(Negocios Adyacentes)  
+Cash & Chuckles se centraría en desarrollar 
+nuevos productos y servicios financieros 
+digitales que aprovechen las últimas 
+tecnologías y aborden las necesidades 
+emergentes de los clientes.
+Plazo  
+A medio plazo, generalmente de 2 a 5 años.
+Actividades  
+Explorar oportunidades en áreas como los 
+pagos móviles, la gestión de inversiones 
+automatizada (robo-advisors), o los 
+préstamos peer-to-peer (P2P), para 
+diversificar su oferta de productos y llegar 
+a nuevos segmentos de clientes.
+Colaborar con empresas de tecnología 
+fintech o starups innovadoras para acceder 
+a soluciones y capacidades tecnológicas 
+avanzadas.
+Utilizar análisis de datos para identificar 
+oportunidades de crecimiento y 
+personalizar las ofertas de productos. 
+Establecer alianzas estratégicas con 
+plataformas de comercio electrónico o 
+empresas de tecnología para integrar sus 
+servicios financieros en otros ecosistemas 
+digitales y aumentar su alcance. 
+6
+Adjacent 
+Business
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Horizonte 3
+Transformacional o de Vanguardia 
+Cash & Chuckles adoptaría una perspectiva 
+más disruptiva y a largo plazo, explorando 
+nuevas oportunidades de negocio que puedan 
+transformar radicalmente el sector financiero.
+Plazo  
+A largo plazo, más allá de 5 años.
+Actividades  
+Investigar tecnologías emergentes como 
+blockchain, inteligencia artificial o Internet 
+de las cosas para explorar nuevas formas 
+de ofrecer servicios financieros y mejorar 
+la inclusión financiera.
+Desarrollar soluciones innovadoras para 
+problemas complejos como la identidad 
+digital, la prevención del fraude o la gestión 
+de riesgos. 
+Formar equipos multidisciplinarios 
+dedicados a la investigación y desarrollo 
+de proyectos de vanguardia, fomentando la 
+colaboración y el intercambio de 
+conocimiento.
+Establecer una cultura de innovación y 
+experimentación, donde se aliente a los 
+empleados a proponer ideas disruptivas.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+En conclusión, el modelo McKinsey 3 Horizons of Growth representa 
+una oportunidad para equilibrar la gestión de un negocio actual con la 
+exploración de nuevas oportunidades y la preparación para el futuro, 
+asegurando su competitividad y relevancia en un mercado altamente 
+competitivo y en constante evolución.
+
+--- p8 ---
+Reflexiones finales
+Con base en los contenidos de esta lectura 
+reflexiona ¿cómo podrías fomentar una 
+cultura organizacional que promueva la 
+experimentación, la creatividad y la 
+colaboración entre equipos para identificar y 
+desarrollar nuevas oportunidades de 
+crecimiento en el marco de los horizontes de 
+crecimiento propuestos por McKinsey?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

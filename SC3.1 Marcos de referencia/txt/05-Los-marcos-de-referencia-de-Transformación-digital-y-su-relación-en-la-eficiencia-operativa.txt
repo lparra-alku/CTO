@@ -1,0 +1,127 @@
+
+--- p1 ---
+de Transformación digital 
+y su relación en la eficiencia 
+operativa 
+Los marcos de 
+referencia
+Los marcos de referencia no solo ayudan a las organizaciones a adoptar 
+nuevas tecnologías y prácticas digitales, sino que también facilitan la 
+identificación de áreas de mejora, la implementación de soluciones 
+innovadoras y la optimización de procesos.
+
+--- p2 ---
+Como has visto a lo largo de esta lección, un proceso de transformación digital 
+exitoso trae múltiples beneficios para una organización, entre ellos la mejora de 
+la eficiencia operativa. A continuación, explorarás algunas áreas y ejemplos 
+donde se puede ver reflejada una mayor eficiencia operativa.
+La implementación de sistemas de automatización puede agilizar procesos 
+manuales y repetitivos, reduciendo errores y liberando tiempo para tareas 
+más estratégicas. 
+Automatización de procesos
+La recopilación y análisis de datos, como rutas históricas, tiempos de entrega o 
+condiciones del tráfico, a través de herramientas analíticas, permite a las 
+organizaciones tomar decisiones más informadas y rápidas para prever cuellos 
+de botella, optimizar rutas y anticipar posibles retrasos. 
+Análisis de Datos
+El uso de plataformas colaborativas en la nube y herramientas de comunicación 
+en tiempo real facilitan la colaboración entre equipos, independientemente de 
+su ubicación geográfica.
+Colaboración en tiempo real
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+La integración de sistemas y aplicaciones empresariales asegura una mayor 
+coherencia y flujo de datos eficiente entre diferentes departamentos, 
+eliminando silos de información y redundancias. 
+Integración de Sistemas
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Para abordar de manera más clara cómo un proceso de transformación digital 
+mejora la eficiencia operativa, te invitamos a revisar el siguiente ejemplo: 
+Imagina una empresa de logística que enfrenta desafíos en la gestión de su 
+cadena de suministro debido a procesos manuales, falta de visibilidad y sistemas 
+fragmentados. Para abordar estos desafíos, la empresa decide implementar una 
+solución de transformación digital integral.
+En primer lugar, en cuanto a la automatización de procesos, la empresa 
+implementa un sistema de gestión de almacenes (WMS) basado en la nube que 
+utiliza tecnologías de automatización robótica de procesos (RPA). Este sistema 
+automatiza tareas como la recepción de mercancías, la ubicación de inventario, la 
+preparación de pedidos y la gestión de inventario. Por ejemplo, los robots 
+autónomos pueden realizar el picking y packing en el almacén, reduciendo los 
+tiempos de procesamiento y aumentando la precisión en las operaciones.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+En segundo lugar, en cuanto al análisis de datos, la empresa implementa una 
+plataforma de análisis avanzado que recopila datos de diversas fuentes, como 
+sensores en vehículos de transporte, sistemas de seguimiento de envíos y puntos 
+de venta de clientes. Esta plataforma utiliza análisis predictivo para anticipar la 
+demanda de envíos, optimizar rutas de entrega y prever posibles retrasos en la 
+cadena de suministro. Por ejemplo, utilizando algoritmos de aprendizaje 
+automático, la empresa puede identificar patrones de tráfico y optimizar las rutas 
+de entrega para minimizar los tiempos de tránsito y reducir los costos operativos.
+También la empresa ha optado por el uso de una plataforma de gestión de 
+proyectos en la nube que permite a los equipos de logística coordinar las actividades 
+y compartir información en tiempo real. Esta plataforma proporciona acceso 
+instantáneo a documentos, calendarios y tareas, lo que facilita la colaboración entre 
+equipos de almacén, transporte, atención al cliente y gestión de inventario. Esta 
+plataforma se ha complementado con herramientas de comunicación en tiempo 
+real, como chat empresarial y videoconferencias, que permiten a los empleados 
+colaborar de manera efectiva sin importar su ubicación física.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+En cuanto a la integración de 
+sistemas, la empresa implementa 
+un sistema de gestión de la cadena 
+de suministro (SCM) integrado que 
+conecta todos los procesos, desde la 
+planificación de la demanda y la 
+gestión de inventario hasta la 
+distribución y la entrega. Este 
+sistema permite una mayor 
+visibilidad y coordinación en toda la 
+cadena de suministro, lo que facilita 
+una respuesta más rápida a los 
+cambios en la demanda y mejora la 
+satisfacción del cliente.
+Esta solución de transformación 
+digital permitirá que la empresa de 
+logística mejore su eficiencia 
+operativa al automatizar procesos, 
+aprovechar el poder del análisis de 
+datos para la toma de decisiones y 
+mejorar la integración de sistemas 
+para una operación más fluida y 
+coordinada.
+ 
+Como resultado, la empresa puede 
+aumentar su productividad, reducir 
+costos y mejorar la calidad del 
+servicio ofrecido a sus clientes, 
+siempre y cuando se
+defina un marco de 
+referencia sólido que proporcione 
+claridad, coherencia y efectividad en 
+su proceso de transformación digital.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones
+¿Qué harías para asegurar que la implementación de 
+un marco de referencia de transformación digital esté 
+alineada con los objetivos estratégicos y contribuya 
+significativamente a mejorar la eficiencia operativa en 
+todas las áreas de tu organización?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

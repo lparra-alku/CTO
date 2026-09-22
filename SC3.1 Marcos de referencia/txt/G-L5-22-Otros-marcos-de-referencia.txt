@@ -1,0 +1,17 @@
+# L5 · Otros marcos de referencia
+Genially 65fc7d0c48e8a90014da623c → 65fc7d158b1e42001431464f
+
+Otros marcos
+de referencia
+En el panorama de la transformación digital, comprender los "otros marcos de referencia" es fundamental. Estos enfoques menos conocidos ofrecen perspectivas únicas y soluciones innovadoras para abordar desafíos específicos.
+CODIGO NO BORRAR
+¿Cuáles son algunos de los otros marcos de referencia?
+Explorar otros marcos de referencia te permitirá contar con herramientas adicionales para impulsar la innovación, mejorar la eficiencia y garantizar el éxito de tu organización en su camino hacia la digitalización. Modelo ADKAR: Este modelo se centra en los aspectos individuales del cambio y se compone de cinco elementos: Conciencia, Deseo, Conocimiento, Habilidad y Reforzamiento, muy común en la práctica de Sillicon Valley como en Stanford.
+Modelo de las 6 D y Modelo de Forrester
+Modelo de las 6D: Este modelo, propuesto por Deloitte, incluye seis etapas: Descubrimiento, Diseño, Despliegue, Datos, Dirigir y Desarrollar. Se usa bastante en modelación de transformaciones de gobierno corporativo. Modelo de transformación digital de Forrester: Forrester propone un modelo basado en tres áreas clave: Experiencia del Cliente Digital, Transformación del Negocio Digital y Operaciones Digitales. Es bastante sucinto y fácil de administrar.
+Modelo de las 4 etapas de MIT Sloan
+Modelo de las 4 etapas de MIT Sloan: Desarrollado por el Centro de Transformación Digital del MIT Sloan, este modelo abarca las etapas de Transformación Empresarial, Transformación Operativa, Transformación del Modelo de Negocios y Transformación de la Experiencia del Cliente. Estos conceptos están conjuntamente desarrollados con Capgemini.
+Modelo de las 7S de McKinsey
+Modelo de las 7S de McKinsey: Aunque originalmente no está diseñado específicamente para la transformación digital, el modelo de las 7S de McKinsey aborda siete áreas clave: Estrategia, Estructura, Sistemas, Habilidades, Estilo, Personal y Compartir Valores.
+Estos son solo algunos ejemplos; hay muchos otros enfoques y modelos de transformación digital desarrollados por diversas organizaciones de consultoría, instituciones académicas y empresas. La elección de un modelo específico a menudo dependerá de las necesidades y contextos particulares de cada organización.
+Continúa con el estudio de la lección.

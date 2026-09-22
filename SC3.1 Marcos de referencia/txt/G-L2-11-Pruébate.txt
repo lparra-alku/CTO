@@ -1,0 +1,60 @@
+# L2 · Pruébate
+Genially 65d66d48b89d4400145caa08
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Raquel a resolver algunas problemáticas.
+Raquel está ingresando a una organización de bebidas como CDO (Chief Digital Officer), en esa empresa siempre han querido desarrollar unos objetivos claros que los lleven a un plan de transformación digital. Ayúdala a resolver las siguientes problemáticas para encaminar a la organización a un proceso de transformación digital exitoso. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Raquel está finalizando el plan de transformación digital con los objetivos y pasos constituyentes. ¿Qué mentalidad deben tener los modelos que presente para que estos se adapten rápido al mercado y la tecnología?
+Mentalidad innovadora
+Mentalidad tecnológica
+Mentalidad ganadora
+¡Correcto!
+Una mentalidad innovadora promueve la generación de ideas creativas y soluciones novedosas. En un entorno en constante cambio, la capacidad de pensar de manera original y encontrar enfoques innovadores es esencial para superar desafíos.
+¡Incorrecto!
+La respuesta correcta es: a) Mentalidad innovadora, pues una mentalidad innovadora promueve la generación de ideas creativas y soluciones novedosas. En un entorno en constante cambio, la capacidad de pensar de manera original y encontrar enfoques innovadores es esencial para superar desafíos.
+Raquel desea poder agilizar los procesos manuales y repetitivos dentro de la organización, para poder reducir errores y liberar tiempo para tareas más estratégicas. ¿Qué acción debe implementar para eficientar este proceso?
+Incluir más personal en la realización de tareas
+Desarrollar una estrategia digital
+Automatización de procesos
+La automatización de procesos permitirá liberar recursos humanos para tareas estratégicas, propiciando una transformación significativa en la manera de gestionar las empresas.
+La respuesta correcta es: c) Automatización de procesos . Recuerda que la automatización de procesos permitirá liberar recursos humanos para tareas estratégicas, propiciando una transformación significativa en la manera de gestionar las empresas.
+Además de la automatización de procesos, es importante que las áreas/procesos internos de la empresa estén conectados entre sí. ¿Qué acción permitirá una mayor eficiencia y control de la información entre departamentos?
+Juntas semanales entre líderes para informar sobre el avance/novedades
+Grupos de redes sociales entre los equipos que colaboran
+Integración de sistemas
+La integración de sistemas y aplicaciones empresariales asegura una mayor coherencia y flujo de datos, eliminando silos de información y redundancias.
+La respuesta correcta es: b) Integración de sistemas , ya que la integración de sistemas y aplicaciones empresariales asegura una mayor coherencia y flujo de datos, eliminando silos de información y redundancias.
+Uno de los objetivos de Raquel es que la empresa logre un enfoque estructurado para la planificación, ejecución y control de proyectos que garantice que los proyectos se entreguen dentro del plazo y presupuesto establecidos. ¿Qué marco de referencia es el ideal para cumplir con su objetivo?
+Arquitectura Empresarial
+Gestión de proyectos
+Este marco permite la asignación eficiente de recursos, asegurando la disponibilidad adecuada para cada tarea, fomentando la colaboración entre equipos y partes interesadas.
+La respuesta correcta es: a) Gestión de proyectos , la gestión de proyectos permite la asignación eficiente de recursos, asegurando la disponibilidad adecuada para cada tarea, fomentando la colaboración entre equipos y partes interesadas.
+¿Por qué es importante que Raquel adopte un marco de referencia con la implementación de la Transformación digital en la organización?
+Para que la empresa pueda tomar el control de su destino tecnológico en lugar de reaccionar a los cambios que ocurren a su alrededor
+Es meramente requisito, ella podría tener o no un plan estructurado y el resultado sería el mismo
+Para tener en la mira los cambios tecnológicos que ocurren alrededor de la organización
+Uno de los objetivos es crear una sensación de orden entre el caos de las operaciones tecnológicas modernas, es decir, contar con un plan estructurado.
+La respuesta correcta es: b) Para que la empresa pueda tomar el control de su destino tecnológico en lugar de reaccionar a los cambios que ocurren a su alrededor , pues uno de los objetivos es crear una sensación de orden entre el caos de las operaciones tecnológicas modernas.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

@@ -1,0 +1,32 @@
+# L4 · Estrategia de digitalización
+Genially 65f337663cad43001424a0b1
+
+Estrategia
+de digitalización
+¿Cuál es la importancia de la estrategia de digitalización y cómo definir una ambición digital sólida que se alinee con los objetivos de tu organización?
+Define tu ambición digital con la combinación óptima de iniciativas digitales
+Ya habíamos hablado en otros marcos de referencia que los procesos de digitalización no son una estrategia monolítica. El equipo ejecutivo debe enmarcar sus ambiciones digitales para establecer la estrategia, definiendo el tipo y el alcance de los resultados comerciales deseados. Esto es lo que impulsa las prioridades de inversión y el momento relativo de las iniciativas digitales.
+Al definir la estrategia de digitalización y tus ambiciones digitales, es importante considerar los posibles resultados en dos dimensiones
+Optimización digital: Comprende la mejora de los procesos existentes y las experiencias de los clientes internos y externos.
+Transformación digital: Es el resultado de reinventar la forma en que la organización atiende a su mercado a través de infraestructura, productos, servicios o modelos de negocio netamente nuevos.
+Bajo este enfoque, definir las ambiciones digitales significa decidir el alcance de la transformación digital representada en un medidor que oscila entre la optimización digital y la transformación constante.
+Además del estado de disrupción de la industria, otro factor que influye en el balance entre iniciativas de transformación u optimización es la cultura empresarial. Por ejemplo, las empresas más agresivas a menudo seleccionan un camino de transformación digital audaz porque quieren ser las primeras en adoptarlo. En cambio, las empresas promedio pueden seguir un camino de optimización.
+Ambición digital
+Mejora de productividad experiencia del cliente o ingresos existentes
+Lanzamientos de nuevos productos, servicios o modelos de negocios digitales
+No existe una fórmula mágica que te indique cuál es el mejor camino, sino que depende de la audacia o balance de las iniciativas estratégicas de tu corporación. El siguiente esquema te ayudará a entender ese balance de combinación de iniciativas.
+Estrategia digital del negocio
+Optimización digital del negocio
+Transformación digital del negocio
+Implementación de tecnologías digitales
+Source: Gartner ©2023 Gartner,Inc. and/ or its affilates. All rights reserved. 2269403
+Si bien, se habla del balance entre optimización y transformación, también es posible que las empresas que adoptan tarde no hagan ninguna de las dos cosas y, en su lugar, adopten el enfoque de la habilitación de la tecnología digital mediante la implementación de tecnologías digitales como la nube, SaaS, API o canales digitales. En conclusión, la optimización y la transformación no presentan una opción binaria. Las ambiciones digitales más exitosas y sus estrategias resultantes incluyen una combinación eficiente de ambos tipos de iniciativas en todas las funciones y unidades de negocio.
+También es importante recordar que, a pesar de la exageración sobre la "transformación digital", es raro que una empresa tradicional se transforme por completo. Los intentos de hacerlo a menudo fracasan; ante esto la experiencia indica tomar un listado de iniciativas. Te sugerimos comenzar con iniciáticas a corto plazo pues rinden frutos en un lapso más razonable, junto con el coste de inversión más optimizado. Aquellas que son de mayor profundidad y demandan más recursos deben pasar por el proceso natural de cada año para la asignación de recursos como proyectos habilitadores.
+Gracias por tu respuesta
+¿Cuáles son los principales desafíos que enfrentas al seleccionar la combinación óptima de iniciativas digitales para impulsar la transformación de tu empresa?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Pueden ser referenciadas en horizontes como se revisó anteriormente (3 horizontes de crecimiento).
+Este enfoque da como resultado una mayor capacidad de TI, pero sin una verdadera optimización o transformación.
+Por el contrario, aquellos que operan en sectores disruptivos deben priorizar la transformación en áreas comerciales clave, ya que con la espera corre el riesgo de ser irrelevante , lo que lleva a la erosión de los ingresos y los márgenes.
+Por ejemplo, organizaciones que operan en industrias estables sin signos de disrupción inminente deben priorizar la optimización, ya que la transformación corre el riesgo de convertirse en una distracción costosa demasiado antes de la adopción por parte de los clientes.

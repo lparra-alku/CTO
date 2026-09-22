@@ -1,0 +1,12 @@
+# L0 · Historia
+Genially 65fb1e03e0377d00143d2e36 → 65fb1e1e4aa8e4001460316c
+
+Marcos de referencia de transformación digital
+Sumérgete en la historia de Eliza y Salud Total y descubre los aprendizajes que este curso tiene para ti. ¡Comienza tu viaje!
+CODIGO NO BORRAR
+Salud Total es una reconocida clínica con más de 50 años. Al celebrar el aniversario de su fundación, la Dirección General ofreció un emotivo discurso donde reconoció el esfuerzo de todos y todas las colaboradoras para mejorar la eficiencia operativa y optimizar la atención al paciente; además de invitarles a aprovechar las innovaciones tecnológicas para brindar una atención médica de calidad y centrada en el paciente.
+Sin embargo, con sistemas obsoletos, procesos manuales y una experiencia del paciente fragmentada, la innovación se convierte en una necesidad urgente. Por lo que deciden contratar a Eliza, una importante líder en tecnología sanitaria, quién deberá modernizar todos procesos, desde la gestión de datos hasta la atención al paciente, para impulsar la excelencia en la atención médica.
+Eliza lidera la iniciativa de transformación digital, aprovechando distintos marcos de referencia: Primero, utilizó el modelo de Gartner para establecer una visión clara y definir objetivos digitales ambiciosos. Luego, con el marco de Capgemini desarrollará una estrategia integral que aborde la infraestructura, los procesos y la cultura organizacional. Finalmente, implementara el marco de los 3 Horizontes para equilibrar la innovación a corto plazo con la preparación para el futuro.
+Conclusión
+Gracias a la implementación de los marcos de transformación, la empresa experimenta una transformación digital exitosa. Se han establecido sistemas de gestión de la información interoperables, se introdujeron procesos automatizados y se mejoró la experiencia del paciente a través de herramientas digitales. Eliza logró que Salud Total emergiera más ágil, eficiente y centrada en el paciente.
+Continúa con el siguiente recurso y ayuda a Eliza a responder el cuestionario.

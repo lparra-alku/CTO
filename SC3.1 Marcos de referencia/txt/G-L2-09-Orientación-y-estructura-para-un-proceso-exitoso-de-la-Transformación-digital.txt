@@ -1,0 +1,18 @@
+# L2 · Orientación y estructura para un proceso exitoso de la Transformación digital
+Genially 65d3cb57de9cc8001483f032 → 65d3cb6467c86a00137fad2e
+
+Orientación y estructura
+para un proceso exitoso de la Transformación digital
+Los marcos de referencia de transformación digital suelen incorporar diversos elementos que proporcionan orientación y estructura para llevar a cabo el proceso de manera efectiva. Conócelos a continuación.
+CODIGO NO BORRAR
+Principios y valores
+Definición de los principios y valores que guían la transformación digital. Estos establecen la base ética y estratégica para la toma de decisiones.
+Gobierno y estructura organizativa
+Establece un marco de gobierno que defina roles y responsabilidades en la organización para supervisar y dirigir la transformación digital. Incluye la creación de estructuras organizativas adecuadas.
+Arquitectura empresarial
+Desarrolla una arquitectura empresarial que describa la estructura y el diseño de la organización en términos de procesos, sistemas, tecnologías y datos. Esto ayudará a alinear la transformación con los objetivos estratégicos.
+Métricas y KPI’s
+Establece métricas clave de rendimiento (KPIs) para evaluar el progreso y el éxito de la transformación digital. Esto ayudará a medir el impacto en los objetivos comerciales y a realizar ajustes según sea necesario.
+Conclusión
+La combinación de estos elementos en un marco de referencia proporciona a las organizaciones una guía integral para abordar la transformación digital de manera estratégica y sistemática.
+Continúa con el estudio de la lección.

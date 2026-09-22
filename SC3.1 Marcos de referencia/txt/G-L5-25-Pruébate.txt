@@ -1,0 +1,64 @@
+# L5 · Pruébate
+Genially 65fc814c00435100145b391f
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Julián a resolver algunas problemáticas.
+AutoWorks, una empresa del sector automovilístico está perdiendo terreno en el mercado debido a la falta de innovación y adaptación a las nuevas tendencias digitales. Para enfrentar este desafío contrataron a Julián, quién propone iniciar un proceso de transformación digital mediante la integración de otros modelos de transformación digital, con el fin de encontrar nuevas perspectivas y soluciones personalizadas para la empresa. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Antes de iniciar el proceso de transformación digital en AutoWorks, Julián debe identificar el mayor reto a vencer. ¿Cuál de las siguientes opciones representa el mayor reto para la transformación de AutoWorks?
+El nivel de dominio de nuevas tecnologías
+Las actitudes hacia el cambio
+La visión limitada de los directivos
+¡Correcto!
+El principal reto que enfrenta Julián en AutoWorks es la actitud del personal de la empresa hacia el cambio.
+¡Incorrecto!
+Uno de los elementos comunes en cualquier marco de transformación digital es el CAMBIO. En este sentido, mantenerse al día con la tecnología no es el verdadero problema. El verdadero reto es cambiar las actitudes hacia el cambio mismo.
+Julián decidió averiguar qué quieren y esperan los clientes, así como qué tecnologías, modelos de negocio o asociaciones podría adoptar para hacer más sostenible la operación de AutoWorks. ¿A qué etapa del modelo BUILD corresponde este paso?
+Descubrir (Uncover)
+Puente (Bridge)
+Itinerar (Iterate)
+Para cerrar las brechas entre el estado actual de la empresa, los clientes y el mercado es necesario averiguar qué quieren y esperan los clientes actuales y potenciales; así como qué tecnologías, modelos de negocio o asociaciones se podrían adoptar para que toda la operación sea más sostenible.
+La primera etapa de este modelo es construir puentes para cerrar las brechas entre la empresa, los clientes y el mercado. Esto se logra al averiguar qué quieren y esperan los clientes actuales y potenciales; así como qué tecnologías, modelos de negocio o asociaciones se podrían adoptar para que toda la operación sea más sostenible.
+Luego de establecer la visión compartida para AutoWorks, Julián comienza el paso dos, que consiste en descubrir (Uncover) las mejores rutas para realizar los cambios necesarios que ayuden a lograr dicha visión. ¿Qué acciones implica esta etapa del modelo BUIDL?
+Colaborar con Star ups, laboratorios de innovación u organizaciones dedicadas a la innovación
+Investigar la empresa, desafiar cualquier lógica obsoleta y priorizar las correcciones necesarias
+Investigar la empresa, diseñar planes de acción y buscar inversiones en tecnología
+Al investigar la empresa y priorizar las correcciones necesarias sabrás cómo estructurar un programa de transformación, comenzando por descubrir las barreras que se interponen entre la empresa y la visión compartida de la transformación.
+La respuesta correcta es investigar la empresa, desafiar cualquier lógica y priorizar las correcciones necesaria. Solo así se pueden descubrir las barretas que se interponen para lograr la visión compartida.
+Julián sabe que para sustituir el enfoque antiguo de AutoWorks debe crear y establecer una nueva forma de trabajar, colaborar y mejorar de forma iterativa. ¿Qué debe hacer Julián para lograr implementar esta nueva forma de trabajo?
+Probar y aprender en ciclos iterativos, además de ejecutar proyectos basados en métodos ágiles y de pensamiento de diseño
+Construir todos sus proyectos desde la metodología de Agile, además de definir métricas de vanidad
+Diseñar métricas de vanidad que permitan comprobar el grado de cumplimiento del proyecto
+El equipo de liderazgo y los equipos autodirigidos, con habilidades para construir, probar y aprender en ciclos iterativos, ejecutan proyectos basados en metodologías ágiles y pensamiento de diseño para evitar productos no deseados e impulsar la innovación genuina.
+La respuesta es probar y aprender en ciclos iterativos, además de ejecutar proyectos basados en métodos ágiles y de pensamiento de diseño. Esto permite a líderes y sus equipos evitar la creación de productos-servicios no deseados e impulsar la innovación genuina.
+Julián ha llegado a la etapa final (Difundir) de la transformación de AutoWorks. ¿En qué consiste el este estado final de transformación que se aborda en esta última etapa?
+En lograr objetivos colectivos, conectar con clientes y colaborar mediante el uso de tecnología y enfoques iterativos
+En incorporar todas las tecnologías emergentes en la creación de soluciones empresariales digitales
+En analizar las necesidades del cliente y reducir las brechas entre los competidores
+El estado final de la transformación para cualquier organización es cuando todos los roles, niveles y departamentos pueden utilizar la tecnología digital y las formas iterativas de trabajo para lograr objetivos colectivos, conectarse con los clientes y colaborar de manera eficiente para producir resultados consistentes y de alto impacto.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
