@@ -1,0 +1,123 @@
+<title>Atlas CDTO</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@600&display=swap">
+<style>
+:root{
+  --ground:#F2F5F8; --surface:#FFFFFF; --ink:#16202B; --muted:#5B6875; --line:#DCE2E8;
+  --accent:#1F5F8B; --accent-soft:#E3EEF6; --sel-ink:#0F3A57;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:"IBM Plex Serif",Georgia,serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#0F151B; --surface:#151D25; --ink:#E6ECF1; --muted:#93A1AE; --line:#26323D;
+    --accent:#7DB3DA; --accent-soft:#1B2B38; --sel-ink:#CFE4F3;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0F151B; --surface:#151D25; --ink:#E6ECF1; --muted:#93A1AE; --line:#26323D;
+  --accent:#7DB3DA; --accent-soft:#1B2B38; --sel-ink:#CFE4F3;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--ground);color:var(--ink);font:15px/1.5 var(--sans)}
+.app{display:grid;grid-template-columns:320px 1fr;height:100%}
+aside{background:var(--surface);border-right:1px solid var(--line);display:flex;flex-direction:column;min-height:0}
+.brand{padding:22px 20px 16px;border-bottom:1px solid var(--line)}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{font:600 22px/1.2 var(--serif);margin:8px 0 6px;text-wrap:balance}
+.brand p{margin:0;color:var(--muted);font-size:13px}
+nav{overflow-y:auto;padding:8px 10px 24px;flex:1}
+.group{display:flex;flex-direction:column;gap:2px;padding-top:14px}
+.group h2{margin:0 10px 6px;font:600 11px/1.2 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);display:flex;gap:8px}
+.group h2 span{color:var(--ink)}
+a.item{display:grid;grid-template-columns:58px 1fr;gap:10px;align-items:baseline;padding:8px 10px;border-radius:6px;color:var(--ink);text-decoration:none}
+a.item:hover{background:var(--ground)}
+a.item:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+a.item[aria-current="true"]{background:var(--accent-soft);color:var(--sel-ink)}
+a.item .code{font:600 12px/1.4 var(--mono);color:var(--accent);font-variant-numeric:tabular-nums}
+a.item .t{font-weight:500;font-size:14px;line-height:1.35}
+main{display:flex;flex-direction:column;min-width:0;min-height:0}
+.bar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px;padding:12px 20px;border-bottom:1px solid var(--line);background:var(--surface)}
+.bar .now{flex:1;min-width:0}
+.bar .now b{font:600 12px var(--mono);color:var(--accent);margin-right:8px}
+.bar .now span{font-weight:600}
+.bar .now p{margin:2px 0 0;color:var(--muted);font-size:13px;max-width:80ch}
+.bar .ctl{display:flex;gap:6px}
+.btn{font:500 13px var(--sans);color:var(--ink);background:var(--ground);border:1px solid var(--line);border-radius:6px;padding:6px 10px;text-decoration:none;cursor:pointer}
+.btn:hover{border-color:var(--accent)}
+.btn:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+iframe{flex:1;width:100%;border:0;background:#fff}
+@media (max-width:820px){
+  html,body{height:auto}
+  .app{display:flex;flex-direction:column;height:auto}
+  aside{border-right:0;border-bottom:1px solid var(--line)}
+  nav{max-height:none;padding-inline:6px}
+  .brand{padding-inline:16px}
+  .bar{padding-inline:16px}
+  iframe{flex:none;height:85vh}
+}
+</style>
+
+<div class="app">
+  <aside>
+    <div class="brand">
+      <div class="eyebrow">Tec de Monterrey · The Learning Gate</div>
+      <h1>Chief Digital Transformation Officer</h1>
+      <p id="count"></p>
+    </div>
+    <nav id="nav" aria-label="Mapas mentales"></nav>
+  </aside>
+  <main>
+    <div class="bar">
+      <div class="now"><b id="nowCode"></b><span id="nowTitle"></span><p id="nowSub"></p></div>
+      <div class="ctl">
+        <button class="btn" id="prev" type="button">← Anterior</button>
+        <button class="btn" id="next" type="button">Siguiente →</button>
+        <a class="btn" id="open" target="_blank" rel="noopener">Abrir sola</a>
+      </div>
+    </div>
+    <iframe id="view" title="Mapa mental"></iframe>
+  </main>
+</div>
+
+<script>
+const MAPS=[{"id": "sc11", "code": "SC 1.1", "title": "Alineando la Mentalidad de Transformación Digital", "short": "Alineando la Mentalidad", "sub": "Mapa del módulo completo.", "href": "Alineando%20la%20mentalidad/mapa-mental-modulo-1.html", "src": "Alineando la mentalidad/mapa-mental-modulo-1.html"}, {"id": "sc12", "code": "SC 1.2", "title": "La Transformación Digital encuentra a las Tecnologías Estratégicas", "short": "Tecnologías Estratégicas", "sub": "Mapa del módulo completo:", "href": "La%20transformacion%20digital%20encuentra%20a%20las%20tecnologias%20estrategicas/mapa-mental-modulo-2.html", "src": "La transformacion digital encuentra a las tecnologias estrategicas/mapa-mental-modulo-2.html"}, {"id": "sc21", "code": "SC 2.1", "title": "Tecnologías Estratégicas de Datos para la Transformación Digital", "short": "Tecnologías de Datos", "sub": "Cuatro tecnologías que usan los datos como materia prima —ciencia de datos, IA, nube— y la que las protege.", "href": "SC2.1%20Tecnologias%20de%20datos/mapa-mental-SC2.1.html", "src": "SC2.1 Tecnologias de datos/mapa-mental-SC2.1.html"}, {"id": "sc22", "code": "SC 2.2", "title": "Tecnologías Estratégicas de Procesos para la Transformación Digital", "short": "Tecnologías de Procesos", "sub": "Cuatro tecnologías que cambian cómo se ejecutan los procesos —RPA, blockchain, realidad extendida e IA generativa—, cada una en una fase distinta de madurez.", "href": "SC2.2%20Tecnologias%20de%20procesos/mapa-mental-SC2.2.html", "src": "SC2.2 Tecnologias de procesos/mapa-mental-SC2.2.html"}, {"id": "sc31", "code": "SC 3.1", "title": "Marcos de Referencia de Transformación Digital", "short": "Marcos de Referencia", "sub": "Un marco da un método coherente y replicable para planear y supervisar la transformación.", "href": "SC3.1%20Marcos%20de%20referencia/mapa-mental-SC3.1.html", "src": "SC3.1 Marcos de referencia/mapa-mental-SC3.1.html"}, {"id": "sc32", "code": "SC 3.2", "title": "Transformación Digital en la Organización", "short": "Transformación en la Organización", "sub": "La transformación no es un proyecto:", "href": "SC3.2%20Transformacion%20en%20la%20organizacion/mapa-mental-SC3.2.html", "src": "SC3.2 Transformacion en la organizacion/mapa-mental-SC3.2.html"}, {"id": "sc33", "code": "SC 3.3", "title": "Visión y Estrategia de la Transformación Digital", "short": "Visión y Estrategia", "sub": "Antes de la tecnología va la visión:", "href": "SC3.3%20Vision%20y%20estrategia/mapa-mental-SC3.3.html", "src": "SC3.3 Vision y estrategia/mapa-mental-SC3.3.html"}, {"id": "sc34", "code": "SC 3.4", "title": "Mejora Continua para la Transformación Digital", "short": "Mejora Continua", "sub": "El ciclo completo de una iniciativa digital:", "href": "SC3.4%20Mejora%20continua/mapa-mental-SC3.4.html", "src": "SC3.4 Mejora continua/mapa-mental-SC3.4.html"}, {"id": "sc41", "code": "SC 4.1", "title": "Estrategia de Diseño Centrado en la Persona", "short": "Diseño Centrado en la Persona", "sub": "Los datos y los perfiles no bastan:", "href": "SC4.1%20Diseno%20centrado%20en%20la%20persona/mapa-mental-SC4.1.html", "src": "SC4.1 Diseno centrado en la persona/mapa-mental-SC4.1.html"}, {"id": "sc42", "code": "SC 4.2", "title": "Pruebas Piloto de Estrategias Centradas en la Persona", "short": "Pruebas Piloto", "sub": "La continuación de SC 4.1:", "href": "SC4.2%20Pruebas%20piloto/mapa-mental-SC4.2.html", "src": "SC4.2 Pruebas piloto/mapa-mental-SC4.2.html"}, {"id": "sc51", "code": "SC 5.1", "title": "Metodologías de Ejecución de Transformación Digital", "short": "Metodologías de Ejecución", "sub": "La caja de herramientas para ejecutar:", "href": "SC5.1%20Metodologias%20de%20ejecucion/mapa-mental-SC5.1.html", "src": "SC5.1 Metodologias de ejecucion/mapa-mental-SC5.1.html"}, {"id": "sc52", "code": "SC 5.2", "title": "Desarrollo del Roadmap de Transformación Digital", "short": "Roadmap de Transformación Digital", "sub": "El módulo es el libro de David Rogers (2023) en cinco pasos, uno por cada barrera:", "href": "SC5.2%20Roadmap%20de%20transformacion/mapa-mental-SC5.2.html", "src": "SC5.2 Roadmap de transformacion/mapa-mental-SC5.2.html"}];
+const GROUPS=[["SC 1", "Mentalidad digital"], ["SC 2", "Tecnologías estratégicas"], ["SC 3", "Organización y estrategia"], ["SC 4", "Centrado en la persona"], ["SC 5", "Ejecución y roadmap"]];
+const nav=document.getElementById('nav');
+document.getElementById('count').textContent=MAPS.length+' mapas mentales · de SC 1.1 a SC 5.2';
+GROUPS.forEach(([g,name])=>{
+  const items=MAPS.filter(m=>m.code.startsWith(g+'.'));
+  if(!items.length)return;
+  const sec=document.createElement('section');sec.className='group';
+  sec.innerHTML='<h2><span>'+g+'</span>'+name+'</h2>';
+  items.forEach(m=>{
+    const a=document.createElement('a');a.className='item';a.href='#'+m.id;a.dataset.id=m.id;
+    a.innerHTML='<span class="code">'+m.code+'</span><span class="t"></span>';
+    a.querySelector('.t').textContent=m.title;
+    sec.appendChild(a);
+  });
+  nav.appendChild(sec);
+});
+const view=document.getElementById('view');
+function show(){
+  const id=location.hash.slice(1);
+  const i=Math.max(0,MAPS.findIndex(m=>m.id===id));
+  const m=MAPS[i];
+  if(view.getAttribute('src')!==m.href)view.setAttribute('src',m.href);
+  document.getElementById('nowCode').textContent=m.code;
+  document.getElementById('nowTitle').textContent=m.title;
+  document.getElementById('nowSub').textContent=m.sub;
+  document.getElementById('open').href=m.href;
+  document.getElementById('prev').disabled=i===0;
+  document.getElementById('next').disabled=i===MAPS.length-1;
+  document.querySelectorAll('a.item').forEach(a=>a.setAttribute('aria-current',a.dataset.id===m.id?'true':'false'));
+  show.i=i;
+}
+document.getElementById('prev').onclick=()=>{if(show.i>0)location.hash=MAPS[show.i-1].id};
+document.getElementById('next').onclick=()=>{if(show.i<MAPS.length-1)location.hash=MAPS[show.i+1].id};
+addEventListener('hashchange',show);
+show();
+</script>

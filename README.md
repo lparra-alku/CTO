@@ -44,6 +44,29 @@ La tesis de fondo: la transformación digital no empieza en la tecnología, empi
 ### 2 · La Transformación Digital encuentra a las Tecnologías Estratégicas
 Diseño de negocios digitales según el CISR del MIT Sloan, los tres tipos de digitalización (procesos, datos y sensores), RPA y automatización cognitiva, IA generativa por industrias, y las herramientas de Gartner para decidir cuándo adoptar una tecnología.
 
+### SC 2.1 y 2.2 · Tecnologías estratégicas de datos y de procesos
+Ciencia de datos, IA, *big data* y nube; RPA, *blockchain*, IoT y robótica. Qué es cada una y cuándo conviene adoptarla.
+
+### SC 3.1 a 3.4 · Organización y estrategia
+Marcos de referencia, transformación en la organización, visión y estrategia, y mejora continua. Cubre el cómo gobernar el cambio, no solo la tecnología.
+
+### SC 4.1 y 4.2 · Centrado en la persona
+Diseño centrado en la persona (entrevistas, mapa de empatía, *journey*) y pruebas piloto: prototipar, probar y medir.
+
+### SC 5.1 y 5.2 · Ejecución y roadmap
+Metodologías de ejecución (Design Thinking, Customer Development, agilidad, TI bimodal) y el roadmap de transformación digital de David Rogers en cinco pasos.
+
+### PIDA · Proyecto Integrador
+Qué pide la certificación (insignia diamante), sus requisitos y una propuesta para hacerlo en Grupo Infocus. Ver [`PIDA Proyecto Integrador/README-PIDA.md`](PIDA%20Proyecto%20Integrador/README-PIDA.md).
+
+---
+
+## Navegar los mapas mentales
+
+[`index.html`](index.html) reúne los 12 mapas en una sola página, con un índice lateral y botones de anterior y siguiente. Para usarlo:
+- **En local:** clona el repo y abre `index.html` en el navegador.
+- **En la web:** GitHub Pages necesita un plan de pago si el repo es privado. Mientras tanto hay una copia publicada como Artifact privado.
+
 ---
 
 ## Dos cosas que conviene saber antes de estudiar
