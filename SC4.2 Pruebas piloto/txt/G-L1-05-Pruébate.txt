@@ -1,0 +1,61 @@
+# L1 · Pruébate
+Genially 65657d37ad7c110014c2cd74
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Alan a resolver algunas problemáticas.
+Alan es el líder del área de Innovación y Desarrollo en una compañía global de materiales para la industria de la construcción y necesita elaborar una guía de trabajo para plasmar las etapas de los procesos, además de algunos términos generales, con el propósito de evaluar la experiencia de sus usuarios, ¿podrías ayudarlo? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Para comenzar, Alan necesita colocar de manera explícita en su guía, a qué se refiere el Business Service Design (BSD), ayúdalo a seleccionar la respuesta correcta.
+Es un concepto que domina la descripción de cómo deben de desarrollarse las pruebas de usabilidad
+Es un enfoque utilizado en los procesos de prototipado
+Es un elemento de las pruebas de usabilidad
+¡Correcto!
+Es uno de varios enfoques que se pueden implementar en el prototipado de productos o servicios.
+¡Incorrecto!
+La respuesta correcta es: Es un enfoque utilizado en los procesos de prototipado. El BSD no es un concepto, es un enfoque o como le denominan en ocasiones un approach .
+Ayuda a Alan a identificar cuál de las siguientes opciones menciona las características del prototipado de baja fidelidad.
+Toma su tiempo para crear los prototipos, no permite la iteración con el diseño en el que se trabaja
+Uso de materiales complejos y solo se puede desarrollar en plataformas digitales
+Se utilizan materiales sencillos, permiten iterar fácilmente en el diseño
+Las características del prototipado de baja fidelidad son su simplicidad, rapidez y prioriza los elementos visuales. Incluso es muy usado para desarrollar las ideas iniciales.
+La respuesta correcta es: Se utilizan materiales sencillos, permiten iterar fácilmente en el diseño. Recuerda que un prototipado de baja fidelidad se caracteriza por su simplicidad, rapidez y prioriza los elementos visuales. Incluso es muy usado para desarrollar las ideas iniciales.
+Ahora deberás apoyar a Alan a seleccionar la opción correcta a una pregunta frecuente dentro de su equipo de trabajo: ¿de qué depende principalmente la elección de la técnica de prototipado a utilizar?
+Dependerá del tipo de producto o servicio que esté siendo desarrollado, el alcance del proyecto y los recursos disponibles
+Dependerá de la experiencia con la que cuenta el equipo de diseño de servicios que tenga la empresa
+Dependerá de los recursos económicos que tenga la empresa en ese momento
+La elección de la técnica más adecuada de prototipado depende de factores internos y externos, así como la complejidad del proyecto.
+La respuesta correcta es: Dependerá del tipo de producto o servicio que esté siendo desarrollado, el alcance del proyecto y los recursos disponibles. La elección de la técnica de prototipado a utilizar dependerá del tipo de producto o servicio que esté siendo desarrollado, el nivel de detalle necesario, el alcance del proyecto y los recursos disponibles
+Si Alan se enfocara en crear prototipos que permitan a los usuarios experimentar cómo sería interactuar con el producto o servicio en un entorno simulado, ¿qué tipo de prototipado estaría desarrollando?
+Prototipado de realidad virtual
+Prototipado de alta fidelidad
+Prototipado 3D
+El objetivo principal del prototipado en VR es simular la interacción y desempeño del producto o servicio, aunque sea en un entorno virtual.
+La respuesta correcta es: Prototipado de realidad virtual. Recuerda que el objetivo principal del prototipado en VR es simular la interacción y desempeño del producto o servicio, aunque sea en un entorno virtual.
+Por último, Alan necesita especificar en la guía de trabajo el concepto de pruebas de usabilidad, ¿puedes ayudarlo a seleccionar la opción correcta?
+Son una inversión valiosa que conduce a productos y servicios más exitosos y a una experiencia de usuario de calidad
+Son el primer elemento del desarrollo de un prototipo para mejorar la experiencia del usuario
+Son el eslabón más importante y sólido del proceso de prototipado
+Las pruebas de usabilidad conducen a una experiencia del usuario de mayor calidad y satisfacción.
+La respuesta correcta es: Son una inversión valiosa que conduce a productos y servicios más exitosos y a una experiencia de usuario de calidad. Recuerda que una buena usabilidad conduce a una experiencia de usuario positiva.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

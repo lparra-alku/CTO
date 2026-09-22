@@ -1,0 +1,285 @@
+
+--- p1 ---
+Ya conoces en qué consiste Risk Assessment Product Value, ahora observa 
+un ejemplo dentro del contexto del diseño centrado en el usuario.
+y cómo mejorar tu estrategia
+Ejemplo de 
+evaluación de riesgos 
+
+--- p2 ---
+Supongamos que estás diseñando una aplicación para el sector salud que 
+permite a los usuarios llevar un registro de su actividad física y de su ingesta de 
+alimentos para mejorar su bienestar general. Para evaluar el Risk Assessment 
+Product Value, debes considerar los riesgos y la evaluación del valor desde la 
+perspectiva del usuario, de acuerdo con los siguientes puntos:
+1. Riesgo de privacidad y seguridad de datos: uno de los riesgos podría 
+ser la seguridad de los datos personales y de salud de los usuarios. Debes 
+evaluar si la aplicación cumple con altos estándares de seguridad y 
+privacidad para proteger la información sensible de los usuarios. La 
+violación de la privacidad podría tener un impacto negativo en la percepción 
+del valor del producto por parte de los usuarios.
+2. Facilidad de uso y accesibilidad: otro riesgo podría ser la dificultad de 
+uso de la aplicación. Debes considerar si la interfaz es intuitiva y accesible 
+para una amplia gama de usuarios, incluidos aquellos con discapacidades. La 
+poca facilidad de uso podría llevar a la insatisfacción y al abandono del 
+producto.
+3. Precisión de los datos y retroalimentación inexacta: la precisión de 
+los datos registrados por la aplicación es fundamental. Si la aplicación 
+proporciona retroalimentación inexacta sobre las actividades físicas o las 
+pautas de alimentación, los usuarios podrían perder la confianza en el 
+producto.
+4. Relevancia y utilidad de la información: es importante evaluar si la 
+aplicación proporciona información útil y relevante para los objetivos de 
+salud de los usuarios. Si la aplicación no cumple con las expectativas de los 
+usuarios en términos de valor informativo, podrían dejar de usarla.
+La evaluación de estos riesgos y cómo se abordan es parte del Risk Assessment 
+Product Value en el diseño centrado en el usuario. Para mitigar estos riesgos y 
+garantizar un alto valor del producto, es fundamental realizar pruebas con 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Adaptado de Framework model of product risk assessment 
+(Diagrama), por Rider et al. (2009).
+Acciones para reducir 
+riesgos
+Caracterización de 
+riesgos
+Evaluación de 
+riesgos y toma de 
+decisiones 
+Comunicar los riesgos 
+Comienzo
+Fin
+Objetivo 
+Identificación y 
+caracterización de peligros
+Exposición de riesgos 
+usuarios reales, recopilar retroalimentación, iterar en 
+el diseño y asegurarse de que el producto cumple con las 
+expectativas y necesidades de los usuarios, al tiempo que 
+mantiene altos estándares de seguridad y privacidad.
+El siguiente diagrama de flujo te puede servir como una guía para construir tu 
+propio assessment de riesgo adaptado al entorno de tu desarrollo. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Te compartimos los tres pasos para perfeccionar tu estrategia de evaluación de 
+riesgos y compartir ideas para desarrollar un plan de protección de activos de 
+propiedad intelectual. La idea es que en tus diseños de soluciones puedas 
+definir controles adecuados para minimizar los riesgos.
+Paso 1: Identifica los riesgos que implica el desarrollo de 
+tu solución digital. 
+¿Cómo mejorar la estrategia de evaluación 
+de riesgos?
+Para identificar los riesgos y amenazas 
+relacionados con tus soluciones, hay cuatro 
+áreas clave a considerar:
+a) Tiempo: vida útil esperada del 
+producto o solución
+Puedes determinar tu factor de riesgo a 
+través de lo siguiente:
+•
+¿Mi diseño es de gran volumen y de 
+bajo costo? Si es así, se puede copiar y 
+vender fácilmente en grandes 
+cantidades.
+•
+¿Mi diseño tiene una gran demanda? 
+Si lo es, será un objetivo atractivo para 
+los falsificadores, independientemente 
+de su precio.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+b) Ubicación: dónde está hospedada la solución o tu distribución
+digital
+En términos de producto, la principal consideración para la ubicación es 
+revisar dónde se fabrican las piezas cruciales de dicho producto y su mayor 
+mercado de ventas. Pero en una solución digital, se debe evaluar el grado de 
+facilidad de replicar los elementos digitales que tiene tu solución diseñada. 
+Además, evaluar la suplantación de marca, replicabilidad o robo de la 
+estructura, interacción o robo de datos de los usuarios. 
+En los países en desarrollo a menudo falta regulación y aplicación de la ley 
+en materia de infracción de propiedad intelectual. Si el desarrollo o diseño 
+de tu solución contiene conocimientos valiosos es importante asegurarse de 
+que se produzcan en un entorno seguro y establecer algún tipo de control y 
+auditoría.
+c) Ciclo de vida del producto
+Para el ciclo de vida del producto servicio que desarrollemos como solución, 
+tiene fases principales que la organización debe conocer e identificar las 
+amenazas relacionadas con cada fase. Las amenazas y los riesgos 
+desatendidos en las primeras fases pueden tener un impacto negativo 
+significativo en la integridad del producto y afectar el rendimiento de su 
+inversión.
+La fase de concepto es principalmente la ideación del producto para buscar 
+ideas prometedoras basadas en la viabilidad técnica y comercial. También 
+incluye estrategias adecuadas, enfoques de marketing y usuarios específicos.
+El riesgo clave en esta fase es el robo de información de Investigación y 
+Desarrollo (I+D) o la obtención de información del personal mediante robo 
+o piratería en la estación de trabajo de la empresa.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+La fase de diseño cubre actividades 
+desde la descripción del producto 
+hasta las dimensiones, modelos 
+artísticos, dibujos de software, 
+componentes, etc.
+Una amenaza típica es el robo de 
+datos de diseño, prototipos y 
+muestras.
+La fase de fabricación es la creación 
+del producto o solución final a través 
+de una línea de montaje con materia 
+prima adecuada.
+La fase de distribución es el proceso y 
+servicio de poner la solución creada a 
+disposición de los clientes que lo necesitan. Esto puede lograrse 
+directamente por el productor/proveedor de servicios o a través de socios de 
+canales digitales de intermediarios (distribuidores).
+La ingeniería inversa en los productos de software o hardware supone un 
+riesgo considerable y se refiere a que la solución o producto pueda ser 
+deconstruido y reconocer sus elementos para que alguien más pueda 
+tomarlos y reproducirlos sin permiso adecuado. 
+Los usuarios comparten información de soporte del producto con los 
+competidores del proveedor para buscar fuentes alternativas para el 
+producto.
+La fase de eliminación es el desmontaje de los productos en componentes y 
+piezas individuales. Puede incluir la reutilización de piezas utilizables, 
+reciclar o eliminar aquellas que ya no son utilizables. Lo cual es una fase 
+poco aplicable en el diseño digital de soluciones basadas en software o vivan 
+en la nube. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+d) Cadena de suministro
+La cadena de suministro se refiere al conjunto 
+de procesos y actividades que involucran la 
+producción, distribución, almacenamiento y 
+entrega de bienes desde el origen hasta el 
+consumidor final. Con esta premisa, podemos 
+afirmar que, en esta área, tenemos que observar 
+si la propia cadena de suministro pudiera 
+representar algún riesgo para el desarrollo de 
+nuestra solución. Normalmente, esto no sería 
+común verlo, pero es importante considerarlo y 
+revisarlo dado que la soluciones que se 
+construyan pueden ser de lo más variadas.
+Paso 2: Evaluar el riesgo
+La evaluación de riesgos consiste en ser proactivo. El objetivo es determinar la 
+probabilidad, el impacto y la amenaza general de cada factor de riesgo 
+identificado asociado con sus productos, servicios o soluciones digitales 
+creadas. Es importante evaluar primero qué tan susceptible es la solución 
+diseñada a las amenazas y utilizar la información para crear una cartera de alto 
+riesgo. 
+La alta dirección, los directores de protección de marca y el equipo de 
+marketing deben participar en la evaluación del riesgo de ataques de 
+falsificación y determinar el valor de todas las soluciones propuestas. 
+Como parte del grupo de diseño y desarrollo de este tipo de soluciones, es 
+importante que usted haga las siguientes preguntas:
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7
+
+--- p8 ---
+•
+¿Qué pasa si nuestra empresa no puede determinar la autenticidad de una 
+solución o producto?
+•
+¿Qué tan beneficioso sería para el equipo de control poder verificar 
+productos genuinos de manera rápida y confiable?
+Al identificar si la solución desarrollada o producto están en riesgo, evaluar los 
+daños potenciales y evaluar la confiabilidad de su cadena de suministro forman 
+la base para prevenir amenazas de falsificación o robo intelectual. Con lo 
+anterior desarrollado, se puede implementar un plan estratégico de protección 
+de marca para evitar pérdidas e impulsar el negocio en el mercado. 
+El objetivo de evaluar el riesgo en el paso 2 es desarrollar un conjunto de 
+respuestas que puedan reducir los daños, mejorar el retorno de la inversión de 
+la solución desarrollada, garantizar la seguridad del consumidor y la integridad 
+de la marca.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+8
+
+--- p9 ---
+Paso 3: Desarrollar el plan de acción
+Los tres componentes que forman el plan de acción son: 
+1. La disuasión consiste principalmente en hacer que a los falsificadores les 
+resulte difícil o tedioso copiar su diseño o producto. Una disuasión exitosa 
+requiere el apoyo de partes interesadas como distribuidores y 
+consumidores. 
+2. La regulación se refiere a conocer todos los lineamientos, regulaciones y 
+leyes a las que deba sujetarse la solución que se está diseñando. El 
+desarrollador deberá informarse y conocer cuáles son estos lineamientos, 
+para cumplir con ellos.
+No podemos entrar a mayor profundidad en este punto puesto que los 
+lineamientos son muy diversos y dependen del tipo de solución que se 
+construya, el mercado al que va y la industria en la que se aplique.
+3. El cumplimiento hace referencia a que nos aseguremos de que la solución 
+que se construye cumple con la función establecida para la que se construye 
+y llena las necesidades y expectativas de los consumidores. La 
+implementación de un programa de protección de marca que permita a los 
+distribuidores y consumidores verificar fácilmente los productos genuinos 
+ayuda enormemente a prevenir falsificaciones. Una gran fracción de las 
+amenazas relacionadas se puede superar con un programa multifacético que 
+abarque:
+•
+Autenticación del producto
+•
+Seguimiento de distribución
+•
+Educación del consumidor
+Tecnológico de Monterrey © 2024 | The Learning Gate
+9
+
+--- p10 ---
+Asimismo, la autenticación del producto es un componente adicional que 
+ofrece características de seguridad como visible, oculta y a prueba de 
+manipulaciones en el producto o su embalaje. Estas características permiten a 
+los distribuidores y consumidores verificar visualmente o utilizando un 
+dispositivo (por ejemplo, un teléfono inteligente).
+El seguimiento de la distribución le proporciona visibilidad de los 
+productos que se venden en los mercados. Ser capaz de rastrear y rastrear 
+productos individuales ayuda a prevenir el mercado gris e identificar a 
+distribuidores deshonestos que realizan comercio ilícito.
+El seguimiento inteligente se logra dando a cada producto un código de 
+identidad digital único (por ejemplo, serialización o códigos aleatorios) que se 
+puede rastrear en el sistema.
+Por último, la educación del 
+consumidor depende 
+principalmente de un compromiso 
+de marketing bien ejecutado para 
+crear conciencia. Como propietario 
+de la marca, deberás compartir y 
+comunicar a las partes interesadas 
+cómo tu organización protege tu 
+producto y debes enseñar al usuario 
+la manera adecuada de aprovechar 
+el producto, servicio o la solución 
+creada. El enfoque debe ser 
+atractivo o incluso puede incentivar 
+a los usuarios a identificar y 
+comprar solamente productos 
+originales.
+* * * * * * * *
+U s u a r i o
+Tecnológico de Monterrey © 2024 | The Learning Gate
+10
+
+--- p11 ---
+Reflexiones
+Piensa en tu empresa u organización y con base en la información 
+que has revisado hasta el momento, responde a las siguientes 
+preguntas.
+¿Qué habilidades consideras que se necesitan para poder construir 
+o adoptar un modelo de evaluación de riesgos en el diseño de 
+soluciones?, ¿de qué manera enseñas a tus usuarios la forma 
+adecuada de aprovechar de mejor forma tu producto o servicio?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+11

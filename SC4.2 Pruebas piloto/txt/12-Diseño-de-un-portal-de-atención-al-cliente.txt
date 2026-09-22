@@ -1,0 +1,113 @@
+
+--- p1 ---
+de atención al cliente
+Diseño de un portal
+Tomando en cuenta los elementos clave 
+relacionados con el diseño centrado el cliente de un 
+portal de atención al cliente para una compañía de 
+telecomunicaciones, observa el siguiente ejemplo 
+con los pasos para un plan de transformación digital. 
+
+--- p2 ---
+Pasos para la creación del portal de atención al cliente: 
+Una empresa de telecomunicaciones está buscando 
+mejorar su servicio de atención al cliente al crear un 
+portal en línea que permita a los clientes resolver 
+problemas, realizar consultas y acceder a información de 
+manera más eficiente. El objetivo es reducir la carga en el 
+servicio de atención al cliente telefónico y brindar a los usuarios 
+una experiencia más satisfactoria.
+1. Investigación de usuarios:
+Realización de encuestas y aplicación de un tracking a los 
+comportamientos de los usuarios en el portal, análisis de datos 
+para comprender las principales consultas y problemas de los 
+clientes.
+Identificación de las preferencias de los usuarios en cuanto a 
+canales de comunicación y dispositivos utilizados.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+2. Diseño de contenido y navegación:
+Creación de una estructura de navegación 
+intuitiva e incluyente que permita a los usuarios 
+acceder fácilmente a secciones como facturación, 
+problemas técnicos, cambios de plan, etc.
+Diseño de una interfaz limpia y amigable que refleje la marca de la 
+compañía. Que tenga también instrucciones de voz y manejo por 
+comandos de voz e incluso tamaños y diseño gráfico que permita 
+usar una versión del sitio para personas con debilidad visual.
+3. Implementación de funcionalidades clave:
+Inclusión de funciones como búsqueda en tiempo real, chat en 
+vivo, una sección de preguntas frecuentes (FAQ) y opciones de 
+autoayuda con consideraciones de interacción para personas con 
+diferentes necesidades de usabilidad.
+Integración de un sistema de seguimiento de problemas para que 
+los usuarios puedan verificar el estado de sus solicitudes.
+4. Chatbots y asistencia en tiempo real:
+Implementación de un chatbot para responder preguntas comunes 
+y ayudar a los usuarios a navegar por el portal que responda 
+también con comandos de voz e incluso pueda enviar 
+transcripciones de las preguntas y respuestas a dispositivos 
+móviles.
+Ofrecimiento de asistencia en tiempo real a través de un chat en 
+vivo, donde los agentes pueden resolver problemas en tiempo real.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+5. Capacitación del personal:
+Capacitación de los agentes de atención al cliente 
+para utilizar eficazmente el portal y ofrecer asistencia 
+a los usuarios cuando sea necesario.
+6. Pruebas y retroalimentación continua:
+Realización de pruebas beta con un grupo de usuarios piloto para 
+obtener retroalimentación y realizar mejoras antes del 
+lanzamiento.
+Seguimiento continuo de la retroalimentación de los usuarios y la 
+medición de métricas de satisfacción.
+7. Lanzamiento y promoción:
+Lanzamiento del portal 
+con anuncios a los clientes 
+existentes y promoción de 
+sus ventajas a través de 
+correos electrónicos, 
+mensajes push y 
+publicidad en el sitio web.
+8. Seguimiento de resultados:
+Medición de la reducción en 
+el volumen de llamadas al 
+servicio de atención al 
+cliente telefónico.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Evaluación de la satisfacción del cliente a través 
+de encuestas y análisis de métricas de uso.
+Este portal de atención al cliente se basa en la estrategia de diseño 
+centrada en el usuario para ofrecer a los clientes una manera eficiente y 
+efectiva de resolver problemas y acceder a información, lo que debería 
+mejorar significativamente la satisfacción del cliente y reducir la carga en 
+el servicio de atención al cliente.
+Piensa en tu empresa u organización 
+y con base en la información que has 
+revisado hasta el momento, responde 
+a la siguiente pregunta.
+Reflexiones finales
+¿Cuáles son los desafíos más comunes que enfrentan 
+las empresas al intentar integrar eficazmente el diseño 
+centrado en el usuario en sus estrategias de 
+transformación digital, y cómo pueden superarse para 
+lograr una implementación exitosa?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+?
+?
+?
+?
+?
+?
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

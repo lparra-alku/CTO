@@ -1,0 +1,36 @@
+# L2 · Modelos para el diseño inclusivo Parte 2
+Genially 6568c8321adb870014b2ef6f
+
+Modelos para el diseño inclusivo
+El modelo HEART y el modelo de Diseño de Servicios Centrado en el Cliente te permitirán tener una guía para el diseño inclusivo. Conoce más en esta lectura interactiva.
+Modelo HEART (Happiness, Engagement, Adoption, Retention, Task Success)
+El modelo HEART (Happiness, Engagement, Adoption, Retention, Task Success) es un enfoque desarrollado por Google para medir la experiencia del usuario y evaluar la eficacia de un producto o servicio digital. Este modelo se centra en cinco métricas clave para evaluar el rendimiento y la satisfacción del usuario. Las cinco métricas son las siguientes:
+Happiness (Felicidad) Engagement (Participación) Adoption (Adopción) Retention (Retención) Task Success (Éxito en Tareas)
+Modelo HEART
+El modelo HEART se basa en la idea de que la medición de la experiencia del usuario debe ser más que simplemente datos de uso o métricas cuantitativas. Al centrarse en la felicidad, el compromiso, la adopción, la retención y el éxito en las tareas, las organizaciones pueden obtener una comprensión más completa de la experiencia del usuario y de cómo mejorar su producto o servicio para satisfacer las necesidades y expectativas de los usuarios.
+Modelo de Diseño de Servicios Centrado en el Cliente:
+Este modelo se centra en comprender las necesidades de los clientes y en la co-creación de soluciones. Se adapta bien a la inclusión, ya que se basa en una comprensión profunda de las necesidades y expectativas de los usuarios. Utilizar estas herramientas y modelos de diseño inclusivo te ayudará a diseñar productos y servicios que sean accesibles y útiles para una audiencia diversa. Además, ten en cuenta que el diseño inclusivo debe ser un enfoque integral y continuo en todo el proceso de desarrollo.
+Algunos de los principios y características clave del Modelo de Diseño de Servicios Centrado en el Cliente incluyen:
+Empatía con el Cliente Se busca una profunda comprensión de las necesidades, deseos, preocupaciones y experiencias de los clientes. Esto se logra a través de investigaciones y entrevistas con los clientes, creando perfiles de usuario y recopilando información cualitativa. Co-creación Los clientes suelen participar activamente en el diseño de los servicios.
+Flexibilidad Los servicios se diseñan de manera flexible para acomodar diferentes preferencias y necesidades de los clientes. Esto puede incluir opciones personalizadas y la capacidad de adaptarse a situaciones cambiantes. Iteración continua El diseño de servicios es un proceso iterativo. Medición de la Experiencia del Cliente Se utilizan métricas y herramientas para evaluar la experiencia del cliente y medir la satisfacción y el éxito en la entrega del servicio.
+Diseño de Canales Múltiples Los servicios suelen ser diseñados para ser entregados a través de una variedad de canales, como aplicaciones móviles, sitios web, llamadas telefónicas y servicios presenciales. Esto ofrece a los clientes opciones para acceder al servicio de la manera que les resulte más conveniente.
+Consideración de la Fase de Vida del Cliente Se presta atención a las diferentes etapas del viaje del cliente, desde la adquisición hasta la retención y fidelización. Los servicios se adaptan para satisfacer las necesidades cambiantes del cliente en cada fase. Enfoque en la Calidad El modelo busca garantizar la calidad y la consistencia en la prestación del servicio.
+El Modelo de Diseño de Servicios Centrado en el Cliente se utiliza para mejorar la experiencia del cliente y proporcionar soluciones que sean verdaderamente útiles y valiosas. Es particularmente relevante en un mundo donde la experiencia del cliente se considera un factor clave en el éxito de las organizaciones.
+Gracias por tu respuesta
+¿Cuáles crees que sean los principales desafíos que enfrentan los diseñadores al intentar crear soluciones inclusivas, considerando factores como diversidad cultural, de edad y de habilidades, y cómo pueden superarse estos desafíos?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Este enfoque ayuda a construir relaciones más sólidas con los clientes y a fomentar la lealtad a través de servicios de alta calidad y diseñados teniendo en cuenta las necesidades de los usuarios.
+Adoption (Adopción)
+Esta métrica evalúa qué tan efectivamente se están incorporando nuevos usuarios al producto o servicio, mediante el número de nuevos usuarios registrados o la tasa de conversión de visitantes a usuarios registrados. Una alta tasa de adopción indica una aceptación y una atractiva propuesta de valor del producto.
+Se fomenta la colaboración y la retroalimentación continua de los clientes para asegurarse de que los servicios sean relevantes y útiles.
+Retention (Retención)
+Esta métrica se centra en cuántos usuarios continúan utilizando el producto con el tiempo. Puede medirse a través de la retención mensual, trimestral o anual. Una alta retención indica que el producto es capaz de mantener a los usuarios y fomentar la lealtad a largo plazo.
+Happiness (Felicidad)
+Esta métrica se refiere a la satisfacción y la percepción del usuario en relación con el producto o servicio. Puede medirse a través de encuestas de satisfacción, calificaciones de usuario y retroalimentación cualitativa. La felicidad del usuario refleja su satisfacción general y su apreciación del producto.
+Esto puede incluir la capacitación del personal, la estandarización de procesos y la supervisión de la calidad.
+Engagement (Participación)
+Esta métrica mide cuánto y cómo los usuarios interactúan con el producto. Incluye la frecuencia de uso, el tiempo dedicado al producto, la cantidad de acciones realizadas y otros indicadores de interacción. Una mayor participación indica que los usuarios están comprometidos y encuentran valor en el producto.
+Task Success (Éxito en Tareas)
+Esta métrica evalúa la eficacia del producto en ayudar a los usuarios a completar tareas o lograr sus objetivos. Puede medirse mediante tasas de conversión, tasas de finalización de tareas y otros indicadores. Una alta tasa de éxito en tareas refleja la eficacia del producto o servicio.
+Se realizan mejoras y ajustes constantes en función de la retroalimentación de los clientes y las cambiantes necesidades del mercado.

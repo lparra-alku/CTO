@@ -1,0 +1,105 @@
+
+--- p1 ---
+Ten en cuenta que las mejores prácticas pueden variar según el contexto y 
+el público objetivo, por lo que es importante adaptarlas a las necesidades 
+específicas de tu proyecto o solución.
+Mejores Prácticas
+Ejemplos de 
+
+--- p2 ---
+Un sitio web de noticias se adapta de 
+manera fluida a diferentes tamaños 
+de pantalla, lo que permite a los 
+usuarios acceder al contenido de 
+manera óptima tanto en 
+computadoras de escritorio como en 
+dispositivos móviles.
+Los siguientes son ejemplos de mejores 
+prácticas que te darán resultados sobresalientes: 
+Diseño responsivo:
+Un sitio web de noticias se adapta de manera fluida a diferentes tamaños de 
+pantalla, lo que permite a los usuarios acceder al contenido de manera óptima 
+tanto en computadoras de escritorio como en dispositivos móviles.
+Simplicidad y claridad:
+Un sitio web gubernamental cumple con las pautas de accesibilidad WCAG, lo 
+que permite que las personas con discapacidades utilicen el sitio con lectores de 
+pantalla y otras tecnologías de asistencia.
+Accesibilidad:
+Una aplicación de comercio electrónico realiza pruebas de usabilidad con 
+usuarios reales, identifica problemas de navegación y ajusta la estructura del 
+menú y la experiencia de compra en función de los resultados de las pruebas.
+Pruebas de usabilidad:
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Una aplicación de edición de documentos proporciona notificaciones en tiempo 
+real sobre cambios realizados por colaboradores, lo que permite a los usuarios 
+mantenerse al tanto de las ediciones y los comentarios de manera inmediata 
+como lo hace por ejemplo Google drive en su manejo de archivos compartidos.
+Retroalimentación en tiempo real:
+Un sitio web, más en específico una página de noticias, optimiza las imágenes y 
+los recursos para garantizar tiempos de carga rápidos, lo que ayuda a los 
+usuarios a acceder al contenido de manera eficiente sin largos tiempos de 
+espera.
+Carga rápida:
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Una plataforma de cursos en línea proporciona contenido educativo relevante y 
+estructurado de manera lógica para que los estudiantes puedan aprender de 
+manera efectiva. Es decir, le da contenido de calidad y de verdadero interés al 
+internauta. 
+Contenido significativo:
+Una aplicación de redes sociales permite a los usuarios informar sobre 
+contenido inapropiado o spam, y el equipo de desarrollo toma medidas en 
+función de los informes de los usuarios.
+Feedback y mejora continua:
+Un sitio web de comercio electrónico se asegura de que su plataforma funcione 
+sin problemas en navegadores como Chrome, Firefox, Safari y Edge, así como 
+en una variedad de dispositivos, desde computadoras de escritorio hasta 
+tabletas y dispositivos móviles.
+Testing en diversos navegadores y dispositivos:
+Una aplicación de noticias ofrece contenido 
+en varios idiomas y permite a los usuarios 
+cambiar fácilmente entre idiomas para 
+satisfacer a una audiencia global.
+Diseño de contenido multilingüe:
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Una plataforma de streaming de música permite a los usuarios crear listas de 
+reproducción personalizadas y sugiere canciones y artistas basados en las 
+preferencias del usuario.
+Personalización e híper-personalización:
+Una cadena de restaurantes mantiene una identidad de marca coherente en su 
+sitio web, aplicaciones móviles y materiales de marketing, lo que ayuda a los 
+clientes a reconocer y confiar en la marca en diferentes puntos de contacto.
+Documentación y soporte:
+Un blog en línea utiliza técnicas de SEO (contenidos más precisos, mayor 
+interacción con los internautas, detona conversación) para mejorar su 
+visibilidad en los motores de búsqueda, lo que atrae a más lectores interesados 
+en el contenido.
+Optimización de SEO:
+Una cadena de restaurantes mantiene una identidad de marca coherente en su 
+sitio web, aplicaciones móviles y materiales de marketing, lo que ayuda a los 
+clientes a reconocer y confiar en la marca en diferentes puntos de contacto.
+Consistencia de marca:
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Reflexiones
+Piensa en tu empresa u organización y con base en la información 
+que has revisado hasta el momento, responde a la siguiente 
+pregunta: ¿Cuáles consideras que son tus mejores prácticas para 
+garantizar que tus soluciones digitales no solo sean accesibles, sino 
+que también promuevan la inclusión y la participación activa de 
+todos tus usuarios?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

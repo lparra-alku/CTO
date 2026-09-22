@@ -1,0 +1,62 @@
+# L4 · Pruébate
+Genially 657241f0eb05280014436998
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Saúl a resolver algunas problemáticas.
+Saúl es un microempresario que necesita medir el impacto que han tenido los canales digitales de su empresa. Lo primero que tiene en mente es convocar una reunión con su equipo de trabajo para delegar tareas con la finalidad de evaluar el impacto su servicio en los canales digitales. ¿podrías ayudarlo? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Saúl necesita explicar a su equipo cuáles son las cuatro áreas clave a considerar para identificar los riesgos y amenazas relacionadas con el desarrollo de soluciones.
+Desarrollo, Construcción, Implementación y Evaluación
+Tiempo, Ubicación, Ciclo de vida del producto, Cadena de suministro
+Ubicación, Clientes, Ciclo de vida del producto y Evaluación
+¡Correcto!
+Estas cuatro áreas te permitirán establecer la vida útil esperada del producto o solución, saber en donde está hospedada la solución o tu distribución digital, así como tener claro el ciclo de vida y la cadena de suministro.
+¡Incorrecto!
+Las cuatro áreas son: Tiempo, Ubicación, Ciclo de vida del producto, Cadena de suministro.
+Ayuda a Saúl a recordar cuál es el concepto de Evaluación Heurística.
+Técnica que implica que expertos en usabilidad revisen la interfaz de usuario en busca de problemas de diseño
+Es una técnica que requiere que los usuarios prueben el diseño de nuestras soluciones
+Técnica que se basa en evaluar el desempeño del hardware de nuestro diseño
+Además, cuanto menor sea el número de problemas identificados, mejor será la solución de diseño.
+La base de la evaluación heurística es que expertos en usabilidad revisen la interfaz de usuario en busca de problemas de diseño.
+¿A qué tipo de indicador refiere la siguiente definición: Mide el porcentaje de usuarios que completan una acción deseada, como registrarse en un sitio web o comprar un producto?
+Tasa de conversión
+Tiempo de carga
+Tasa de abandono
+Además, una alta tasa de conversión indica una buena experiencia de usuario.
+Se refiere a la tasa de conversión. Recuerda que una alta tasa de conversión indica una buena experiencia de usuario.
+A qué elemento del Risk Assessment Product Value corresponde la siguiente aseveración: Debes evaluar si la aplicación cumple con altos estándares de seguridad y privacidad para proteger la información sensible de los usuarios.
+Facilidad de uso y accesibilidad
+Riesgo de privacidad y seguridad de datos
+Relevancia y utilidad de la información
+Recuerda que uno de los riesgos podría ser la seguridad de los datos personales y de salud de los usuarios.
+Se refiere al riesgo de privacidad y seguridad de datos. Recuerda que uno de los riesgos podría ser la seguridad de los datos personales y de salud de los usuarios.
+Con base en el proceso para perfeccionar una estrategia de evaluación de riesgos, ¿cuáles son los tres elementos que conforman el desarrollo del plan de acción?
+Autenticación, cumplimiento y registro
+Disuasión, regulación y cumplimiento
+Registro, disuasión y autenticación
+La disuasión, regulación y cumplimiento son clave para desarrollar un plan de acción basado en gestión, conocimientos y tecnología para abordar las amenazas que enfrentan los productos.
+La respuesta correcta es: disuasión, regulación y cumplimiento; elementos clave para desarrollar un plan de acción.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

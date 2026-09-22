@@ -1,0 +1,17 @@
+# L3 · Ejemplo de OODA Loop
+Genially 6577349c9736960014208363 → 657734943dfe39001433168f
+
+Ejemplo de
+OODA Loop
+Aquí encontrarás un ejemplo de un servicio digital que utiliza el ciclo OODA para ofrecer una experiencia mejorada a los usuarios, en este caso se trata de una plataforma de entrega de comestibles a domicilio.
+CODIGO NO BORRAR
+Fase de observación
+Recopilación de datos de usuarios, como historiales de compra, ubicaciones y preferencias. Monitoreo de la disponibilidad de productos y la congestión del tráfico en tiempo real. Evaluación de las reseñas y comentarios de los usuarios sobre la plataforma y los repartidores.
+Fase de orientación
+Análisis de datos para identificar patrones, como las horas pico de pedido y los productos más populares en diferentes áreas. Entendimiento de la preferencia de los usuarios por la rapidez o la calidad en la entrega. Evaluación de la retroalimentación de los usuarios para mejorar la experiencia de compra y entrega.
+Fase de decisión
+Formulación de estrategias basadas en los patrones identificados, como asignar más repartidores durante las horas pico. Tomar decisiones sobre la expansión del servicio a nuevas ubicaciones en función de la demanda. Decidir si se deben ofrecer promociones especiales en productos populares.
+Fase de acción
+Ejemplo de OODA Loop
+Este servicio digital utiliza el ciclo OODA para observar continuamente la información relevante (datos de usuario, disponibilidad de productos, retroalimentación), orientarse hacia patrones y preferencias, tomar decisiones basadas en estos conocimientos y finalmente tomar medidas para mejorar la experiencia del usuario. Este ciclo se repite continuamente para adaptarse a las cambiantes demandas y condiciones del mercado, lo que permite a la plataforma de entrega de comestibles a domicilio ofrecer un servicio más efectivo y satisfactorio a sus usuarios.
+Continúa con el estudio de la lección.

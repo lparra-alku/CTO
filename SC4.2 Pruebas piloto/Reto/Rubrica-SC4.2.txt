@@ -1,0 +1,100 @@
+ 
+The Learning Gate | Tecnológico de Monterrey 
+ 
+ 
+Formato de Evaluación  
+La actividad será evaluada utilizando la siguiente lista: 
+ 
+ 
+No cumplió 
+(0%) 
+Falta desarrollar 
+(50%) 
+En desarrollo 
+(80%) 
+Sobresaliente 
+(100%) 
+Puntuación 
+máxima 
+Situación Actual 
+0 puntos 
+No incluye una 
+descripción de la 
+situación actual. 
+10 puntos 
+No es clara una 
+descripción de la 
+situación actual. 
+15 puntos 
+Tiene todos los elementos 
+de una descripción de la 
+situación actual. 
+25 puntos 
+Explica de manera clara, 
+concreta y precisa, todos 
+los elementos de una 
+descripción de la 
+situación actual. 
+25 
+Objetivo de la 
+propuesta  
+0 puntos 
+No incluye un 
+objetivo. 
+10 puntos 
+No es claro el objetivo 
+de la propuesta o 
+solución que propone 
+construir. 
+15 puntos 
+El objetivo de la 
+propuesta o solución que 
+propone construir es 
+claro. 
+25 puntos 
+El objetivo de la propuesta 
+o solución que propone 
+construir es claro, 
+específico, tangible y 
+medible. 
+25 
+Construye un user 
+persona 
+0 puntos 
+No incluye el user 
+persona. 
+10 puntos 
+No está claro el user 
+persona. 
+15 puntos 
+Tiene el user persona 
+concreto. 
+25 puntos 
+Es un inmejorable user 
+persona por tener una 
+descripción clara y 
+profunda. 
+25 
+Indicadores clave  
+0 puntos 
+No incluye 
+Indicadores clave. 
+10 puntos 
+No son claros los 
+indicadores clave de 
+la propuesta. 
+15 puntos 
+Son claros los indicadores 
+clave de la propuesta. 
+25 puntos 
+Son claros los indicadores 
+clave y están enfocados 
+en la propuesta de 
+solución. 
+25 
+TOTAL 
+100 pts. 
+ 
+The Learning Gate | Tecnológico de Monterrey 
+ 
+ 

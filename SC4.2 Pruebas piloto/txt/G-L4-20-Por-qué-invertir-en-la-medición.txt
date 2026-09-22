@@ -1,0 +1,15 @@
+# L4 · Por qué invertir en la medición
+Genially 657241c6b7af01001570b2b7 → 657241b78ea79a00146a65d3
+
+¿Por qué invertir
+en la medición?
+Las métricas e indicadores que has revisado ofrecen una forma cuantitativa y cualitativa de evaluar el impacto de un diseño en la satisfacción y eficacia de los usuarios. Veamos ahora por qué es importante invertir en la medición.
+CODIGO NO BORRAR
+Tomar decisiones informadas
+La observación directa y el análisis de datos de usuario permiten a los diseñadores identificar puntos fuertes y áreas de mejora. Las métricas clave, como la tasa de conversión, el tiempo de interacción y la satisfacción del usuario, brindan información valiosa para tomar decisiones informadas y orientar la iteración del diseño.
+Las encuestas y las pruebas de usabilidad ayudan a capturar las percepciones y experiencias de los usuarios, lo que permite ajustar el diseño de acuerdo con sus necesidades y expectativas.
+Soluciones funcionales
+La importancia de estas técnicas radica en su capacidad para garantizar que las soluciones de diseño no solo sean visualmente atractivas, sino también funcionales y significativas para los usuarios. Cuando se emplean adecuadamente, estas técnicas permiten a las empresas crear productos y servicios que generan lealtad, fomentan la recomendación boca a boca y aumentan la retención de clientes.
+¿Por qué invertir en la medición?
+En última instancia, el éxito de las soluciones de diseño centradas en el usuario se traduce en un mayor compromiso de los usuarios y en un impacto positivo en los objetivos comerciales. Por lo tanto, invertir en la medición del éxito del diseño centrado en el usuario es fundamental para prosperar en un mercado cada vez más competitivo y centrado en el cliente.
+Continúa con el estudio de la lección.

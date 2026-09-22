@@ -1,0 +1,12 @@
+# L2 · Herramientas para la accesibilidad e inclusión
+Genially 6568c82a1adb870014b2e9a1 → 6568c82da90e770014818788
+
+Herramientas para la
+accesibilidad e inclusión
+Ahora queremos compartir contigo algunas herramientas que podrás aplicar durante el proceso para la creación de elementos de accesibilidad e inclusión.
+CODIGO NO BORRAR
+1. Axe: es una herramienta de prueba de accesibilidad que puede integrarse en los navegadores web. Proporciona informes detallados sobre problemas de accesibilidad en tu sitio web. 2. WAVE (Web Accessibility Evaluation Tool): es una extensión de navegador que verifica la accesibilidad de tu sitio web. Proporciona un resumen visual de problemas de accesibilidad.
+3. JAWS (Job Access With Speech) y NVDA (NonVisual Desktop Access): son lectores de pantalla populares que pueden utilizarse para probar la accesibilidad de aplicaciones y sitios web. 4. VoiceOver: es un lector de pantalla incorporado en dispositivos Apple, como iPhones y Macs. Puedes utilizarlo para evaluar la accesibilidad de tus aplicaciones y sitios web en plataformas de Apple.
+5. Color Contrast Checkers: Herramientas como WebAIM's Color Contrast Checker o Contrast Ratio Calculator pueden ayudarte a verificar si los colores utilizados en tu diseño cumplen con los estándares de contraste de WCAG.
+Además de las herramientas que acabas de ver, existen varios modelos de diseño inclusivo que pueden ayudarte a crear productos y servicios que sean accesibles y útiles para una amplia gama de usuarios. Descúbrelos en el siguiente recurso.
+Continúa con el estudio de la lección.

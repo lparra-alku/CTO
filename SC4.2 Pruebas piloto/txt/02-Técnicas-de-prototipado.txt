@@ -1,0 +1,259 @@
+
+--- p1 ---
+de prototipado
+Técnicas
+Prototipar te ayudará a detectar oportunidades de 
+mejora y desarrollar productos de mayor valor 
+respecto a la competencia. Conoce las mejores 
+técnicas de prototipado.
+
+--- p2 ---
+La imaginación es el principio de la creación. Imaginas lo que deseas, 
+persigues lo que imaginas y finalmente, creas lo que persigues.
+George Bernad Shaw.
+Así como la frase anterior lo sugiere, el llevar a la realidad tangible una 
+idea, es pasar por el prototipado.
+Técnicas de prototipado
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Los prototipos son herramientas valiosas para
+obtener retroalimentación temprana, validar 
+conceptos, probar funcionalidades y facilitar la 
+comunicación entre equipos de desarrollo y 
+stakeholders. Aquí hay algunas técnicas de 
+prototipado que son comúnmente utilizadas:
+Prototipado de baja fidelidad. En esta técnica, se utilizan 
+materiales sencillos como papel, cartulina, post-its o herramientas de 
+diseño gráfico básicas para crear representaciones visuales del producto 
+o servicio. Los prototipos de baja fidelidad son rápidos de crear y 
+permiten iterar fácilmente en el diseño.
+Prototipado de alta fidelidad. En contraste con los prototipos de 
+baja fidelidad, estos son más detallados y cercanos al producto final en 
+términos de apariencia y funcionalidad. Pueden desarrollarse utilizando 
+herramientas de diseño gráfico y prototipado como Adobe XD, Sketch, 
+Figma o InVision.
+Prototipado interactivo. Estos prototipos permiten a los usuarios 
+interactuar con el producto o servicio de manera más realista, lo que 
+facilita la comprensión de su funcionamiento y flujo. Las herramientas 
+de diseño mencionadas anteriormente también ofrecen capacidades 
+interactivas para crear prototipos de este tipo.
+Prototipado de código. Algunos prototipos pueden desarrollarse 
+utilizando código de programación, especialmente cuando se trata de 
+prototipos funcionales para aplicaciones web o móviles. Herramientas 
+como HTML, CSS, JavaScript o frameworks como React y Vue.js 
+pueden ser útiles en esta técnica.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Prototipado en 3D. Especialmente aplicado al 
+diseño de productos físicos, esta técnica permite 
+crear modelos tridimensionales del producto final 
+utilizando software de modelado 3D como Blender, 
+SolidWorks o Autodesk Fusion 360.
+Storyboards y prototipado narrativo. Esta técnica implica crear 
+una secuencia de viñetas o imágenes que representan la historia de 
+cómo un usuario interactúa con el producto o servicio. Es una forma 
+efectiva de visualizar el flujo y la experiencia del usuario.
+Prototipado rápido y en serie. Utilizando tecnologías de impresión 
+3D, corte láser u otras formas de fabricación rápida, es posible crear 
+prototipos físicos en poco tiempo y en series cortas, lo que facilita la 
+prueba y evaluación del diseño.
+Prototipado de realidad virtual (VR) y realidad aumentada 
+(AR). Con el uso de herramientas y plataformas de VR y AR, es posible 
+crear prototipos que permitan a los usuarios experimentar cómo sería 
+interactuar con el producto o servicio en un entorno simulado. Se usan 
+técnicas como: Simulador de graffiti en realidad Virtual, Diseño 3D 
+Inmersivo, simulación de desempeño en entornos virtuales. Aquí se 
+aplican algunas herramientas como: Multi brush, King spray, Quill, 
+Medium, Masterpiece VR.
+Prototipado de servicio. Se enfoca en representar la experiencia del 
+cliente en la interacción con un servicio, desde el punto de vista de los 
+procesos, interacciones y emociones. Se utilizan mapas de experiencia 
+del cliente, diagramas de servicio y otros elementos visuales.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+La elección de la técnica de prototipado dependerá del 
+tipo de producto o servicio que esté siendo desarrollado, 
+el nivel de detalle necesario, el alcance del proyecto y los 
+recursos disponibles.
+En general, el prototipado es una práctica esencial para 
+mejorar la calidad de los productos y servicios, reducir 
+riesgos y asegurarse de que el diseño se ajusta a las necesidades de los 
+usuarios antes de llegar a la etapa de desarrollo completa.
+Algunos pasos o elementos básicos que puedes implementar son los 
+siguientes:  
+Nota:
+Lo que siempre debemos de 
+tener en consideración 
+independientemente de la 
+técnica de prototipado que 
+utilicemos, es el desarrollo del 
+proceso de creación adecuado, 
+tomando en cuenta todos los 
+factores externos e internos, que 
+en este momento vive la 
+organización incluyendo los 
+deseos y necesidades del cliente 
+o consumidor.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+1. Evaluación simple y concreta de lo que se quiere 
+conseguir con el producto o servicio. Con la siguiente 
+matriz podemos hacer una evaluación muy sencilla y 
+concreta del impacto de lo que queremos desarrollar.
+¡Hazlo!
+Deséchalo
+Pérdida de esfuerzo 
+Arriesgado, 
+necesita una 
+planificación 
+cuidadosa 
+Probabilidad alta de 
+éxito cuando las partes 
+interesadas están de 
+acuerdo con los resultados 
+definitivos
+Impacto en el negocio
+Bajo
+Alto
+Alto
+Bajo
+Complejidad
+Probabilidad alta de 
+éxito cuando los 
+objetivos son 
+acordados entre las 
+partes interesadas 
+Adaptado de Collaborative Business Design: Improving and Innovating 
+the Design of IT-driven Business Services [Diagrama], por Johnson, B., y 
+de Rouw, L.-P, 2017, ITGP.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Esta gráfica (matriz) evalúa la 
+viabilidad del desarrollo de una 
+mejora o prototipo de producto con solo 2 variables, 
+impacto en el negocio y con la complejidad del desarrollo 
+del proyecto. Y con cruzar estas dos variables, ofrece una 
+idea del resultado o lo que costará desarrollar el proyecto, 
+de tal manera que nos da elementos a considerar, por ejemplo:
+Comprender los requisitos del servicio 
+Negocio, Normas 
+y Requerimientos 
+del modelo 
+operativo 
+Requerimientos 
+del usuario 
+Requerimientos 
+del sistema
+Requerimientos 
+funcionales 
+Especificaciones/ 
+contrato
+Interfaces 
+externas 
+Restricciones 
+Estrategia empresarial 
+(requisitos del negocio) 
+Requisitos de 
+calidad no 
+funcionales
+Adaptado de Collaborative Business Design: Improving and Innovating 
+the Design of IT-driven Business Services [Diagrama], por Johnson, B., y 
+de Rouw, L.-P, 2017, ITGP. 
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+Básicamente consideramos los requerimientos del 
+negocio, del usuario y de sistemas. Con sus elementos 
+funcionales, interfase externa (al usuario) y las 
+restricciones técnicas que se tienen.
+Un enfoque que podemos usar en el prototipado es el 
+llamado Business Service Design (BSD) normalmente 
+traducido como Diseño de servicios comerciales o del negocio. En donde se 
+plantean etapas que parten de:
+Entender el negocio, la visión del negocio, los problemas, las 
+oportunidades y limitaciones.
+Después la Declaración de diseño del servicio, que en resumen declara 
+lo que queremos desarrollar para dar solución a una problemática o 
+mejorar alguna funcionalidad de producto o servicio incluso digital.
+Diseño funcional, como su nombre lo dice se construye una propuesta 
+de cómo deberá funcionar o que deberá hacer el producto o servicio, en 
+pocas palabras, ¿cómo debería de funcionar?
+Construcción del producto mínimo viable y su orientación al cliente 
+para su uso (educarlos sobre cómo debería de ser usado y las 
+posibilidades del producto o servicio).
+Crear su ciclo de vida usando las metodologías ágiles ya conocidas o las 
+técnicas básicas vistas en dicho tema.
+Instalar o enviar el servicio, que no es otra cosa más que declarar como 
+se va a hacer llegar el servicio o mejora al usuario y su instalación, si es 
+que se necesita.  
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p9 ---
+Todo lo anterior es un constante ciclo que debe de ser de mejora continua, 
+por eso vemos en el inicio de la gráfica en la parte derecha este espacio 
+declarado como: Ongoing operation and maintenance, que en esta parte 
+declaramos cómo se va a mantener funcionando y mejorando lo que 
+lanzamos, un ejemplo puede ser la estructura de mantenimiento que la 
+empresa dará a una aplicación que lanzó para que el usuario conozca su 
+catálogo de producto.
+Adaptado de Collaborative Business Design: Improving and 
+Innovating the Design of IT-driven Business Services [Diagrama], 
+por Johnson, B., y de Rouw, L.-P, 2017, ITGP.
+Business service 
+design
+(BSD)
+Negocio en 
+comunidad: 
+visión, 
+problemas, 
+oportunidades, 
+limitaciones 
+Operaciones en 
+curso y 
+mantenimiento 
+Instalación 
+y servicio 
+de entrega 
+Construcción
+Ciclo de vida 
+p. ej. Ágil 
+Diseño 
+funcional 
+Estado del 
+diseño de 
+servicio 
+9
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p10 ---
+También será muy importante entender y dejar claros los 
+requerimientos de lo que estamos desarrollando.  
+Piensa en tu empresa u organización y con base en la 
+información que has revisado hasta el momento, responde 
+a las siguientes preguntas, haciendo un análisis de las 
+áreas de mejora que puedes aplicar en tu organización.
+Reflexiones finales
+¿Qué técnicas de prototipado utilizan en tu empresa u 
+organización?  
+¿Tienen ya un proceso bien establecido, delimitado y 
+medido para el desarrollo de nuevos productos o 
+mejora de la experiencia de los clientes? En caso de 
+una respuesta negativa, ¿cuáles consideras que son los 
+primeros pasos para establecer tu proceso?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+10
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

@@ -1,0 +1,62 @@
+# L3 · Pruébate
+Genially 657734f51068ee0014d0c685
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Karina a resolver algunas problemáticas.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Karina tiene experiencia en desarrollo de soluciones digitales y ahora tiene el deseo de innovar en su empresa para que sus soluciones lleguen a usuarios diversos. ¿podrías ayudarla a crear una guía de trabajo? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Karina necesita de tu ayuda para identificar a qué herramienta corresponde el siguiente objetivo: Mapear el flujo de valor para visualizar y analizar el proceso (en este caso de diseño de productos o servicios) en una organización, desde la etapa inicial hasta la entrega final del producto o servicio.
+Diseño de interfaz de backlog
+Service Level Agreement
+Value Stream Mapping
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+¡Correcto!
+Además, el VSM ayuda a identificar oportunidades de mejora, eliminar desperdicios y optimizar la eficiencia operativa.
+¡Incorrecto!
+La respuesta correcta es: Value Stream Mapping El cual sirve para visualizar y analizar el proceso desde la etapa inicial hasta la entrega final del producto o servicio.
+Ayuda a Karina a recordar cuál de las siguientes estrategias se ha aplicado en diversas disciplinas, incluyendo la estrategia militar, la toma de decisiones empresariales y la resolución de conflictos. Selecciona la repuesta correcta.
+Wireframes
+STEP Framework
+OODA Loop
+Además, la estrategia OODA Loop se compone de cuatro fases clave: Observation (Observación), Orientation (Orientación), Decision (Decisión) y Action (Acción).
+La respuesta correcta es: OODA Loop Esta estrategia se compone de cuatro fases clave: Observation (Observación), Orientation (Orientación), Decision (Decisión) y Action (Acción).
+Ayuda a Karina a recordar qué se debe considerar antes de comenzar a construir un framework de trabajo.
+Comprender los objetivos estratégicos de la organización
+Declarar el volumen de usuarios que tendrá la solución
+Construir una solución acorde a los intereses económicos
+Es necesario definir los objetivos estratégicos, identificar las partes interesadas y comprender sus necesidades.
+La respuesta correcta es: comprender los objetivos estratégicos de la organización , asimismo identificar las partes interesadas y comprender sus necesidades.
+De acuerdo con el Value Stream Maping , a qué elemento corresponde la siguiente aseveración: permite a los equipos comprender fácilmente cómo funciona el proceso y cómo se relacionan las diferentes etapas.
+Planificación de mejoras
+Visualización del proceso
+Herramienta Lean
+VSM proporciona una representación visual de todo el proceso, incluyendo actividades, personas, flujos de material e información
+Se refiere a la visualización del proceso. Esto permite a los equipos comprender fácilmente cómo funciona el proceso.
+Por último, ayuda a Karina a definir cuál de las siguientes opciones se relaciona con metodologías ágiles de gestión de proyectos, tales como Scrum.
+El diseño de interfaz de backlog se utiliza para mantener un registro de las tareas pendientes y características de usuario que deben abordarse en un proyecto.
+El diseño de interfaz de backlog se relaciona con metodologías ágiles de gestión de proyectos.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

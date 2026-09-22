@@ -1,0 +1,173 @@
+
+--- p1 ---
+métricas e indicadores 
+para tus soluciones
+Pruebas de 
+usabilidad, 
+Descubre que son las pruebas de usabilidad, así 
+como las métricas e indicadores que te ayudarán a 
+medir y a analizar la experiencia de tus usuarios.
+
+--- p2 ---
+Las pruebas de usabilidad implican observar a los usuarios, interactuar con 
+el producto o servicio y recopilar datos sobre su experiencia. Esto puede 
+hacerse en un entorno de laboratorio o en el mundo real. Se miden 
+métricas como la eficiencia, la efectividad, la satisfacción del usuario y 
+tiene tanto relación como aplicación directa con públicos internos y 
+externos de una empresa u organización que desarrolle la solución digital, 
+llamados: User Experience, Customer Experience y Employee Experience. 
+Pruebas de usabilidad
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Seguir la retención de usuarios a lo largo del tiempo y la tasa de 
+abandono es esencial. Un aumento en la retención y una 
+disminución en la tasa de abandono indican que los usuarios 
+encuentran valor en la solución.
+Métricas de retención y abandono
+Dependiendo del propósito de la solución 
+(por ejemplo, una aplicación de comercio 
+electrónico), las métricas de conversión 
+son críticas. Pueden incluir tasas de 
+conversión de visitantes a compradores, 
+tasas de registro, tasas de clics en llamadas 
+a la acción, etcétera.
+Métricas de conversión
+Medir cuánto tiempo lleva a los usuarios 
+completar tareas específicas en la 
+solución. Una reducción en el tiempo 
+necesario para realizar una tarea suele ser 
+un indicativo de éxito.
+Métricas de tiempo y tareas
+CTA
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Escala de satisfacción del usuario 
+Se trata de una encuesta breve que evalúa la satisfacción del 
+usuario con una solución. Se compone de preguntas sobre la 
+facilidad de uso y la utilidad, y proporciona una puntuación global 
+que puede ayudar a medir el éxito.
+y retroalimentación de usuarios
+Análisis de comentarios 
+La retroalimentación de los usuarios ya sea 
+a través de encuestas, reseñas en línea o 
+comentarios directos, puede proporcionar 
+información valiosa sobre su satisfacción y 
+las áreas que requieren mejoras.
+Evaluar si la solución cumple con estándares 
+de accesibilidad es esencial para garantizar 
+que sea utilizada por una amplia gama de 
+usuarios. Métricas como el cumplimiento de 
+estándares WCAG son indicadores clave.
+Métricas de accesibilidad
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Finalmente, no se debe pasar por alto el impacto en los objetivos 
+comerciales. Las métricas como el retorno de la inversión (ROI), el 
+aumento en los ingresos, la reducción de costos o la ganancia de cuota de 
+mercado son indicadores críticos del éxito.
+En resumen, medir el éxito de las soluciones de diseño centradas en el 
+usuario implica una combinación de métricas cuantitativas y cualitativas 
+que evalúan la experiencia del usuario, la eficacia de la solución y su 
+impacto en los objetivos comerciales. Al utilizar estas técnicas, las 
+organizaciones pueden asegurarse de que sus productos y servicios están 
+diseñados pensando en el usuario y sean verdaderamente efectivos.
+Métricas de negocio
+Los Indicadores Clave de Rendimiento o KPI´s por sus siglas en inglés Key 
+Performance Indicators en el diseño centrado en el usuario son métricas 
+utilizadas para evaluar y medir el éxito de un producto, servicio o 
+experiencia desde la perspectiva del usuario. 
+Estos KPI´s son fundamentales para asegurarse de que el diseño cumple 
+con los objetivos y necesidades de los usuarios. Aquí te explicamos algunos 
+de estos indicadores más importantes en el diseño centrado en el usuario:
+• Tasa de conversión: mide el porcentaje de usuarios que completan 
+una acción deseada, como registrarse en un sitio web o comprar un 
+producto. Una alta tasa de conversión indica una buena experiencia de 
+usuario.
+Los indicadores clave de rendimiento o KPI´s 
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+• Tiempo promedio de permanencia: evalúa 
+cuánto tiempo los usuarios pasan en tu 
+plataforma. Un tiempo de permanencia prolongado 
+generalmente indica que los usuarios encuentran el 
+contenido valioso.
+• Tasa de abandono: mide cuántos usuarios abandonan una tarea o 
+proceso sin completarla. Un alto porcentaje de abandono puede ser un 
+indicativo de problemas en la usabilidad o diseño.
+• Facilidad de uso (Usabilidad): se puede medir utilizando métricas 
+como el System Usability Scale (SUS) o el Net Promoter Score (NPS). 
+Una alta puntuación en estas métricas sugiere que los usuarios 
+encuentran el producto fácil de usar y están satisfechos.
+• Tiempo de carga: la rapidez con la que se carga una página o una 
+aplicación puede tener un impacto significativo en la satisfacción del 
+usuario. Un tiempo de carga más corto es generalmente preferible.
+• Errores del usuario: la cantidad de errores que cometen los usuarios 
+durante la interacción con un producto plataforma puede ser una 
+métrica importante. Menos errores indican una mejor experiencia de 
+usuario. En pocas palabras buscamos que la interacción entre usuarios y 
+plataforma (o producto) sea natural e intuitiva.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+• Recurrencia y retención de usuarios: estos 
+KPI evalúan cuántos usuarios regresan o continúan 
+utilizando un producto con el tiempo. Una alta tasa de 
+retención es un indicativo de la calidad de la experiencia 
+del usuario.
+• Satisfacción del usuario: se puede medir a través de encuestas, 
+calificaciones y comentarios de los usuarios. Una alta satisfacción del 
+usuario es un fuerte indicativo de un diseño exitoso centrado en el 
+usuario.
+• Tasa de tareas completadas: mide la cantidad de usuarios que 
+completan con éxito una tarea o proceso específico en tu producto o 
+plataforma. Un alto porcentaje de tareas completadas, indica una buena 
+usabilidad y diseño.
+• Engagement o compromiso: evalúa la cercanía del usuario con la 
+plataforma digital o solución que diseñamos. Por ejemplo: cuántos 
+usuarios interactúan activamente y a profundidad con tu producto, 
+cuántos publican comentarios, comparten contenido o realizan otras 
+acciones de compromiso.
+• NPS (Net Promoter Score): mide la probabilidad de que los usuarios 
+recomienden tu producto o servicio a otros. Un NPS alto es un indicativo 
+de la satisfacción del usuario.
+• Abandono del carrito (en comercio electrónico): mide cuántos 
+usuarios agregan productos al carrito de compras, pero no completan la 
+compra. Un alto abandono del carrito puede señalar problemas en el 
+proceso de compra.
+Estos son solo algunos ejemplos de KPI y la elección de uno en específico 
+dependerá de los objetivos de tu proyecto y de la naturaleza de tu producto 
+o servicio. Es importante medir y analizar regularmente estos indicadores 
+para realizar mejoras continuas en la experiencia del usuario y adaptarlos a 
+las tecnologías que van emergiendo y sean aplicadas a tus diseños de 
+soluciones. 
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+Reflexiones finales
+Piensa en tu empresa u organización y con 
+base en la información que has revisado hasta 
+el momento, responde a la siguiente pregunta: 
+¿Qué técnica o protocolo utilizas para medir el 
+éxito de las soluciones que diseñan en tu 
+empresa? 
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

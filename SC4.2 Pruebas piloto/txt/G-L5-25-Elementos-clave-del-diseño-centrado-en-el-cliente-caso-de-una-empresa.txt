@@ -1,0 +1,18 @@
+# L5 · Elementos clave del diseño centrado en el cliente caso de una empresa
+Genially 6578cf7ce7570900136f60a9 → 6579ca63af6c630014180c45
+
+Elementos clave del diseño centrado en el cliente
+(caso de una empresa de telecomunicaciones)
+Observa los siguientes objetivos que una empresa de telecomunicaciones tiene fijados, los cuales servirán como referencia para el desarrollo de su plan de transformación.
+CODIGO NO BORRAR
+Mapas de viaje del cliente
+Crear mapas de viaje que muestren las interacciones del cliente desde la solicitud de asistencia hasta la resolución de problemas.
+Diseño multicanal
+Diseñar una plataforma de atención al cliente que funcione de manera consistente en web, aplicaciones móviles y redes sociales.
+Chatbots y asistencia en tiempo real
+Implementar chatbots y sistemas de asistencia en tiempo real para resolver consultas de manera eficiente.
+Capacitación del personal
+Capacitar al personal en la nueva plataforma y en la importancia de la experiencia del cliente.
+Evaluación continua
+Recopilar comentarios de los clientes y ajustar el portal de atención al cliente según las necesidades y preferencias de los usuarios. Estos objetivos servirán como referencia para el diseño del portal de atención al cliente, el cual veremos en el siguiente recurso.
+Continúa con el estudio de la lección.

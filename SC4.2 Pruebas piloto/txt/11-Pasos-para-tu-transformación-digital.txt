@@ -1,0 +1,113 @@
+
+--- p1 ---
+transformación digital
+Pasos para tu
+En esta lectura conocerás el primero de tres 
+ejemplos sobre cómo integrar estrategias de diseño 
+centradas en el usuario en tu plan de transformación 
+digital.
+
+--- p2 ---
+Una institución financiera ha notado una disminución en la satisfacción de 
+los usuarios y una baja adopción de su aplicación móvil de banca. Deciden 
+llevar a cabo un rediseño de la aplicación para mejorar la experiencia del 
+usuario y aumentar la retención de clientes.
+Pasos para el Rediseño
+•
+Investigación de usuarios:
+Realización de encuestas en línea y entrevistas con clientes actuales para 
+comprender sus necesidades, problemas y expectativas al utilizar la 
+aplicación.
+móvil de banca
+Rediseño de una aplicación
+Recopilación de datos sobre las 
+tareas más comunes que los 
+usuarios realizan en la aplicación y 
+las áreas donde experimentan 
+dificultades.
+•
+Diseño de la Interfaz de Usuario 
+(UI) y Experiencia de Usuario 
+(UX):
+Reorganización de la página de 
+inicio para mostrar de manera más 
+prominente las funciones más 
+utilizadas, como consultar saldos, 
+realizar transferencias y pagar 
+facturas.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Simplificación de la navegación, eliminando elementos 
+innecesarios y creando un flujo de trabajo más 
+intuitivo. 
+Diseño de una interfaz limpia y atractiva con colores y 
+tipografías que reflejen la marca de la institución 
+financiera.
+•
+Prototipado y pruebas de usabilidad: 
+Creación de prototipos interactivos de las nuevas pantallas y funciones de 
+la aplicación. Realización de pruebas de usabilidad con usuarios reales para 
+identificar problemas de diseño y recopilar comentarios valiosos.
+•
+Implementación: 
+Desarrollo de la aplicación móvil de acuerdo con el diseño aprobado. 
+Garantía de que la aplicación esté 
+optimizada para funcionar de 
+manera eficiente en dispositivos 
+móviles.
+•
+Lanzamiento y promoción: 
+Lanzamiento de la nueva versión 
+de la aplicación con un anuncio a 
+los clientes existentes. Promoción 
+de las nuevas características y 
+mejoras a través de correos 
+electrónicos, mensajes push y 
+anuncios en el sitio web.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+•
+Evaluación de resultados: 
+Seguimiento de métricas clave, como la adopción de 
+la aplicación, la retención de usuarios y la satisfacción 
+del cliente. 
+Comparación de las métricas antes y después del rediseño 
+para evaluar el impacto. 
+•
+Mantenimiento continuo: 
+Recopilación constante de retroalimentación de los usuarios y realización 
+de actualizaciones según sea necesario para mantener la aplicación 
+relevante y efectiva.  
+Este rediseño de la aplicación móvil de banca se basa 
+en la estrategia de diseño centrada en el usuario para 
+abordar las necesidades y preocupaciones de los 
+clientes, lo que debería resultar en una mejor 
+experiencia y una mayor retención de usuarios.
+Es importante recordar que, al desarrollar un caso 
+similar, se debe conocer muy bien el contexto, para 
+tener toda la información necesaria para construir 
+una solución lo más eficiente posible.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Reflexiones finales
+Cuando te enfrentas a construir o diseñar una 
+experiencia o solución basada en el usuario, 
+¿ya usas alguna de las secuencias revisadas en 
+este recurso?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

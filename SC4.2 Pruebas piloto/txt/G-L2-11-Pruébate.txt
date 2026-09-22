@@ -1,0 +1,60 @@
+# L2 · Pruébate
+Genially 6568c839bd33a8001450edca
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Joel a resolver algunas problemáticas.
+Joel es director comercial de una empresa dedicada al diseño, fabricación y venta de circuitos integrados para la industria de la computación y su nueva tarea es realizar un plan de trabajo que abarque el diseño de soluciones digitales inclusivas, pero antes deberá evaluar su nivel de comprensión acerca de este tema, ¿podrías ayudarlo? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Para comenzar, Joel necesita especificar a qué se refiere el diseño centrado en el usuario. Ayúdalo a seleccionar la respuesta correcta.
+Es un proceso cuyos objetivos es empoderar el uso de materiales adecuados
+Es un proceso iterativo que dirige sus objetivos a los usuarios y sus necesidades
+Proceso que se enfoca en construir soluciones con alto grado de usabilidad
+¡Correcto!
+Recuerda desarrollar escenarios y casos de uso que reflejen las necesidades de las personas para las cuales estás diseñando.
+¡Incorrecto!
+El diseño centrado en el usuario es un proceso iterativo que dirige sus objetivos a los usuarios y sus necesidades.
+Ayuda a Joel a recordar a qué modelo se refiere la siguiente definición: se centra en el diseño inclusivo y presenta conceptos como la co-creación, la empatía y la adaptabilidad para diseñar productos y servicios que sean accesibles para todos. Selecciona la repuesta correcta.
+4 Cs de la Accesibilidad
+Cooper Hewitt
+Además, este modelo se enfoca en los siguientes conceptos clave: co-creación, empatía, diversidad y equidad, flexibilidad y adaptabilidad.
+Se refiere al modelo de Cooper Hewitt que se enfoca en los siguientes conceptos clave: co-creación, empatía, diversidad y equidad, flexibilidad y adaptabilidad.
+De acuerdo con el Modelo de 4 Cs de la Accesibilidad, apoya a Joel a seleccionar a qué concepto se refiere la siguiente definición: se refiere a la capacidad de los usuarios para interactuar y navegar por el producto o servicio.
+Comunicación
+Contenido
+Se refiere a esa capacidad de interacción que se le otorga al usuario.
+Se refiere a la capacidad de los usuarios para interactuar y navegar por el producto o servicio. Esto incluye la facilidad de navegación y la personalización de las preferencias del usuario.
+De acuerdo con las diez consideraciones revisadas en esta lección, apoya a Joel a seleccionar a qué consideración corresponde la siguiente definición: educa a tus equipos de diseño, desarrollo y creación de contenido sobre la importancia de la accesibilidad y la inclusión.
+Genera conciencia en tu equipo de trabajo
+Mejora continua
+Sensibilidad cultural
+Además, generar conciencia en los equipos de trabajo promueve la empatía y mejora la eficacia operativa.
+La definición se refiere a generar conciencia en tu equipo de trabajo. Esto promueve la empatía y mejora la eficacia operativa.
+Dentro del proceso para desarrollar productos y servicios digitales, apoya a Joel a seleccionar a qué paso corresponde esta definición: Define las tecnologías en las que se apoyará el diseño de la propuesta, las bases de datos y los requisitos de infraestructura.
+Plan de escalabilidad y seguridad
+Pruebas de accesibilidad e inclusión
+Planificación técnica y arquitectura
+Recuerda que la arquitectura de datos también describe la estructura (nivel y orden) que presentan los activos de datos físicos y lógicos de una empresa.
+La definición se refiere a la planificación técnica y arquitectura. Recuerda que la arquitectura de datos también describe la estructura (nivel y orden) que presentan los activos de datos físicos y lógicos de una empresa.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

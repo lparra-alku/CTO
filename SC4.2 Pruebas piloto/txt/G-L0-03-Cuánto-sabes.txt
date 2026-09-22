@@ -1,0 +1,66 @@
+# L0 · Cuánto sabes
+Genially 657734b73dfe390014332e28
+
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que ayudes a Claudia a resolver los siguientes cuestionamientos.
+Claudia está ajustando los últimos detalles para implementar su estrategia de transformación digital centrada en sus usuarios, pero antes de comenzar a delegar actividades específicas con su equipo de trabajo, pide tu ayuda para resolver algunas dudas, ¿puedes ayudarla? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿A qué se refiere el enfoque de “estrategia centrada en el usuario/persona”?
+Dejar que el usuario sea el protagonista y avanzar en nuestros objetivos conforme a su experiencia
+Comprender al público objetivo, empatizar con sus necesidades y deseos, solucionar sus problemáticas de manera significativa
+Tomar lo mejor de cada caso de éxito y enfocar nuestros esfuerzos para atender mejor a nuestros usuarios
+Elaborar soluciones que atraigan a más clientes con la finalidad de mejorar la tasa de conversión
+¡Correcto!
+A través de este enfoque se obtienen productos y servicios que satisfacen las expectativas del usuario, deleitan e inspiran lealtad.
+¡Incorrecto!
+Buen intento. El enfoque se refiere a comprender al público objetivo, empatizar con sus necesidades y deseos, así como solucionar sus problemáticas de manera significativa.
+En términos de prototipado (técnicas para el desarrollo de productos y servicios que permiten crear representaciones visuales o funcionales de una idea o concepto), ¿cuál crees que sería la mejor opción tratándose de prototipos funcionales para aplicaciones web o móviles?
+Prototipos rápidos y en serie, utilizando tecnologías de impresión 3D
+Prototipos de código como HTML, CSS o JavaScript
+Prototipos en 3D para crear modelos tridimensionales
+Prototipos de baja fidelidad con materiales como papel o cartulina
+Con estos prototipos se puede ver cómo quedará una aplicación móvil a nivel de diseño y usabilidad.
+Buen intento. Los prototipos de código como HTML, CSS o JavaScript nos permiten ver cómo quedará una aplicación web o móvil a nivel de diseño y usabilidad.
+¿Cuál de las siguientes aseveraciones crees que se acerca más al concepto de “pruebas de accesibilidad e inclusión”?
+Prueba el producto o servicio para comprobar la accesibilidad, asegurándose de que sea utilizable por personas con discapacidad
+Prueba el producto o servicio para asegurar que es funcional y atractivo para los usuarios
+Prueba el producto o servicio en función de los comentarios de los usuarios y los requisitos cambiantes
+Prueba el producto o servicio con base en los errores detectados por calidad
+Una vez que se realizan estas pruebas se realizan los ajustes para garantizar la inclusión.
+Buen intento. Las pruebas de accesibilidad e inclusión se refieren a probar el producto o servicio para comprobar el cumplimiento de la accesibilidad, asegurándose de que sea utilizable por personas con discapacidades.
+¿Cuál crees que sea el papel que desempeñan las analíticas de datos en la solución propuesta por Claudia y su equipo?
+Contar con personal capacitado que atienda adecuadamente a los clientes
+Optimizar la gestión de inventarios y anticipar tendencias de demanda
+Mejorar la calidad de los productos y servicios
+Tener mayor conversión en el canal digital
+Usamos la analítica de datos para medir el éxito de las soluciones de diseño creadas.
+Buen intento. La analítica de datos ayuda a optimizar la gestión de inventarios y anticipar tendencias de demanda.
+¿Por qué es importante medir la efectividad de nuestras soluciones propuestas en algún plan de transformación digital?
+Porque así cuantificamos el impacto de nuestro diseño centrado en el usuario
+Porque esta medición nos dice cómo se comportan otros competidores
+Porque es un requisito de alguna NORMA o Indicador para ser una gran empresa
+Porque solo así podemos crear mejores productos y servicios
+Además, medir la efectividad de nuestras soluciones nos acerca a ofrecer experiencias de usuario excepcionales.
+Buen intento. Medir la efectividad de nuestras soluciones nos ayuda a cuantificar el impacto de nuestro diseño centrado en el usuario.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

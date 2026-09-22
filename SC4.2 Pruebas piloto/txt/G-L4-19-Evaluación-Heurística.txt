@@ -1,0 +1,33 @@
+# L4 · Evaluación Heurística
+Genially 657241a4b7af01001570a160
+
+Evaluación
+Heurística
+Medir la efectividad de las soluciones de diseño centradas en el usuario es fundamental para saber si nuestro producto o servicio cumple con los objetivos establecidos y satisface las necesidades de los usuarios.
+Evaluación Heurística
+Esta técnica implica que expertos en usabilidad revisen la interfaz de usuario en busca de problemas de diseño. Siguen una lista de heurísticas o principios de usabilidad y marcan las deficiencias. Cuanto menor sea el número de problemas identificados, mejor será la solución de diseño. Esta técnica fue desarrollada por Jakob Nielsen en 1990. Veamos en el siguiente esquema los detalles de esta técnica.
+Correspondencia entre el sistema y el mundo real
+Consistencia y estándares
+Control y libertad del usuario
+Visibilidad del estado del sistema
+Prevención de errores
+Adaptado de La evaluación heurística (Imagen) por Fang (2018).
+Reconocimiento en lugar de recuerdo
+Diseño estético y minimalista
+Ayuda y documentación
+Flexibilidad y eficiencia de uso
+Ayudar a los usuarios a reconocer, diagnosticar y recuperar de los errores
+Gracias por tu respuesta
+¿Te parece que en tu organización, emprendimiento o empresa podrían aplicar la evaluación heurística?, ¿por qué?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Haz que la ayuda y la documentación necesarias sean fáciles de buscar y encontrar.
+Haz que el sistema sea eficiente para diferentes niveles de experiencia a través de atajos, herramientas avanzadas y acciones frecuentes.
+No muestres información irrelevante o rara vez necesaria, ya que cada elemento adicional disminuye la relevancia de los demás.
+Expresar mensajes de error en lenguaje sencillo (sin códigos) para indicar el problema y sugerir soluciones.
+Evita que se produzcan problemas: elimina las condiciones propensas a errores o verifíquelas antes de que los usuarios se comprometan a realizar la acción.
+Haz visibles los objetos, acciones y opciones en el momento adecuado para minimizar la carga de memoria de los usuarios y facilitar las decisiones.
+Facilidad para deshacer, rehacer y salir de un estado no deseado o causado por errores.
+Respeta la estructura de la plataforma a través de palabras, situaciones y acciones consistentes.
+Utiliza palabras, conceptos y oraciones que resulten familiares para los usuarios, en un orden natural y lógico.
+Dar a los usuarios retroalimentación adecuada sobre lo que está sucediendo.

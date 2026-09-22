@@ -1,0 +1,61 @@
+# L5 · Pruébate
+Genially 6578d0bae757090013700466
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Bruno a resolver algunas problemáticas.
+Bruno es un colaborador de una empresa inmobiliaria. Recién tuvo una capacitación acerca de estrategias digitales centradas en el usuario y necesita estudiar más a fondo el tema para obtener la mejor calificación, ¿puedes ayudarlo? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+A qué tendencia corresponde la siguiente aseveración: Las empresas están buscando reducir el impacto ambiental de sus productos y servicios, y los usuarios son cada vez más conscientes de las implicaciones medioambientales de sus elecciones.
+Diseño de voz
+Inteligencia Artificial
+Diseño sostenible
+¡Correcto!
+La sostenibilidad es una consideración importante en el diseño centrado en el usuario.
+¡Incorrecto!
+La respuesta correcta es: diseño sostenible. La adopción de esta tendencia se incorpora desde la concepción de la solución centrada en el usuario.
+Ayuda a Bruno a recordar cuál es el concepto de 'experiencia de usuario multimodal'. Selecciona la repuesta correcta.
+Cuando las empresas deciden estratégicamente la plataforma digital más conveniente para prestar sus servicios
+Trabajar en interfaces de usuario que combinen diferentes elementos, contenidos y medios de interacción
+Cuando un usuario usa diferentes dispositivos para interactuar con mis servicios
+Además, es necesario modular y combinar la tecnología para establecer el mejor canal comunicativo para cada caso de uso específico.
+La respuesta correcta es: trabajar en interfaces de usuario que combinen diferentes elementos, contenidos y medios de interacción. Se refiere a que se está trabajando en interfaces de usuario que combinen diferentes elementos, contenidos y medios de interacción.
+De acuerdo con el ejemplo “pasos para la transformación digital en una universidad”, a qué paso corresponde la siguiente actividad: Realizar encuestas y grupos focales con estudiantes para comprender sus expectativas en cuanto a la experiencia de aprendizaje digital.
+Investigación de estudiantes
+Diseño de contenido interactivo
+Seguimiento y mejora continua
+Además, en este primer paso se recopilan datos sobre las tareas más comunes que los usuarios realizan en la aplicación y las áreas donde experimentan dificultades.
+La respuesta correcta es: investigación de estudiantes. El objetivo de este primer paso es comprender sus necesidades, problemas y expectativas..
+De acuerdo con el ejemplo “creación de un portal de atención al cliente para una compañía de telecomunicaciones”, a qué paso corresponde la actividad: Integración de opciones de autoayuda con consideraciones de interacción para personas con diferentes necesidades de usabilidad.
+Lanzamiento y promoción
+Implementación de funcionalidades clave
+Diseño de contenido y navegación
+Además, es necesario incluir funciones como búsqueda en tiempo real, chat en vivo, una sección de preguntas frecuentes.
+La respuesta correcta es: implementación de funcionalidades clave. Recuerda que es necesario incluir en tu diseño funciones como búsqueda en tiempo real, chat en vivo, una sección de preguntas frecuentes.
+Son tres elementos clave en el proceso de incorporar una estrategia de diseño centrada en el usuario a un plan de transformación digital.
+Colaboración interdisciplinaria, recopilación de datos significativos e iteración continua
+Disuasión, regulación y cumplimiento
+Registro, disuasión y autenticación
+Recuerda que algunos de los propósitos de un plan de transformación digital es lograr ventajas competitivas y un crecimiento sostenible.
+La respuesta correcta es: colaboración interdisciplinaria, recopilación de datos significativos e iteración continua. Lo anterior te acercara a lograr ventajas competitivas.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

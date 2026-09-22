@@ -1,0 +1,278 @@
+
+--- p1 ---
+Parte 1
+Cómo diseñar 
+soluciones digitales 
+inclusivas
+El desarrollo de productos y servicios digitales es un 
+proceso multifacético que involucra varias etapas, 
+desde la idea hasta la implementación. 
+
+--- p2 ---
+La tecnología hizo posible las 
+grandes poblaciones; ahora las 
+grandes poblaciones hacen que 
+la tecnología sea indispensable. 
+José Krutch
+“
+”
+Ten siempre presente que el contexto y las características del mercado 
+donde opera o se lanzará algún producto o servicio digital tienen una 
+fuerte influencia en su desarrollo e implementación.  
+Te compartimos los elementos y consideraciones de un proceso 
+generalizado para desarrollar productos y servicios digitales.
+Generación y conceptualización de ideas
+Lo primero será identificar de manera clara y concreta un 
+problema o una necesidad en el mercado, incluso puede aplicar 
+a la optimización de algo que ya existe. Recuerda que, si no se 
+identifica correctamente el problema o necesidad, no habrá una 
+directriz clara para el desarrollo y es muy probable que lo que 
+propongamos no tenga efecto de alto impacto en el mercado o 
+no cumpla con los objetivos esperados.  
+Consejos: 
+•
+Haz una lluvia de ideas para posibles soluciones.
+•
+Realiza investigaciones de mercado y estudios de viabilidad 
+para validar el concepto.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Investigación de mercado y análisis de 
+usuarios
+Es común pensar que una investigación de 
+mercados es solo un elemento de recopilación de 
+información, en realidad este estudio debería 
+proveernos de información confiable que nos permita 
+desarrollar propuestas aterrizadas y de impacto para la 
+audiencia a la que van dirigidas. 
+Consejos:
+•
+Estudia desde diferentes perspectivas y comprende al público 
+objetivo, sus necesidades, preferencias, conductas, hábitos y 
+puntos de dolor.
+•
+Es importante analizar competidores y tendencias de la 
+industria para identificar oportunidades.
+•
+Crea user personas y escenarios para guiar el desarrollo.
+Definir el alcance y los objetivos 
+del proyecto
+Describe claramente los objetivos, el 
+alcance y las limitaciones del proyecto. 
+Sin esto es muy fácil que las propuestas 
+pierdan de vista el valor agregado que 
+pueden dar al usuario. 
+Establece objetivos tangibles, medibles 
+y evaluables (puedes usar la 
+metodología SMART), no olvides 
+declarar los indicadores clave de 
+rendimiento (KPI) para el proyecto. Con 
+ellos podrás medir de manera clara el 
+impacto de lo que se está proponiendo. 
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Diseño UX/UI: (experiencia del 
+usuario e interfase del usuario)
+Crea wireframes (marcos de trabajo) y 
+prototipos para visualizar todos los elementos de 
+la propuesta y desde luego, tratándose de un 
+elemento digital, será de suma importancia el cuidadoso 
+diseño de la interfaz de usuario, que no es otra cosa más que la 
+manera y elementos con los que interactúan los usuarios en 
+nuestra plataforma. Es importante poner atención en el 
+desarrollo de la arquitectura de la información y los flujos de 
+usuarios. 
+Consejos:
+•
+Diseña la interfaz de usuario (UI) con énfasis en la usabilidad 
+(facilidad de ser usado).
+•
+Entiende sus contenidos y su diseño de navegación o 
+interacción, así como la estética.
+Planificación Técnica y Arquitectura
+Define las tecnologías en las que se apoyará el diseño de la 
+propuesta, las bases de datos y los requisitos de infraestructura 
+para que el elemento que estamos desarrollando sea eficiente, 
+ágil y fácil de usar. Esto se refleja en la declaración de la 
+arquitectura y estructuras de datos del proyecto, para ello toma 
+en cuenta que: 
+•
+La arquitectura de datos también describe la estructura (nivel 
+y orden) que presentan los activos de datos físicos y lógicos 
+de una empresa, así como los recursos de hardware que 
+gestionan dichos datos. 
+•
+La arquitectura de datos está configurada para traducir los 
+requisitos comerciales en requisitos de datos y sistemas, y 
+también muestra cómo administrarlos durante todo el ciclo 
+de vida de los datos. 
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Aquí te mostramos un par de ejemplos de la arquitectura 
+según Microsoft:
+Adaptado de Microsoft Databases (Esquema). 
+https://learn.microsoft.com/es-es/azure/architecture/data-guide/
+Fuente de 
+datos 
+Almacenamiento de 
+datos 
+Recepción de 
+mensajes en tiempo 
+real 
+Procesamiento 
+por lotes 
+Aprendizaje 
+automático 
+Almacén de 
+datos 
+analíticos 
+Análisis e 
+informes 
+Organización 
+Procesamiento 
+de flujo 
+OLTP
+Almacén de datos 
+Análisis 
+Informar 
+ETL
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Garantía de calidad y pruebas:
+•
+Realiza pruebas funcionales para identificar y corregir 
+errores.
+•
+Realiza pruebas de usabilidad y pruebas de aceptación del 
+usuario (UAT).
+•
+Prueba el rendimiento, la seguridad y la compatibilidad con 
+varios dispositivos y plataformas.
+Plan de escalabilidad y seguridad
+Ten presente que las necesidades que tendrá 
+que cubrir nuestro producto o servicio crecerán 
+e incluso cambiarán. Por lo que es importante que 
+nuestro diseño tenga una estructura escalable, es 
+decir que puede agrandarse y modificarse conforme lo 
+necesite el mercado y la audiencia, dicho de otra forma, que 
+pueda evolucionar.
+Desarrollo de la propuesta:
+•
+El primer paso es escribir el código que dará estructura a la 
+propuesta de solución digital y desarrollar el software o 
+aplicación según el diseño y especificaciones técnicas 
+planteadas en la arquitectura.
+•
+Designa e implementa características y funcionalidades de 
+forma iterativa.
+•
+Realiza revisiones y pruebas periódicas del código para 
+mantener la calidad del código.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Aplicación de Pruebas beta:
+Como parte del proceso de desarrollo se deberá lanzar una 
+versión beta del producto para un grupo selecto de usuarios con 
+el objetivo de recibir comentarios. Recopila los comentarios de 
+los usuarios para realizar mejoras.
+Desarrollo iterativo:
+Actualiza y mejora continuamente el producto en función de los 
+comentarios de los usuarios y los requisitos cambiantes.
+Recuerda realizar pruebas periódicas y garantizar la calidad. 
+Esto es fundamental para que se mantenga el éxito de nuestro 
+producto, servicio o solución propuesta.
+Creación de contenido:
+Desarrolla y organiza contenido (texto, 
+imágenes, videos y otros medios) que asegure la 
+portabilidad y disponibilidad del desarrollo en 
+diferentes dispositivos. Asegúrate de que el 
+contenido se alinee con los objetivos del proyecto y sea 
+accesible.
+Documentación y soporte para el usuario:
+•
+Crea guías de usuario, documentación y recursos de soporte.
+•
+Proporciona canales de formación y soporte a los usuarios.
+Pruebas de accesibilidad e inclusión:
+Prueba el producto o servicio para comprobar el cumplimiento 
+de la accesibilidad, asegurándose de que sea utilizable por 
+personas con discapacidades. De ser necesario, deberás hacer 
+los ajustes para garantizar la inclusión.
+9
+11
+12
+10
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+UAT (User Acceptance Testing) o Pruebas de 
+Aceptación del Usuario 
+Realiza la UAT final para garantizar que el producto cumpla con 
+los objetivos y los KPI del proyecto.
+•
+Verifica que todas las funciones operen como se esperaba.
+Seguridad y cumplimiento:
+•
+Asegúrate de que el producto o servicio 
+cumpla con las regulaciones y estándares 
+pertinentes dependiendo de la zona o zonas 
+geográficas donde será implementado, recuerda 
+que las políticas, estándares y usos son diferentes en 
+cada región. 
+•
+Realiza auditorías de seguridad e 
+implementa las mejores prácticas.
+•
+Optimiza el rendimiento de lo 
+desarrollado.
+•
+Optimiza el producto o servicio para 
+lograr velocidad, capacidad de 
+respuesta y eficiencia de recursos, es 
+decir, crear la mejor versión con los 
+recursos con los que se cuentan.
+•
+Aborda los problemas de rendimiento 
+y los cuellos de botella que se 
+presenten. 
+Lo anterior se hace desde las pruebas 
+Beta, además de las pruebas de 
+aceptación del usuario y de manera 
+continua después de su implementación como parte de un 
+proceso de mejora continua (análisis y optimización). 
+13
+14
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p9 ---
+Reflexiones finales
+Piensa en tu empresa u organización y con base en la información 
+que has revisado hasta el momento, responde a la siguiente 
+pregunta: ¿Cómo puedes asegurarte de que las soluciones digitales 
+que estás por diseñar aborden las necesidades y desafíos específicos 
+de una amplia gama de usuarios, incluyendo aquellos con diversas 
+habilidades, antecedentes culturales y niveles de experiencia 
+tecnológica?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+9
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

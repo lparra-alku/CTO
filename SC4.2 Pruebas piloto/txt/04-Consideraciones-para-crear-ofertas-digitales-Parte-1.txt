@@ -1,0 +1,145 @@
+
+--- p1 ---
+Crear ofertas digitales requiere de colaboración, planificación y empatía 
+con tus usuarios. Conoce las primeras consideraciones para crear ofertas 
+digitales inclusivas.
+Parte 1 
+Consideraciones para
+crear ofertas digitales
+
+--- p2 ---
+Ya vimos la estructura general, el proceso, los pasos y los elementos que 
+podemos seguir para esta construcción de productos y servicios digitales 
+enfocados en la accesibilidad e inclusión. Para complementar, te 
+recomendamos tomar en cuenta las siguientes consideraciones, con las que 
+de manera muy sencilla y concreta se pueden crear ofertas digitales que 
+sean acogedoras, sencillas y utilizables para una audiencia amplia y 
+diversa. 
+Obtén más información sobre los estándares de 
+accesibilidad:
+Comienza por familiarizarte con los estándares de accesibilidad relevantes, 
+como las Pautas de Accesibilidad al Contenido Web o WCAG por sus siglas 
+en inglés (Web Content Accessibility Guidelines), los estándares de la 
+Sección 508 en los Estados Unidos, así como todos los estándares y 
+regulaciones que apliquen en el mercado donde se espera lanzar estas 
+propuestas. Estas directrices proporcionan una base sólida para garantizar 
+la accesibilidad digital. Recuerda que nuestra propuesta puede ser de lo 
+mejor y tener un gran valor agregado, pero si no cumple con estas 
+regulaciones su impacto e implementación se verán seriamente afectados. 
+¿Cuál es el truco mágico que nos 
+hace inteligentes? El truco es que no 
+hay truco. El poder de la inteligencia 
+emana de nuestra vasta diversidad, 
+no de un único y perfecto principio.
+Marvin Minsky
+“
+”
+1
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Genera conciencia en tu equipo:
+•
+Educa a tus equipos de diseño, desarrollo y creación de contenido sobre 
+la importancia de la accesibilidad y la inclusión. 
+•
+Además, generar conciencia en los equipos de trabajo promueve la 
+empatía hacia otros contextos y necesidades, mejora la eficacia 
+operativa, asimismo nutre un entorno laboral saludable y propicio para 
+el crecimiento tanto individual como colectivo.
+2
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Diseña tu propuesta para todas las plataformas posibles:
+Asegúrate de que tus productos y servicios digitales sean accesibles en 
+varias plataformas, incluidas la web, el móvil y el escritorio.
+4
+Diseño centrado en el usuario:
+Ya recomendamos que el proceso comience con una investigación de 
+usuarios para comprender las necesidades y desafíos de tu público objetivo 
+y queremos que tengas siempre presente el concepto de “Diseño centrado 
+en el usuario”, como lo señala Pursell (2023) “El diseño centrado en el 
+usuario es un proceso iterativo que dirige sus objetivos a los usuarios y sus 
+necesidades. Sus creadores se apoyan en una variedad de técnicas de 
+investigación y diseño para crear productos altamente utilizables y 
+accesibles.”
+Consejos: 
+•
+Incluye personas con discapacidades y antecedentes 
+diversos en tu investigación de usuarios y pruebas de 
+usabilidad.
+•
+Construye talleres de diseño inclusivo:
+Realiza talleres o sesiones de capacitación con tu 
+equipo para promover principios de diseño 
+inclusivo y crear conciencia sobre la 
+accesibilidad.
+•
+Crea user personas que representen diferentes 
+segmentos de tu audiencia, incluidos aquellos 
+con discapacidades y orígenes diversos. 
+•
+Desarrolla escenarios y casos de uso que 
+reflejen las necesidades de estas personas.
+₃
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Diseño de interfaz de usuario (UI) accesible:
+•
+Prioriza la simplicidad y la claridad en el diseño de tu interfaz de 
+usuario, facilitando la navegación.
+•
+Utiliza etiquetas coherentes y claras para botones, enlaces y elementos 
+interactivos.
+•
+Asegúrate de que los elementos interactivos sean fácilmente 
+distinguibles y utilizables.
+•
+Incluye texto alternativo para imágenes y contenido multimedia para 
+proporcionar descripciones concisas para los usuarios que no pueden 
+ver ni escuchar el contenido.
+•
+Verifica que todos los elementos interactivos sean operables mediante 
+un teclado. La accesibilidad del teclado es esencial para los usuarios que 
+no pueden utilizar un mouse.
+•
+Implementa funciones que permitan a los usuarios interactuar con sus 
+productos y servicios digitales utilizando tecnologías de texto a voz y de 
+voz a texto.
+•
+Proporciona subtítulos, subtítulos y transcripciones para contenido de 
+video y audio, haciéndolo accesible para usuarios con discapacidad 
+auditiva.
+•
+Asegúrate de que tus opciones de color y relaciones de contraste 
+cumplan con los estándares de accesibilidad para adaptarse a los 
+usuarios con discapacidad visual.
+•
+Diseña para lograr capacidad de respuesta, garantizando que tus 
+productos y servicios digitales se adapten a diferentes tamaños y 
+orientaciones de pantalla.
+•
+Prueba tus productos y servicios digitales con tecnologías de asistencia, 
+como lectores de pantalla y software de reconocimiento de voz, para 
+identificar y abordar problemas de compatibilidad.
+5
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Reflexiones
+Piensa en tu empresa u organización y con base en la 
+información que has revisado hasta el momento, 
+responde a la siguiente pregunta: ¿Qué tipo de 
+implementaciones has aplicado en tus productos o 
+servicios que te permitan ser una empresa inclusiva?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

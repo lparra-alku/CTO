@@ -1,0 +1,165 @@
+
+Reto | Diseño de un plan de transformación digital
+
+
+
+Entregable final del reto
+Documento editable por el participante
+
+
+Nombre del participante:
+
+Indicaciones:
+
+Guarda este archivo de la siguiente manera: NombreApellido_reto_C4SC2
+Una vez terminado el reto deberás de subirlo a la plataforma.
+
+
+Duración: 2.5 h
+
+Objetivo: Diseñar y construir el desarrollo de una solución centrada en la persona a través de metodologías y herramientas vistas en este módulo. 
+
+
+Introducción:
+
+No estamos en una era de cambios, sino en un cambio de era caracterizado por la digitalización de prácticamente todo lo que nos rodea. Bernardo Crespo.
+
+La transformación digital ha llegado para revolucionar la forma en que las organizaciones operan, interactúan con sus clientes y se mantienen competitivas en un mundo cada vez más digitalizado. En un entorno empresarial en constante evolución, la capacidad de adaptarse y abrazar la innovación tecnológica se ha convertido en un imperativo para el éxito a largo plazo.
+Nuestro desafío de transformación digital es una invitación a las organizaciones de todos los sectores a embarcarse en un viaje de cambio radical. A través de este desafío, buscamos identificar soluciones creativas y estrategias innovadoras que aprovechen al máximo la tecnología, la analítica de datos, la automatización y la inteligencia artificial para impulsar la eficiencia, mejorar la experiencia del cliente y desbloquear nuevos modelos de negocio.
+Este reto no solo representa una oportunidad para destacar y compartir mejores prácticas, sino también para forjar un futuro empresarial más ágil, resistente y orientado hacia el mañana digital. Únase a nosotros en este emocionante viaje de transformación, y juntos, construyamos un mañana más brillante y conectado.
+
+
+
+
+Instrucciones:
+
+Selecciona cualquier problemática que consideres relevante y construye una propuesta de solución para ella. Puede ser de tu empresa, emprendimiento u organización. Completa los pasos siguientes. 
+
+Pasos:
+
+Construye la explicación de la situación actual, así como de la solución que quieres diseñar (habla del entorno, sus variables importantes, factores externos que le afectan, etcétera). Puedes utilizar una tabla comparativa.
+
+Solución actual
+Solución a diseñar
+
+
+
+
+
+
+
+
+
+
+
+
+Para la solución que quieres diseñar, establece un objetivo claro, concreto, específico, medible, tangible y evaluable. 
+
+Objetivo:
+
+
+
+Construye un user persona del usuario al que va dirigida esta solución que quieres construir. Puedes usar la plantilla que propone Hubsport. https://www.hubspot.com/make-my-persona
+
+User persona:
+
+
+Selecciona una metodología de gestión de proyectos.  OODA Loop o cualquier framework. Señala cuál es y descríbela. Explica el desarrollo de la propuesta y señala las tecnologías que aplicarás. 
+
+
+Metodología
+Desarrollo de la propuesta
+
+
+
+
+
+
+Diseña un diagrama que explique los flujos de trabajo. Además, pregúntate: ¿cómo probaría su accesibilidad e inclusión? Describe los detalles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Escalabilidad y crecimiento. Describe cómo garantizar la escalabilidad del proyecto.
+
+
+
+
+
+
+
+
+
+Marketing y promoción.
+¿Qué estrategias de promoción usarías para dar a conocer esta solución o innovación? Describe los detalles. 
+
+
+
+
+
+
+Usa cualquiera de las herramientas vistas, y señala cómo medirías el desempeño de la solución creada.
+
+
+
+
+
+
+
+
+ 
+Qué indicadores clave de desempeño propondrías para medir el desempeño de la solución creada.
+
+
+
+
+
+
+
+
+
+Usando cualquiera de los elementos vistos, ¿cuáles son los elementos de esta propuesta que se conecta con el plan estratégico de tu organización?
+
+
+
+
+
+
+
+
+
+Con los elementos vistos en el tema Measuring User-Centric Design Success, señala los riesgos que identificas para esta propuesta. 
+
+
+
+
+
+
+
+
+
+
+Al finalizar el reto, conviértelo en archivo PDF y súbelo a Plataforma como evidencia dentro de la Lección 9, presionando el botón “Añadir publicación”. 
+ 
+Importante: El tiempo de evaluación y retroalimentación, por parte de nuestro experto acreditado, es de 2 (dos) días hábiles a partir de la fecha y hora de recepción. Fines de semana y días de asueto oficiales en México no son considerados hábiles
+
+
+
+
+
+

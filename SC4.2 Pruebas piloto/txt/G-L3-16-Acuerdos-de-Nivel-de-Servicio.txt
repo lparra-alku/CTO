@@ -1,0 +1,64 @@
+# L3 · Acuerdos de Nivel de Servicio
+Genially 657735403dfe39001433871b
+
+Acuerdos de
+nivel de Servicio
+Para complementar las estructuras vistas pensando en el equipo interno y en el usuario, es importante considerar los SLA (Service Level Agreement) o en español los Acuerdos de Nivel de Servicio. Aquí te explicamos su uso.
+Según Amazon web services, un SLA es un contrato de proveedor de subcontratación y tecnología que define el nivel de servicio que dicho proveedor se compromete a brindar al cliente. Describe métricas como tiempo de actividad, tiempo de entrega, tiempo de respuesta y tiempo de resolución. Un SLA también específica el curso de acción en caso de que no se cumplan los requisitos, como soporte adicional o aplicación de descuentos al precio. Por lo general, los SLA se acuerdan entre un cliente y un proveedor de servicios, aunque las unidades comerciales de una misma compañía también pueden firmar SLA entre ellas.
+Agreement
+SLA basado en el servicio
+SLA basado en el cliente
+SLA multinivel
+¿Qué tipos de acuerdos de nivel de servicio existen?
+Este tipo de acuerdo se divide en varios niveles que integran varias condiciones en el mismo sistema. Este planteamiento es apropiado para los proveedores que tienen muchos clientes que utilizan su producto en diferentes gamas de precios o niveles de servicio.
+Un SLA basado en el servicio es un contrato que detalla un servicio idéntico que se ofrece a varios clientes.
+Un SLA basado en el cliente es un acuerdo que cubre todos los servicios de un cliente.
+¿Cuáles son los elementos comunes de un acuerdo de nivel de servicio?
+Hay una serie de elementos comunes que se pueden incluir en un acuerdo de nivel de servicio (SLA).
+Información general del acuerdo
+Descripción de los servicios
+La información general de un acuerdo incluye las fechas de inicio y fin de un SLA, detalles de las partes implicadas y una descripción general de los servicios incluidos.
+Detalla información como plazos de entrega, tecnologías y aplicaciones, calendarios de mantenimiento, y procesos y procedimientos.
+Estándares de seguridad
+Un SLO (Service Level Objective) o en español Objetivo del Nivel de servicio es un acuerdo dentro de un SLA sobre una métrica específica, como el tiempo de respuesta o el tiempo de actividad.
+Tanto el proveedor de servicios como el cliente utilizan normas de seguridad para demostrar las medidas y protocolos de seguridad implantados.
+Proceso de recuperación de desastres
+Un SLA suele detallar el proceso de recuperación de desastres y describir los mecanismos y procesos que se deben seguir en caso de fallo del servicio del proveedor.
+Sanciones
+Acuerdo de seguimiento e información de los servicios
+Esta sección estipula con claridad las sanciones, económicas o de otro tipo, en las que incurre cada parte si no cumple sus obligaciones en materia de SLA.
+En esta sección, ambas partes acuerdan los parámetros de rendimiento. La mayoría de los clientes siguen de cerca el rendimiento de sus servicios. Una referencia razonable para este seguimiento podría ser el antes y el después del uso de un nuevo proveedor de servicios.
+Procedimientos de rescisión
+Puede llegar el momento en que desee poner fin a su acuerdo.
+Procesos de revisión y modificación
+Es importante que revise periódicamente su acuerdo de nivel de servicio y los indicadores clave de rendimiento (KPI, por sus siglas en inglés) que utiliza para evaluar el rendimiento.
+El acuerdo sobre cada uno de los puntos contenidos en el documento lo revisan y firman las personas autorizadas y los interesados de ambas partes. Mientras el acuerdo esté en vigor, ambas partes están obligadas a cumplirlo.
+El siguiente esquema muestra los tipos y algunos ejemplos de SLA:
+basado en el cliente
+de servicio
+Continúa con la lectura para que conozcas un ejemplo de estrategia de diseño centrado en el usuario.
+multinivel
+ServiceTonic. (2023). Tipos de SLA [Esquema]. Madrid. https://www.servicetonic.com/es/service-desk/que-es-un-sla/
+Del concepto a la acción: Estrategia de diseño centrado en el usuario
+Contexto : Una empresa dedicada a la reservación de alojamientos enfrentaba desafíos en la experiencia de usuario de su plataforma, especialmente en el proceso de reserva, que resultaba complejo para algunos perfiles de usuarios. Además, el volumen de tickets de soporte era elevado, lo que indicaba fricciones en la navegación y uso del sitio.
+Estrategia aplicada : Rediseñaron su plataforma utilizando los principios del Diseño Centrado en el Usuario (UCD) . Esto incluyó: Investigación profunda de usuarios (UX Research). Prototipado iterativo con herramientas como Figma. Pruebas de usabilidad en distintas fases del desarrollo. Personalización de la experiencia según ubicación y preferencias del usuario. Resultados obtenidos : Incremento del 30 % en la tasa de conversión . Reducción del 50 % en tickets de soporte. Mejora significativa en la satisfacción del usuario.
+Claves del éxito : Simplificación del proceso de reserva. Diseño intuitivo y accessible. Personalización basada en datos de comportamiento. 1. Objetivo del ejemplo Mostrar cómo el uso de prototipado de baja fidelidad y pruebas de usabilidad permitió validar su modelo de negocio y experiencia de usuario antes de invertir en desarrollo tecnológico, logrando una solución escalable y centrada en el cliente.
+2. Problemática común en las organizaciones Muchas organizaciones lanzan productos o servicios sin validar previamente si resuelven una necesidad real del usuario. Esto puede llevar a pérdidas económicas, baja adopción y necesidad de rediseño. La falta de pruebas tempranas con usuarios reales es una falla común en procesos de innovación.
+3. Solución desde la información desarrollada en la lección En el módulo se enseña que el prototipado de baja fidelidad permite representar ideas de forma rápida y económica, mientras que las pruebas de usabilidad ayudan a validar la experiencia del usuario antes de construir el producto final. La empresa dedicada a la reservación de alojamientos aplicó esta lógica: sus fundadores crearon un sitio web básico con fotos de su propio departamento y lo ofrecieron como alojamiento temporal. Este prototipo les permitió validar si las personas estaban dispuestas a pagar por hospedarse en casas de desconocidos. Al observar cómo los usuarios interactuaban con la plataforma y qué dudas tenían, ajustaron su propuesta antes de escalar. Apoyo visual sugerido : Una imagen comparativa entre el primer prototipo (una landing page simple) y la versión actual de la plataforma.
+4. Errores comunes que deben evitarse Lanzar productos sin validar con usuarios reales. Confundir prototipado con producto final. No documentar la retroalimentación obtenida en pruebas. Elegir técnicas de prototipado que no se ajustan al contexto o recursos disponibles. Ignorar la experiencia emocional del usuario durante las pruebas. 5. Puntos clave Este caso demuestra que prototipar no es solo diseñar, sino validar. Usar prototipos simples y pruebas de usabilidad permite aprender rápido, ajustar la propuesta y evitar errores costosos. Las organizaciones que integran estas prácticas en sus procesos de innovación aumentan sus probabilidades de éxito y construyen soluciones más relevantes para sus usuarios.
+Gracias por tu respuesta
+¿Actualmente tu empresa u organización utiliza los SLA´s? De no hacerlo, ¿para qué solución, diseño o proceso podría tu organización aplicar los SLA´s?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Esta sección también incluye información sobre el proceso de reinicio, incluidos los tiempos y las alertas.
+Consectetur adipiscing elit
+Esta sección también suele incluir acuerdos de no divulgación (NDA, por sus siglas en inglés) y acuerdos de no captación de empleados.
+Cualquier cambio a gran escala en sus requisitos debe constar en el acuerdo.
+Ejemplo: puede determinar un tiempo limite de resolución de incidencias tipo “petición de presupuesto” y a la vez priorizar las que vengan del área de finanzas o de un cliente externo.
+Es importante considerar estos elementos al momento de delimitar los derechos, compromisos, responsabilidades entre usuario y proveedor del servicio o producto digital.
+Por ejemplo, si un proveedor de servicios tuviera varios clientes que utilizaran su servicio de asistencia virtual, se emitiría el mismo SLA basado en el servicio para todos los clientes.
+Además de exigir un plazo de preaviso a cualquiera de las partes, el SLA también establece con claridad las circunstancias que permiten su rescisión o expiración.
+Ambas partes acuerdan unos parámetros clave de rendimiento del servicio respaldados por datos.
+Bibliografía Gomez, M. (30 de mayo de 2025). Diseño Web Centrado en el Usuario – Metodologías y Casos de Éxito . MAE DIGITAL. Recuperado el 19 de noviembre de 2025 de: https://maedigital.com.co/diseno-web-centrado-en-el-usuario/ Nota : El enlace a la página web incluido en este apartado fue consultado y verificado por última vez el 19 de noviembre del 2025 y su disponibilidad depende del autor.
+Ejemplo: los servicios premium, estándar, los de tipo incidencias y tipo consulta o cualquier distinción propia entre servicios.
+Ejemplo: la persona que dirige el área Comercial puede abrir peticiones creando tickets que apliquen el SLA estándar para el área o un SLA más restrictivo para el área de Dirección de negocio o un SLA de un servicio especifico dentro de su área como proveedores.​

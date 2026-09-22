@@ -1,0 +1,22 @@
+# L2 · Consideraciones para crear ofertas digitales Parte 2
+Genially 6568c8251adb870014b2e669
+
+Consideraciones para crear ofertas digitales
+Descubre la segunda parte de las consideraciones para crear ofertas digitales inclusivas.
+11. Promover la inclusión y la diversidad:
+9. Documentación y soporte
+10. Declaraciones de accesibilidad
+Al integrar estos principios de accesibilidad e inclusión en tu proceso de desarrollo de productos y servicios digitales, puedes crear ofertas que sean eficientes, acogedoras y utilizables para una audiencia amplia, diversa y exigente, garantizando así que tus productos digitales sean accesibles e inclusivos para todos los usuarios.
+Gracias por tu respuesta
+¿Qué otro elemento consideras relevante agregar para que tus productos digitales sean accesibles e inclusivos para todos los usuarios?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Publica una declaración de accesibilidad en tu sitio web o dentro de tus productos y servicios digitales para informar a los usuarios sobre tu compromiso con la accesibilidad, el cumplimiento de los estándares y la información de contacto para consultas relacionadas con la accesibilidad.
+Crea documentación clara y recursos de soporte que expliquen cómo los usuarios pueden personalizar tus productos y servicios digitales para satisfacer sus necesidades individuales. Este es un punto en el cual muchas empresas que desarrolladoras fallan o no le ponen el interés adecuado lo que no solo afecta la experiencia del cliente sino su percepción de la marca o empresa. El cubrir cuidadosamente esta consideración nos da por sí misma una ventaja comparativa.
+Fomenta una cultura empresarial que valore la inclusión y la diversidad, tanto en tus equipos de desarrollo de productos como en tus esfuerzos de marketing y divulgación.
+6. Sensibilidad cultural
+Ten en cuenta las diferencias culturales y regionales en tus diseños, contenido y experiencia de usuario. Evita prejuicios y estereotipos culturales.
+8. Mejora continua
+Comprometerse a construir un ciclo constante y bien definido en el tiempo de pruebas continuas, recopilación de comentarios y mejoras para garantizar la accesibilidad y la inclusión continuas.
+7. Mecanismos de retroalimentación
+Proporciona mecanismos de retroalimentación accesibles y fáciles de usar que permitan a los usuarios informar problemas de accesibilidad y brindar sugerencias para mejorar.

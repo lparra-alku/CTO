@@ -1,0 +1,66 @@
+
+--- p1 ---
+Pruebas piloto de estrategias
+centradas en la persona
+¿Qué vas a aprender?  
+Los principios, metodologías y 
+herramientas que permiten a las 
+empresas implementar con éxito 
+una estrategia de diseño inclusivo 
+y que además está centrada en el 
+usuario/persona.
+Cómo evaluar la efectividad de tus 
+soluciones de diseño y mejorar la 
+usabilidad.
+Cuáles son las principales técnicas 
+de prototipado y su uso.
+Cómo se lleva a cabo la construcción 
+de propuestas de soluciones digitales.
+La creación de soluciones digitales no solo aborda los desafíos inmediatos, también plantea 
+una visión a largo plazo para las empresas y organizaciones. Por eso, en este curso conocerás: 
+Así que te damos la bienvenida al curso “Pruebas piloto de estrategias centradas en la persona”.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p2 ---
+Material de consulta
+Johnson, B., y de Rouw, L.-P. (2017). Collaborative Business Design: 
+Improving and Innovating the Design of IT-driven Business 
+Services. ITGP. 
+Kowitz, B., Knapp, J., & Zeratsky, J. (2016). Sprint: How to Solve Big 
+Problems and Test New Ideas in Just Five Days. Simon & Schuster 
+Prototyping and Testing
+Gilbert, R. (2019). Inclusive Design for a Digital World: Designing with 
+Accessibility in Mind. Apress. 
+Pursell, S. (17 de abril de 2023). Diseño centrado en el usuario: qué es, 
+etapas y ejemplos. Hubspot. https://blog.hubspot.es/website/diseno-
+centrado-usuario  
+Designing for Accessibility and Inclusivity 
+
+--- p3 ---
+Material de consulta
+Amazon. (2023). ¿Qué es el acuerdo de nivel de servicios (SLA)? https://
+aws.amazon.com/es/what-is/service-level-agreement/ 
+ 
+Rider, G., Aken, D., Sman, C., Mason, J. y Chen, X. (2009). Framework 
+model of product risk assessment. International Journal of Injury 
+Control and Safety Promotion. Volumen (16), 7380. https://www.
+tandfonline.com/doi/abs/10.1080/17457300902836630  
+Implementing User-Centric Design Strategy 
+Fang, C. (5 de octubre de 2018). La evaluación heurística. Prototypr. 
+https://blog.prototypr.io/evaluacion-heuristica-9c8fce655759 
+Tullis, T. y Albert, B. (2013). Measuring the User Experience: Collecting, 
+Analyzing, and Presenting Usability Metrics. Morgan Kaufmann 
+Medir el éxito del diseño centrado en el usuario 
+
+--- p4 ---
+Lorraine Justice, J. (2017). The Future of Design: Global Product 
+Innovation for a Complex World. Nicholas Brealey Publishing  
+Sarah Horton, S., Quesenbery, W. y Gustafson, A. (2014). A Web for 
+Everyone: Designing Accessible User Experiences. Rosenfeld 
+Media 
+Incorporar la estrategia de diseño centrada en 
+el usuario en un plan de transformación digital 
+Material de consulta
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.

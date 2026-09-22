@@ -1,0 +1,171 @@
+
+--- p1 ---
+y diseño de interfaz de backlog
+Value Stream 
+Mapping 
+"El diseño es el embajador silencioso de tu marca" 
+Paul Rand.
+
+--- p2 ---
+El Value Stream Mapping (VSM) es una herramienta utilizada en la 
+gestión y mejora de procesos, especialmente en el ámbito de Lean 
+Manufacturing. El objetivo de mapear un flujo de valor es visualizar y 
+analizar el proceso (en este caso de diseño de productos o servicios) en una 
+organización, desde la etapa inicial hasta la entrega final del producto o 
+servicio al cliente. VSM ayuda a identificar oportunidades de mejora, 
+eliminar desperdicios y optimizar la eficiencia operativa.
+Aquí hay algunos puntos clave sobre Value Stream Mapping:
+Value Stream Mapping
+Visualización del proceso
+VSM proporciona una representación visual de todo el proceso, 
+incluyendo actividades, personas, flujos de material e información. 
+Esto permite a los equipos comprender fácilmente cómo funciona el 
+proceso y cómo se relacionan las diferentes etapas.
+Process 
+1
+!
+!
+!
+!
+!
+Process 
+2
+Process 
+3
+Process 
+4
+Value Stream Mapping VSM
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Identificación de desperdicios
+Un objetivo central de VSM es identificar y eliminar 
+desperdicios en el proceso. Estos pueden incluir 
+tiempos de espera, exceso de inventario, 
+movimientos innecesarios y defectos, entre otros. Al 
+eliminar los desperdicios, se mejora la eficiencia y se 
+reduce el costo.
+Distinción entre valor y desperdicio
+VSM ayuda a distinguir entre actividades que agregan valor al 
+producto o servicio (aquellas que el cliente está dispuesto a pagar) y 
+actividades que no agregan valor (desperdicios). Esto permite la 
+focalización en la creación de valor y la eliminación de actividades 
+innecesarias.
+Mapeo de dos tipos de flujos
+En un mapa de flujo de valor, se representan dos tipos de flujos: el 
+flujo de material (físico) y el flujo de información. Ambos flujos son 
+críticos para el proceso y deben coordinarse eficientemente.
+Colaboración interdepartamental
+VSM a menudo implica la colaboración entre diferentes departamentos 
+y funciones dentro de una organización, ya que los procesos 
+generalmente cruzan varias áreas. Esto fomenta la comunicación y la 
+comprensión mutua.
+Planificación de mejoras
+Una vez que se ha mapeado el flujo de valor actual, se puede 
+desarrollar un mapa de flujo de valor futuro que muestra cómo debería 
+funcionar el proceso optimizado. Esto sirve como base para la 
+planificación de mejoras y cambios en el proceso.
+Herramienta Lean
+VSM es una herramienta clave en el enfoque Lean, que se centra en la 
+eliminación de desperdicios y la entrega de valor al cliente de manera 
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Un backlog generalmente se asocia con metodologías ágiles de gestión de 
+proyectos, como Scrum, y se utiliza para mantener un registro de las tareas 
+pendientes, características o historias de usuario que deben abordarse en 
+un proyecto. A continuación, te proporcionamos un enfoque general para 
+diseñar una interfaz de backlog.
+Diseño de interfaz de backlog
+eficiente. Se utiliza en sectores como la manufactura, la 
+atención médica, la logística y otros donde se busca 
+mejorar la eficiencia operativa.
+En resumen, el VSM es una herramienta poderosa para 
+identificar áreas de mejora y promover una cultura de 
+mejora continua en una organización. Ayuda a las empresas a optimizar 
+sus procesos y a ofrecer un mayor valor a los clientes.
+Además del VSM, existe el diseño de interfaz de backlog, el cual 
+puede referirse a la creación de una interfaz de usuario para gestionar y 
+visualizar un backlog de trabajo. Veamos en qué consiste.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Elementos clave en el diseño de una interfaz de 
+backlog:
+Lista de elementos en el backlog
+En la interfaz, se debe mostrar una lista de todos los 
+elementos pendientes en el backlog. Cada elemento debe 
+tener una descripción clara, prioridad, estado y estimación (si 
+corresponde). Puedes utilizar una tabla o una lista desplegable para 
+mostrar estos elementos.
+Filtrado y ordenamiento
+Proporciona opciones para filtrar y ordenar los elementos del 
+backlog. Los filtros pueden incluir categorías, etiquetas, estado, 
+propietario, etc. El ordenamiento puede ser por prioridad, fecha de 
+creación o cualquier otro criterio relevante.
+Detalles de los elementos
+Al hacer clic en un elemento del backlog, los usuarios deben poder 
+ver detalles adicionales, como una descripción más extensa, tareas 
+relacionadas, comentarios y cambios de estado.
+Creación y edición de elementos
+Debe ser fácil para los usuarios agregar nuevos elementos al backlog 
+y editar los existentes. Incluye botones o campos para agregar 
+información como título, descripción, prioridad y estado.
+Priorización y asignación
+Permite a los usuarios ajustar la prioridad de los elementos y 
+asignarlos a miembros del equipo o propietarios responsables.
+Comentarios y comunicación
+Facilita la comunicación y colaboración al permitir a los usuarios 
+agregar comentarios a los elementos del backlog. Esto es importante 
+para aclarar requisitos, hacer preguntas y dar seguimiento al 
+progreso.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Historial de cambios
+Registra y muestra un historial de cambios en los 
+elementos del backlog. Esto ayuda a los usuarios a 
+rastrear la evolución de los elementos a lo largo del 
+tiempo.
+Notificaciones y alertas
+Configura notificaciones o alertas para informar a los interesados 
+sobre cambios en los elementos del backlog o nuevas tareas asignadas.
+Exportación e informes
+Ofrece la posibilidad de exportar la información del backlog en 
+formatos como PDF o Excel, y proporciona herramientas para generar 
+informes sobre el progreso y el rendimiento del equipo.
+Responsabilidad y visibilidad
+Asegúrate de que sea claro quién es responsable de cada elemento y 
+que todos los miembros del equipo tengan visibilidad sobre el estado 
+del backlog.
+El diseño de una interfaz de backlog debe ser intuitivo y fácil de usar 
+para que los miembros del equipo puedan gestionar eficazmente el 
+trabajo pendiente. Puedes utilizar herramientas de diseño de 
+interfaces de usuario, como Sketch, Figma o Adobe XD, para crear 
+prototipos y diseños de interfaz de backlog. A medida que diseñes la 
+interfaz, ten en cuenta las necesidades específicas de tu equipo y 
+proyecto.
+Con base en la información que has revisado hasta el momento, 
+responde a la siguiente pregunta:
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones finales
+¿De qué manera implementarías el diseño de 
+interfaz de backlog en tu organización?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

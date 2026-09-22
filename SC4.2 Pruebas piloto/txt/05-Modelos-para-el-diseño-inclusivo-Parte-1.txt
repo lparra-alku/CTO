@@ -1,0 +1,245 @@
+
+--- p1 ---
+Parte 1
+Modelos para el 
+diseño inclusivo 
+Estos modelos te permitirán tener una guía para el 
+diseño inclusivo. 
+
+--- p2 ---
+Este modelo se utiliza para crear productos, entornos y servicios que sean 
+accesibles y utilizables por la mayor cantidad de personas posible, 
+independientemente de sus habilidades, discapacidades, edad o 
+antecedentes.
+Estos principios, desarrollados por el Centro de Diseño Universal de la 
+Universidad Estatal de Carolina del Norte, se aplican a una amplia gama 
+de productos y servicios, incluyendo tecnología, arquitectura, diseño 
+gráfico y más.
+Los siete principios del Diseño Universal son los siguientes:
+1. Equitativo
+El diseño debe ser útil y atractivo para personas con diversos 
+antecedentes y habilidades. Debe evitar la discriminación y garantizar la 
+igualdad de acceso y uso.
+2. Flexibilidad en el uso
+El diseño debe ser versátil y adaptable para acomodar a una amplia 
+gama de usuarios. Esto incluye proporcionar múltiples formas de 
+interacción y opciones de personalización.
+3. Simple e intuitivo
+El diseño debe ser fácil de entender y usar, sin la necesidad de una gran 
+cantidad de instrucciones o esfuerzo cognitivo. Debe minimizar la 
+posibilidad de errores y malentendidos.
+4. Información perceptible
+El diseño debe comunicar la información de manera efectiva a través de 
+diferentes sentidos, como la vista, el oído y el tacto. Debe garantizar que 
+la información es clara y fácil de percibir.
+del Diseño Universal
+Modelo de los 7 Principios 
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+2
+
+--- p3 ---
+5. Tolerancia al error
+El diseño debe ser capaz de tolerar errores por parte 
+del usuario, y debe minimizar las consecuencias 
+negativas de esos errores. Debe proporcionar 
+retroalimentación y oportunidades de corrección.
+6. Bajo esfuerzo físico
+El diseño debe requerir un esfuerzo físico mínimo para su uso. 
+Debe ser cómodo y fácil de operar, independientemente de las 
+habilidades físicas del usuario.
+7. Tamaño y espacio para el enfoque y el alcance
+El diseño debe proporcionar suficiente espacio para el acceso y el 
+alcance de todos los usuarios, incluyendo aquellos con limitaciones de 
+movilidad. Debe permitir que los usuarios se acerquen y alcancen 
+objetos y controles de manera 
+cómoda.
+El objetivo de estos principios es 
+crear productos y servicios que 
+sean inclusivos por diseño, lo que 
+significa que la accesibilidad y la 
+usabilidad se consideran desde el 
+principio del proceso de diseño. 
+Al seguir estos principios, se 
+pueden eliminar barreras y crear 
+soluciones que sean más 
+beneficiosas para una audiencia 
+diversa. Esto no solo beneficia a 
+las personas con discapacidad, 
+sino que también mejora la 
+experiencia para todos los 
+usuarios.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Este modelo se centra en el diseño inclusivo y presenta conceptos como la 
+co-creación, la empatía y la adaptabilidad para diseñar productos y 
+servicios que sean accesibles para todos.
+El modelo de Cooper Hewitt Smithsonian Design Museum se refiere a un 
+enfoque de diseño inclusivo y centrado en el usuario que se basa en los 
+principios de diseño universal y la empatía hacia las necesidades y 
+experiencias de los usuarios. 
+El Cooper Hewitt Smithsonian Design Museum es un museo de diseño 
+ubicado en Nueva York, Estados Unidos, y ha sido un defensor importante 
+del diseño inclusivo y centrado en el usuario. Este modelo se enfoca en los 
+siguientes conceptos clave:
+• Co-creación
+Promueve la colaboración activa entre diseñadores y usuarios. Los 
+usuarios participan en la creación y mejora de productos y servicios para 
+garantizar que satisfagan sus necesidades y expectativas.
+• Empatía
+Fomenta la comprensión profunda de las necesidades, deseos y desafíos 
+de los usuarios. Los diseñadores deben ponerse en el lugar de los 
+usuarios para crear soluciones que aborden sus preocupaciones de 
+manera efectiva.
+• Diversidad y Equidad
+Reconoce la diversidad de las experiencias y necesidades de los usuarios. 
+El modelo busca abordar desigualdades y promover la equidad, 
+diseñando productos y servicios que sean útiles para una amplia gama 
+de personas.
+Smithsonian Design Museum:
+Modelo de Cooper Hewitt 
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Modelo de 4 Cs de la Accesibilidad
+Este modelo se basa en cuatro componentes: Contenido, Control, 
+Comunicación y Contexto. Ayuda a los diseñadores a evaluar cómo estos 
+elementos afectan la accesibilidad y a tomar decisiones informadas.
+El modelo de 4 Cs de la Accesibilidad es una metodología utilizada en el 
+diseño y la evaluación de productos, servicios y entornos digitales para 
+garantizar que sean accesibles para todas las personas, independientemente 
+de sus habilidades, discapacidades, edad o contextos de uso. Este modelo 
+se basa en cuatro componentes clave que se centran en la accesibilidad y la 
+inclusión. Los cuatro componentes son los siguientes:
+1. Contenido
+Este componente se refiere a los elementos específicos del producto o 
+servicio, como texto, imágenes, videos y otros elementos multimedia. La 
+accesibilidad del contenido se centra en asegurarse de que todos los 
+usuarios puedan acceder y comprender la información y los medios 
+proporcionados. Esto incluye el uso de texto alternativo para imágenes, 
+subtítulos para videos y la estructuración adecuada del contenido.
+• Flexibilidad y Adaptabilidad
+Los productos y servicios deben ser flexibles y 
+adaptables para acomodar las diferentes necesidades 
+de los usuarios. Esto implica ofrecer opciones y 
+personalización para que los usuarios puedan ajustar la 
+experiencia según sus preferencias.
+Este enfoque no solo mejora la accesibilidad, sino que también puede 
+dar como resultado productos y servicios de mayor calidad, así como 
+mayor satisfacción del usuario.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+2. Control
+El componente de control se refiere a la capacidad de 
+los usuarios para interactuar y navegar por el 
+producto o servicio. Esto incluye la facilidad de 
+navegación con teclado, el tiempo suficiente para 
+completar tareas, y la personalización de las preferencias 
+del usuario. Los controles deben ser intuitivos y flexibles para 
+acomodar una amplia gama de habilidades y preferencias del 
+usuario.
+3. Comunicación
+La comunicación se refiere a cómo el producto o servicio permite a los 
+usuarios interactuar entre sí y con el mundo exterior. Esto incluye la 
+comunicación entre usuarios, la interoperabilidad con otras tecnologías 
+y la comunicación de alertas y notificaciones. La accesibilidad en este 
+componente se centra en garantizar que todos los usuarios puedan 
+participar y recibir información de manera efectiva.
+4. Contexto
+El contexto se refiere a la situación o entorno en el 
+que se utiliza el producto o servicio. Esto incluye 
+factores como la ubicación, el dispositivo 
+utilizado, las necesidades específicas del 
+usuario y las limitaciones del entorno. La 
+accesibilidad en el contexto se centra en 
+adaptar el producto o servicio para 
+satisfacer las necesidades cambiantes de 
+los usuarios y las condiciones de uso.
+El modelo de 4 Cs de la Accesibilidad es una 
+herramienta que guía a los diseñadores y 
+desarrolladores para considerar cada uno de 
+estos cuatro componentes al crear productos y 
+servicios accesibles. Al abordar estos 
+componentes de manera efectiva, se pueden 
+eliminar barreras y crear soluciones que sean útiles y 
+accesibles para una amplia gama de usuarios. 
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+El modelo de las 5 Dimensiones de la Inclusión Digital es un enfoque que 
+se utiliza para comprender y abordar la inclusión en el ámbito digital. Este 
+modelo se centra en cinco dimensiones clave que deben ser consideradas 
+para garantizar que las soluciones digitales sean verdaderamente inclusivas 
+y accesibles para todos los usuarios, independientemente de sus 
+habilidades, discapacidades, edad, género u otros factores. Las cinco 
+dimensiones en las que se basa este modelo son las siguientes:
+1. Accesibilidad
+La dimensión de accesibilidad se refiere a la capacidad de las soluciones 
+digitales para ser utilizadas por personas con discapacidades. Esto 
+incluye garantizar que las interfaces sean accesibles a través de lectores 
+de pantalla, dispositivos de asistencia y otras tecnologías, así como 
+cumplir con estándares de accesibilidad como WCAG (Web Content 
+Accessibility Guidelines).
+de la Inclusión Digital
+Modelo de 5 Dimensiones 
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+2. Usabilidad
+La dimensión de usabilidad se centra en la facilidad 
+de uso de las soluciones digitales. Debe ser intuitiva y 
+fácil de entender, permitiendo a los usuarios navegar, 
+interactuar y realizar tareas de manera efectiva sin 
+esfuerzo excesivo.
+3. Percepción
+La dimensión de percepción se relaciona con cómo la información se 
+presenta a los usuarios. Debe ser clara y fácil de percibir a través de 
+múltiples sentidos, incluyendo la vista, el oído y, en algunos casos, el 
+tacto. Esto implica proporcionar alternativas a la información visual, 
+como descripciones de imágenes y subtítulos en videos.
+4. Cognición
+La dimensión cognitiva se refiere a la capacidad de las soluciones 
+digitales para ser comprendidas y utilizadas por personas con diversas 
+habilidades cognitivas. Esto implica el uso de un lenguaje claro y 
+conciso, diseño organizado y apoyo para la toma de decisiones.
+5. Afectividad
+La dimensión de afectividad se relaciona con la capacidad de las 
+soluciones digitales para satisfacer las necesidades y expectativas 
+emocionales de los usuarios. Debe ser atractiva, emocionalmente 
+satisfactoria y capaz de fomentar la interacción positiva entre los 
+usuarios.
+Este modelo se basa en la idea de que la 
+inclusión digital no se trata solo de 
+garantizar que las personas con 
+discapacidad puedan acceder a la 
+tecnología, sino de crear experiencias 
+digitales que sean igualmente valiosas y 
+efectivas para todos los usuarios.
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p9 ---
+Reflexiones finales
+Piensa en tu empresa u organización y con base en la 
+información que has revisado hasta el momento, 
+responde a la siguiente pregunta. ¿De qué manera los 
+productos o servicios que ofreces pueden ser más 
+flexibles y adaptables para acomodar las diferentes 
+necesidades de tus usuarios?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+9
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

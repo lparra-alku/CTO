@@ -1,0 +1,9 @@
+# L4 · Ideas para llevar
+Genially 657241feeb05280014436fc7
+
+Ideas para llevar
+Continúa con tu aprendizaje en la siguien te lección.
+Descarga la versión impresa en el apartado Archivos adjuntos.
+Evaluar los riesgos de nuestra solución y el valor de lo que aporta, no es seguir un checklist, es una metodología que debemos construir acuerdo al entorno y mercado en el que estamos diseñando esa solución.
+Los indicadores clave de desempeño son todos los elementos medibles tangibles y evaluables que podamos establecer dentro del contexto de la solución digital que estamos diseñando.
+Existen múltiples técnicas para medir el éxito de las soluciones de diseño centradas en el usuario. El reto está en identificar cuál resulta la más adecuada, de acuerdo con el tipo de solución que estás diseñando, así como su mercado de operación.

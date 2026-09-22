@@ -1,0 +1,191 @@
+
+--- p1 ---
+ejecución de proyectos.
+Framework de 
+Conocer las necesidades y expectativas de tus 
+usuarios es fundamental para diseñar un framework 
+y con ello dirigirte y mantenerte como una empresa 
+centrada en el usuario.
+
+--- p2 ---
+La construcción de un framework de ejecución de proyectos implica la 
+creación de un conjunto de procesos, metodologías y directrices que guían 
+la gestión y el desarrollo de proyectos de manera eficiente y efectiva. 
+Observa los pasos previos a construir un framework de ejecución de 
+proyectos.
+Pasos previos:
+Definir los objetivos estratégicos: antes de comenzar a construir 
+el framework, es fundamental comprender los objetivos estratégicos 
+de la organización. Estos objetivos deben estar alineados con la misión 
+y visión de la empresa, y servirán como base para la selección y 
+priorización de proyectos.
+Identificar las partes 
+interesadas: identificar a 
+todas las partes interesadas 
+en el proceso de ejecución de 
+proyectos, como 
+patrocinadores, clientes, 
+equipos de proyecto y otros 
+actores clave.
+Entender sus necesidades y 
+expectativas es esencial para 
+diseñar un framework que 
+satisfaga sus requisitos.
+ 
+"No hay diseño sin disciplina. 
+No hay disciplina sin 
+inteligencia". 
+Massimo Vignelli
+a
+b
+c
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Una vez que se han definido los objetivos estratégicos, 
+identificado las partes interesadas y comprendido las 
+necesidades, se deben ejecutar los siguientes pasos:
+Seleccionar una metodología de gestión de proyectos
+Existen diversas metodologías de gestión de proyectos, como 
+el enfoque tradicional (cascada), Scrum, Kanban, Lean, y más. 
+Selecciona la metodología que mejor se adapte a las 
+necesidades y características de tus proyectos y organización.
+1
+2
+Diseñar procesos y flujos de trabajo
+Define los procesos y flujos de trabajo específicos que serán utilizados 
+en la ejecución de proyectos. Esto incluye la planificación, 
+seguimiento, control y cierre de proyectos. Asegúrate de que estos 
+procesos estén alineados con la metodología seleccionada y sean 
+coherentes con los objetivos estratégicos.
+3
+Establecer roles y responsabilidades
+Define los roles y responsabilidades de los miembros del equipo de 
+proyecto, así como de otros actores involucrados. Esto incluye la 
+designación de líderes de proyecto, responsables de tareas específicas 
+y patrocinadores.
+4
+Desarrollar herramientas y plantillas 
+Crea herramientas y plantillas que faciliten la gestión de proyectos. 
+Esto puede incluir plantillas de planificación, informes de progreso, 
+listas de verificación y herramientas de seguimiento.
+5
+Establecer indicadores clave de rendimiento (KPIs)
+Define los KPIs que se utilizarán para medir el progreso y el éxito de 
+los proyectos. Estos indicadores deben estar alineados con los 
+objetivos estratégicos y permitir la evaluación constante de la 
+eficiencia y la eficacia de los proyectos.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Capacitación y comunicación
+Asegúrate de que todo el equipo esté capacitado en el 
+framework y la metodología seleccionada. Además, 
+establece un plan de comunicación para mantener a 
+todas las partes interesadas informadas sobre el 
+progreso de los proyectos.
+6
+Implementación y ajustes 
+Implementa el framework en un proyecto piloto y recopila 
+retroalimentación. Realiza ajustes según sea necesario para mejorar 
+su efectividad y eficiencia.
+7
+Documentación y mejora continua  
+Documenta el framework de ejecución de proyectos, incluyendo 
+procesos, roles, responsabilidades y herramientas utilizadas. Además, 
+establece un ciclo de mejora continua para adaptar el framework a 
+medida que cambian los requisitos y las lecciones aprendidas se 
+aplican en futuros proyectos.
+8
+La construcción de un framework de ejecución de 
+proyectos es un proceso continuo que requiere 
+adaptación constante a las necesidades cambiantes de 
+la organización y el entorno. La flexibilidad y la 
+mejora continua son clave para el éxito a largo plazo.
+Cuando trabajamos construyendo un framework, es importante tener 
+claras las tendencias de los usuarios, que a final de cuentas son quienes 
+aplicarán en su vida diaria los desarrollos que hagamos. Para tener un 
+panorama actual sobre esto, te compartimos las cinco principales 
+conductas de los usuarios en línea basándonos en Díaz (2019). 
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+El concepto de las cinco principales conductas de 
+los usuarios en línea no es un término ampliamente 
+reconocido o establecido. Sin embargo, es una forma de 
+identificar y describir los comportamientos más comunes 
+de este tipo de usuario. Estos comportamientos pueden 
+variar según el contexto y la plataforma en línea, pero a 
+menudo incluyen lo siguiente:
+Navegación Web:  
+La mayoría de los usuarios en línea navegan por la web en busca de 
+información, entretenimiento o recursos. Esto puede incluir visitar 
+sitios web, leer noticias, ver videos en línea y buscar información en 
+motores de búsqueda.
+1
+Interacción en Redes Sociales: 
+Las redes sociales desempeñan un papel significativo en la actividad 
+en línea de muchas personas. Los usuarios interactúan con amigos y 
+seguidores, publican contenido, comentan publicaciones y comparten 
+información en plataformas como Facebook, Twitter (ahora X), 
+Instagram, Threads y Linkedin.
+2
+Compras en Línea: 
+Cada vez más usuarios 
+realizan compras en línea. 
+Esto incluye la búsqueda y 
+compra de productos y 
+servicios a través de tiendas 
+en línea y plataformas de 
+comercio electrónico como 
+Amazon, eBay y muchas 
+otras.
+3
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Estas son algunas de las principales conductas que los usuarios exhiben en 
+línea, pero es importante destacar que el comportamiento en línea puede 
+variar ampliamente según la demografía, los intereses individuales y la 
+evolución de las tendencias tecnológicas. 
+Piensa en tu empresa u organización y con base en la información que has 
+revisado hasta el momento, responde a la siguiente pregunta:
+Comunicación y Correo Electrónico: 
+La comunicación en línea es esencial. Los usuarios 
+envían correos electrónicos, utilizan aplicaciones de 
+mensajería instantánea como WhatsApp o Telegram 
+y participan en llamadas de voz y videoconferencias 
+a través de herramientas como Zoom y Skype.
+4
+Creación de Contenido: 
+Muchos usuarios en línea también se convierten en creadores de 
+contenido. Esto incluye escribir blogs, publicar videos en YouTube, 
+compartir fotos en Instagram y contribuir a foros y comunidades en 
+línea.
+5
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones finales
+¿En tu empresa qué tipo de marco de trabajo 
+utilizan como estructura base para elaborar un 
+proyecto con objetivos específicos? 
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+En el siguiente recurso encontrarás la segunda parte de estos elementos 
+que forman parte de un proceso generalizado para desarrollar productos y 
+servicios digitales.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
