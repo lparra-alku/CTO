@@ -1,0 +1,24 @@
+# L3 · Conocer a la persona y qué más
+Genially 65e240cf7fa9100014268bc2
+
+Conocer a la
+persona... ¿y qué más?
+El conocimiento no es suficiente para tener información completa y útil sobre los usuarios, necesitamos dar el siguiente paso hacia el análisis de la persona.
+Imagina que tienes un rol de especialista de e-Commerce de un marketplace de una empresa dedicada al cuidado dermatológico y capilar. Esta plataforma utiliza aplicaciones que generan un " mapa de calor ", el cual revela la ubicación del cursor del cliente y señala en qué etapa del proceso de compra abandonó la página.
+Consideras que el proceso del marketplace es el adecuado para todos los gustos, perfiles y necesidades, pero identificas a un cliente que abandonó la compra, así que profundizas para saber si exploró otras secciones de la página o si revisó las reseñas de otros compradores.
+Como no tienes la certeza de qué fue lo que influyó en su percepción para no completar la compra, solicitas que el sistema CRM, conectado al proceso de e-Commerce , le pida al cliente que indique la razón detrás de su decisión de no comprar. Sin embargo, requieres herramientas para conocer al cliente más allá de la información recolectada o de lo que pueda contestar en la encuesta automatizada del CRM.
+Para analizar al cliente, es importante considerar que hay cuatro pilares esenciales en el proceso de compra, los cuales comienzan con el punto de venta, ya sea físico o digital.
+Entonces, ¿cómo analizar al cliente?, ¿cómo acercarte? Por ello, iniciarás con el proceso básico de experimentación para saber lo que la persona vive, siente, prefiere o piensa. Para esto, conocerás la metodología Design Thinking y la de Human Centered Design, las cuales te llevarán de la mano por sus etapas.
+Gracias por tu respuesta
+¿Has utilizado algunas de estas metodologías en tu organización?, ¿para qué te han sido útiles?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Un cliente presta atención a los comentarios de sus conocidos o, incluso, busca reseñas online para tomar la decisión final de compra. Las redes sociales pueden beneficiar a una marca con comentarios positivos, expresados no necesariamente por expertos, sino desde la empatía del usuario. Esto constituye el tercer pilar.
+A partir de esto se puede identificar la tasa de abandono y el sistema CRM (Customer Relationship Management) de la empresa se activa automáticamente para enviar mensajes motivadores y alentar al cliente a continuar.
+Las tecnologías emergentes, que incluyen el análisis de datos y la hiperpersonalización, tienen un impacto en los canales de ventas, pues puedem ofrecer recomendaciones basadas en el perfil individual. Incluso, se podría trabajar en herramientas de IA para crear experiencias digitales innovadoras. Esto constituye el cuarto pilar.
+Una cliente tiene preferencia por el maquillaje y las cremas de la marca y compra los productos recomendados por la experta de la tienda. Le gusta la experiencia de visitar la tienda física y muestra lealtad a la marca debido a la atención que recibe. Esto constituye el primer pilar.
+Además, ¿cómo descubrir las razones por las que una persona podría elegir hacer una compra física?, ¿cuál es su perfil?, ¿qué pasa por la mente de aquellas personas que pueden ser clientes en línea y deciden no serlo?
+En este caso, el usuario se convirtió en un no-cliente, pero ¿qué crees conocer de la persona que no tu mercado?, ¿sabrás en algún momento si hay algún perfil para el que tu producto, sitio comercial o proceso no es adecuado?
+Tu responsabilidad es recibir los datos de las transacciones que llenan los tableros de inteligencia de negocio, proporcionando información demográfica, comportamiento de compra, datos de productos y posibles ventas adicionales.
+Otro cliente adquiere productos a través del canal de e-Commerce y aunque su proceso carece de la experiencia sensorial de probar el producto en su piel ni tiene orientación del experto, él encuentra conveniente adquirirlos por este medio. Esto constituye el segundo pilar.
+Has realizado varias veces el walkthrough del sitio, lo que quiere decir que has hecho el recorrido de la plataforma simulando ser un cliente, para saber cuáles son los momentos de tensión y reconocer perfectamente cómo funciona.

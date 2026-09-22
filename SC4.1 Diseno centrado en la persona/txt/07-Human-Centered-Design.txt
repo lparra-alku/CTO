@@ -1,0 +1,165 @@
+
+--- p1 ---
+Centered Design
+Human
+El objetivo radica en conocer a fondo a cada 
+persona que representa diferentes necesidades 
+y perfiles para garantizar que estos servicios 
+realmente conecten con sus expectativas y 
+preferencias.
+
+--- p2 ---
+El Human Centered Design (en español, Diseño 
+Centrado en el Humano) sitúa a la persona en el núcleo 
+del proceso de diseño. Busca entender a fondo las 
+necesidades, comportamientos y experiencias del 
+usuario para crear soluciones únicas que satisfagan 
+sus deseos. Fundamentándose en la empatía, emplea 
+investigación y pruebas con las personas para 
+garantizar la co-creación de la solución adecuada.   
+El principal propósito del Human Centered Design es establecer una 
+conexión auténtica con la persona para quien se diseña la 
+transformación digital de soluciones. Va más allá de identificar 
+necesidades desde la perspectiva de negocios, sino que busca adentrarse 
+en qué les afecta, por qué y cómo. Se busca identificar sus pain points o 
+preocupaciones fundamentales para poder ajustar efectivamente una 
+solución. 
+Al comprender a los usuarios, clientes o empleados (en general, cualquier 
+persona considerada como stakeholders) y entender sus prioridades, 
+podemos crear propuestas que estén validadas por sus 
+necesidades y motivaciones. Es posible que en el ámbito de tecnología 
+estés acostumbrado a escuchar el término "usuario", pero limitarlo a su 
+función o participación en un proceso puede reducir su alcance. Aunque 
+contamos con datos analíticos que revelan perfiles y comportamientos, así 
+como interacciones digitales, aún no conocemos completamente a la 
+persona detrás de esos datos. 
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Para comprender el proceso, comencemos con el 
+ejemplo de Claudia, gerente de Compliance, una 
+aseguradora transnacional que opera en forma de 
+franquicia especial en el país. Bajo el enfoque de Human 
+Centered Design, Claudia puede proponer mejoras en los 
+servicios ofertados. 
+Ella analiza los informes de market share y la combinación de productos 
+para comprender mejor a su cliente-persona. Utiliza su base de datos o 
+sistema CRM, además recibe tableros de datos con estadísticas y 
+proyecciones. Accede al sistema de registro de clientes, elige una póliza 
+aleatoria de un cliente y deduce información relevante, como su ocupación, 
+edad, composición familiar, patrones de pago, historial de uso y renovación 
+automática. A pesar de estos datos, Claudia se cuestiona si realmente 
+conoce a su cliente y sus preocupaciones. ¿Cómo puede profundizar la 
+comprensión de su cliente y algunos otros en la región? Tiene 
+varias opciones a elegir, como:
+Enviar un cuestionario digital con preguntas cerradas para obtener 
+estadísticas. Algunas preguntas podrían ser: 
+¿Realiza ejercicio regularmente? 
+¿Disfruta de actividades al aire libre o deportes de alto riesgo? 
+¿Con qué frecuencia viaja al extranjero? 
+Para hacer que el cliente se sienta más cómodo con la experiencia, 
+Claudia podría formular preguntas como:
+¿Cómo podríamos mejorar tu experiencia?  
+¿Cuáles son tus principales inquietudes a las que nuestra 
+aseguradora debería prestar especial atención? 
+Además, Claudia puede utilizar la inteligencia artificial para alimentar 
+su base de datos con algoritmos que busquen información relevante en 
+sus perfiles de redes sociales, para construir clasificaciones adicionales 
+de datos sociodemográficos y crear escenarios de riesgo.
+1
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Realizar un estudio enfocándose en el rango de edad 
+y establecer contacto a través del Centro de Servicio, 
+informando a su cliente sobre un estudio en casos 
+similares para mejorar los servicios. Por 
+ejemplo, una campaña de correo electrónico o 
+mensajería instantánea podría construirse con:
+"Estimado cliente, tu salud es nuestra prioridad. Queremos ofrecerte 
+beneficios para reducir tus preocupaciones. Si deseas participar en el 
+siguiente estudio, contesta la siguiente encuesta: 
+¿Haces ejercicio al menos una vez por semana?  
+¿Te realizas chequeos médicos anuales?  
+¿Te interesaría beneficios adicionales como aseguramiento en viajes 
+internacionales, expediente preventivo para tu familia o servicios de 
+nutrición?" 
+Aunque esto revela los pain points del cliente, aún hay mucho más por 
+descubrir. 
+2
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Entrevistar a algunas personas con este perfil a 
+través de: 
+Entrevistas guiadas con formularios. 
+Entrevistas abiertas con preguntas basadas en 
+Design Thinking.
+Grupos de enfoque (Focus Group). 
+Entrevistas con los médicos que atienden a los asegurados de este 
+perfil. 
+Realizar un análisis más detallado de los datos de las pólizas y del 
+consumo de sus productos, utilizando algoritmos o inteligencia 
+artificial. Cruzar datos por ciudad, tipos de riesgos, etc. Esto le permite 
+entender el negocio, pero aún necesita conocer en detalle las 
+preocupaciones específicas de sus clientes. 
+Realizar un walkthrough de perfiles específicos para comprender 
+cómo se adaptan a los procesos y sistemas de la aseguradora. 
+Elaborar una lista de perfiles abordados para iniciar un proceso de 
+ideación o identificación de perfiles de interés, que pueden incluir 
+clientes actuales, prospectos o nuevos mercados no definidos. Se 
+pueden utilizar diversos métodos con los ejecutivos, como el método 
+6-3-5, brainstorming, análisis de mercado y composición de perfiles 
+sociodemográficos; como parejas DINKs (Double Income, no kids, 
+donde ambos trabajan y no tienen hijos), perfiles generacionales, 
+gustos y preferencias por región geográfica, entre otros. 
+Escuchar fuentes de información directa y no estructurada, como 
+comentarios en redes sociales, datos directos del Servicio al Cliente y 
+quejas o peticiones, incluso las que son aparentemente insignificantes. 
+El riesgo de perder a un cliente por falta de atención o visibilidad en 
+las decisiones de diseño es considerable. 
+3
+4
+5
+6
+7
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Con cada individuo que comparte sus experiencias sobre el servicio se 
+forma un mapa de conexión, el cual proporciona una perspectiva de 
+necesidades comunes y contrastes en sus preocupaciones. El cliente de la 
+aseguradora, por ejemplo, podría inquietarse por trámites complicados que 
+afecten su situación financiera o tiempos de espera durante un siniestro de 
+auto. Estas ideas ofrecen enfoques para que Claudia, como gerente, 
+comprenda mejor a las personas de su interés. En la transformación digital 
+no solo importa el cliente final, sino también los stakeholders, incluyendo a 
+cada colaborador. 
+Analizando las historias, se obtienen consideraciones valiosas para mejorar 
+los procesos de los empleados. En equipos de diseño, esta información es 
+crucial para entrevistar a cada persona con un enfoque de charla y escucha 
+activa, menos como una encuesta. 
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones finales
+¿Sabes de qué manera puedes aliviar las 
+preocupaciones de tus clientes o 
+stakeholders?, ¿qué tipo de recolección de 
+información utilizan en tu organización?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

@@ -1,0 +1,286 @@
+
+--- p1 ---
+Comprender el entorno y 
+traducir la estrategia
+Articulando la 
+estrategia de 
+transformación 
+digital:
+Existen metodologías robustas para determinar las 
+acciones para analizar el entorno y llevar a la 
+empresa al futuro que vislumbra en su visión-misión.
+
+--- p2 ---
+¿Cómo establecer el rumbo a seguir durante tu proceso de 
+transformación digital?, ¿qué soluciones digitales son las más 
+adecuadas para brindar una experiencia digital optima a tus 
+usuarios o clientes? Para dar respuesta a estas interrogantes analiza 
+el siguiente ejemplo:
+Seguramente durante tu infancia disfrutaste de una clásica hamburguesa y 
+sus papas fritas crujientes, ¿qué tenías que hacer para gozar de dicho 
+festín? Seguramente asistías a tu cadena de hamburguesas favorita, hacías 
+fila para realizar tu pedido, pagabas en efectivo y esperabas a que 
+entregaran tu orden. 
+Hoy en día puedes pedir esa 
+hamburguesa desde la comodidad 
+de tu oficina u hogar, simplemente 
+entras a una plataforma o 
+aplicación digital, incluso no 
+importa que no cuentes con 
+efectivo en ese momento, tu 
+hamburguesa está a un clic de 
+distancia. 
+¿Qué hay de diferente ahora? En 
+esencia la hamburguesa es igual, 
+no ha cambiado, sin embargo, tú 
+como cliente, percibes el producto 
+o servicio de otra manera. Ahora 
+cuentas con un ecosistema digital 
+en el que puedes entrar a una app, 
+personalizar tu hamburguesa, 
+recibirla en casa o a través de 
+varios canales o incluso con 
+tiempos de entrega menores o 
+beneficios adicionales.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Un análisis FODA es una herramienta de diagnóstico estratégico la cual 
+permite identificar áreas de mejora y anticipar posibles desafíos y 
+oportunidades en el contexto de la transformación digital. 
+Al realizar un análisis FODA en el contexto de la transformación digital, las 
+organizaciones pueden identificar sus activos digitales existentes, así como 
+las áreas donde necesitan mejorar su capacidad digital. También pueden 
+identificar oportunidades emergentes en el mercado digital y anticipar 
+posibles amenazas competitivas o tecnológicas. 
+FODA para el análisis del entorno
+Sin duda para pedir tu hamburguesa ahora vives una 
+experiencia digital donde los procesos y la tecnología deben 
+estar armonizados para articular una estrategia que satisfaga 
+necesidades incluso que no sabias que tenías.
+Retomando el ejemplo anterior, 
+¿crees que en algún momento las 
+cadenas de comida rápida 
+pensaron en ofrecer este tipo de 
+servicio? Sin duda tuvieron que 
+adaptarse a la rápida evolución del 
+mercado y la digitalización y, un 
+punto clave de esa adaptación fue 
+analizar el entorno para traducir su 
+estrategia en soluciones digitales 
+viables.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Observa el siguiente análisis FODA enfocado en el caso 
+de la entrega de comida rápida.
+•
+Existe una creciente demanda de entrega 
+de comida en línea, lo que representa una 
+oportunidad para expandir el alcance y la 
+conveniencia.
+•
+La tendencia hacia la personalización en 
+la industria de la alimentación ofrece la 
+oportunidad de ofrecer productos y 
+servicios adaptados a las preferencias 
+individuales.
+•
+El uso de tecnologías 
+emergentes, como el 
+análisis de datos y la 
+inteligencia artificial, 
+puede mejorar la 
+eficiencia operativa y la 
+experiencia del cliente.  
+•
+La cadena de comida rápida tiene una 
+marca establecida y una base de 
+clientes leales.
+•
+Posee sistemas de operaciones 
+eficientes y una cadena de suministro 
+bien establecida.
+•
+Cuenta con recursos financieros 
+para invertir en tecnología y 
+procesos digitales.
+•
+Los empleados pueden mostrar 
+resistencia al cambio y enfrentar 
+dificultades para adaptarse a nuevas 
+tecnologías y procesos.
+•
+Existe una fuerte competencia en el 
+mercado de la comida rápida, lo que 
+podría dificultar la diferenciación en un 
+entorno digital. 
+•
+La competencia de 
+nuevas empresas 
+digitales y de plataformas 
+de entrega en línea podría 
+erosionar la participación 
+de mercado de la cadena.
+•
+Cambios en las regulaciones de 
+privacidad de datos y seguridad 
+alimentaria pueden afectar la 
+implementación de tecnologías digitales.
+•
+Riesgos cibernéticos: La creciente 
+dependencia de la tecnología digital 
+también conlleva riesgos de 
+ciberseguridad y protección de datos. 
+AMENAZAS
+FORTALEZAS
+DEBILIDADES
+OPORTUNIDADES
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Entre las metodologías más consolidades tenemos el Balanced Scorecard 
+(o Cuadro de Mando Integral) que, permite a las organizaciones traducir su 
+estrategia en un conjunto de indicadores de desempeño equilibrados en 
+cuatro perspectivas principales: financiera, cliente, procesos 
+internos y aprendizaje y crecimiento. Sirve para medir y monitorear 
+el progreso hacia los objetivos estratégicos, asegurando que todas las áreas 
+críticas de la organización estén alineadas con la visión y misión de la 
+empresa.  
+▪
+Perspectiva financiera: Incluye medidas financieras tradicionales, 
+como ingresos, rentabilidad y flujo de efectivo, que reflejan el 
+desempeño financiero general de la organización.
+▪
+Perspectiva del cliente: Se centra en las medidas relacionadas con 
+la satisfacción y fidelidad del cliente, así como en la adquisición de 
+nuevos clientes y la retención de los existentes.
+▪
+Perspectiva de procesos internos: Evalúa la eficiencia y 
+efectividad de los procesos internos de la organización, identificando 
+áreas de mejora y optimización.
+▪
+Perspectiva de aprendizaje y crecimiento: Se refiere a las 
+capacidades y recursos internos que la organización necesita 
+desarrollar para impulsar la innovación, el crecimiento y la mejora 
+continua. 
+¿Cómo utilizar esta metodología en un proceso de 
+transformación digital?
+En un proceso de transformación digital, el BSC puede ayudar a priorizar 
+las iniciativas digitales, evaluar su impacto en todas las áreas de la 
+organización y garantizar que se estén alcanzando los resultados deseados a 
+lo largo del tiempo.
+Balanced Scorecard
+(Cuadro de Mando Integral)
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Observa el siguiente ejemplo aplicado en el sector salud:
+Perspectiva financiera
+Indicadores
+Meta
+Optimizar el 
+retorno de la 
+inversión en 
+tecnología 
+digital en el 
+sector salud. 
+% de reducción de costos operativos mediante la 
+implementación de tecnologías digitales.
+Incremento en los ingresos generados a través de servicios 
+digitales (telemedicina, citas en línea, etc.).
+ROI de iniciativas de transformación digital específicas. 
+Perspectiva de aprendizaje y crecimiento
+Indicadores
+Meta
+Desarrollar la 
+competencia 
+digital del 
+personal 
+médico y 
+fomentar la 
+innovación. 
+% de personal médico capacitado en el uso de tecnología digital. 
+Número de ideas y mejoras sugeridas por el personal médico 
+para optimizar la atención digital. 
+Tiempo de adopción de nuevas tecnologías y herramientas 
+digitales en el entorno clínico. 
+Perspectiva del cliente
+Indicadores
+Meta
+Mejorar la 
+experiencia 
+y los 
+resultados 
+de los 
+pacientes 
+mediante 
+soluciones 
+digitales. 
+Índice de satisfacción del 
+paciente con los servicios 
+digitales ofrecidos (teleconsulta, 
+acceso a la información médica 
+en línea, etc.).
+Tasa de adopción de servicios 
+digitales por parte de los 
+pacientes.
+Mejoras en los indicadores de 
+salud de los pacientes 
+relacionados con la atención 
+digital (control de enfermedades 
+crónicas, tasas de reingreso 
+hospitalario, etc.).
+Perspectiva de procesos internos
+Indicadores
+Meta
+Optimizar los 
+procesos 
+internos de 
+atención 
+médica 
+mediante 
+tecnología 
+digital. 
+Reducción del tiempo de 
+espera para consultas y 
+procedimientos médicos 
+mediante la implementación 
+de sistemas de programación 
+digital. 
+% de digitalización de 
+registros médicos y procesos 
+de documentación. 
+Mejora en la precisión y 
+disponibilidad de la 
+información clínica a través 
+de sistemas de gestión de 
+datos y análisis.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones finales
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+?
+?
+?
+?
+?
+?
+Todas las metodologías mencionadas se han consolidado 
+en grandes empresas. Su efectividad es comprobada 
+siendo una guía hacia la visión que sus líderes definieron, 
+sin embargo, no hay una receta mágica o única.    
+¿Cómo podrías diseñar indicadores clave de rendimiento 
+(KPIs) relevantes en cada perspectiva del Balanced 
+Scorecard para evaluar el progreso de las iniciativas de 
+transformación digital?
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

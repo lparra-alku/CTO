@@ -1,0 +1,104 @@
+
+--- p1 ---
+¿Cuáles son las implicaciones y desafíos de un proceso de transformación 
+digital centrado en las personas? Descúbrelo en la siguiente lectura.
+Importancia y desafíos
+Transformación 
+digital centrada 
+en las personas:
+
+--- p2 ---
+Imagina que te encuentras en un evento de 
+networking en el que todas y todos los asistentes 
+debaten sobre temas diversos, entre los que destacan 
+asuntos empresariales, proyectos y estrategias, ahora la charla 
+se ha convertido en una competencia individual de logros técnicos. 
+A menudo este tipo de conversaciones suele centrarse en términos 
+generales, entre los que destacan “cliente” y “usuario”, no obstante, ante la 
+cantidad de tecnicismos se van perdiendo de vista las características 
+únicas de cada individuo.
+En este punto de la conversación con tus colegas comienzas a cuestionar cómo 
+abordar estos temas desde un enfoque centrado en las personas, considerando 
+las necesidades específicas y preferencias de cada cliente. Pues, aunque hoy 
+día se disponga de datos y perfiles generales, la verdadera 
+transformación digital radica en comprender las conductas y 
+preferencias de las personas.
+Aunque es válido referirse a usuarios, pacientes o clientes en 
+términos de procesos y casos de uso, es esencial analizar en detalle 
+a estos actores dentro del contexto de un negocio.
+David Rogers (2023), enfatiza que la transformación exitosa depende de la 
+coordinación armoniosa entre procesos, tecnología y, lo más 
+crucial, las personas. Desde este punto de vista, se destaca la importancia 
+de conocer al cliente, pues es un pilar esencial en la estrategia de 
+transformación digital.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Retomando estos ideales, el Human Centered Design nos presenta un juego de 
+palabras en su definición, llevándonos desde una denominación genérica de 
+"usuario" hasta la adopción del término "humano", en el que se incluyen 
+sentimientos y preocupaciones (pain points), aspectos desde los cuales se 
+puede crear valor. Pero ¿cómo o qué hacer para generar este valor?
+El primer reto implica ampliar o cambiar tu mindset para sumergirte en 
+historias individuales y obtener información estratégica valiosa, esto te 
+ayudará a comprender cómo el enfoque en la persona transforma 
+significativamente el impacto de la digitalización para alcanzar las expectativas 
+de tus clientes o usuarios.  
+Otro desafío que puede presentarse en un proceso de transformación digital es 
+el nivel de dominio tecnológico por parte de tus clientes o usuarios. Para 
+abordar esto a más detalle revisa el siguiente ejemplo. 
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+TriBanco lleva bastantes años en el mercado, por lo que ha decidido 
+implementar las tecnologías disponibles para renovar algunos de sus servicios. 
+Esta ola de cambios implicó que los clientes solicitarán una nueva tarjeta 
+avanzada. La solicitud se debe realizar en la app del banco, la cual genera un 
+folio, luego, los clientes deben llamar, registrar su folio y compartir su dirección 
+para recibir la tarjeta por paquetería.
+Al igual que otro gran número de clientes, Isabel, no es una usuaria activa a de 
+la tecnología, lo que la ha orillado a pedir la ayuda de alguno de sus familiares 
+más jóvenes, pues hablarle de apps, sitios web o correos electrónicos es 
+hablarle en chino. 
+¿Qué puede hacer TriBanco para enfrentar este obstáculo? La respuesta es 
+adoptar el enfoque Human Centered Design. Conscientes de que cada 
+cliente tenía un nivel diferente de familiaridad con la tecnología, se 
+propusieron crear soluciones accesibles para todos:
+Implementaron cambios en la interfaz de sus aplicaciones, simplificándolas 
+y haciéndolas más intuitivas. 
+Desarrollaron una serie de tutoriales interactivos y personalizados que 
+guiaban a los clientes a través de los procesos digitales.
+Establecieron a un equipo de asesores capacitados para proporcionar 
+asistencia tanto en línea como en persona.
+Estas acciones lograron un cambio significativo en la actitud de los 
+clientes. Aquellos que inicialmente veían la tecnología como una barrera 
+ahora la consideraban una herramienta útil y amigable. Además, la 
+adopción de los servicios digitales del banco aumentó considerablemente, 
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+y los clientes expresaron su agradecimiento por la atención personalizada 
+que les ayudó a superar sus inhibiciones tecnológicas.
+Como puedes observar, la historia de TriBanco no solo destacó la importancia 
+del Human Centered Design, sino también cómo un enfoque paciente y 
+adaptativo logró convertir los obstáculos en oportunidades, llevando a la 
+institución financiera y a sus clientes hacia un futuro digital más brillante. 
+En resumen, al hablar de transformación digital se revela un proceso de 
+transición hacia modificar el entorno de las personas, impulsándolas en su vida 
+digital y resolviendo sus necesidades.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Reflexiones
+Piensa en alguno de los procesos de tu empresa 
+u organización. ¿Crees que este proceso pone al 
+centro a la persona?, ¿por qué?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

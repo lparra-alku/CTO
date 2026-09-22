@@ -1,0 +1,287 @@
+ 
+ 
+ 
+ 
+Reto| Mejorando la experiencia del cliente 
+Formato de evaluación 
+La actividad será evaluada utilizando los siguientes criterios: 
+Pasos del reto 
+No cumplió 
+(0 %) 
+Falta desarrollar 
+(50 %) 
+En desarrollo 
+(80 %) 
+Sobresaliente 
+(100 %) 
+Puntuación 
+máxima  
+Paso 1: 
+Definición del 
+contexto 
+ 
+0 ptos. 
+ 
+No se identificaron ni se 
+definieron correctamente 
+los stakeholders. Tampoco 
+se analizaron las 
+tendencias del mercado, 
+las necesidades y 
+preocupaciones de los 
+usuarios. Además, no se 
+seleccionó ni se justificó 
+adecuadamente el 
+proceso, producto, 
+servicio o solución que se 
+diseñará para mejorar la 
+experiencia del cliente. 
+10 ptos. 
+ 
+La identificación y 
+definición de 
+stakeholders, tendencias 
+del mercado, 
+preocupaciones y 
+necesidades de los 
+usuarios es superficial o 
+incompleta. Además, la 
+selección del proceso, 
+producto o servicio a 
+diseñar es vaga o no 
+está claramente 
+justificada. 
+ 
+15 ptos. 
+ 
+Se identificaron 
+adecuadamente los 
+principales stakeholders 
+de la industria y se 
+mencionaron algunas 
+tendencias del mercado, 
+así como algunas 
+necesidades o 
+preocupaciones, pero se 
+necesitan más detalles o 
+análisis. Asimismo, se 
+seleccionó un proceso, 
+producto o servicio para 
+mejorar la experiencia 
+del cliente, pero la 
+justificación es limitada. 
+ 
+ 
+20 ptos. 
+ 
+Se identificaron de manera 
+exhaustiva y precisa los 
+diferentes stakeholders. 
+Además, se proporcionó un 
+análisis detallado de las 
+tendencias del mercado, 
+necesidades y 
+preocupaciones de los 
+usuarios, demostrando una 
+comprensión profunda del 
+entorno; lo que permite 
+seleccionar y justificar de 
+manera clara y 
+fundamentada el diseño de 
+un producto, proceso o 
+servicio.  
+ 
+20 ptos. 
+ 
+Paso 2:  
+Fase de empatía 
+(Identificación 
+de usuarios) 
+0 ptos. 
+ 
+No se recuperaron los 
+datos generales sobre el 
+usuario seleccionado, por 
+10 ptos. 
+ 
+El Mapa de empatía es 
+incompleto o superficial. 
+Además, la recopilación 
+de datos es deficiente. 
+15 ptos. 
+ 
+Se elaboró un Mapa de 
+empatía acorde al 
+usuario, pero se 
+necesitan más detalles.  
+ 
+20 ptos. 
+ 
+Gracias a una adecuada 
+recopilación de datos, se 
+elaboró un Mapa de 
+20 ptos. 
+ 
+ 
+ 
+lo que no se elaboró un 
+Mapa de empatía. 
+ 
+empatía para el usuario 
+seleccionado, capturando 
+de manera precisa 
+necesidades, deseos, 
+emociones y 
+comportamientos. 
+ 
+Paso 3: 
+Entrevistas y 
+observación 
+0 ptos. 
+ 
+No se diseñó una 
+entrevista con un conjunto 
+claro de preguntas y, por 
+ende, no se aplicó. 
+10 ptos. 
+ 
+Las preguntas carecen 
+de claridad y relevancia 
+para comprender las 
+experiencias, 
+necesidades, 
+preocupaciones y 
+sugerencias de los 
+usuarios. 
+15 ptos. 
+ 
+Se diseñó una entrevista 
+con un conjunto de 
+preguntas, pero algunas 
+pueden ser poco 
+relevantes o necesitan 
+más detalle. 
+ 
+20 ptos. 
+ 
+Se diseñó una entrevista 
+bien estructurada con un 
+conjunto de preguntas 
+claras y relevantes que 
+abordan de manera integral 
+las experiencias, 
+necesidades, 
+preocupaciones y 
+sugerencias de los 
+usuarios. 
+ 
+20 ptos. 
+ 
+ 
+ 
+ 
+ 
+ 
+Paso 4: 
+Análisis de 
+datos 
+0 ptos. 
+ 
+No se llevó a cabo la 
+categorización de datos o 
+la identificación de 
+problemas comunes, 
+patrones, tendencias, 
+oportunidades y desafíos 
+a partir de las 
+transcripciones de 
+entrevistas. 
+ 
+10 ptos. 
+ 
+La identificación de 
+problemas comunes, 
+patrones, tendencias, 
+oportunidades y desafíos 
+es limitada, superficial o 
+carece de profundidad 
+en el análisis. 
+ 
+15 ptos. 
+ 
+Se identificaron algunos 
+problemas, patrones, 
+tendencias, 
+oportunidades y desafíos 
+comunes, pero se 
+necesita una 
+comprensión más 
+profunda y detallada. 
+20 ptos. 
+Se identificaron claramente 
+los problemas, patrones, 
+tendencias, oportunidades y 
+desafíos comunes y 
+significativos a partir de las 
+transcripciones de 
+entrevistas, demostrando 
+una comprensión profunda 
+del contenido. 
+20 ptos. 
+Paso 5:  
+Ideación 
+ 
+ 
+0 ptos. 
+ 
+Las propuestas de 
+solución no están 
+ 
+10 ptos. 
+ 
+15 ptos. 
+ 
+Las propuestas de 
+solución son viables y 
+20 ptos.  
+ 
+Las propuestas de solución 
+son viables y factibles, 
+20 ptos. 
+ 
+ 
+ 
+directamente relacionadas 
+con las necesidades y 
+preocupaciones 
+identificadas a partir de los 
+datos recopilados, 
+además carecen de 
+viabilidad. 
+ 
+Las propuestas de 
+solución pueden ser 
+viables en teoría, pero 
+no se aborda su 
+factibilidad práctica o los 
+recursos necesarios para 
+su implementación. 
+Además, podría 
+beneficiarse de ideas 
+más innovadoras. 
+  
+factibles en su mayoría, 
+pero se necesita una 
+consideración más 
+detallada de los recursos 
+y restricciones para su 
+implementación. 
+teniendo en cuenta los 
+recursos y restricciones del 
+proyecto o contexto en el 
+que se implementarán. 
+Además, son altamente 
+creativas y originales. 
+Total del reto 
+100 
+ 

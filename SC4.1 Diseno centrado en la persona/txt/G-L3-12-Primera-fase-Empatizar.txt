@@ -1,0 +1,32 @@
+# L3 · Primera fase Empatizar
+Genially 65e2450d85e8ee00154f7a92
+
+Primera fase:
+Empatizar
+La fase de Empatizar en Design Thinking nos impulsa a dejar de lado los registros técnicos, explorando experiencias reales de clientes para entender sus emociones y necesidades.
+En la fase inicial de Design Thinking, Empatizar, es esencial incorporar a personas que no solo representen perfiles, sino que también brinden retroalimentación directa sobre sus necesidades, incluso si no están completamente conscientes de ellas. Este enfoque crítico ayuda a documentar la diversidad de experiencias y perspectivas que representan nuestro conjunto de perfiles.
+Como señala Peter Senge en La quinta disciplina en la práctica (2006), es crucial que el especialista sea capaz de ver los árboles sin dejar de ver el bosque, esto quiere decir que evites perderte en los detalles, pues el objetivo final es basar la estrategia abordando las preocupaciones de los clientes desde diversas formas y canales.
+Perfil selectivo
+Perfil demográfico general
+Perfil técnico
+Para ello, enfócate en el usuario típico y aplica el principio de granularidad, creando perfiles diversos. El objetivo es describir a las personas que interactuarán con el negocio. Para generar valor significativo, es esencial validar la información no solo en términos estadísticos o de datos, sino también incorporando datos cualitativos complementarios como:
+Intereses
+Sin embargo, esta información se concentra en un almacenamiento de datos que incluye el número de cliente, la fecha de nacimiento, el género, los beneficiarios, la dirección, etc., por lo que te proporciona su expediente y una muestra de su interacción con los procesos de tu organización, pero aún desconoces los datos cruciales. Por eso, el paso siguiente es diseñar una primera interacción, conocida como entrevista empática.
+La entrevista empática puede llevar de 2 a 15 minutos, pero recuerda que su objetivo primordial es que te lleve a conocer más a las personas. Puedes acercarte a un usuario que ha hecho recompra de tus productos y preguntarle:
+“¿Podrías contarme cómo has utilizado los productos que adquiriste?, ¿por qué decidiste hacer una recompra de este producto en específico?” Guarda silencio para que pueda extenderse tanto como desee y, por supuesto, escucha su historia y profundiza en los sentimientos.
+Tienes que mantener especial atención para rescatar los comentarios positivos y también los negativos, los cuales pueden llevar a preguntas como: “¿Por qué crees que haya sido así?, ¿cómo te sentiste cuando eso sucedió?” y vuelves a guardar silencio, esperando que el cliente resuelva esas preguntas. Podrías incluir directrices como: “¿Discutes estas compras con alguien?, ¿normalmente con quién mantienes conversaciones sobre estos productos?, ¿cómo planeas estas compras?”
+Gracias por tu respuesta
+¿Alguna vez has participado en una encuesta o entrevista para dar tu opinión después de comprar un producto o servicio?, ¿cómo fueron las preguntas?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Pero recuerda que estas preguntas no se enfocan en el proceso o en la queja, sino que se abordan desde las experiencias y las impresiones que ha tenido el cliente.
+¿Cuál es su edad?, ¿cuál es su género?, ¿qué educación ha recibido?, ¿en qué zona geográfica vive?, ¿cuál es su estado civil?, ¿tiene hijos?, ¿cuántos?
+¿Cuáles son sus necesidades, intereses y metas?, ¿cuáles son los hábitos sociodemográficos que representa en su perfil?, ¿se ha quejado?, ¿a quién o a dónde acude para adquirir productos o servicios similares a los que ofreces?
+Al primer grupo se le dieron las instrucciones en una computadora fija, con dibujos en 2D e instrucciones simples en texto.
+¿Maneja la tecnología?, ¿prefiere smartphone o computadora?, ¿es sensible a algún cambio en la tecnología o es early adopter?, ¿cuánto tiempo le lleva adaptarse a un cambio en la tecnología?
+No hay un número exacto de personas a conocer, además de que representar a cada persona puede ser ambicioso, por lo que es importante concentrarse en aquellas personas relevantes que expresen expectativas del servicio, que retroalimenten los procesos o que tengan una necesidad específica que abordar.
+Recuerda que para realizar una entrevista que no resulte extensa ni intrusiva, es crucial idear preguntas adecuadas. Debemos desarrollar preguntas guía que facilitarán el proceso de descubrir esta información durante la conversación.
+En este caso, el usuario se convirtió en un no-cliente, pero ¿qué crees conocer de la persona que no tu mercado?, ¿sabrás en algún momento si hay algún perfil para el que tu producto, sitio comercial o proceso no es adecuado?
+¿Qué espera del servicio?, ¿qué está tratando de hacer?, ¿qué le preocupa?, ¿a qué le da mayor prioridad?
+En esta fase, se recomienda crear un expediente para "ponerle rostro" al perfil. Utilizaremos el método de "persona", que complementa los datos registrados con parámetros no estadísticos, como metas, frustraciones, barreras, habilidades, experiencia con la tecnología o servicios, pensamientos o gustos.
+¿Tiene experiencia interactuando con empresas o tecnologías de este giro?, ¿cuáles son los canales donde interactúa con la empresa: digitales o físicos?

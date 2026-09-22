@@ -1,0 +1,143 @@
+
+--- p1 ---
+de los cinco porqués
+La técnica
+Otra forma de profundizar en la información de cada 
+persona es utilizando la técnica de los cinco 
+porqués y respondiendo conforme a la experiencia 
+real del usuario.
+
+--- p2 ---
+Continuando con el ejemplo de Héctor (como usuario
+frecuente de cierta aerolínea), él piensa que es mejor 
+prevenir ante cambios en su vuelo. Siente incertidumbre 
+cuando viaja solo porque hay mucha información que llega 
+a su celular en la aplicación de la aerolínea. Le gustaría entender todos los 
+procesos en la aplicación y tener información confiable de su vuelo, sin 
+temor a perderlo, y si tiene que esperar, gozar de un espacio para leer o 
+tomar su café.
+Aquí vienen las preguntas:
+1. ¿Por qué Héctor desconfía de la información impresa del vuelo o en 
+su pase de abordar, como hora de llegada a mostrador o de abordaje?
+a) Porque le ha pasado que ha perdido algún vuelo o han cambiado    
+      la sala de abordar y tiene que apresurarse.
+b) Porque en su celular la información está complicada de leer en 
+      tamaño pequeño o no sabe dónde.
+2. ¿Por qué Héctor considera que le hacen muchos cambios en su vuelo 
+      y eso le da incertidumbre?
+a) Porque en el pase de abordar o reservación no tiene datos de la 
+      sala específica o si hay algún cambio debe estar preguntando 
+      verbalmente en el mostrador.
+b) Como compra su vuelo con antelación, pueden realizarse cambios 
+      y no enterarse, al grado de perder su vuelo.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+3. ¿Por qué Héctor no usa todas las opciones de la 
+     aplicación de la aerolínea en su teléfono?
+     a) Conoce las que su hijo le ha enseñado y teme borrar 
+     algo o cambiar alguna configuración, por lo tanto, no explora.
+b) Considera que la letra es pequeña o tiene que teclear varias veces 
+      su vuelo o número de reservación y lo considera difícil.
+4. ¿Por qué Héctor dedica un par de horas adicionales a lo sugerido 
+     previo a su vuelo?
+a) Porque teme perder el vuelo y llega anticipadamente al mostrador 
+     (hace la fila) para 
+     preguntar su sala o si hay 
+     cambios en itinerario.
+b) Prefiere esperar sentado 
+      leyendo, frente a la sala 
+      que le indican desde 
+      que llega.
+5. ¿Por qué Héctor va al 
+     mostrador en lugar de ver 
+     pantallas o su aplicación de 
+     celular?
+ 
+ a) Prefiere conversar 
+           y hacer preguntas.
+b) No confía en la 
+      tecnología porque no 
+      sabe si está actualizada.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Esta sencilla pero poderosa técnica de los cinco 
+porqués nos ayuda a entender más razones, 
+preocupaciones y conductas de nuestros usuarios. 
+Aquí empieza el efecto eureka para conectar 
+las preguntas al mapa de empatía. 
+Esto nos lleva a redefinir el problema varias veces, es decir, no es un 
+proceso lineal o receta infalible. En cualquier etapa podemos enunciar 
+mejor el estado del problema o definición del problema, cambiarlo de 
+enfoque y enriquecerlo con los puntos de vista de más personas. 
+Puedes basarte en el siguiente proceso para redefinir el problema cuantas 
+veces sea necesario:
+             Registrar los 
+            hallazgos de mapas 
+          de empatía
+              Utilizar tu empatía 
+             para delimitar la 
+           definición de 
+         necesidades o 
+        requerimientos 
+           Desarrollar un punto 
+          de vista del usuario 
+         y complementar cada 
+       persona/perfil para 
+      posteriormente 
+     enfocar la ideación 
+    de "cómo"
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Preguntas para conocer lo que siente, 
+lo que piensa, lo que se le dificulta (pain) y lo que hace.
+Si en algún momento determinas que falta información de lo que tu usuario 
+siente, piensa y se le dificulta (preocupaciones), podemos asumir algunas 
+respuestas o preparar una ronda con preguntas específicas. No te preocupes 
+si esto te hace reprocesar. Considera esperar a una siguiente “ronda” de 
+entrevistas con las personas, sean las mismas o del perfil similar. 
+La siguiente técnica consiste en replantear las preguntas con la intención de 
+convertir esos desafíos en oportunidades de diseño. Aquí es importante no 
+brincar el paso de formular la pregunta e irse al diseño o definición de 
+requerimientos como es tradicionalmente llevado a cabo en proyectos de 
+desarrollo.
+La forma de hacer las preguntas sugiere que una solución es posible y que se 
+puede solucionar de varias maneras. Se trata de hacer preguntas que amplíen 
+el abordaje, evitando respuestas cortas o monosílabas, por eso a veces 
+contienen redacción amplia, por ejemplo:
+Cómo + podríamos + hacer que + persona + resolver su 
+preocupación
+Toma la palabra “Cómo” para abrir tu pensamiento a buscar soluciones. En la 
+palabra “podríamos” (observa que no dice “podemos”), abre la puerta a ideas 
+que podrían funcionar o no. Intencionadamente se utiliza la palabra “nosotros” 
+para que el poder del lenguaje construya pensamientos orientados a colaborar.
+Un ejemplo de este tipo de pregunta sería:
+¿Cómo podríamos hacer que los usuarios preocupados por la 
+privacidad puedan gestionar de forma más intuitiva y transparente 
+sus configuraciones de privacidad en nuestra aplicación de 
+redes sociales?
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Reflexiones finales
+¿Qué estrategias podrías implementar para 
+mantener actualizadas y relevantes las historias 
+de usuario a lo largo del tiempo, a medida que 
+evoluciona tu transformación digital?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

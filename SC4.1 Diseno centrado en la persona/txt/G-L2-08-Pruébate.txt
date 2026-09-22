@@ -1,0 +1,61 @@
+# L2 · Pruébate
+Genially 6605ced95790700014471ac0
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Claudia a resolver algunas problemáticas.
+Conexión 360 ofrece servicios de telefonía, internet y TV por cable. Actualmente se enfrenta a la necesidad de adaptarse a las cambiantes expectativas de los clientes en un mercado competitivo y digitalizado. Por ello contratan a Claudia, quien deberá articular una estrategia de transformación digital, teniendo en cuenta el enfoque centrado en la persona, Design thinking y User Experience, para garantizar que las soluciones digitales sean efectivas y significativas para los clientes. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Claudia debe presentar los beneficios de integrar las metodologías centradas en la persona. ¿Cuál de las siguientes opciones es un beneficio de estás metodologías para la transformación digital?
+Identificar a los actores clave del proceso y sus necesidades para involucrarlos en el proceso
+Identificar las habilidades tecnológicas de los usuarios finales
+Identificar tecnologías con un uso sencillo y que implican una inversión menor
+¡Correcto!
+El integrar metodologías centradas en la persona en la estrategia de transformación digital facilita la identificación de los actores clave al poner énfasis en sus necesidades, involucrarlos activamente en el proceso, obtener insights significativos y mejorar la comunicación y la colaboración entre todos los involucrados.
+¡Incorrecto!
+La respuesta correcta es identificar a los actores clave del proceso y sus necesidades para involucrarlos en el proceso, esto permite obtener insights significativos y mejorar la comunicación y la colaboración entre todos los involucrados .
+Claudia ha identificado a los actores clave del proceso de transformación en Conexión 360 e irá a comunicar a cada uno su función. ¿Cuál es el papel de los líderes ejecutivos?
+Establecer la visión y la dirección estratégica para la transformación digital
+Acelerar el proceso de transformación y superar posibles desafíos técnicos
+Garantizar la seguridad y la integridad de los datos de los clientes
+El liderazgo es fundamental para alinear a toda la organización en torno a los objetivos de la transformación, asignar recursos adecuados y proporcionar el apoyo necesario para superar los desafíos y obstáculos.
+La respuesta correcta es establecer la visión y la dirección estratégica para la transformación digital, pues su liderazgo es fundamental para alinear a toda la organización en torno a los objetivos de la transformación, asignar recursos adecuados y proporcionar el apoyo necesario para superar los desafíos y obstáculos.
+Claudia debe analizar el entorno en que se encuentra Conexión 360 y traducir su estrategia de transformación en objetivos e indicadores claros. ¿Qué herramientas puede utilizar para esta tarea?
+Balanced Scorecard y objetivos SMART
+Design thinking y análisis FODA
+Análisis FODA y Balanced Scorecard
+Estas herramientas permiten analizar el entorno y traducir la estrategia para llevar a la empresa al futuro que vislumbra en su visión-misión.
+La respuesta correcta es análisis FODA y Balanced Scorecard, estas herramientas permiten analizar el entorno y traducir la estrategia para llevar a la empresa al futuro que vislumbra en su visión-misión.
+Claudia debe considerar la relación TI-Persona-Proceso en la transformación de Conexión 360. ¿Cuál es la importancia de comprender la relación TI-Persona-Proceso para articular la estrategia de transformación digital de la compañía?
+Permite generar ideas para nuevas soluciones centradas en tecnologías de punta y en el usuario
+Permite diseñar objetivos realistas y alcanzables con base en metodología SMART
+Permite alinear la tecnología con las necesidades de los usuarios y eficientar los procesos
+La relación entre TI, Persona y Proceso en la articulación de la estrategia de transformación digital desde el enfoque centrado en la persona debe garantizar que la tecnología se adapte a las necesidades y preferencias de los usuarios, y que los procesos organizacionales se optimicen para brindar una experiencia positiva y efectiva a todas las partes interesadas.
+La respuesta correcta es permite alinear la tecnología con las necesidades de los usuarios y eficientar los procesos, la relación entre TI, Persona y Proceso en la articulación de la estrategia de transformación digital desde el enfoque centrado en la persona debe garantizar que la tecnología se adapte a las necesidades y preferencias de los usuarios, y que los procesos organizacionales se optimicen para brindar una experiencia positiva y efectiva a todas las partes interesadas.
+Un elemento importante de la transformación digital de Conexión 360 es generar nuevas ideas y soluciones para mejorar la experiencia de los usuarios y su satisfacción. ¿Cuál de los siguientes enfoques debe adoptar Claudia para lograr esto?
+Enfoque centrado en la persona
+User Experience (UX)
+Design thinking
+Con este enfoque Claudia y el equipo de la Conexión 360 pueden organizar sesiones de trabajo colaborativo para generar nuevas ideas y soluciones para mejorar la experiencia del cliente y aumentar su satisfacción.
+La respuesta correcta es Design thinking, se pueden organizar sesiones de trabajo colaborativo para generar nuevas ideas y soluciones para mejorar la experiencia del cliente y aumentar su satisfacción. Recuerda que el enfoque centrado en la persona y el UX permiten comprender las necesidades y preferencias de clientes y construir apps o sitios donde la navegación sea más intuitiva, respectivamente.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

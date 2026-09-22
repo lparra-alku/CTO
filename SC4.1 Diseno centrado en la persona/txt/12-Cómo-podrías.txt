@@ -1,0 +1,177 @@
+
+--- p1 ---
+¿Cómo podrías...?
+La técnica del how might we o “cómo podríamos” 
+fomenta la creatividad al reformular problemas como 
+oportunidades, impulsando la generación de 
+soluciones innovadoras y centradas en el usuario.
+
+--- p2 ---
+Veamos otros ejemplos para formular preguntas 
+hipotéticas, siguiendo la estructura que revisamos 
+en el recurso anterior:
+Cómo + podríamos + hacer que + persona + resolver su 
+preocupación
+Piensa en Rafael, un usuario de cierta aerolínea que busca completar su 
+itinerario el mismo día piensa que pierde tiempo de visitar a sus clientes 
+porque debe estar atento a cambios en su reservación. Siente enfado 
+cuando el vuelo se retrasa y no puede saberlo oportunamente. Le gustaría 
+tener información real y gráfica de su vuelo y gestiones para abordar.
+Preguntas hipotéticas:
+¿Cómo podríamos informarle con antelación las posibilidades de 
+cancelación o cambio en su vuelo y que tenga información para 
+decidir quedarse o cambiar sus planes?
+¿Cómo podríamos brindarle información complementaria para que 
+considere tiempo de traslado al aeropuerto o servicio adicional en 
+nuestra plataforma?
+¿Cómo podríamos darle beneficios por los viajes de trabajo 
+completados con regularidad para que su viaje sea más ágil dado que 
+lo hace con mucha frecuencia?
+¿Cómo podríamos resolver que no se enfade cuando su vuelo se 
+retrasa (más allá de lo que se hace por regulación) y le avisamos 
+oportunamente?
+Pensemos ahora en Diana, ella viaja con sus dos hijas pequeñas y su hijo 
+adolescente.  Al ser aviones de tres asientos, ella debe ir con las menores.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Esto complica a veces la asignación de asientos 
+o la ayuda que ella pueda tener para abordaje 
+o desembarco. Son los momentos críticos de Diana. 
+La situación, utilizando el formato: piensa, siente
+ y gustaría, quedaría de la siguiente manera:
+Diana, que viaja con tres menores piensa que es estresante 
+viajar con niños y más aún si le indican que no pueden ir juntos los 
+pequeños. Siente certidumbre cuando compra sus boletos en línea, pues 
+no sabe si su hijo tendrá un pasajero adulto al lado.  Le gustaría asegurar 
+que no cause molestia o se inquieten sus hijos al no ir juntos. 
+Preguntas hipotéticas:
+ 
+¿Cómo podríamos hacer que Diana viaje con menos preocupación 
+en la asignación de asientos?
+¿Cómo podríamos hacer que Diana disminuya su angustia con el 
+abordaje con sus hijos?
+¿Cómo podría Diana elegir sus asientos para mejor cumplimiento de 
+seguridad para ella y sus hijos?
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Y así podemos seguir con cada persona.  El proceso 
+mental de redactar las preguntas “¿Cómo podríamos...?” 
+es un momento de conexión de información. Es muy 
+probable que afloren las respuestas, lo harás en un 
+proceso creativo más adelante.
+Para trabajar estas preguntas de manera colaborativa y tener más 
+alternativas de respuesta, puedes trabajar con algunas herramientas para 
+trabajar en equipo tales como Miró, Padlet, Mural, Jamboard o cualquier 
+aplicación de colaboración. Si lo haces en un espacio físico, puedes utilizar 
+tarjetas adhesivas (post-it) y colocarlas en un ventanal o pared.  El recurso 
+no es determinante y recuerda que cada persona conecta con la 
+información de forma distinta.
+ 
+Cuando una persona realiza preguntas, el cerebro trabaja en diversos 
+ámbitos: sintetiza, conecta, analiza y extiende pensamientos.  Las fases 
+previas de Design Thinking son las que fortalecen el contexto y ponen a la 
+persona en el centro de nuestra atención. En la etapa de Definir nos 
+concentramos en conectar las necesidades y preocupaciones.
+La intención de elaborar las preguntas que has revisado es ampliar el 
+enfoque de cómo podríamos solucionar sus pain points (preocupaciones). 
+Los pain points nos permiten conocer áreas de dificultad, frustración o 
+preocupación que una persona o usuario experimenta en una interacción, 
+sea cliente o no actual de tu empresa.  Pueden estar relacionados con la 
+experiencia per se o con lo que la persona espera y no se cumple 
+(expectativas), con lo que haría diferencia elegir tu servicio o producto o el 
+de alguien más.
+Pain Points
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Es tan relevante que una persona sienta que 
+es atendida en sus preocupaciones, que incluso 
+se convierte en una ventaja competitiva. Hay casos 
+donde la preocupación es tan importante para él o ella.
+No atender sus preocupaciones (por desconocerlas) puede ser percibido 
+como insatisfacción o riesgo de perder su preferencia.  Esto significa para 
+ti, que debes asegurarte de que las preguntas “Cómo podríamos” estén 
+enfocadas en resolver una preocupación.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Veamos el caso de Andrea, quien realiza una factura 
+por el consumo de gasolina y ella expresa lo siguiente:
+Le desagrada tener que teclear tantos números de folio.
+Desconfía del proceso fiscal si ella por error ingresa un dato 
+incorrecto del ticket.
+No le gusta facturar en nuestro sitio y pierde tiempo si asiste a la 
+oficina a hacerlo presencialmente.
+La interfaz del celular es incómoda porque tiene letras muy 
+pequeñas y no se aprecian los botones.
+No le gusta perder tiempo en facturar.
+Entre líneas, Andrea nos da información desde la perspectiva del servicio 
+que recibe, que no es meramente cargar su tanque, sino todos los 
+momentos de verdad o puntos de contacto que como cliente vive con la 
+gasolinera, que corre riesgo de ya no ser la de su preferencia.
+Los pain points del proceso de facturación de Andrea son los siguientes:
+Es difícil ver en el ticket los números del folio (a veces más de 8 
+dígitos), escribirlos y tener la confusión entre letra “o” y número 
+cero. Es algo que le disgusta.
+Hasta que llena todos los datos se hace la validación o no indica si 
+hay discrepancia en la captura, puede timbrar datos con error, si ella 
+captura que la forma de pago es distinta a la del ticket.
+Es un trámite que no genera valor en proporción al tiempo que le 
+toma.  Es una molestia tener que ir en horario de oficina a que le 
+hagan la factura.
+La interfaz del celular no es amigable, la navegación confusa, no se 
+configura a la pantalla de su teléfono.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Además, podemos percibir que:
+Es interesante que Andrea prefiera dedicar tiempo a la 
+facturación en lugar de cambiar de estación de servicio.
+Es interesante que Andrea se moleste cada vez que realiza el 
+trámite de facturación y que no tome acciones.
+Es interesante que Andrea se acostumbre a un servicio tan 
+incipiente.
+Algo que parece ser importante para Andrea es tener certeza que el 
+llenado de solicitud de factura no tiene margen de error de captura.
+Algo que parece ser importante para Andrea es el tiempo que le 
+consume hacer semanal o mensualmente este trámite.
+Algo que parece ser importante para Andrea es tener una interfaz 
+que le facilite esta gestión.
+Las preguntas que podemos elaborar para comenzar a pensar en soluciones 
+serían las siguientes:
+¿Cómo podríamos hacer que Andrea deje de sentir molestia en el 
+trámite de facturación en esta estación de servicio?
+¿Cómo podríamos hacer que Andrea considere valiosa la interacción 
+con el portal de servicios de facturación?
+¿Cómo podríamos tomar ventaja de la experiencia de Andrea para 
+mejorar a experiencia de usuario?
+¿Cómo podríamos tomar de referencia de Andrea para brindar 
+servicios distintivos en las estaciones de gasolina de la empresa?
+Puedes notar que las pregunta abren enfoques que no son únicamente de la 
+página de facturación o del llenado de datos.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+Reflexiones finales
+¿De qué manera priorizarías las historias de 
+usuario para maximizar el valor entregado 
+durante el proceso de transformación digital?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

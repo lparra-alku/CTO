@@ -1,0 +1,17 @@
+# L4 · Pasos para generar historias de usuarios
+Genially 66046c061876e5001420e4c3 → 66046c3c6df3a30015f1f470
+
+Pasos para generar
+historias de usuarios
+Conoce los pasos para generar una historia de usuario y asegurarte de comprender completamente las necesidades y expectativas del usuario final.
+CODIGO NO BORRAR
+Paso 1 y 2
+Investigación del usuario. Comienza por investigar quiénes son los usuarios finales de tu producto o servicio. Apóyate de entrevistas, encuestas, análisis de datos existentes o cualquier otra técnica de investigación que te permita comprender a tus usuarios. Identificación de personas. Basándote en tus investigaciones, crea perfiles de personas que representen a los diferentes tipos de usuarios de tu producto o servicio. Incluye datos demográficos, comportamientos, necesidades y metas de los usuarios.
+Paso 3 y 4
+Selecciona una historia de usuario para crear. Elije una necesidad específica de un usuario que quieras abordar con tu producto o servicio. Esta necesidad puede surgir de tus investigaciones o de las conversaciones con los interesados. Define el formato de la historia de usuario. Puedes utilizar el formato simple de "Como [tipo de usuario], quiero [realizar una acción] para [lograr un objetivo]". Asegúrate de que la historia esté escrita de manera clara y concisa.
+Paso 5 y 6
+Escribe la historia de usuario. Utiliza el formato definido para escribir la historia de usuario. Asegúrate de que sea específica y centrada en una necesidad clara del usuario. Detalla los criterios de aceptación. Junto con la historia de usuario, incluye una lista de criterios de aceptación que describan las condiciones que deben cumplirse para que la historia se considere completa y satisfactoria.
+Paso 7 y 8
+Revisa y valida la historia de usuario. Revisa la historia de usuario con el equipo de desarrollo, los interesados y, si es posible, con usuarios reales para asegurarte de que sea relevante y completa. Realiza ajustes según sea necesario. Prioriza y planifica la implementación. Una vez que la historia de usuario esté lista y validada, priorízala junto con otras historias en el backlog del producto y planifica su implementación en los ciclos de desarrollo.
+Itera según sea necesario. A medida que el producto o servicio se desarrolle y se pruebe con los usuarios, es posible que necesites ajustar o agregar nuevas historias de usuario para mejorar continuamente su experiencia. Al seguir estos pasos, podrás generar historias de usuario efectivas que guíen el desarrollo de productos o servicios centrados en las necesidades y expectativas de los usuarios finales.
+Continúa con el estudio de la lección.

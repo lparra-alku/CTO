@@ -1,0 +1,59 @@
+# L0 · Cuánto sabes
+Genially 6601f1f25b247c00153196e2
+
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Luis a resolver algunas problemáticas.
+Luis, como experto en Design Thinking, lideró un equipo multidisciplinario para abordar el problema de Big O. El equipo se dedicará a investigar a fondo las necesidades del cliente para cubrirlas y obtener su satisfacción y lealtad. ¿Puedes ayudar a Luis, como líder, en este proceso? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Cuál consideras que es el primer desafío que debe enfrentar Luis para dar solución al problema de Big O?
+Transformar el mindset del equipo de liderazgo empresarial y de todos los colaboradores
+Descubrir las necesidades de los clientes clave de la empresa
+Renovar por completo su catálogo para asemejarlo al de la competencia
+¡Correcto!
+El primer desafío de Luis será ampliar y transformar la mentalidad de todos los miembros de Big O, para enfocarse en un diseño centrado en el humano.
+¡Incorrecto!
+¿Cómo imaginas que Luis y su equipo actuarán en la primera etapa del Design Thinking, que es “Empatizar”?
+Reconocer las necesidades de la empresa para dar su mayor esfuerzo
+Involucrarse en las necesidades, deseos y retos del usuario
+Brindar respuestas a los problemas de los usuarios
+“Empatizar” es la primera etapa de la metodología de Design Thinking y consiste en que el equipo de diseño se involucre en las necesidades, deseos y retos del usuario.
+La primera etapa de la metodología Design Thinking corresponde a la de “Empatizar”, la cual consiste en que el equipo de diseño se involucre en las necesidades, deseos y retos del usuario.
+¿Por qué consideras que Luis eligió la metodología de Design Thinking para la resolución de problemas en Big O?
+Porque es una metodología que requiere ventas físicas para lograr contacto con el usuario
+Porque es una metodología diseñada para la industria de bienes de consumo
+Porque es una metodología que propicia la creatividad y la innovación
+El Design Thinking ayuda a explorar nuevas ideas, opciones y alternativas, lo que propicia la creatividad e innovación, algo indispensable para la resolución de problemas.
+El Design Thinking es una metodología que propicia la creatividad e innovación al explorar nuevas ideas, opciones y alternativas para resolver problemas.
+¿Por qué crees que un diseño centrado en la persona podría aumentar las ventas de Big O?
+Porque un diseño centrado en la persona puede resolver cualquier problema de las organizaciones
+Porque se cubrirían las necesidades de Big O, lo que permitiría producir a mayor volumen
+Porque se diseñarían soluciones específicas para las necesidades del cliente
+Un diseño centrado en la persona significa diseñar soluciones específicas para las necesidades del cliente, lo que realmente causará un impacto en sus vidas y, por ende, recurirrán a los electrodomésticos que Big O ofrece, aumentando las ventas.
+¿Por qué consideras que un equipo multidisciplinario funciona para la resolución del problema en Big O con una metodología Design Thinking?
+Porque un equipo multidisciplinario brinda diferentes perspectivas y complementa habilidades
+Porque un equipo multidisciplinario permite explorar el mercado de manera global
+Porque un equipo multidisciplinario es más rápido y menos costoso
+Las diferentes perspectivas y las habilidades complementarias en los miembros de un equipo interdisciplinario facilita mirar el problema desde diversos ángulos.
+Un equipo multidisciplinario es fundamental con la metodología Design Thinking porque brinda diferentes perspectivas y complementa las habilidades de los miembros, lo que facilita mirar el problema desde diversos ángulos.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

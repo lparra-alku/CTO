@@ -1,0 +1,159 @@
+
+--- p1 ---
+de usuario-persona
+Historias
+¿Conoces plenamente las necesidades de tus 
+usuarios?, ¿podrías “ponerte en sus zapatos” sin 
+dificultad? Conoce cómo crear historias de usuario 
+con el propósito de empatizar y generar una mejor 
+interacción con ellos. 
+
+--- p2 ---
+Las historias de usuario-persona, dentro del contexto 
+de las soluciones digitales, son relatos breves y específicos 
+que describen una interacción entre un usuario y el producto 
+o servicio digital. Se estructuran en torno a un usuario (o persona), una 
+necesidad o tarea específica y el resultado deseado.
+Suelen seguir el formato simple de: 
+Cómo (tipo de usuario).
+Quiero (realizar una acción).
+Para qué (lograr un objetivo).
+Según Scrum México (2020), las historias de usuario son “descripciones 
+cortas y simples de una característica contada desde la perspectiva de la 
+persona que desea la nueva capacidad”.
+Observa el siguiente ejemplo utilizando el formato: 
+cómo, quiero y para qué.
+Actividad: realizar una reserva de hotel en línea
+Cómo: usuario frecuente de viajes de negocios
+Quiero: realizar una reserva de hotel en línea
+Para qué: para garantizar que tenga una habitación 
+disponible durante mi próximo viaje de trabajo.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Hasta aquí es muy clara y simple la construcción 
+de una historia de usuario-persona, sin embargo, 
+falta un elemento importante para que la historia 
+se considere completa y satisfactoria, nos referimos a los 
+criterios de aceptación. Estos criterios describen las 
+funcionalidades o características que se espera que la solución 
+implemente y cómo se evaluará si se han cumplido adecuadamente.
+Continuando con el ejemplo de realizar una reserva de hotel en línea, 
+los criterios de aceptación son los siguientes:
+Como usuario, quiero:
+Poder seleccionar las fechas de entrada y salida de mi estadía.
+Ver una lista de hoteles disponibles en la ubicación que 
+he seleccionado.
+Poder filtrar los resultados por precio, clasificación del hotel y 
+servicios ofrecidos.
+Ver información detallada sobre cada hotel, incluyendo fotos, 
+descripción de habitaciones y comodidades.
+Poder leer comentarios y calificaciones de otros huéspedes para 
+ayudarme a tomar una decisión.
+Poder realizar el pago de mi reserva de manera segura y recibir una 
+confirmación por correo electrónico.
+Tener la opción de cancelar mi reserva y recibir un reembolso según 
+las políticas del hotel.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Esta historia de usuario describe la necesidad de un 
+viajero de negocios de realizar una reserva de hotel 
+en línea para garantizar una estadía cómoda durante 
+un viaje de trabajo. Está estructurada en torno a lo que 
+el usuario quiere lograr y los criterios que deben cumplirse para que la 
+historia se considere completa y satisfactoria. Este tipo de historia 
+ayuda a guiar el desarrollo de una solución digital centrada 
+en las necesidades del usuario.
+Otra forma de estructurar las historias de usuario-persona es a través de la 
+filosofía ágil SCRUM. Se trata de enunciar requerimientos con el formato: 
+piensa, siente, gustaría. Observa el siguiente ejemplo:
+Héctor, como usuario frecuente de cierta aerolínea, piensa que es mejor 
+prevenir ante cambios en su vuelo.
+ 
+Siente incertidumbre cuando viaja solo, porque hay mucha información 
+que llega a su celular en la 
+aplicación de la aerolínea.
+Le gustaría entender todos los 
+procesos en la aplicación y 
+tener información confiable 
+de su vuelo, sin temor a 
+perderlo, y si tiene que 
+esperar, gozar de un espacio 
+para leer o tomar su café.
+Para elaborar estas historias y como ya hemos observado en otras 
+lecciones, la empatía hacia tus usuarios es fundamental porque permite 
+una comprensión profunda de sus necesidades, la identificación de pain 
+points, el diseño centrado en el usuario, la innovación significativa y la 
+fidelización del usuario. No obstante, la generación de estas historias se 
+ubica en la etapa Define, dentro del siguiente esquema:
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+En la etapa de “Definir” se busca enmarcar la historia de cada persona con 
+la definición del problema o preocupación que la propuesta solucionará. La 
+definición será un enunciado de valor para descubrir los pain points de 
+cada persona y se listarán como requerimientos.
+ 
+Si bien es imposible resolver todas las preocupaciones de cada persona o 
+usuario, contar con esta información, permite considerar la inclusión 
+incremental, así como la iteración de cada versión de la solución. Por ello se 
+sostiene que este proceso es artesanal y también técnico. La complejidad de 
+tantos “puntos de vista” se analiza con datos y dentro de la experiencia para 
+diseñar soluciones digitales.
+Observación
+Inmersión
+Customer
+Journey
+Map
+Definir el reto
+Entender el
+problema
+Posibles 
+soluciones
+Brainstorming
+Empatizar
+Definir
+Idear
+Prototipar
+Evaluar
+Pensamiento
+lateral
+Los seis 
+sombreros 
+para pensar
+Usar una 
+muestra del 
+mercado meta
+Focus groups
+Modelos
+Simulaciones
+Construir un
+modelo 
+rápido
+Falla rápido,
+seguro y 
+barato
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Reflexiones finales
+¿Qué medidas puedes tomar como líder para 
+garantizar que las historias de usuario sean lo 
+suficientemente detalladas y comprensibles 
+para los equipos de desarrollo de soluciones?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

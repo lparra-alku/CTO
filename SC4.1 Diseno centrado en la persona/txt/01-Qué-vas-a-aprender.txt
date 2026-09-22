@@ -1,0 +1,60 @@
+
+--- p1 ---
+Estrategia de diseño centrado 
+en la persona
+¿Qué vas a aprender?  
+Las diferencias entre enfoque 
+centrado en la persona, enfoque 
+centrado en el usuario y user 
+experience. 
+Los puntos clave en las etapas de 
+Empatizar, Definir e Idear y las 
+herramientas útiles para llevar a 
+cabo los procesos necesarios. 
+La importancia de lograr un 
+conocimiento profundo del 
+cliente para empatizar con 
+sus necesidades y brindarles 
+soluciones impactantes y 
+relevantes. 
+Cómo utilizar la metodología de 
+Design Thinking para construir 
+soluciones digitales innovadoras 
+que contemplen las necesidades 
+de los usuarios. 
+Muchas organizaciones no se dan cuenta de la necesidad de aplicar diferentes estrategias y 
+metodologías para alcanzar sus metas como empresas. Por eso, en este curso conocerás: 
+Así que te damos la bienvenida al curso
+“Estrategia de diseño centrado en la persona”.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p2 ---
+Material de consulta
+Brown, T., & Katz, B. (2009). Change by Design: How Design Thinking 
+Transforms Organizations and Inspires Innovation. Harper 
+Business.
+Clayton M. Christensen. (1997). The Innovator’s Dilemma: When New 
+Technologies Cause Great Firms to Fail. Harvard Business School 
+Press. 
+Buley, L. (2013). The User Experience Team of One: A Research and 
+Design Survival Guide. Rosenfeld. 
+Conceptos básicos de diseño 
+Estrategias para el diseño 
+Necesidades y perfil de usuario 
+
+--- p3 ---
+Material de consulta
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Scrum México. (02 de agosto de 2020). Escribiendo Historias de Usuario. 
+https://scrum.mx/informate/historias-de-usuario#ejemplosdehdu   
+Kitch, B. (02 de febrero de 2023). Cómo identificar puntos débiles en la 
+experiencia del usuario [+ Plantillas]. Mural. https://www.mural.
+co/blog/identify-user-pain-points  
+López, V., Martí, P., & Parra, R. (2016). Design Thinking para la 
+innovación estratégica. LID Editorial Empresarial. 
+Plattner, H., Meinel, C., & Leifer, L. (Eds.). (2011). Design Thinking: 
+Understand – Improve – Apply. Springer. 
+Usuario-Persona 
+Ideación 

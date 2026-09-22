@@ -1,0 +1,156 @@
+
+--- p1 ---
+Relación TI-Persona-Proceso
+Articulando la 
+estrategia de 
+transformación 
+digital:
+En la articulación de la estrategia de transformación digital desde el 
+enfoque centrado en la persona, se busca alinear la tecnología con las 
+necesidades y expectativas de los usuarios finales, así como mejorar los 
+procesos para hacerlos más eficientes.
+
+--- p2 ---
+Piensa en los albores de los sistemas computaciones, 
+seguramente vienen a tu mente procesos repetitivos, no 
+obstante, en las últimas décadas hemos sido testigos de una 
+revolución tecnológica que ha transformado radicalmente todos los 
+ámbitos de nuestra vida diaria.  
+Desde la invención de la computadora personal hasta la omnipresencia de los 
+teléfonos inteligentes y el internet de las cosas, la tecnología se ha convertido en 
+una herramienta indispensable que impulsa las expectativas de los 
+consumidores; mismas que son altamente cambiantes, lo cual ha generado una 
+creciente presión en las organizaciones para adaptarse y satisfacer estas 
+demandas. Desde la adopción de herramientas digitales para mejorar la 
+eficiencia operativa hasta la creación de experiencias de cliente más 
+personalizadas y envolventes, las organizaciones se enfrentan a la necesidad de 
+transformar sus procesos, modelos de negocio y cultura para mantenerse 
+competitivas en un entorno digitalmente impulsado. 
+Hoy en día se existen muchos casos radicales de transformación que han 
+cambiado la historia de los servicios, un ejemplo de esto es la existencia de 
+múltiples plataformas digitales, el uso de la inteligencia artificial (IA), entre 
+otras herramientas, producto de la innovación.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+La innovación es un componente esencial en la transformación digital, ya que 
+impulsa el cambio, fomenta la creatividad y la adaptabilidad, permitiendo a las 
+organizaciones mantenerse al día con las tendencias tecnológicas emergentes y 
+las demandas del mercado. Además, abre posibilidades en la combinación de 
+elementos TI-Persona-Proceso.
+En el enfoque centrado en la persona en la articulación de la estrategia de 
+transformación digital, la relación entre Tecnología de la Información (TI), 
+Persona y Proceso es fundamental para garantizar el éxito de la transformación. 
+A continuación, se explica esta relación: 
+▪
+Tecnología de la Información (TI): La 
+TI incluye todas las herramientas, sistemas 
+y plataformas tecnológicas utilizadas en una 
+organización. En la estrategia de 
+transformación digital, la TI es el vehículo a 
+través del cual se implementan cambios 
+tecnológicos para mejorar procesos, 
+servicios y productos.
+▪
+Persona: Las personas son los usuarios 
+finales de la tecnología y los participantes 
+clave en los procesos organizacionales. 
+Desde el enfoque centrado en la persona, se 
+reconoce la importancia de comprender las 
+necesidades, preferencias y experiencias de 
+los usuarios al interactuar con la tecnología.
+Innovación como pilar
+de la estrategia de transformación
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+▪
+Proceso: Los procesos organizacionales son secuencias de actividades 
+diseñadas para lograr objetivos específicos. En la transformación digital, 
+se busca mejorar estos procesos mediante la implementación de 
+tecnología adecuada y la consideración de las necesidades de las personas 
+involucradas.
+Asimismo, en esta triple relación hay un eje rector, este es la innovación, la 
+cual, a través de la combinación de TI-Persona-Proceso, permite:  
+▪
+Realizar cambios en el producto/servicio (adaptarse las peticiones del 
+cliente y comprender cómo la tecnología puede satisfacerlas de manera 
+óptima).
+▪
+Realizar cambios en la percepción del producto o servicio, ya que se debe 
+crear un ecosistema digital en torno a él (canales de venta, campañas 
+digitales, interacción con el cliente por diversos medios, etc.).
+Proceso
+TI
+Innovación
+Persona
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+▪
+Mejorar los procesos con los cuales la persona interactúa (por ejemplo, 
+el diseño de interfaces de usuario intuitivas y amigables que mejoren la 
+experiencia del usuario o bien incorporar la retroalimentación de los 
+usuarios en el desarrollo y mejora continua de la tecnología y los 
+procesos).
+▪
+Mejorar el delivery (formato de entrega) o tiempo de acercamiento del 
+producto o servicio (a un clic de distancia).
+▪
+Accesibilidad omnicanal o en el servicio con efecto Wow esperado 
+(asegurar la accesibilidad de la tecnología para garantizar que todos los 
+usuarios puedan utilizarla de manera efectiva).
+En pocas palabras, la relación entre TI, Persona y Proceso en la articulación de 
+la estrategia de transformación digital desde el enfoque centrado en la persona 
+debe garantizar que la tecnología se adapte a las necesidades y preferencias de 
+los usuarios, y que los procesos organizacionales se optimicen para brindar una 
+experiencia positiva y efectiva a todas las partes interesadas. 
+Para entender mejor esto analiza el 
+siguiente ejemplo: 
+Piensa en un pescador, el cual cuenta 
+con las herramientas (red, 
+embarcación), los conocimientos 
+técnicos y las habilidades necesarias 
+para pescar; desde una lógica 
+simplista el pescador solo debe 
+atrapar un gran número de peces 
+para después venderlos y entre 
+mayor sea la pesca, mayores serán las 
+ganancias y el crecimiento de su 
+negocio.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Esta misma lógica fue adoptada por un gran número de empresas, las cuales 
+guiadas por el pensamiento de “tienda de esquina” asumieron que con estar ahí 
+era suficiente, apostando a la ubicación o acceso como su principal factor de 
+crecimiento, donde “no importa conocer a la persona y sus conductas, 
+seguramente llegará”. No obstante, esta forma de operar no es sostenible a 
+largo plazo, si bien hay un producto/servicio y una infraestructura básica, no 
+existe una estrategia; esto se traduce en tener negocio con campañas aisladas o 
+un sitio web que no genera nada.   
+Ahora piensa en una embarcación atunera, equipada con radares, 
+comunicación satelital, sonares, congeladores especiales (Tecnologías TI). Todo 
+este equipo le permite obtener datos sobre dónde se encuentran los 
+cardúmenes (Procesos). Ahora el barco sabe a dónde dirigirse y qué hacer para 
+atrapar a los peces (Personas). El barco representa una inversión fuerte, pero le 
+lleva al alto desempeño.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones
+¿Qué medidas estás tomando para garantizar que la 
+tecnología que implementas mejore no solo la eficiencia 
+de los procesos de tu empresa, sino también la 
+experiencia general del usuario y la satisfacción del 
+cliente?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

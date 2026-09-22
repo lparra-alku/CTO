@@ -1,0 +1,64 @@
+# L5 · Pruébate
+Genially 660c4ae5eb753100148e3574
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Ángel a resolver algunas problemáticas.
+Ángel es el encargado de liderar la transformación digital de EcoFunda, una empresa de productos de limpieza ecológicos, artículos de cuidado personal orgánicos y utensilios de cocina sostenibles. Le han solicitado que implemente la metodología SCAMPER durante la etapa de ideación como parte del Design Thinking que están implementando, ¿podrías ayudarlo? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Lo primero que le pidieron a Ángel es una sesión de ideación, ¿cuál sería el propósito de realizar un ejercicio de este tipo?
+Demostrar la versatilidad de los productos que comercializa la empresa
+Estimular la creatividad y la generación de ideas diversas
+Limitar el pensamiento creativo a ideas convencionales
+¡Correcto!
+Las sesiones de ideación buscan estimular la creatividad al generar una amplia variedad de ideas para un objeto común como los que comercializa o puede comercializar la empresa.
+¡Incorrecto!
+Incorrecto. Recuerda que las sesiones de ideación buscan estimular la creatividad al generar una amplia variedad de ideas para un objeto común como los que comercializa o puede comercializar la empresa.
+Ángel tiene duda sobre ¿cuál será su papel como moderador durante la sesión de ideación?
+Cuidar que todos participen y evitar descalificaciones de ideas o personas
+Motivar a los participantes a generar solo "grandes ideas"
+Filtrar y seleccionar las ideas más prometedoras
+El moderador juega un papel clave en fomentar la participación equitativa y crear un ambiente propicio para la generación de ideas.
+Incorrecto. La respuesta correcta es la opción c) Cuidar que todos participen y evitar descalificaciones de ideas o personas. Recuerda que el moderador juega un papel clave en fomentar la participación equitativa y crear un ambiente propicio para la generación de ideas.
+Ante la realización de la sesión, Ángel tiene dudas sobre ¿cuál es la premisa fundamental durante la etapa de ideación?
+Todas las ideas son un comienzo y pueden inspirar nuevas perspectivas
+Cada idea debe ser perfecta desde el principio
+Solo las ideas más viables deben ser consideradas
+La premisa de que todas las ideas son un comienzo es fundamental para fomentar la generación creativa y colaborativa de soluciones.
+Recuerda que la premisa fundamental es que todas las ideas son un comienzo y pueden inspirar nuevas perspectivas.
+Según la metodología SCAMPER, ¿a qué etapa corresponde la siguiente propuesta: Ofertar servicios de asesoramiento en línea sobre prácticas sostenibles además de su oferta de productos ecológicos y orgánicos?
+Sustituir
+Combinar invita a fusionar ideas para fortalecer argumentos. Esto surge al plantear la pregunta: "¿Podemos combinar varias características o propuestas?".
+Incorrecto. La respuesta correcta es la opción b) Combinar. Esta etapa invita a fusionar ideas para fortalecer argumentos y surge al plantear la pregunta: "¿Podemos combinar varias características o propuestas?".
+Por último, Ángel tiene la duda sobre ¿cómo se podría llevar a cabo una propuesta desde la etapa de Eliminar?
+Agregar funciones de chat en vivo para brindar soporte instantáneo a los clientes
+Implementar un sistema de gestión de documentos digitales para reducir el uso de papel
+Ofrecer cursos en línea sobre sostenibilidad ambiental, además de vender sus productos
+La empresa podría eliminar la necesidad de recibir documentación en papel al implementar un sistema de gestión de documentos digitales.
+Ten presente que Eliminar es una etapa que nos desafía a considerar qué funcionalidades o servicios podríamos prescindir para mejorar la experiencia del usuario.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.

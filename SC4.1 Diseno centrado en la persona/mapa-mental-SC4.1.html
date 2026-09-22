@@ -1,0 +1,107 @@
+<title>Diseño Centrado en la Persona</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600;700&display=swap">
+<style>
+:root{
+  --ground:#F6F7F9; --surface:#FFFFFF; --sunken:#EDF0F4;
+  --ink:#151A21; --ink-2:#3D4753; --ink-3:#6B7684; --line:#D9DEE6;
+  --c1:#1F6F5C; --c1-bg:#E3F0EB;
+  --c2:#8A5212; --c2-bg:#F8EDDD;
+  --c3:#1B4F8A; --c3-bg:#E2ECF7;
+  --c4:#96203C; --c4-bg:#F9E4E8;
+  --c5:#57338F; --c5-bg:#EDE6F7;
+  --flag:#8A5A00; --flag-bg:#FBF1DC; --flag-line:#E4C77E;
+  --star:#0B6E64; --star-bg:#E4F1EE;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#63CCAF; --c1-bg:#0F2A23;
+  --c2:#E0AE63; --c2-bg:#2C2012;
+  --c3:#7FB2EA; --c3-bg:#121F30;
+  --c4:#EE8199; --c4-bg:#2F1219;
+  --c5:#B79BE8; --c5-bg:#1F1630;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}}
+:root[data-theme="dark"]{
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#63CCAF; --c1-bg:#0F2A23;
+  --c2:#E0AE63; --c2-bg:#2C2012;
+  --c3:#7FB2EA; --c3-bg:#121F30;
+  --c4:#EE8199; --c4-bg:#2F1219;
+  --c5:#B79BE8; --c5-bg:#1F1630;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  line-height:1.5;padding:clamp(20px,4vw,52px) clamp(14px,4vw,44px) 72px;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(22px,3vw,34px)}
+
+header{display:flex;flex-direction:column;gap:10px;padding-bottom:20px;border-bottom:2px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:"IBM Plex Serif",Georgia,serif;font-weight:700;margin:0;
+  font-size:clamp(28px,5.2vw,44px);letter-spacing:-.02em;text-wrap:balance;line-height:1.12}
+.sub{color:var(--ink-2);max-width:62ch;font-size:15.5px;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2);
+  background:var(--sunken);border:1px solid var(--line);border-radius:3px;padding:4px 9px}
+
+.branch{display:grid;grid-template-columns:minmax(150px,200px) 1fr;gap:clamp(14px,2.4vw,30px);
+  align-items:start}
+.stem{position:sticky;top:20px;display:flex;flex-direction:column;gap:7px;
+  padding:13px 15px;border-radius:4px;background:var(--bg);border-left:4px solid var(--hue)}
+.stem .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--hue);font-weight:600}
+.stem h2{font-family:"IBM Plex Serif",Georgia,serif;font-size:18px;font-weight:600;margin:0;
+  line-height:1.24;text-wrap:balance;color:var(--ink)}
+.stem p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.42}
+
+.nodes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));
+  padding-left:clamp(12px,1.6vw,20px);border-left:1px dashed var(--line)}
+.node{background:var(--surface);border:1px solid var(--line);border-radius:4px;
+  padding:13px 15px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.node h3{margin:0;font-size:12.5px;font-weight:600;letter-spacing:.01em;color:var(--hue);
+  display:flex;align-items:baseline;gap:7px}
+.node h3 .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-3);
+  letter-spacing:.06em;font-weight:500}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+li{font-size:13.5px;color:var(--ink-2);padding-left:13px;position:relative;line-height:1.42}
+li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:1.5px;background:var(--hue);opacity:.65}
+li b{color:var(--ink);font-weight:600}
+.seq{counter-reset:s;gap:5px}
+.seq li{padding-left:24px}
+.seq li::before{counter-increment:s;content:counter(s);width:auto;height:auto;background:none;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--hue);font-weight:600;
+  top:1px;opacity:1}
+
+.flag,.star{border-radius:4px;padding:15px 17px;display:flex;flex-direction:column;gap:7px}
+.flag{background:var(--flag-bg);border:1px solid var(--flag-line)}
+.star{background:var(--star-bg);border:1px solid var(--star);border-left-width:4px}
+.flag .lbl,.star .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;font-weight:600}
+.flag .lbl{color:var(--flag)} .star .lbl{color:var(--star)}
+.flag h3,.star h3{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.flag p,.star p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:74ch}
+.flag b,.star b{color:var(--ink)}
+
+.rank{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));margin-top:3px}
+.rk{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:10px 12px;
+  display:flex;flex-direction:column;gap:3px}
+.rk .p{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--star);font-weight:600}
+.rk .t{font-size:13px;font-weight:600;color:var(--ink)}
+.rk .d{font-size:12px;color:var(--ink-3);line-height:1.38}
+
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--ink-3);font-size:12.5px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;font-family:"IBM Plex Mono",monospace}
+@media (max-width:720px){
+  .branch{grid-template-columns:1fr;gap:12px}
+  .stem{position:static;border-left-width:4px}
+  .nodes{padding-left:0;border-left:none}
+}
+</style>
+
+<div class="wrap"><header><div class="eyebrow">Chief Digital Transformation Officer · SC 4.1</div><h1>Estrategia de Diseño Centrado en la Persona</h1><p class="sub">Los datos y los perfiles no bastan: hay que conocer a la persona, sus sentimientos y sus pain points, antes de diseñar cualquier solución digital. Un taller de las tres primeras fases del Design Thinking —empatizar, definir, idear— que el Reto pide hacer con personas reales.</p><div class="meta"><span class="chip">Evaluación 40 % · 25 preguntas · 3 intentos</span><span class="chip">Reto 60 % · Mejorando la experiencia del cliente</span><span class="chip">Experta: Claudia Aja Leyva</span></div></header><section class="branch" style="--hue:var(--c1);--bg:var(--c1-bg)"><div class="stem"><div class="n">LECCIÓN 1</div><h2>Conceptos básicos</h2><p>Persona, usuario, Design Thinking</p></div><div class="nodes"><div class="node"><h3>Las personas en el centro</h3><ul><li><b>Rogers</b>: procesos + tecnología + <b>personas</b></li><li><b>HCD</b>: de “usuario” a “humano”, con <b>pain points</b></li><li>Retos: cambiar el <b>mindset</b> y el dominio tecnológico</li><li>Caso TriBanco: Isabel no domina las apps</li></ul></div><div class="node"><h3>Buyer · User · Usuario</h3><ul><li><b>BuyerPersona</b>: comprador ideal, sociodemográfico → marketing</li><li><b>UserPersona</b>: usuario típico, metas → diseño</li><li><b>Usuario</b>: cualquiera que interactúa</li><li style="color:var(--ink-3)">Encuestas y focus groups tienen sesgo</li></ul></div><div class="node"><h3>Design Thinking</h3><ul><li>d.school de Stanford, 2005 · <b>David Kelley</b></li><li>Empatía · prototipo · historias</li><li>Iterativo, no determinista, se construye <b>con</b> la persona</li><li>Fin: <b>anticiparse a los hábitos del usuario</b></li></ul></div></div></section><section class="branch" style="--hue:var(--c2);--bg:var(--c2-bg)"><div class="stem"><div class="n">LECCIÓN 2</div><h2>Estrategias para el diseño</h2><p>Actores, TI-Persona-Proceso, BSC</p></div><div class="nodes"><div class="node"><h3>Persona · UX · DT</h3><ul><li><b>Persona</b> = comprender las necesidades</li><li><b>UX</b> = plataforma intuitiva</li><li><b>Design Thinking</b> = sesiones colaborativas, soluciones nuevas</li></ul></div><div class="node"><h3>Actores y relación TI-Persona-Proceso</h3><ul><li><b>Líderes</b>: visión y dirección estratégica</li><li>Departamentos · socios · TI · clientes</li><li>TI-Persona-Proceso con la <b>innovación</b> como eje rector</li><li>El pescador contra el barco atunero</li></ul></div><div class="node"><h3>Traducir la estrategia</h3><ul><li><b>FODA</b> + <b>Balanced Scorecard</b></li><li>BSC: financiera · cliente · procesos · aprendizaje</li><li>La hamburguesa: mismo producto, otra percepción</li></ul></div></div></section><section class="branch" style="--hue:var(--c3);--bg:var(--c3-bg)"><div class="stem"><div class="n">LECCIÓN 3</div><h2>Necesidades y perfil</h2><p>Empatizar</p></div><div class="nodes"><div class="node"><h3>Conocer a la persona</h3><ul><li>Habilidad: <b>preguntas concretas</b></li><li>4 pilares de compra: tienda · e-commerce · reseñas · IA</li><li>Mapa de calor · walkthrough · el no-cliente</li><li><b>Cuestionario cerrado = estadísticas</b>, no pain points</li></ul></div><div class="node"><h3>DT y HCD</h3><ul><li>En común: <b>necesidades humanas</b>, empatía, iteración</li><li>DT sigue el <b>método científico</b></li><li><b>Empatizar → Definir → Idear → Prototipar → Probar</b></li><li>Entrevista empática: 2 a 15 min · guardar silencio</li></ul></div><div class="node"><h3>Mapa de empatía</h3><ul><li>Información <b>interpretada</b>, no literal</li><li>Piensa y siente · oye · ve · dice y hace</li><li><b>Esfuerzos</b> (miedos) · <b>resultados</b> (beneficios)</li><li>“Me parece interesante que…”</li></ul></div></div></section><section class="branch" style="--hue:var(--c4);--bg:var(--c4-bg)"><div class="stem"><div class="n">LECCIÓN 4</div><h2>Usuario-persona</h2><p>Definir</p></div><div class="nodes"><div class="node"><h3>Historias de usuario</h3><ul><li><b>Como</b>… <b>quiero</b>… <b>para</b>… + criterios de aceptación</li><li>“SCRUM” (según el curso): <b>piensa · siente · gustaría</b></li><li>8 pasos: investigar → personas → <b>seleccionar historia</b> → … → backlog</li></ul></div><div class="node"><h3>5 porqués</h3><ul><li>Razones, preocupaciones y conductas</li><li><b>Redefinir el problema</b> varias veces</li><li>Caso Héctor: desconfía de la app de la aerolínea</li></ul></div><div class="node"><h3>¿Cómo podríamos…?</h3><ul><li><b>Cómo + podríamos + hacer que + persona + resuelva…</b></li><li>“Podríamos”, no “podemos” · “nosotros”</li><li>Pain points = dificultad, frustración, preocupación</li><li>Caso Andrea: facturar la gasolina</li></ul></div></div></section><section class="branch" style="--hue:var(--c5);--bg:var(--c5-bg)"><div class="stem"><div class="n">LECCIÓN 5</div><h2>Ideación</h2><p>Idear sin juzgar</p></div><div class="nodes"><div class="node"><h3>Sesión de ideación</h3><ul><li>Premisa: <b>cada idea es un comienzo</b></li><li>Cantidad · rondas cronometradas · “estacionamiento”</li><li><b>Moderador</b>: que todos participen, sin descalificar</li><li>Ejercicios: astronauta · 50 usos de una caja</li></ul></div><div class="node"><h3>Barreras y conceptos</h3><ul><li>“Así lo hemos hecho siempre” · “saldrá caro”</li><li><b>Miedo a equivocarse</b> → “equivócate pronto”</li><li><b>Creatividad</b> genera · <b>innovación</b> materializa y se administra</li></ul></div><div class="node"><h3>SCAMPER</h3><ul class="seq"><li><b>S</b>ustituir</li><li><b>C</b>ombinar (asesoría + productos)</li><li><b>A</b>daptar · <b>M</b>odificar</li><li><b>P</b>oner otro uso</li><li><b>E</b>liminar (papel → gestión documental)</li><li><b>R</b>eordenar</li></ul></div></div></section><footer><span>Mapa de estudio · SC 4.1</span><span>Tec de Monterrey · The Learning Gate</span><span>Sept 2026</span></footer></div>

@@ -1,0 +1,17 @@
+# L2 · Articulando la estrategia Identificación de actores clave
+Genially 6605cec51876e50014c882e8 → 64d680dc42f79a0017b053ab → 6605ceb56df3a30015a28bbc
+
+Articulando la estrategia de transformación digital:
+Identificación de actores clave
+Para articular una estrategia de transformación efectiva es necesario identificar a los actores clave para comprender las necesidades, deseos, comportamientos y experiencias que darán pie a la creación de nuevas soluciones que atiendan estás necesidades.
+CODIGO NO BORRAR
+Continúa con el estudio de la lección.
+Para articular tu estrategia de manera efectiva, es esencial identificar a los actores clave que serán responsables de impulsar, implementar y mantener este proceso de transformación. Entre los actores clave se encuentran: Los líderes ejecutivos. Departamentos funcionales (Marketing, Ventas, Recursos Humanos, Operaciones o Finanzas). Socios externos. Equipo de TI y Tecnología. Clientes y usuarios finales.
+Líderes ejecutivos
+Los líderes ejecutivos, como el CEO y otros altos directivos, tienen la responsabilidad de establecer la visión y la dirección estratégica para la transformación digital. Su liderazgo es fundamental para alinear a toda la organización en torno a los objetivos de la transformación, asignar recursos adecuados y proporcionar el apoyo necesario para superar los desafíos y obstáculos.
+Departamentos funcionales
+Representan áreas de la organización que se verán afectadas por los cambios. Su participación es crucial para garantizar la alineación de las estrategias y procesos con los objetivos de la transformación digital, así como para impulsar la adopción y la implementación efectiva de nuevas tecnologías y prácticas.
+Socios externos
+Los socios externos, como proveedores de tecnología, consultores, agencias de marketing digital y otros colaboradores, pueden aportar experiencia especializada y recursos adicionales que complementan los esfuerzos internos de transformación digital. Su participación puede ser clave para acelerar el proceso de transformación y superar posibles desafíos técnicos o de recursos.
+Equipos de TI/Clientes y usuarios finales
+Equipo de TI y Tecnología: Son responsables de identificar, implementar y gestionar las soluciones tecnológicas necesarias para modernizar los procesos y sistemas de la organización, así como de garantizar la seguridad y la integridad de los datos. Clientes y usuarios finales: Su retroalimentación y participación en el proceso de transformación son esenciales para garantizar que las soluciones digitales sean efectivas, relevantes y satisfactorias.

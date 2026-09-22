@@ -1,0 +1,28 @@
+# L1 · Metodologías de Diseño centrado en la persona Cómo conocer a tu usuario
+Genially 65aefce2189e990014fde4e8
+
+Metodologías
+de Diseño centrado en la persona: ¿cómo conocer a tu usuario?
+¿Cómo llegar a conocer a la persona? ¿cómo justificar nuestros procesos, mejoras o nuevas tecnologías en “la persona” si no la conocemos?
+Conceptos fundamentales
+Como viste en el caso de TriBanco, se analizó la problemática y se construyeron soluciones específicas para todas y todos los usuarios, pero ¿cómo se definió el enfoque de la estrategia? Para dar respuesta a este cuestionamiento, primero se deben analizar tres conceptos fundamentales en el diseño centrado en la persona: UserPersona, BuyerPersona y Usuario.
+BuyerPersona
+UserPersona
+Comprender las definiciones y diferencias entre User Persona, Buyer Persona y Usuario es esencial para aplicar de manera efectiva las metodologías de diseño centrado en la persona. Esto permite una toma de decisiones más informada, una experiencia del usuario más coherente y una optimización continua de productos y servicios.
+Formas de conocer al cliente
+Es importante recordar que tu estrategia de transformación digital debe basarse en una persona real a quien te acercarás, entrevistarás, conocerás bien, por ello es importante revisar cuáles son las formas de recopilar información para conocer a tus usuarios.
+Ciclo de vida de desarrollo de sistemas en modelo cascada : enfoque que sigue un flujo lineal y secuencial, donde las fases se ejecutan de manera ordenada y progresiva. Enfoques agiles de solución de problemas: basados en iteraciones con mayor frecuencia y prototipos casi funcionales que permiten que el usuario pueda retroalimentar la solución. Son los tiempos de usuarios y sus historias. Algunos ejemplos son Ágile, SCRUM, KanBan.
+Focus group: consiste en reunir a un grupo de personas, con ciertas características, para conocer lo que piensan de nuestra marca, producto o servicio. Encuestas de salida: son opiniones también con sesgo por el tipo de preguntas cerradas o cuantitativas que se hacen. Datos e inteligencia de negocio: es un buen acercamiento, pero no nos lleva en directo a identificarnos con la persona.
+También es común querer conocer al cliente a través de datos e inteligencia de negocio, aunque es un buen acercamiento no nos lleva en directo a identificarnos con la persona.
+Descubrir la esencia del usuario es clave en el diseño centrado en la persona. Desde encuestas hasta métodos ágiles, la empatía impulsa la creación. Continua con el siguiente recurso para conocer en qué consiste el D esing Thinking y cómo puede aportar a un proceso de transformación digital centrado en la persona.
+Piensa en algún departamento de tu empresa o en alguna de tus actividades laborales y reflexiona la siguiente pregunta:
+Gracias por tu respuesta
+¿Cómo puedes aplicar estos métodos para comprender a tu audiencia y mejorar su experiencia con tu producto o servicio?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Analistas de negocio y desarrolladores tienen un acercamiento con la identificación de ese usuario-persona, aunque la intención sea tener definición de requerimientos funcionales.
+Se fundamenta en el proceso, flujos, observación, análisis de documentos por ende ¡la persona no es el centro estratégico!
+Representación ficticia de un comprador ideal basada en datos socio demográficos, estadísticos y conductuales, además incluye emociones y desafíos. Se enfoca en el comprador para orientar las estrategias de marketing.
+Hay un acercamiento a la persona, pero solamente con las preguntas que nos convienen o con personas que alguien seleccionó.
+Representación ficticia y detallada de un usuario típico basada en datos demográficos, comportamientos, necesidades y metas reales. Se enfoca en comprender las características, preferencias y desafíos para guiar el diseño de soluciones y productos.
+Término general que puede abarcar tanto al usuario final como a cualquier persona que interactúe con el producto o servicio, independientemente de si están involucrados en el proceso de compra.

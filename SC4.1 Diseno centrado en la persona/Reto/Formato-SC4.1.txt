@@ -1,0 +1,259 @@
+﻿
+Reto | Mejorando la experiencia del cliente
+
+Entregable final del reto 
+Documento editable por el participante
+
+ 
+
+Nombre del participante: 
+
+Indicaciones: 
+  
+Lo primero que debes hacer es generar una copia de este documento y editarla con tu nombre de la siguiente manera: tunombre_Reto_SC4.1 
+
+Al finalizar el reto, conviértelo en archivo PDF y súbelo como evidencia presionando el botón “Subir archivo”.
+
+El archivo entregable será evaluado con base en el cumplimiento de los requerimientos y a su contenido.
+
+
+
+Instrucciones: 
+Tu tarea es entender las necesidades y preocupaciones de los usuarios para proponer soluciones que satisfagan sus expectativas y resuelvan sus problemas de manera efectiva.
+Recuerda: 
+Mantén un enfoque centrado en la persona durante todas las etapas del proceso. 
+Deja volar tu creatividad y mantén una posición abierta para nuevas ideas y perspectivas. 
+Documenta tu proceso y los hallazgos clave en cada etapa. 
+¡Diviértete y disfruta del desafío de entender las necesidades de tus usuarios!
+
+
+
+
+
+
+
+
+PASO 1. Definición del contexto
+Identifica y define los diferentes stakeholders de tu industria (por ejemplo, clientes, proveedores, competidores, reguladores, etc.), así como las tendencias del mercado y las necesidades y preocupaciones comunes de los usuarios en este ámbito. Con esta información, elige y justifica el proceso, producto o servicio que diseñarás para mejorar la experiencia del cliente.
+
+TABLA 1
+Industria o sector de análisis: 
+
+Análisis de contexto
+
+Proceso/Producto/Servicio/Solución a crear
+
+
+
+
+
+PASO 2: Fase de empatía (Identificación de usuarios)
+Selecciona al usuario específico que deseas perfilar: puede ser un cliente, cliente potencial, usuario interno u otro stakeholder relevante para tu proyecto o producto. En la siguiente tabla, recupera su información general, como el tipo de usuario, sus datos demográficos y las características psicográficas.
+
+TABLA 2
+Usuario/Segmento de usuarios
+
+Datos demográficos
+
+Características psicográficas 
+
+
+
+
+
+Luego, elabora un Mapa de empatía para comprender mejor las necesidades, deseos, emociones y comportamientos del usuario que elegiste.
+
+Mapa de empatía
+¿Qué piensa y qué siente?
+¿Qué oye?
+¿Qué ve?
+¿Qué dice y qué hace?
+¿Cuáles son sus esfuerzos?
+
+¿Cuáles son los resultados?
+
+
+PASO 3: Entrevistas y observación 
+Diseña una entrevista con al menos cinco preguntas (y puedes extenderlas hasta 10 preguntas) y aplícala por lo menos a tres personas que cumplan con el perfil de usuario que identificaste en el paso anterior. Recuerda utilizar preguntas abiertas para comprender las experiencias, necesidades, preocupaciones y sugerencias de tus usuarios
+.
+TABLA 3
+Pregunta 1
+
+Pregunta 2
+
+Pregunta 3
+
+Pregunta 4
+
+Pregunta 5
+
+Pregunta 6
+
+Pregunta 7
+
+Pregunta 8
+
+Pregunta 9
+
+Pregunta 10 
+
+
+Sustituye el texto de la columna izquierda por las preguntas que diseñaste y transcribe las respuestas a cada pregunta en la columna derecha de las TABLAS 3A, 3B y 3C.
+
+TABLA 3A: 
+Respuestas persona 1
+Pregunta 1
+
+Pregunta 2
+
+Pregunta 3
+
+Pregunta 4
+
+Pregunta 5
+
+Pregunta 6
+
+Pregunta 7
+
+Pregunta 8
+
+Pregunta 9
+
+Pregunta 10 
+
+
+
+
+
+
+
+
+
+TABLA 3B: 
+Respuestas persona 2
+Pregunta 1
+
+Pregunta 2
+
+Pregunta 3
+
+Pregunta 4
+
+Pregunta 5
+
+Pregunta 6
+
+Pregunta 7
+
+Pregunta 8
+
+Pregunta 9
+
+Pregunta 10 
+
+
+
+
+
+
+
+
+
+TABLA 3C: 
+Respuestas persona 3
+Pregunta 1
+
+Pregunta 2
+
+Pregunta 3
+
+Pregunta 4
+
+Pregunta 5
+
+Pregunta 6
+
+Pregunta 7
+
+Pregunta 8
+
+Pregunta 9
+
+Pregunta 10 
+
+
+
+
+
+
+
+
+
+
+
+
+PASO 4: Análisis de datos
+Utiliza las transcripciones de la TABLA 3A, 3B y 3C del Paso 3 para categorizar los datos y encontrar problemas, patrones, tendencias, oportunidades y desafíos en común. 
+
+TABLA 4
+Problemas encontrados
+
+Patrones encontrados
+
+Tendencias encontradas
+
+Oportunidades encontradas
+
+Desafíos encontrados
+
+
+
+Si lo crees necesario, puedes generar diagramas visuales e integrarlos a continuación.
+
+Diagramas visuales generados
+
+
+
+
+
+
+PASO 5: Ideación 
+Genera al menos tres propuestas de solución basadas en las necesidades y preocupaciones identificadas a partir de los datos que recopilaste de tus usuarios.
+
+TABLA 5
+Solución 1
+Problema que atiende
+Recursos necesarios y áreas involucradas
+
+
+
+
+
+
+
+
+Solución 2
+Problema que atiende
+Recursos necesarios y áreas involucradas
+
+
+
+
+
+
+
+
+Solución 3
+Problema que atiende
+Recursos necesarios y áreas involucradas
+
+
+
+
+
+
+
+
+Durante este ejercicio de Design Thinking, recorriste un camino emocionante y revelador para comprender mejor tu industria y a sus usuarios clave. 
+A través de estas actividades, obtuviste un panorama general del contexto en el que tu empresa está inmersa. Luego, en la fase de empatía, identificaste una amplia gama de stakeholders, desde clientes hasta reguladores, cada uno con su propia perspectiva única y necesidades específicas. Además, al aplicar el Mapa de empatía, pudiste profundizar en la mente y el corazón de usuarios clave, capturando sus necesidades, deseos, frustraciones y aspiraciones de una manera detallada y concreta. En la fase de recopilación y análisis de datos, utilizaste la entrevista y analizaste los datos obtenidos para descubrir patrones, tendencias, oportunidades y desafíos que, de otra manera, podrían haber pasado desapercibidos. Finalmente, en la fase de generación de soluciones, demostraste tu creatividad para idear tres soluciones innovadoras que abordan las necesidades y desafíos identificados. Estas soluciones fueron el resultado de un proceso iterativo, donde cada idea fue refinada y mejorada con el objetivo de ofrecer verdadero valor a tus usuarios.
