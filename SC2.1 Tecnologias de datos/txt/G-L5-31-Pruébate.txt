@@ -1,0 +1,40 @@
+# L5 · Pruébate
+Genially 659fffcd585e9f00141eaa16
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Mónica a resolver algunas problemáticas.
+La empresa Mo&Co pidió a todos sus empleados que tomaran un curso de ciberseguridad, esto con el fin de preparar a todos sus colaboradores en el tema, sin importar el rango que desempeñen en la organización. Mónica tiene algunas dudas sobre el tema, así que necesita tu ayuda para resolverlas. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Mónica quiere comenzar definiendo claramente qué es ciberseguridad. Elige la opción que mejor describa el concepto.
+Tecnologías, procesos y prácticas para proteger la información de ataques, daños y accesos no autorizados
+Servicios de consultoría sobre el manejo de información corporativa
+Protección de activos a través de tecnología informática
+¡Correcto!
+La ciberseguridad tiene que ver más con procesos preventivos cotidianos que con una escena de película de hackers.
+¡Incorrecto!
+Recuerda que la ciberseguridad son las tecnologías, procesos y prácticas para proteger la información.
+Mónica no tiene muy claro a quién le corresponde la gestión de riesgos informáticos y la definición de políticas y controles en la organización en la organización, ¿qué le dirías?
+Al equipo de liderazgo de la organización en conjunto con el equipo técnico
+Solamente al equipo técnico informático
+Al equipo de seguridad privada
+Aunque el detalle técnico se delega a especialistas del área de informática y tecnología, es deber del equipo de liderazgo de la organización involucrarse activamente en la gestión de riesgos, el establecimiento de controles y la definición de políticas de ciberseguridad.
+Recuerda que es deber del equipo de liderazgo de la organización involucrarse junto al equipo técnico no solo en la gestión de riesgos, sino también en el establecimiento de controles y la definición de políticas de ciberseguridad.
+Ayúdale a Mónica a recordar a qué se refieren las siglas en inglés de la tríada de ciberseguridad CIA.
+Confidentiality, Integrity, Availability
+Coordination, Integrity, Alert
+Central Intelligence Agency
+La tríada de ciberseguridad se conoce como CIA, cuyas siglas se refieren a: Confidentiality, Integrity, Availability.
+Recuerda que la tríada de ciberseguridad se conoce como CIA, cuyas siglas se refieren a: Confidentiality, Integrity, Availability.
+Teniendo en cuenta la tríada de ciberseguridad, ¿a qué parámetro corresponde la definición “asegurar que la información está disponible solamente para las partes interesadas y autorizadas”?
+Confidentiality
+Availability
+Integrity
+La confidentiality se encarga de asegurar que la información está disponible solamente para las partes interesadas y autorizadas.
+Recuerda que la confidentiality se encarga de asegurar que la información está disponible solamente para las partes interesadas y autorizadas.
+Como actividad final, Mónica tiene que identificar un ejemplo de activo informático intangible, el cual sería:
+Datos de ventas
+Plataformas computacionales
+Redes móviles
+Así como la marca registrada, la información, el software, las patentes o imágenes, los datos de venta también son un ejemplo de activo informático intangible.
+Recuerda que un ejemplo de activo informático intangible podrían ser los datos de ventas, así como las marcas registradas, la información, software, patentes, imágenes, etc.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.

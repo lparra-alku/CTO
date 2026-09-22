@@ -1,0 +1,11 @@
+# L3 · Ideas para llevar
+Genially 655cf60da1b6a200117234b4
+
+Ideas para llevar
+Continúa con tu aprendizaje en la siguien te lección.
+La inteligencia artificial como tecnología, lejos del término que evoca imágenes de máquinas conscientes y omniscientes suplantando humanos, representa un sistema con comportamientos que pueden ser equiparables a la inteligencia humana.
+Descarga la versión impresa en el apartado Archivos adjuntos.
+La implementación exitosa de proyectos de IA requiere una comprensión profunda del problema a resolver, una alineación estratégica con los objetivos empresariales y un manejo adecuado de los desafíos técnicos y culturales.
+Existen dos posturas: la IA fuerte, aquella capaz de alcanzar entendimiento y otros estados cognitivos, y la IA débil, aquella que alcanza un comportamiento que parece inteligente pero no la compresión. La IA fuerte no es posible, pero la IA débil es más que suficiente.
+El aprendizaje automático, o machine learning, es aquel que detecta patrones y relaciones de una gran cantidad de datos y luego, en la presencia de un dato nuevo, puede determinar a cuál patrón o relación se acerca más.
+La implementación de IA permite a los negocios mejorar la toma de decisiones, la experiencia de cliente y personalización e impulsar la eficiencia y reducir costos.

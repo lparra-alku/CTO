@@ -1,0 +1,26 @@
+# L3 · Inteligencia artificial en los negocios
+Genially 655cf6ed2111940011d832aa
+
+Inteligencia
+artificial en los negocios
+El mercado de la IA también es una parte en crecimiento en el sistema económico mundial, atrayendo una gran cantidad de inversiones (Thormundsson, 2023).
+La tasa de adopción de la IA por parte de las empresas creció casi 2.5 veces en 2022, comparándolo con su tasa de adopción en 2017. Esto puede ser atribuido a que la IA se ha entendido menos como una novedad asombrosa y más como una herramienta para optimizar y agregar valor a los negocios (McKinsey & Company, citado en Thormundsson, 2023).
+Está claro que la IA significa ventaja en los negocios. Aquellos que aprovechen las oportunidades en tiempo y se adapten a las cambiantes habilidades tecnológicas obtendrán los mayores beneficios (Thormundsson, 2023). A continuación, veremos cómo su aplicación en áreas específicas puede proveer un valor agregado.
+Toma de decisiones
+La IA tiene la capacidad de mejorar los procesos de toma de decisiones a través del análisis de grandes volúmenes de datos para identificar patrones, tendencias y relaciones , lo que habilita la toma de decisiones impulsadas por datos (data-driven decision) y conlleva a un incremento en la eficiencia y la productividad.
+Experiencia del cliente y personalización
+La IA puede mejorar la experiencia del cliente a través de la personalización de las interacciones, proveyendo información relevante y a tiempo . Incluso, puede analizar la retroalimentación del cliente y su sentimiento, permitiéndole al negocio entender mejor sus necesidades, preferencias y molestias, y así mejorar el enfoque de estrategias de posicionamiento de productos y servicios.
+Impulsar la eficiencia y reducir costos
+Las herramientas de optimización basadas en IA son capaces de identificar ineficiencias en flujos de trabajo y recomendar mejoras, impulsando procesos de mejora continua (Campos Zabala, 2023). Además, hay herramientas de mantenimiento predictivo que pueden identificar equipos o máquinas propensas a fallar, permitiendo manejar el incidente antes de que se convierta en un problema costoso.
+Reflexiona
+Gracias por tu respuesta
+¿Puedes pensar en algún proceso altamente transaccional en tu organización que aún se ejecute de manera manual?, ¿cómo podría la IA eficientizarlo?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Los chatbots de IA pueden manejar preguntas rutinarias, brindando respuestas precisas y rápidas y liberando a los operadores humanos para manejar asuntos más complejos (Campos Zabala, 2023).
+La IA puede agilizar y optimizar procesos de negocio a través de algoritmos inteligentes.
+Los algoritmos de aprendizaje automático pueden analizar datos del cliente para proveer recomendaciones y ofertas personalizadas, resultando en una mayor satisfacción y lealtad del cliente. Estos sistemas ya tienen muchos años y seguramente los podrás reconocer, por ejemplo, en sistemas de comercio electrónico y sitios de streaming de contenido.
+Por ejemplo, un análisis predictivo basado en IA puede ayudar a anticipar necesidades de clientes, ayudando a mejorar las decisiones relacionadas con la gestión de inventarios, reduciendo el desperdicio y los costos asociados con sobreinventario.
+Rolls Royce utiliza sistemas de IA para predecir cuándo requerirán mantenimiento los motores de los aviones, lo que ha resultado en ahorros significativos para las aerolíneas (Campos Zabala, 2023).
+Tuvo un crecimiento muy acelerado en las tasas de adopción del 2017 al 2018, mismo que se ha nivelado significativamente desde el 2019.
+Otro caso muy común es el perfilado del cliente a partir del rastreo de su actividad para proveer servicios aún más personalizados. Este caso, en particular, tiene fuertes implicaciones de privacidad y es tema que se presta a debate ético, incluso regulatorio en muchos países.

@@ -1,0 +1,129 @@
+
+--- p1 ---
+del dominio? 
+¿Qué hacer con 
+el conocimiento
+A partir del conocimiento del dominio, se despliegan algunos pasos más 
+para el éxito del proyecto.
+
+--- p2 ---
+A partir del conocimiento del negocio, se definen objetivos y 
+criterios de éxito para el proyecto. La definición de los objetivos debe ser 
+precisa y clara, pasando de algo abstracto, por ejemplo “reducir la tasa de 
+deserción de los clientes en mi sitio web de ventas” a metas y tareas específicas, 
+por ejemplo:
+Adicionalmente, hay que considerar el presupuesto asignado al proyecto, los 
+riesgos y contingencias, hacer análisis costo/beneficio y determinar si se tienen los 
+datos necesarios y suficientes para la satisfactoria conclusión del proyecto.
+Utilizando información histórica sobre ventas para generar un modelo que 
+enlaza artículos relacionados en el sitio web.
+Utilizar bitácoras de acceso para determinar qué buscan los clientes y 
+rediseñar el sitio para enfatizar o simplificar esas búsquedas. 
+Usar bitácoras para predecir cómo navegan las personas en el sitio web y 
+rediseñarlo para enfocar la navegación en productos clave.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Para determinar si se tienen los datos necesarios se requiere considerar todo el 
+ciclo de vida de la información dentro de la organización. Este ciclo 
+describe las etapas a través de las cuales la información pasa, según NIST 
+(2018), típicamente caracterizado por:
+3. Divulgación. Posiblemente el paso más visible dentro de la organización, 
+ya que hace llegar la información generada a los tomadores de decisiones a 
+través de reportes, gráficas o tableros de control (dashboards). Si la 
+información no se utiliza, se puede perder el valor generado por su 
+procesamiento. Al final, un proyecto de datos exitoso deberá contar con los 
+medios de divulgación adecuados para la persona que tomará decisiones 
+basándose en la información generada.  
+1. Recolección
+2. Procesamiento 
+5. Resguardo. Esta información generada deberá contar con el respaldo del 
+conocimiento del negocio de los involucrados y de un equipo técnico enfocado en 
+los datos (científicos, ingenieros, analistas, actuarios, programadores, etcétera).
+4. Utilización 
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+4
+6. Eliminación. Los pasos pueden variar de organización a organización y 
+aunque este ciclo de vida originalmente nace para determinar las medidas de 
+protección requeridas para salvaguardar la información, también se utiliza 
+para establecer todos los procesos donde la información es relevante. 
+Además, conocer este ciclo de vida permite determinar la infraestructura 
+necesaria para el resguardo de la información. 
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+5
+Finalmente, te mostramos un ejemplo de las tecnologías estratégicas de datos.
+Objetivo
+Aplicar la metodología CRISP-DM para estructurar un proyecto de ciencia de 
+datos, demostrando cómo el conocimiento del dominio es vital para definir 
+objetivos y evaluar resultados.
+Problemática común
+"El modelo es 99 % preciso, pero el negocio pierde dinero".
+Un equipo de datos en una empresa de retail desarrolla un algoritmo para 
+recomendar productos. Técnicamente, el modelo predice con alta precisión qué 
+productos suelen comprarse juntos. Sin embargo, al implementarlo, las ventas 
+no aumentan significativamente. 
+El problema fue que el equipo técnico, sin conocimiento del dominio, 
+optimizó el modelo para recomendar los productos más populares (que el cliente 
+ya iba a comprar de todos modos), en lugar de productos complementarios de 
+alto margen o descubrimiento de nuevos ítems (Cross-selling/Up-selling).
+La falta de una definición de éxito alineada al negocio (margen de ganancia vs. 
+precisión estadística) causó el fracaso.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+6
+Solución desde la información de la lección
+Utilizando metodología CRISP-DM:
+1. Fase 1 - Entendimiento del Negocio: Involucrar a los gerentes de 
+Ventas para definir el objetivo real: Aumentar el ticket promedio en un 5 % 
+recomendando productos complementarios, no solo predecir compras.
+2. Ingeniería de características con expertos: Utilizar el conocimiento 
+del dominio para identificar variables clave que los datos crudos no 
+muestran explícitamente, como la estacionalidad de ciertos productos o la 
+"misión de compra" del cliente.
+3. Evaluación contextual: Evaluar el modelo no solo por su precisión 
+matemática (Accuracy), sino por su impacto en el KPI de negocio definido 
+en la Fase 1.
+4. Ciclo de vida del dato: Asegurar que el resultado del modelo se integre 
+en el punto de venta (Divulgación/Utilización) en el momento exacto de la 
+decisión de compra.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Puntos clave
+7
+Errores comunes que deben evitarse
+1. Iniciar sin preguntas de negocio claras: Lanzar un proyecto de "Big 
+Data" sin saber qué problema específico se quiere resolver. Esto lleva a 
+soluciones en busca de problemas.
+2. Subestimar el conocimiento del dominio: Creer que los datos 
+"hablan por sí mismos". Sin contexto, los datos pueden llevar a 
+conclusiones erróneas o irrelevantes.
+3. Métricas de éxito desalineadas: Medir el éxito del proyecto por la 
+complejidad técnica del modelo en lugar de su contribución a la toma de 
+decisiones o rentabilidad.
+La ciencia de datos es una herramienta para la toma de decisiones, no un fin 
+en sí mismo.
+CRISP-DM es una guía estándar para asegurar que el análisis técnico sirva a 
+los objetivos del negocio, pero hay muchas otras; selecciona la más 
+adecuada a tu organización.
+El involucramiento de expertos del dominio es crucial desde la definición 
+del problema hasta la interpretación de resultados.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Reflexiones
+¿En tu organización se cuenta con la cultura, la tecnología 
+y la metodología para poder generar y resguardar los 
+datos necesarios para un proyecto de datos? 
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+8

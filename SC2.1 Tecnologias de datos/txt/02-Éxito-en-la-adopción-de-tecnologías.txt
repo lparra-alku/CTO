@@ -1,0 +1,65 @@
+
+--- p1 ---
+de tecnologías 
+Éxito de la adopción
+¿Cuál es la responsabilidad de los diferentes roles de la organización para 
+la adopción de una tecnología estratégica basada en datos?
+
+--- p2 ---
+Adoptar una nueva tecnología es tan interesante como retador, pues no hay 
+receta o procedimiento que aplique para todos los casos en todos los entornos.
+Históricamente, se ha delegado al área de informática el liderazgo de las 
+iniciativas de transformación digital o de implementación de nuevas 
+tecnologías relacionadas con o basadas en datos. Sin embargo, para que un 
+proyecto de implementación o de transformación sea exitoso, el esfuerzo 
+debe cubrir a toda la organización: desde los equipos de liderazgo 
+(C-suite) hasta la persona que ejecuta la operación del día a día. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+1
+
+--- p3 ---
+Si tu rol es de toma de decisiones, el estudio Top 10 Emerging Skills for the 
+C-Suite de Gartner (2019) muestra que las empresas están buscando líderes 
+con habilidades duras alrededor de la tecnología (inteligencia artificial, 
+aprendizaje automático, ciberseguridad, internet de las cosas, entre otras), 
+habilidades que permitan a los ejecutivos encaminar estrategias de negocio 
+efectivamente y promover procesos de automatización empresariales para 
+generar eficiencia.
+ 
+Aunque no es necesario conocer las minucias técnicas de una nueva tecnología, sí 
+es indispensable entender los conceptos para poder determinar la 
+estrategia y el impacto en procesos de negocio, en generación de 
+oportunidades y productos, en servicio al cliente, la rentabilidad de un proyecto 
+de implementación y el cambio cultural que implica un proyecto de adopción 
+tecnológica. Para esto, hay que seleccionar cuidadosamente al asesor tecnológico. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p4 ---
+Si tu rol dentro de la organización es de corte técnico o de asesoría tecnológica, no 
+solo hay que entender los conceptos e implicaciones técnicas, hay que saber 
+comunicar las ideas, el alcance del proyecto en todos los niveles de la 
+organización, los pormenores del proyecto de adopción o implementación, los 
+riesgos e impactos al negocio, evaluar proveedores y productos y su deuda técnica.
+  
+Para ello, es muy importante no olvidar la gestión de cambio 
+organizacional. Una encuesta de Boston Consulting Group reveló que 
+solamente 1 de 4 esfuerzos de transformación obtienen los resultados 
+anticipados (2019). Esto es consecuencia de proyectos definidos de manera 
+incompleta y mal comunicados, generando miedo, frustración y 
+resistencia en la gente.
+ 
+Al final, la implementación de cualquier tecnología debe estar plenamente 
+alineada con los objetivos de la organización, con la meta de generar ventajas 
+competitivas, por lo que debe considerarse parte integral de cualquier proceso 
+de transformación digital. 
+En tu área de operación, ¿qué cambios 
+tecnológicos has podido ver en los 
+últimos 5 años?, ¿en los últimos 10 
+años?, ¿cómo han afectado estos 
+cambios tu manera de hacer las cosas? 
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3

@@ -1,0 +1,12 @@
+# L0 · Historia
+Genially 658ddf6699b13a0014279b5f → 658ddf617a944800143270ca
+
+Tecnologías estratégicas basadas en datos para apoyar la transformación digital
+Sumérgete en la historia de Mundo Azul y descubre los aprendizajes que este curso tiene para ti. ¡Comienza tu viaje!
+CODIGO NO BORRAR
+Paola trabaja en Mundo Azul, una empresa dedicada al diseño, fabricación y venta de ropa. Ella es la encargada de asegurar que los procesos de producción sean viables y que los tiempos y los productos sean adecuados para los resultados que se esperan.
+Hace un par de semanas, Paola se dio cuenta de que se desperdiciaba mucho material por errores en los cálculos de predicción para la producción. Además, existía retraso considerable entre los reportes que hacían los colaboradores y el momento en que los líderes los recibían, pues el proceso era largo y manual.
+A partir de esas áreas de oportunidad, Paola comenzó a indagar para encontrar la raíz de los problemas y, así, entender cómo podría solucionarlos. Se dio cuenta de que tanto los cálculos erróneos como la lentitud de comunicación se debía a las herramientas obsoletas que utilizaban en Mundo Azul.
+Conclusión
+Por ello, Paola ha ideado un plan de implementación de tecnologías estratégicas que pudieran contribuir a la optimización de comunicación, producción y costos. Se encuentra en la primera fase, la cual es determinar si es viable implementar esas tecnologías y si verdaderamente traerán consigo un cambio para Mundo Azul.
+Continúa con el siguiente recurso y ayuda a Paola a responder el cuestionario.

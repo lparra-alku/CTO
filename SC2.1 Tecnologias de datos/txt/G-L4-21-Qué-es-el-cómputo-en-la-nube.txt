@@ -1,0 +1,36 @@
+# L4 · Qué es el cómputo en la nube
+Genially 65786589059ed90014b9a67e
+
+¿Qué es el cómputo
+en la nube?
+El concepto de delegar servicios a través de internet no es nuevo; incluso el término “cómputo en la nube” no es nuevo. Conoce hasta dónde se rastrea esta idea y en qué consiste.
+En un artículo para MIT Technology Review, Regalado (2014) rastreó a un pequeño grupo de ejecutivos tecnológicos en 1996 dentro de las oficinas de Compaq Computer (comprada por HP en el 2002), quienes divisaban el futuro de los negocios en internet y lo llamaban “cómputo en la nube” o cloud computing, en inglés.
+Para el 2006, empresas como Google y Amazon empezaron a usar el término cómputo en la nube para describir un nuevo paradigma en el que la gente utilizaba software, poder de cómputo y archivos sobre internet en vez de en sus equipos de cómputo personal. Eric Schmidt, director de Google en aquel entonces, introdujo el término en una conferencia.
+El cómputo en la nube no es una tecnología o una arquitectura individual, es una mezcla de productos y servicios, muchos de los cuales han existido por décadas, que son ofrecidos a través de internet.
+4. Viabilidad técnica.
+Title here
+A great subtitle
+Los últimos avances tecnológicos en cómputo, redes y almacenamiento alcanzaron un punto de inflexión, creando un cambio de mercado hacia la adopción de la “nube” (Williams, 2012).
+Public cloud services end-user spending worldwide from 2017 to 2023 (In billion U.S. dollars)
+Market in billion U.S. dollars
+La disponibilidad de enlaces de internet de alta velocida d , confiabilidad y resiliencia ha sido otro factor que ha impulsado el uso de servicios de nube. La creciente difusión de conexiones de alta velocidad, incluyendo en dispositivos móviles, permite que el acceso a servicios e infraestructura sea eficiente y eficaz.
+Esta disponibilidad, en conjunto con las economías de escala de los grandes proveedores de servicios en línea y el abaratamiento de las tecnologías de almacenamiento, permite que las empresas contraten un servicio sobre demand a .
+En el siguiente recurso, conocerás cómo opera el cómputo en la nube en las organizaciones.
+Gracias por tu respuesta
+¿Cuáles de los servicios y programas informáticos que utilizas son de nube?, ¿cuáles son operados en infraestructura local?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+Riesgos: Problemas de compatibilidad con navegadores web antiguos y resistencia al cambio.
+Estrategias de mitigación: Garantizar que la nueva interfaz sea compatible con los navegadores más comunes, proporcionar capacitación y comunicación efectiva.
+Consectetur adipiscing elit
+Las empresas ya no requieren tener servidores propios (con los costos que esto implica), sino que basta con pagar por lo que utilizan, muy similar a un concepto de renta.
+“Lo que es interesante es que hay un nuevo modelo emergente… Empieza con la premisa de que los servicios y arquitectura de datos deben estar en servidores. Lo llamamos cómputo en la nube, ya que deben estar en una “nube” en algún lugar” (Schmidt, 2006).
+Esta gráfica está basada en la información de Gartner y es recuperada por Vailshery (2023a) para Statista. Muestra el crecimiento del mercado de cómputo en la nube, incluyendo procesos de negocio, plataformas, infraestructura, software, gestión, seguridad y servicios de publicidad.
+Aunque es difícil imaginar el mundo empresarial moderno sin internet, cabe recordar que hasta hace unos pocos años, los enlaces de internet confiables y rápidos estaban disponibles solo para empresas con la capacidad económica para pagar los altos costos del servicio y la capacidad tecnológica para gestionarlo.
+Nombre del proyecto: "Mejora de la Experiencia del Cliente en Línea". Fecha: 1 de octubre de 2023. Equipo a cargo: Departamento de Transformación Digital de EjemploTech.
+Descripción: La iniciativa incluye revisar y mejorar la interfaz de usuario, optimizar la velocidad del sitio web, introducir un chatbot de atención al cliente y personalizar la experiencia del usuario. Alcance: Todas las páginas del sitio web y las aplicaciones móviles.
+Su visión era detallada y adelantada. No sólo todo el software de negocios se movería a la web, sino que lo que ellos denominaban “aplicaciones habilitadas por cómputo en la nube”, como el almacenamiento de archivos, sería algo común (Regalado, 2011).
+Estos avances tecnológicos habían sido incrementales y exponenciales, además de que se combinaron con el impulso financiero relacionado con la recesión económica.

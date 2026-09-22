@@ -1,0 +1,64 @@
+# L0 · ¿Cuánto sabes?
+Genially 658ddfc799b13a001427c195
+
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que ayudes a Paola a resolver los siguientes cuestionamientos.
+Ayuda a Paola a evaluar cual es la mejor opción de elección e implementación en cuanto a tecnologías estratégicas de datos para Mundo Azul, analiza cada situación y responde correctamente. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Cuál consideras que es uno de los retos que Paola debe tomar en cuenta en la implementación de tecnologías estratégicas para Mundo Azul?
+Las tecnologías estratégicas generan tantos datos que es imposible para las empresas sacarle provecho a todos ellos
+Las tecnologías estratégicas funcionan cuando se implementan en empresas grandes con solvencia económica estable
+Las tecnologías estratégicas no presentan una solución inmediata para los problemas de las organizaciones
+¡Correcto!
+Es importante que Paola sepa identificar correctamente los puntos de la organización donde el impacto de la implementación de tecnologías estratégicas sea adecuado, para evitar adoptar tecnologías sin conocimiento previo.
+¡Incorrecto!
+Las tecnologías estratégicas presentan muchos beneficios, pero Paola debe aprender a identificar correctamente los puntos de la organización donde el impacto de su implementación sea adecuado, para evitar adoptar tecnologías sin conocimiento previo.
+Paola se encuentra evaluando diferentes tecnologías estratégicas para encontrar la que verdaderamente traerá un beneficio a Mundo Azul. Si se centra en el problema de desperdicio de materiales, ¿qué tecnología emergente consideras que podría hacer una diferencia?
+Computación en la nube
+Ciberseguridad
+Ciencia de datos
+La ciencia de datos juega un papel importante dentro de las empresas dedicadas al comercio, pues el uso de datos permite pronosticar demanda y consumo del mercado, lo que le ayudaría a Paola a atacar el problema de desperdicio de materiales.
+El uso de datos permite pronosticar demanda y consumo del mercado, lo que le ayudaría a Paola a atacar el problema de desperdicio de materiales con la ciencia de datos.
+Ahora, Paola se quiere centrar en resolver el problema de comunicación entre líderes y colaboradores. ¿Qué tecnología emergente crees que pudiera ayudar a Mundo Azul?
+Realidad aumentada
+Con la computación en la nube, Mundo Azul podría implementar una plataforma que facilite la comunicación inmediata y unificada, así como la colaboración remota.
+La computación en la nube ofrece varias herramientas para resolver el problema de comunicación en Mundo Azul; Paola podría abogar por implementar una plataforma que facilite la comunicación inmediata y unificada, así como la colaboración remota.
+Además de las tecnologías estratégicas que pueden ayudar directamente a los problemas principales de Mundo Azul, Paola quiere familiarizarse con la IA con el fin de implementar un proyecto, sin embargo, no sabe para qué podría usarla específicamente. ¿Qué consejo podrías darle a Paola?
+Es importante implementar un proyecto de IA para que Mundo Azul se mantenga a la vanguardia, aunque no exista un problema a resolver
+La IA ha sido sobrevalorada, no existe problema que sea resoluble únicamente por IA, así que es un error implementarla
+Lo indispensable para implementar un proyecto de IA es conocer y entender el problema a resolver
+Paola tiene que identificar un problema y, por supuesto, entenderlo muy bien antes de implementar un proyecto de IA, pues sin un entendimiento profundo del problema, se tiene el riesgo de desperdiciar recursos en soluciones que no atacan el problema de raíz.
+Sin un entendimiento profundo del problema, se tiene el riesgo de desperdiciar recursos en soluciones que no atacan el problema de raíz, por lo que Paola primero tiene que identificar el problema y entenderlo muy bien.
+Un colega le dijo a Paola que implementar las tecnologías estratégicas en Mundo Azul solo traerá consigo beneficios, pues las desventajas son mínimas con ese tipo de tecnologías. ¿Qué podrías decirle a Paola como respuesta a eso?
+Las desventajas no son precisamente mínimas: si no existe una planeación estratégica de la implementación, podría causar nuevos problemas en Mundo Azul
+No ha habido casos donde las tecnologías estratégicas traigan consigo desventajas, por lo que Paola debería implementarlas cuanto antes
+Las desventajas son mínimas, pero también los beneficios, por lo que el riesgo de implementar una tecnología emergente no vale la pena
+Implementar tecnologías estratégicas tiene riesgos, por lo que debe existir una planeación estratégica para su implementación y, así, asegurar que la empresa tenga beneficios.
+Es importante tener en cuenta que implementar tecnologías estratégicas tiene riesgos, por lo que debe existir una planeación estratégica para su implementación y, así, asegurar que la empresa tenga beneficios.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

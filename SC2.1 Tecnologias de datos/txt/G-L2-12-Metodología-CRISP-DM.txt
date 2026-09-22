@@ -1,0 +1,25 @@
+# L2 · Metodología CRISP-DM
+Genially 655cca287e6b270011cfacef
+
+Metodología
+Existen varias metodologías específicas para ejecutar un proyecto de análisis de datos. Una de las metodologías más conocidas es CRISP-DM, de la cual IBM es uno de los principales impulsores.
+Data understanding
+Business understanding
+CRISP-DM, por las siglas en inglés de Proceso Estándar Interindustrial para Minería de Datos (Cross-Industry Standard Process for Data Mining) , es una guía para el análisis de datos muy probada en la industria.
+Data preparation
+Deployment
+Evaluation
+Como metodología, incluye descripciones de las fases típicas de un proyecto, las tareas involucradas en cada fase y una explicación de las relaciones entre esas tareas. Como modelo de proceso, provee una vista abstracta en el ciclo de análisis de datos.
+Conocimiento del negocio
+El conocimiento del dominio (o conocimiento del dominio de negocio), el primer paso, se refiere al conocimiento de trasfondo (background) sobre el campo o ambiente en el que se aplicarán los métodos de la ciencia de datos. Es importante contar con este conocimiento previo para establecer el alcance de un proyecto de análisis de datos.
+Este es el paso que detona a todos los demás, puede abarcar a todos los niveles de la empresa y ayuda a minimizar el riesgo de fracaso del proyecto al clarificar y acotar problemas, metas y recursos. Muchas veces este conocimiento es empírico y solamente se consigue después de muchos años de experiencia; otras veces, requiere una formación muy específica en un campo de estudio delimitado.
+Gracias por tu respuesta
+¿En tu organización existen iniciativas o proyectos que aprovechen los datos generados para generar valor dentro de la organización?, ¿se involucran los tomadores de decisión en los proyectos de datos?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+Si se quieren pronosticar ventas, no es lo mismo ventas minoristas de artículos de oficina que ventas mayoristas de productos de belleza. Ambos negocios son muy diferentes, con distintas maneras de atacar un problema, de definir un proyecto exitoso e, incluso, de medir su desempeño.
+El modelo es muy flexible y puede ser personalizado fácilmente; si bien el ciclo consiste en seis fases, la secuencia no es estricta. Por ejemplo, los proyectos pueden moverse hacia adelante o hacia atrás entre las fases cuando es necesario.
+Aunque los pasos técnicos del proceso se pueden delegar a un equipo especializado, el conocimiento del negocio generalmente requiere del involucramiento directo de los tomadores de decisión.

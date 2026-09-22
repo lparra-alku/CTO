@@ -1,0 +1,15 @@
+# L2 · Qué es la información
+Genially 6555b052f14cc700118cb5ed → 6555b06f17964700109859d2
+
+la información?
+Derivado de dato, tenemos el concepto de información, pero ¿cuál es la relación entre estos dos términos?
+CODIGO NO BORRAR
+Definición
+De manera literal, las acepciones de información que nos competen según el Diccionario de la Real Academia Española (s.f.) son: 5. f. Comunicación o adquisición de conocimientos que permiten ampliar o precisar los que se poseen sobre una materia determinada. 6. f. Conocimientos comunicados o adquiridos mediante una información.
+En transformación digital…
+Sin embargo, para nuestros propósitos, consideraremos a la información como datos que han sido organizados, procesados e interpretados para un propósito en particular, por ejemplo, para la toma de decisiones dentro de la empresa u organización.
+Diferencia
+Supongamos que tenemos el volumen de ventas mensuales de un vendedor específico. Por sí mismo, el dato no dice nada, hasta que lo procesamos e interpretamos: ¿Ha mejorado el volumen de ventas? ¿Vende más o menos que otros colegas en condiciones iguales? ¿Hay factores externos que afectan el volumen de ventas en temporadas particulares?
+Información
+Esas preguntas permiten darle significado al dato al complementarlo, compararlo y ponerlo en el contexto del negocio. Esto es lo que llamaremos información.
+Continúa con el estudio de la lección.

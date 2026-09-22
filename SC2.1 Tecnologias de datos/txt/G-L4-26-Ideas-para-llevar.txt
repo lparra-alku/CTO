@@ -1,0 +1,10 @@
+# L4 · Ideas para llevar
+Genially 6577f3cc97369600147ff449
+
+Ideas para llevar
+Continúa con tu aprendizaje en la siguien te lección.
+El cómputo en la nube ha simplificado el acceso a infraestructura y tecnologías avanzadas, permitiendo una competencia más equitativa de pequeñas y medianas empresas con grandes corporaciones.
+Existen tres modelos principales de servicios en la nube: IaaS (Infrastructure as a Service) , PaaS (Platform as a Service) y SaaS (Software as a Service).
+El cómputo en la nube no es una tecnología o una arquitectura individual; es una mezcla de productos y servicios, muchos de los cuales han existido por décadas, que son ofrecidos a través de internet.
+Descarga la versión impresa en el apartado Archivos adjuntos.
+Actualmente, muchos de los beneficios del cómputo en la nube no vienen en ahorros en costos operativos o en ahorros en inversión (valor duro), sino de su característica transformadora del negocio (valor suave).

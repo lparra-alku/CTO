@@ -1,0 +1,18 @@
+# L4 · Valor duro y valor suave
+Genially 65778c731f028900149c1346 → 65778c811f028900149c1917
+
+Valor duro y valor suave
+En el cómputo en la nube
+Anteriormente establecimos que el beneficio del cómputo en la nube se encuentra en el valor suave, ¿pero a qué se refiere esto?
+CODIGO NO BORRAR
+Valor duro
+Para determinar el “valor duro” se toma como ejemplo el ahorro en gastos operativos al usar un proveedor de nube contra usar infraestructura propia.
+Problema con el valor duro
+Pero generalmente no se consideran las ineficiencias en el uso de tecnologías que aún no se conocen en su totalidad, el entrenamiento para aprovecharlas, ni los costos por volumen que implica la transmisión de información desde una red local a la infraestructura en nube o al revés.
+¿Qué trae consigo?
+No incluir estos costos en la cuantificación del ahorro muchas veces genera expectativas irreales sobre el costo real de utilizar tecnologías de nube, con el consecuente malestar de sentir que se tomó una mala decisión.
+Valor suave
+El “valor suave” es donde podríamos definir el valor real del cómputo en la nube. Sin embargo, el término deriva del hecho de que estamos tratando de definir algo que es difícil de determinar.
+¿Dónde encontrar el valor suave?
+Por ejemplo, la agilidad del negocio para adaptarse a nuevos requerimientos o condiciones del mercado; la rapidez de comercialización para llegar al mercado meta a través del desarrollo o escalamiento del producto; o la innovación diferenciadora a través de proveer acceso a tecnologías que permiten generar diferenciadores (Linthicum, 2023).
+Continúa con el estudio de la lección.

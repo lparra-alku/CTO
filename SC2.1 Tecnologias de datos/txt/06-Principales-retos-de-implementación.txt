@@ -1,0 +1,179 @@
+
+--- p1 ---
+Principales retos 
+de implementación
+A partir de un estudio de Stanford (Thormundsson, 
+2023) y la obra de Campos Zabala (2023), 
+enlistaremos los retos a los que una organización se 
+enfrenta en la implementación de nuevas 
+tecnologías.
+
+--- p2 ---
+Un estudio de Stanford recopilado en Statista 
+(Thormundsson, 2023) muestra que los principales retos para 
+empezar un proyecto de IA en la empresa son:
+Dificultad para probar el valor del negocio. Esta 
+dificultad se deriva de muchas razones, pero comúnmente es 
+porque los proyectos de IA toman tiempo para mostrar su valor y 
+cada uno puede afectar el negocio de maneras diferentes. 
+Falta de compromiso de la alta dirección. Aunque 
+generalmente un proyecto de IA es delegado a un departamento de 
+tecnología o informática, el proyecto por sí mismo puede impactar 
+las operaciones de todos los niveles de la empresa, por lo que el 
+compromiso de los equipos de liderazgo es indispensable y debe 
+incluir una gestión del cambio madura y oportuna.
+La selección de la tecnología adecuada. Determinar la 
+tecnología adecuada para un proyecto de IA puede ser un proceso 
+largo y complicado, pero hacerlo de manera sistemática y en 
+acompañamiento de expertos de confianza puede incrementar la 
+probabilidad de éxito del proyecto.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Otros retos generales en estos proyectos son (Campos 
+Zabala, 2023):
+Resistencia al cambio – sobrepasar barreras 
+técnicas y culturales. Implementar nuevas tecnologías 
+requiere cambio y el cambio puede ser difícil. Por un lado, 
+muchos empleados se resisten al cambio y pueden tener poca 
+disposición para aprender nuevas herramientas o métodos o, 
+incluso, tienen miedo a ser desplazados por la tecnología. Por otro 
+lado, entre los retos técnicos están la integración adecuada de 
+soluciones de IA con los sistemas ya existentes, la gestión de recursos 
+computacionales y el establecimiento de una cultura operacional 
+adecuada.
+Miedo a lo desconocido – 
+falta de entendimiento y 
+habilidades. Implementar 
+de manera exitosa las nuevas 
+tecnologías requiere 
+conocimiento y experiencia. 
+Como tecnología aplicada al 
+negocio, la IA es 
+relativamente nueva y no se 
+tiene familiaridad con su 
+funcionamiento. Esta falta de 
+entendimiento puede llevar 
+al miedo o desconfianza en la 
+tecnología, dificultando su 
+adopción. Las organizaciones 
+pueden atacar esta barrera 
+invirtiendo en mejorar las 
+habilidades técnicas de sus 
+colaboradores y 
+estableciendo alianzas con 
+expertos externos.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Alineación en el negocio y su estrategia. Es 
+decisivo asegurarse que la tecnología se alinea con 
+las metas y las estrategias de la organización. Esta 
+alineación debe derivarse de una estrategia integral que 
+describa cómo la IA puede soportar los objetivos y que facilite la 
+comunicación entre los equipos técnicos y de negocios. 
+La inteligencia artificial ya no es solo una tendencia tecnológica del 
+momento, es una herramienta que está redefiniendo la forma en 
+que las empresas operan y se relacionan con sus clientes. Hemos 
+visto cómo la IA puede optimizar procesos, mejorar la toma de decisiones, 
+enriquecer la experiencia del cliente y, de manera crucial, impulsar la 
+eficiencia y reducir costos. Sin embargo, es esencial reconocer que la 
+implementación exitosa de proyectos de IA requiere una 
+comprensión profunda del problema a resolver, una alineación 
+estratégica con los objetivos empresariales y un manejo 
+adecuado de los desafíos técnicos y culturales.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Finalmente, te compartimos un ejemplo de cómo se aplica la inteligencia 
+artificial.
+Objetivo
+Demostrar el valor de la IA Analítica/Predictiva (Machine Learning) para 
+resolver ineficiencias operativas costosas, diferenciándola de la IA 
+generativa y subrayando la importancia de la calidad de los datos.
+Problemática común
+"Gastamos millones en mantenimiento preventivo y las 
+máquinas siguen fallando inesperadamente".
+Una planta de manufactura sigue un estricto calendario de mantenimiento 
+preventivo (reemplazar piezas cada X meses). Sin embargo, enfrentan dos 
+problemas costosos: 
+Aunado a esto, no podemos ignorar las consideraciones 
+éticas y de privacidad que emergen con la adopción de 
+estas tecnologías. Es responsabilidad de las 
+organizaciones implementar la IA de manera que respete los 
+derechos y expectativas de privacidad de cada persona, a la vez que 
+se adhieren a las normativas legales correspondientes.
+Mirando hacia el futuro, la inteligencia artificial promete seguir siendo un 
+motor de innovación y transformación. Las empresas que logren integrar 
+esta tecnología de manera efectiva y ética no solo se mantendrán a la 
+vanguardia de la competencia, sino que también estarán mejor 
+posicionadas para enfrentar los desafíos del dinámico entorno empresarial 
+actual. La clave estará en mantener un equilibrio entre aprovechar el poder 
+de la IA y asegurar un enfoque humano y responsable en su aplicación.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+1. Paros no planificados cuando una máquina falla antes
+de lo previsto, deteniendo toda la línea de producción. 
+2. Desperdicio de recursos al reemplazar piezas que todavía están en 
+buen estado solo "porque el calendario lo dice".
+Solución desde la información de la lección
+Implementación de Mantenimiento Predictivo (PdM) usando 
+Aprendizaje Automático (Machine Learning):
+La dirección duda de la IA porque creen que es solo para "chatbots" y no 
+ven cómo aplica a tornillos y motores.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+1. Definición del problema: El objetivo no es "usar IA", sino 
+"reducir el tiempo de inactividad no planificado en un 20 %".
+2. Recolección de Datos (IoT): Se instalan sensores para medir 
+vibración, temperatura y sonido en tiempo real. La IA no "inventa" 
+datos; analiza patrones históricos que precedieron a fallas 
+anteriores (detección de anomalías).
+3. Modelo predictivo: Se entrena un modelo supervisado que alerta 
+al equipo solo cuando detecta el patrón de una falla inminente. 
+Esto permite intervenir justo a tiempo, maximizando la vida útil de 
+la pieza y evitando paros sorpresa.
+Human-in-the-loop: El modelo sugiere, pero el ingeniero 
+experto valida la alerta, combinando la precisión del algoritmo con 
+el juicio humano.
+4.
+
+--- p7 ---
+Errores comunes que deben evitarse
+1. Confundir IA predictiva con generativa: Esperar que la IA 
+"hable" o cree soluciones creativas. Aquí la IA es una herramienta 
+estadística de alta precisión para clasificación y regresión.
+2. Mala calidad de datos (Data Debt): Intentar entrenar un 
+modelo predictivo sin tener un histórico de fallas registrado. Si 
+nunca se ha registrado cuándo y por qué fallaron las máquinas 
+antes, la IA no tiene qué aprender.
+3. Ignorar al experto de dominio: Que los científicos de datos 
+construyan el modelo sin hablar con los operarios de la planta. El 
+modelo podría interpretar una "parada de almuerzo" como una 
+"falla del sistema" sin ese contexto.
+Puntos clave
+La IA en negocios va mucho más allá de los chatbots; la IA 
+analítica/predictiva suele ofrecer el ROI más rápido en operaciones 
+industriales.
+El mantenimiento predictivo transforma el gasto de 
+mantenimiento de un costo fijo ineficiente a una inversión 
+estratégica optimizada.
+Los datos históricos de calidad son el combustible indispensable; 
+sin ellos, no hay predicción posible.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+¿Tu empresa está preparada para implementar un 
+proyecto de IA?, ¿la cultura de tu organización puede 
+adoptar un proyecto de IA?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

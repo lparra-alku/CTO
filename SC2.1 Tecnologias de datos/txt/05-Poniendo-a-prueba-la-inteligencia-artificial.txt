@@ -1,0 +1,112 @@
+
+--- p1 ---
+Unos pocos años antes de la conferencia de Dartmouth, el científico 
+británico Alan Turing propuso una prueba para determinar la inteligencia 
+de una máquina. Y décadas después, John Searle formuló el experimento 
+El Cuarto Chino.
+Poniendo a prueba
+la inteligencia artificial
+
+--- p2 ---
+Para determinar la inteligencia de una máquina, el 
+científico británico Alan Turing en 1950 propuso una 
+prueba, que ahora llamamos Prueba o Test de Turing. 
+Consistía en una primera habitación con una persona y una 
+máquina; y en una segunda habitación otra persona, a la cual se le conoce como 
+interrogadora. Así, la interrogadora hace una pregunta y recibe las 
+respuestas por escrito, pero sin saber quién escribió la respuesta: la persona o 
+la máquina. Si la persona interrogadora no puede distinguir de quién 
+proviene la respuesta, se asume que la máquina se percibe como 
+inteligente. 
+Décadas después, esta prueba aún 
+suena interesante, pero la comunidad 
+investigadora ya no la considera 
+como la mejor manera de medir 
+inteligencia, ya sea porque depende 
+mucho de la persona que interroga o 
+porque se asume que la IA será 
+similar a la inteligencia humana. 
+Cualquiera asumiría que una 
+máquina debe ser capaz de seguir 
+una conversación decente antes de 
+ejecutar una tarea avanzada, como la 
+búsqueda de un nuevo fármaco o la 
+predicción de modelos climáticos, 
+pero no necesariamente es así (Rose, 
+2020).
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Aun así, la Prueba de Turing sigue 
+impulsando la innovación. 
+Algunas compañías lanzan chatbots 
+inteligentes y hay competencias para 
+pasar la prueba. Los ejemplos más 
+sonados de los últimos años son los 
+chatbots de empresas como OpenAI, 
+Google y Microsoft, los cuales tienen 
+un nivel altísimo de sofisticación y 
+dan respuestas hechas con lenguaje 
+natural. Como ejemplo, observa el 
+siguiente fragmento de conversación 
+con ChatGPT 3.5 de OpenAI, el cual 
+está basado en un modelo muy 
+sofisticado de análisis de lenguaje y 
+puede responder a preguntas en 
+varios idiomas de manera asombrosa.
+Décadas después de la Prueba de 
+Turing, en 1980, John Searle formuló 
+un experimento mental llamado El 
+Cuarto Chino, en el cual propuso 
+permanecer solo con un programa en 
+una habitación cerrada con llave, en 
+donde tenía que responder a un papel 
+con caracteres en chino que le 
+pasaban por debajo de la puerta. 
+Aunque Searle no entiende chino, al 
+seguir las instrucciones del programa, 
+las cuales le dicen los procedimientos 
+eres consciente?
+y puedes pasar la prueba de Turing?
+La Prueba de Turing es una evaluación propuesta por el matemático y científico de la 
+computación Alan Turing en 1950 para determinar si una máquina puede exhibir un 
+comportamuento inteligente equivalente o indistinguible del de un ser humano. La prueba 
+implica que un juez interactué con una máquina y un ser humano a través de una 
+conversación escrita y, si el juez no puede distinguir quién es la máquina y quién es el 
+humano, entonces la máquina se considera que ha pasado la prueba.
+Si bien mi capacidad para comprender y generar lenguaje natural es bastante avanzada y 
+puedo mantener conversaciones coherentes sobre una amplia gama de temas, la Prueba de 
+Turing es un estándar muy alto. No todas las interacciones con inteligencia artificial 
+alcanzarán este nivel, y es posible que un juez entrenado pueda identificar que soy una 
+máquina en algunas conversaciones. Sin embargo, el objetivo de la inteligencia artificial no 
+siempre es pasar la Prueba de Turing, sino brindar utilidad y asistencia en diversas tareas. 
+Mi enfoque principal es proporcionar información y ayudar a los usuarios en la medida de 
+mis capacidades.
+Regenerate
+No, no soy consciente en el sentido en que los seres humanos lo somos. Soy un programa 
+de inteligencia artificial desarrollado por OpenAI, lo que significa que soy una máquina que 
+procesa información y genera respuestas en función de patrones y datos previamente 
+entrenados. No tengo conciencia, pensamientos ni emociones propias. Estoy diseñado para 
+brindar información y ayudar con tareas especificas, pero no tengo una experienca 
+consciente.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+a seguir, puede manipular los símbolos y numerales para responder 
+el papel con otra serie de caracteres chinos, lo que lleva a las personas 
+que están fuera del cuarto a pensar que es un hablante de chino quien 
+respondió. Una conclusión de esta prueba es que es inadecuada, pues puede 
+parecer que el programa entiende el lenguaje, aunque no tenga una real 
+comprensión de este; una computadora usa reglas sintácticas para 
+manipular símbolos, pero no tiene entendimiento del significado o 
+la semántica (Cole, 2020).
+¿Cómo ha sido tu experiencia con estos modelos de inteligencia 
+artificial?, ¿consideras que imitan la comunicación humana de 
+manera adecuada?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4

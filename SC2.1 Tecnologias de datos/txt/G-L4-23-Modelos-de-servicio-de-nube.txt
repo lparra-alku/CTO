@@ -1,0 +1,35 @@
+# L4 · Modelos de servicio de nube
+Genially 6578996169c58a001436c124
+
+Modelos de servicio
+Existen tres modelos principales de servicios en la nube: Infraestructura as a Service (IaaS), Platform as a Service (PaaS) y Software as a Service (SaaS).
+Infrastructure as a Service podría entenderse como los servicios donde un tercero proporciona la infraestructura para desarrollar, desplegar, operar y soportar servicios informáticos, todo a través de internet o una red dedicada, con un esquema de pago sobre demanda .
+Como usuario, la empresa que contrata el servicio es responsable del sistema operativo y de todos los datos, las aplicaciones y los tiempos de ejecución; pero el proveedor brinda acceso a la red, a los servidores, a la virtualización y al almacenamiento que se necesite, a la vez que administra esos recursos por el cliente.
+En Platform as a Service, el proveedor aloja el hardware y el software en su propia infraestructura y ofrece la plataforma de desarrollo o de producto al usuario como una solución integrada, una pila de soluciones o un servicio a través de internet.
+4. Viabilidad técnica.
+Con la PaaS, los desarrolladores pueden crear un marco de trabajo a partir del cual diseñan y personalizan sus aplicaciones, generalmente basadas en la web. También pueden utilizar elementos de software incorporados para desarrollar las aplicaciones y, así, reducir la cantidad de código que deben escribir ellos mismos (Red Hat, 2023).
+Software as a Service ofrece una aplicación integral que gestiona el proveedor, generalmente a través de un explorador web. Es una excelente opción para las pequeñas empresas que no tienen el personal o el ancho de banda necesarios para encargarse de la instalación del software y sus actualizaciones , así como para las aplicaciones que no requieren mucha personalización o solo se utilizarán de forma periódica.
+Sin embargo, el ahorro en tiempo y mantenimiento que ofrece el SaaS podría suponer un costo en términos de control, seguridad y rendimiento; por eso es importante elegir a un proveedor confiable (Red Hat, 2023).
+Gracias por tu respuesta
+¿Habría alguna ventaja en migrar los servicios que se operan de manera local en tu organización a un proveedor de la nube?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+PaaS se aleja de la gestión completa de la infraestructura ; permite que el usuario desarrolle, ejecute y gestione sus propias aplicaciones sin tener que diseñar ni mantener la infraestructura ni la plataforma que, por lo general, se relaciona con el proceso. Esto es especialmente útil para los desarrolladores y programadores.
+Riesgos: Problemas de compatibilidad con navegadores web antiguos y resistencia al cambio.
+Estrategias de mitigación: Garantizar que la nueva interfaz sea compatible con los navegadores más comunes, proporcionar capacitación y comunicación efectiva.
+Consectetur adipiscing elit
+La tecnología necesaria incluye herramientas de diseño web, servidores de alto rendimiento y software de chatbot . Se debe considerar la posible resistencia de los sistemas heredados a las actualizaciones necesarias y la necesidad de capacitar al personal en el uso de nuevas herramientas.
+Nombre del proyecto: "Mejora de la Experiencia del Cliente en Línea". Fecha: 1 de octubre de 2023. Equipo a cargo: Departamento de Transformación Digital de EjemploTech.
+También conocido como servicios de aplicaciones en la nube.
+El usuario accede a la infraestructura y la controla a través de una interfaz de programación de aplicaciones (API) o de un panel de control.
+La IaaS le ofrece la flexibilidad para que la empresa adquiera solamente los elementos que necesita y adaptarlos a sus requerimientos (Red Hat, 2023).
+Descripción: La iniciativa incluye revisar y mejorar la interfaz de usuario, optimizar la velocidad del sitio web, introducir un chatbot de atención al cliente y personalizar la experiencia del usuario. Alcance: Todas las páginas del sitio web y las aplicaciones móviles.
+Definiendo infraestructura como el conjunto de dispositivos físicos (como servidores y computadoras personales), software, instalaciones y redes necesario para operar servicios informáticos.
+A diferencia de IaaS, en una PaaS no se piensa en recursos de hardware o redes, lo que supone simplificación en el desarrollo y gestión de servicios, aunque también se tiene menos flexibilidad en la arquitectura final del producto.
+El proveedor se encarga de las actualizaciones, las correcciones de errores y el mantenimiento general del software, mientras que el usuario se conecta a la aplicación a través de un panel o una API. Normalmente, el software no se instala en los equipos individuales.
+Las cuentas de correo electrónico con un servicio basado en la web, como Outlook o Gmail, son un servicio SaaS: se puede iniciar sesión en la cuenta y acceder al correo electrónico desde cualquier computadora y en cualquier lugar.
+Se proporciona un entorno no solo para escribir el código, sino también para diseñar, implementar y gestionar las aplicaciones, lo cual evita la complicación de tener que actualizar el software o realizar el mantenimiento del hardware.
+No se necesita mantener ni actualizar un centro de datos propio y local, ya que el proveedor se encarga de hacerlo.

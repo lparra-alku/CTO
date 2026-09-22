@@ -1,0 +1,64 @@
+
+--- p1 ---
+Tecnologías estratégicas basada en datos 
+para apoyar la transformación digital
+¿Qué vas a aprender?
+Cuáles son las tecnologías estratégicas 
+basadas en datos que representan 
+un apoyo en las empresas que están 
+transformándose digitalmente.
+Es importante que antes de implementar las tecnologías estratégicas, las empresas entiendan 
+cómo estas pueden evolucionar sus modelos de negocio. Por eso, en este curso conocerás:
+Así que te damos la 
+bienvenida al curso 
+“Tecnologías estratégicas 
+basadas en datos para apoyar 
+la transformación digital”.
+Qué tipo de beneficios sumarán 
+algunas tecnologías estratégicas a 
+las organizaciones y, por supuesto, 
+los riesgos a los que se enfrentarán 
+en su adopción.
+Los conceptos básicos de las 
+tecnologías estratégicas y sus 
+aplicaciones dentro de las 
+industrias.
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p2 ---
+IA
+Material de consulta
+Introducción a las tecnologías basadas en datos
+CompTIA Properties, LLC. (s. f. ). The Role of Emerging Technology in 
+Digital Transformation. https://www.comptia.org/en-us/resources/
+research/the-role-of-emerging-technology-in-digital-transformation/ 
+Khan, F. A., y Anderson, J. M. (2021). Digital Transformation using 
+emerging technologies. Independent.
+Inteligencia Artificial
+Hill, K. (16 de febrero de 2012). How Target Figured Out A Teen Girl Was 
+Pregnant Before Her Father Did. Forbes. https://www.forbes.com/
+sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-
+pregnant-before-her-father-did/
+Ciencia de datos
+Provost, F., y Fawcett, T. (2013). Data Science for Business. O’Reilly Media 
+Inc.
+
+--- p3 ---
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Material de consulta
+Ciberseguridad
+Schapire, A. (02 de agosto de 2023). Latinoamérica, principal objetivo 
+a nivel mundial de los ciberataques. RFI. Recuperado el 08 de 
+enero de 2024, de https://www.rfi.fr/es/programas/noticias-de-
+am%C3%A9rica/20230802-latinoam%C3%A9rica-principal-objetivo-a-
+nivel-mundial-de-los-ciberataques
+Touhill, G. J., & Touhill, C. J. (2014). Cybersecurity for Executives: A Practical 
+Guide. Wiley-AIChE. 
+Computación en la nube
+Regalado, A. (31 de octubre de 2011). Who Coined ‘Cloud Computing’? 
+MIT Technology Review. https://www.technologyreview.
+com/2011/10/31/257406/who-coined-cloud-computing/ 
+Williams, B. (2012). The Economics of Cloud Computing: An Overview For 
+Decision Makers. Cisco Press.

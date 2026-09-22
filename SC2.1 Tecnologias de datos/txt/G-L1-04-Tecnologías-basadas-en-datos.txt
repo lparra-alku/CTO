@@ -1,0 +1,24 @@
+# L1 · Tecnologías basadas en datos
+Genially 65442fd8aade83001173e7ee
+
+Tecnologías
+basadas en datos
+La transformación digital no es sobre la tecnología en sí, sino sobre cómo la tecnología puede evolucionar el negocio y los modelos de negocio (Khan & Anderson, 2021).
+Toma unos minutos y piensa en cuáles tecnologías de uso común para generar, almacenar y analizar datos se utilizan en tu empresa actualmente. Seguramente podrás enumerar varias tecnologías que te permiten manipular datos, algunas de ellas son tan comunes que se consideran la base de muchos análisis modernos, tales como:
+Hojas de cálculo Computadoras personales Redes informáticas Internet Dashboards
+Sin embargo, hay tecnologías que aún están en desarrollo y su uso en la industria está incrementando sustancialmente. Y para comenzar a adentrarnos en ellas, es importante que primero definamos tecnología como la aplicación del conocimiento científico en objetivos prácticos de la vida humana (Britannica, 2023).
+A su vez, una tecnología estratégica basada en datos es aquella que utiliza datos como componente fundamental de su operación o funcionalidad para ayudarnos a tomar mejores decisiones, aumentar nuestra eficiencia o crear nuevos productos o servicios.
+Las tecnologías basadas en datos deben considerar lo siguiente:
+Herramientas y técnicas para la toma de decisiones basadas en información.
+Medidas de seguridad y privacidad sobre los datos almacenados o transmitidos.
+Colección, generación, almacenamiento y transmisión de datos.
+Herramientas y técnicas para el procesamiento de los datos.
+La adopción de estas tecnologías puede permitir que se mantenga la competitividad en un mundo permanentemente cambiante; sin embargo, hay que identificar las áreas de negocio o de operación donde el impacto puede ser mayor y, al mismo tiempo, identificar los riesgos de adoptar una tecnología.
+Tal como citan Khan y Anderson (2021) a Isaac Sacolick, presidente de StarCIO y autor de Driving Digital:
+Muchos líderes igualan la transformación digital con inversión en nueva tecnología y pierden la meta crítica de transformar el negocio, la cultura y la operación. Cada negocio debe evolucionar sus mercados objetivo, productos, servicios, cultura y operaciones para un mundo global y digital donde la experiencia de usuario es un diferenciador, y tomar decisiones basadas en datos es una capacidad organizacional esencial. Sí, la transformación digital requiere inversión en tecnología y datos, pero usar nueva tecnología enfocada en optimizar los negocios de hoy no alcanzará una transformación.
+Gracias por tu respuesta
+Aparte de las tecnologías comunes, ¿tu organización trabaja con alguna tecnología estratégica basada en datos? , ¿cuál?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es una herramienta que permite visualizar y analizar datos, generalmente de manera interactiva.
+Por ejemplo, visualización o generación de reportes.

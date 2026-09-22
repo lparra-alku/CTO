@@ -1,0 +1,217 @@
+
+--- p1 ---
+Sobre los conceptos revisados en el recurso anterior, se podrían definir 
+algunas de las ventajas y desventajas de los servicios de nube.
+del cómputo en la nube
+Ventajas y 
+desventajas
+
+--- p2 ---
+Ventajas
+Escalabilidad y flexibilidad: Las empresas pueden ajustar fácilmente 
+sus recursos de nube para satisfacer las demandas fluctuantes, lo que 
+significa que pueden escalar sus operaciones sin las limitaciones de la 
+infraestructura física. Esta flexibilidad es crucial para las empresas en 
+crecimiento o aquellas que experimentan fluctuaciones estacionales en su 
+demanda. Por ejemplo, una empresa de comercio electrónico puede 
+aumentar sus recursos de nube durante las temporadas altas, como en 
+temporada navideña, para manejar el aumento del tráfico y las 
+transacciones, y luego reducir estos recursos una vez que la demanda 
+disminuye, optimizando así los costos.
+Agilidad y competitividad: Se pueden implementar 
+soluciones de software de forma muy rápida en la nube, 
+acelerando el tiempo de comercialización de nuevos 
+productos o servicios. Esto fomenta la 
+innovación y ayuda a las empresas a 
+mantenerse competitivas en un mercado en 
+constante cambio. Un ejemplo claro son las 
+startups que utilizan la nube para lanzar 
+rápidamente productos innovadores, sin la carga 
+de construir y mantener su propia infraestructura 
+de TI, permitiéndoles competir con empresas más 
+grandes o establecidas.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Colaboración y trabajo 
+remoto: La nube facilita la 
+colaboración en tiempo real 
+entre equipos dispersos 
+geográficamente, ofreciendo 
+herramientas como 
+almacenamiento compartido, 
+aplicaciones de productividad y 
+plataformas de comunicación. 
+Esta capacidad es invaluable 
+para mantener la continuidad y 
+la eficiencia del negocio en la 
+actualidad, donde el trabajo 
+remoto empieza a ser la norma 
+en muchos sectores.
+Acceso a tecnología 
+informática de punta: El 
+acceso a los últimos sistemas 
+de inteligencia artificial, 
+aprendizaje automático, 
+sistemas avanzados de 
+almacenamiento y análisis 
+de datos es propiciado por la 
+computación en la nube.
+Ciberseguridad y 
+Cumplimiento: Muchos 
+proveedores de servicios en la 
+nube ofrecen sistemas de 
+seguridad robustos que, a 
+menudo, superan las 
+capacidades de las empresas 
+individuales. Además, cumplen 
+con una variedad de normativas 
+y estándares de la industria, 
+ayudando a las empresas a 
+gestionar riesgos y cumplir con 
+las regulaciones de protección 
+de datos.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Desventajas
+Dependencia de proveedores y conectividad: Como en muchos 
+ámbitos, la dependencia de un proveedor (vendor lock-in) de servicios en 
+la nube puede ser un riesgo significativo. Las interrupciones del servicio, 
+aunque no ocurran frecuentemente, pueden tener un impacto 
+considerable en las operaciones comerciales o la reputación de la empresa. 
+Si el costo de cambiar de proveedor es alto, también puede ser un riesgo si 
+el proveedor sale del mercado, no cuenta con la capacidad necesaria para 
+proveer los servicios o simplemente se encuentra una opción más 
+adecuada. Además, las empresas deben tener en cuenta la conectividad a 
+internet, ya que una conexión deficiente puede limitar el acceso a servicios 
+y datos críticos en la nube.
+Gestión de costos y 
+complejidad: Aunque la nube 
+puede ser rentable, la gestión de 
+los costos puede ser complicada. 
+Las empresas deben estar atentas 
+a los costos ocultos, como los 
+cargos por transferencia de datos 
+y las tarifas por servicios 
+adicionales. Además, la gestión de 
+múltiples servicios en la nube 
+puede agregar complejidad a la 
+infraestructura de TI de una 
+empresa.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Cumplimiento legal y regulatorio: El cumplimiento de las 
+normativas de datos, especialmente en diferentes jurisdicciones, puede ser 
+un desafío. Las empresas deben asegurarse de que sus proveedores de 
+servicios en la nube cumplan con todas las leyes y regulaciones 
+pertinentes, como el GDPR en Europa, para evitar multas y sanciones.
+Ciberseguridad: La ciberseguridad se considera tanto en las ventajas 
+como en las desventajas. Si bien los proveedores de servicios de nube 
+pueden tener sistemas de seguridad robustos, la responsabilidad final 
+sobre la integridad, confidencialidad y disponibilidad de la información 
+corresponde a la empresa y el departamento de informática debe tener la 
+capacidad técnica necesaria para entender y gestionar los retos que se 
+derivan de utilizar tecnologías de nube.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Antes de adoptar soluciones en la nube, es crucial realizar una evaluación 
+exhaustiva de las necesidades y capacidades actuales de la 
+organización, lo que implica entender los requisitos específicos del negocio, 
+la infraestructura de TI existente y los objetivos a largo plazo. Una 
+planificación estratégica detallada debe incluir la evaluación del 
+impacto en los procesos de negocio existentes, así como la 
+consideración de posibles riesgos y beneficios. 
+La elección de un proveedor de servicios en la nube es una decisión 
+crítica. Se deben considerar factores como la fiabilidad, seguridad, 
+cumplimiento normativo y el soporte ofrecido. Es importante también 
+entender los acuerdos de nivel de servicio (SLAs) para garantizar que las 
+expectativas y requisitos del negocio estén alineados con la oferta del 
+proveedor.
+Como con todas las tecnologías de transformación digital, la adopción de la 
+nube a menudo requiere un cambio significativo en la forma en que 
+las organizaciones operan. Una gestión efectiva del cambio es vital para 
+asegurar una transición exitosa, lo que incluye la capacitación de los empleados 
+en nuevas tecnologías y procesos, así como la adaptación de la cultura 
+empresarial para abrazar la innovación y la agilidad.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Finalmente, veamos un ejemplo de la importancia de la computación en la nube.
+Objetivo
+Evaluar correctamente los beneficios de la computación en la nube, 
+diferenciando entre los modelos de servicio (IaaS, PaaS, SaaS) y priorizando el 
+"Valor Suave" (agilidad/transformación) sobre el "Valor Duro" (costos).
+Problemática común
+"Migramos a la nube para ahorrar, pero la factura es más alta que antes".
+Una empresa migra sus servidores locales a la nube utilizando una estrategia de "Lift 
+and Shift" (mover todo tal cual está), esperando reducir costos de TI en un 30 %. 
+Meses después, descubren que pagan más debido a instancias 
+sobredimensionadas y costos de egreso de datos. La dirección cuestiona la 
+decisión. 
+El error fundamental fue ver la nube como un centro de datos más barato 
+(Valor Duro) en lugar de rediseñar las aplicaciones para aprovechar la 
+elasticidad y los servicios gestionados (Valor Suave), y no seleccionar el modelo 
+de servicio adecuado (seguían administrando IaaS como si fuera hardware 
+propio).
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+1. Selección estratégica del modelo: Utilizar la analogía del transporte 
+para decidir:
+     - ¿Necesitamos controlar el sistema operativo? 
+              IaaS (Arrendamiento).
+     - ¿Queremos solo desplegar código rápido? 
+              PaaS (Taxi).
+     - ¿Es un proceso estándar como el correo? 
+              SaaS (Autobús/Gmail).
+Moverse hacia PaaS y SaaS reduce la carga operativa y permite al equipo 
+enfocarse en innovación.
+2. Enfoque en valor suave: Justificar la inversión por la capacidad de 
+escalabilidad y flexibilidad. Por ejemplo, poder apagar entornos de 
+desarrollo los fines de semana (ahorrando dinero) o duplicar capacidad 
+automáticamente durante un lanzamiento de producto. Esa agilidad es el 
+retorno real.
+1. Expectativas irreales de costos: No considerar los costos de 
+transición, entrenamiento y operación híbrida. La nube cambia cómo se 
+gasta el dinero (OpEx vs. CapEx), no siempre cuánto se gasta inicialmente.
+2. Dependencia del proveedor (Vendor Lock-in): Construir 
+soluciones tan acopladas a un proveedor específico que sea imposible 
+moverse. Se debe evaluar este riesgo frente a la velocidad de desarrollo.
+Solución desde la información de la lección
+Errores comunes que deben evitarse
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p9 ---
+3. Métricas Incorrectas: Medir el éxito solo por la reducción de 
+presupuesto de hardware, ignorando métricas como "tiempo de 
+comercialización" o "disponibilidad del servicio".
+Puntos clave
+La nube es una mezcla de productos y servicios (IaaS, PaaS, SaaS) que ofrece 
+flexibilidad sobre demanda.
+El mayor beneficio suele ser la transformación del negocio y la agilidad 
+(Valor Suave), no solo el ahorro de costos.
+Seleccionar el modelo de servicio correcto es crucial para liberar recursos 
+internos y fomentar la innovación.
+9
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p10 ---
+Reflexiones
+Piensa en los servicios internos de tu organización, ¿qué 
+ventajas tiene usar esos productos o servicios por encima 
+de gestionarlos con un proveedor externo?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+10
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

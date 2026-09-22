@@ -1,0 +1,19 @@
+# L2 · Ciencia de datos
+Genially 655be9ea1694e80011b6fcfe
+
+de da tos
+La ciencia de datos es una disciplina que tiene como fin último mejorar la toma de decisiones, descubre cómo lo logra.
+La ciencia de datos es la disciplina que involucra principios, procesos y técnicas para entender fenómenos a través del análisis de los datos, cuyo fin último es mejorar la toma de decisiones (Provost & Fawcett, 2013).
+Así como todos los aspectos de negocio están abiertos a la recolección de datos, también existe información disponible en eventos externos. Esta amplia disponibilidad de datos ha incrementado el interés en métodos para extraer información útil de los datos (Provost & Fawcett, 2013), aumentando la demanda de especialistas en el área y la consecuente creación de nuevas áreas profesionales y académicas.
+La ciencia de datos combina matemáticas, estadística, ciencias computacionales, programación y técnicas de inteligencia artificial para extraer la información dentro de los datos y crear modelos.
+De manera general, en la ciencia de datos, los modelos aplican técnicas matemáticas y algoritmos computacionales sobre un conjunto histórico de datos para hacer pronóstico o inferencia sobre una variable de interés. Es importante recalcar que los modelos pueden tener variaciones en la precisión del pronóstico y debe considerarse esa variación en la toma de decisiones.
+Gracias por tu respuesta
+¿Tu organización utiliza la ciencia de datos para tomar decisiones?, ¿crees que en un futuro cambiará la manera de generar y procesar datos en tu organización?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+Un modelo es una representación matemática, física o conceptual de un fenómeno real o empírico, de un proceso, de una idea o de la relación entre variables. Por ejemplo: una maqueta del sistema solar, una fórmula matemática que describe la relación entre variables, un plano arquitectónico, etcétera.
+Aspectos de negocio: operaciones, manufactura, gestión de cadena de suministro, comportamiento del cliente, desempeño de las campañas de mercadotecnia, procedimientos de flujo de trabajo y más.
+Eventos externos: Tales como tendencias de mercado, noticias de la industria y movimientos de los competidores.

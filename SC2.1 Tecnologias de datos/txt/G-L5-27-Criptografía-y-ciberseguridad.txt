@@ -1,0 +1,23 @@
+# L5 · Criptografía y ciberseguridad
+Genially 65a00122dbbe8f001538ee00
+
+Criptografía
+y ciberseguridad
+Si bien la criptografía es una de las bases técnicas de la seguridad informática y sus métodos se remontan desde tiempos de los romanos, no fue hasta inicios del siglo XX que aparecieron importantes desarrollos en el campo.
+criptografía
+Al pensar en ciberseguridad, es posible que visualicemos la escena de película donde un hacker con capucha intenta acceder a datos privados y suelta miles de palabras técnicas, mientras la contraparte intenta proteger su información a toda costa. Sin embargo, en la realidad, la ciberseguridad tiene que ver más con procesos preventivos que llevamos a cabo día a día.
+La criptografía moderna es el arte y la ciencia de mantener un mensaje seguro a través de técnicas matemáticas y computacionales (Schneier, 2015). Pero proteger la información no es nuevo, el humano ha inventado métodos para proteger su información por tanto tiempo como ha existido la palabra escrita.
+Criptografía en el siglo XX
+Hoy, la criptografía se utiliza fuera de las paredes militares, el ciudadano común tiene acceso a herramientas seguras que pueden hacerle frente a adversarios poderosos (Schneier, 2015). Utilizamos la criptografía en todos lados: al momento de hacer una transacción bancaria, cuando navegamos por internet, cuando firmamos un documento de manera digital.
+Pero en ciberseguridad no todo son técnicas “duras” como la criptografía; el uso de servicios digitales y, en general, el uso de datos como materia prima de trabajo ha obligado a que en las últimas dos décadas se establezcan procesos, procedimientos, entrenamientos e, incluso, regulaciones, tanto a nivel de empresa como de gobierno.
+En conclusión, podemos definir ciberseguridad a nivel técnico como la sinergia deliberada de tecnologías, procesos y prácticas para proteger la información, los sistemas y aparatos computacionales, las redes, así como los programas utilizados para recolectar, procesar, almacenar y transportar esa información evitando ataques, daños y accesos no autorizados (Touhill & Touhill, 2014).
+Gracias por tu respuesta
+¿Cuáles crees que son los desafíos más relevantes que enfrenta tu empresa en términos de ciberseguridad?, ¿tienen procesos, procedimientos, entrenamientos o regulaciones al respecto?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Y en las décadas siguientes, el campo de la criptografía se convirtió en un área formal de investigación, tanto para gobiernos como para la academia.
+Un ciberataque puede tener impacto en cualquier organización de cualquier tipo, desde interrumpir el flujo de negocio hasta afectar la imagen pública, la confianza y la reputación.
+En las décadas de los 30s y los 40s, aparecieron artículos de investigación en la literatura abierta y múltiples tratados en el tema fueron publicados.
+De esta manera, durante los últimos 20 años, la investigación académica pública ha tenido un gran impulso.
+Después de la Primera Guerra Mundial, el Ejército y la Marina de los Estados Unidos de Norteamérica empezaron a hacer avances fundamentales en criptografía.
+Refiriéndonos como “mensaje” a cualquier dato o información que queramos proteger del acceso ilegítimo o no autorizado.

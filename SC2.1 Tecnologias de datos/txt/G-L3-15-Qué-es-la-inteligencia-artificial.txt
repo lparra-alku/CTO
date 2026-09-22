@@ -1,0 +1,22 @@
+# L3 · Qué es la inteligencia artificial
+Genially 655cf5f3c9a4620012b98c76
+
+¿Qué es la
+inteligencia artificial?
+No buscaremos una definición de la IA extremadamente detallada en el ámbito técnico, sin embargo, para entender el término y sus implicaciones hasta hoy, revisaremos un poco la historia.
+La inteligencia artificial (IA) está transformando industrias, como la de salud , finanzas y manufactur a . La versatilidad y habilidad de la IA para procesar grandes cantidades de datos la convierte en una poderosa herramienta para desbloquear nuevas oportunidades e impulsar la innovación en estas y otras industrias (Campos Zabala, 2023).
+En 1955, John McCarthy acuñó el término Inteligencia Artificial como parte de un trabajo académico para organizar la primera conferencia de IA: Dartmouth Summer Research Project on Artificial Intelligence in 1956 , más conocida como la Conferencia de Dartmouth, cuya meta era lograr que las computadoras se comportaran de una manera que los humanos identificaran como “inteligente”.
+En aquel entonces, el poder de cómputo disponible era extremadamente limitado y los participantes pronto se encontraron con barreras, por lo que el progreso para crear una máquina equivalente a un cerebro humano fue pequeño, pero el término inteligencia artificial perduró.
+Pero mientras el término evoca imágenes de máquinas conscientes y omniscientes suplantando humanos, la tecnología está más controlada, representando un sistema con comportamientos que pueden ser interpretados como inteligencia humana , como ganarle un juego de ajedrez a un gran maestro (Rose, 2020).
+Reflexiona
+Gracias por tu respuesta
+Partiendo de lo visto hasta ahora, ¿qué ejemplos de la IA puedes nombrar?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Por mucho tiempo, a la humanidad le ha fascinado la idea. En la mitología griega, Hefesto construyó Talos, un gigante mecánico, para proteger a Creta. En 1817, Mary Shelley se enfrentó a este concepto con Frankenstein. Y en 1927, la película clásica Metropolis mostró al robot Maria (Rose, 2020).
+Incendió la imaginación de todas las personas e inspiró a periodistas, escritores, académicos y científicos computacionales a imaginar un mundo futurista donde las máquinas pudieran pensar como los humanos.
+Logros impresionantes por sí mismos, resultado de la extraordinaria capacidad de la máquina para buscar patrones dentro de un ambiente definido con reglas establecidas, pero en ninguno de esos casos la máquina entendía el propósito del juego o la razón de jugar.
+En finanzas, algoritmos de IA ayudan a los bancos a detectar transacciones fraudulentas, automatizar servicio al cliente, tomar decisiones de inversión y crear nuevo valor de negocio a partir de los datos, por ejemplo, en el uso de datos transaccionales para nuevos casos de uso.
+En salud, la IA se usa para desarrollar tratamientos personalizados, mejorar diagnósticos y optimizar el cuidado del paciente.
+Pero no hay método estándar y confiable para medir la inteligencia humana, ni siquiera para definirla, por lo que es sumamente complicado decir que una máquina se comporta inteligentemente.
+Las empresas de manufactura se están apalancando en la IA para optimizar procesos de producción, minimizar desperdicio y aumentar la eficiencia de la cadena de suministro.

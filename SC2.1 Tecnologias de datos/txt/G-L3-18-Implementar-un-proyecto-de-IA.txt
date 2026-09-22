@@ -1,0 +1,15 @@
+# L3 · Implementar un proyecto de IA
+Genially 655cf6fc8da61e00110b1481 → 655cf708388c6300117e80c0
+
+Implementar un proyecto
+de IA en una organización
+¿Qué se necesita para implementar un proyecto de IA en una organización? Existen tres requerimientos básicos que deben cubrirse antes de comenzar la implementación.
+CODIGO NO BORRAR
+El primer paso será entender el problema que se quiere resolver, ya sea optimizar o automatizar un proceso manual, encontrar información escondida en los datos disponibles, etc. Sin un entendimiento profundo del problema o de las capacidades de la tecnología, se podrían desperdiciar recursos en soluciones que no atacan el problema de raíz.
+Cuando se trata de implementar un sistema de IA es aún más crucial, pues este tipo de sistemas son complejos y requieren una clara comprensión del problema. Un síntoma típico de un proyecto sin un fundamento sólido es tener múltiples cambios de requerimientos durante la vida del proyecto.
+Para evitarlo, los negocios deben tomarse el tiempo necesario para identificar el problema, entender las causas subyacentes y definir métricas de éxito. El proceso requiere una estrecha colaboración entre equipos técnicos y de negocios, así como expertos en la materia que puedan proveer otra perspectiva sobre el problema (Campos Zabala, 2023).
+Calidad de los datos
+Evaluar si los datos disponibles son suficientes o adecuados para atacar el problema. La mala calidad de los datos o, peor aún, su carencia pueden llevar al proyecto hacia el fracaso. Si los datos no están disponibles, será parte del proyecto acordar su obtención y el periodo necesario para empezar a generar valor.
+Expectativas
+También es importante mantener las expectativas a un nivel alcanzable. El término IA por sí mismo genera altas expectativas, pero para agregar valor al negocio basta con que el sistema a implementar sea mejor que el proceso actual, no necesariamente perfecto.
+Continúa con el estudio de la lección.

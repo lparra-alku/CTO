@@ -1,0 +1,28 @@
+# L5 · Activos informáticos de una organización
+Genially 659fffda2b3c550014ddf57f
+
+informáticos de una organización en la era de transformación digital
+Identificar los activos informáticos es crucial para la gestión del riesgo en ciberseguridad, pues de lo contrario no es posible establecer riesgos, amenazas y vulnerabilidades, menos aún impactos, costos y controles asociados con cada uno.
+Como vimos anteriormente, en una organización hay dos tipos de activos informáticos: los tangibles o físicos y los intangibles o digitales (Ross et al., 2021). La identificación de activos informáticos tangibles es directa: los bienes físicos se pueden contar e inventariar, por lo que existen sistemas y mecanismos para facilitar e, incluso, automatizar este inventario.
+Intangibles
+Tangibles
+Sin embargo, la identificación de activos informáticos intangibles puede ser más complicada, pues debe estar basada en un entendimiento de los f lujos funcionales relacionados con las funciones de negocio y con aquello que tiene o puede generar valor. Su identificación debe hacerse en estrecha coordinación con las áreas donde se genera y utiliza la información junto con el departamento informático, encargado de gestionar esos activos.
+Estos activos intangibles se pueden categorizar de muchas maneras. Algunas categorías, no excluyentes entre sí ni exhaustivas, pueden ser las siguientes (Ruan, 2019):
+Activos de software
+Activos de servicio
+Activos de sistema
+Activos de datos
+Algunas metodologías para identificar activos también buscan determinar los activos asociados al activo principal. Por ejemplo, la base de datos de empleados tiene asociado el servidor donde está almacenada, que a su vez tiene asociado el sistema de almacenamiento y el sistema de red.
+Gracias por tu respuesta
+¿Cómo identifican los activos, tanto tangibles como intangibles, en tu organización?, ¿notas más dificultad al nombrar los activos intangibles de tu empresa?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+La metodología por emplear puede ser recomendada por el departamento encargado de la gestión de riesgos, por algún especialista externo o por alguna regulación o requerimiento de cumplimiento, lo que es muy común en el ámbito financiero y de comercio exterior.
+“Servicio” refiere a un mecanismo para habilitar el acceso a una o más capacidades, el cual se provee usando una interfaz prescrita y se ejerce consistentemente con restricciones y políticas especificadas en la descripción del servicio. Por ejemplo, servicios de nube, servicios de respaldo, servicios de conectividad.
+Activos de información en formato digital, por ejemplo, una base de datos, documentos, una página web, propiedad intelectual en formato digital o un servicio que puede proveer acceso a datos desde una aplicación.
+Datos de ventas, información, software, marcas registradas, patentes, imágenes, etc. Muchos de estos activos se resguardan de manera digital, obligando a considerarlos dentro de un plan de gestión de riesgos.
+Un recurso puede ser altamente crítico en algún punto del flujo, pero de baja criticidad en otro punto. Un análisis de los flujos de negocio y la información asociada puede revelar estos puntos de criticidad.
+Por eso, algo común es incluir a quién pertenece el activo, quién lo gestiona y quién lo usa. Por ejemplo, el dueño de una base de datos de empleados puede ser el departamento de recursos humanos, pero su gestión puede depender del departamento de nóminas.
+Dispositivos físicos utilizados para generar, procesar y resguardar información: computadoras, servidores, plataformas computacionales, dispositivos de red, dispositivos de almacenamiento, etc.
+Cualquier recurso de software, hardware, dato, administrativo o de comunicaciones dentro de un sistema digital, como una aplicación, un sitio web, un sistema de soporte o cualquier otro grupo de sistemas digitales relacionados entre sí.
+Cualquier programa informático usado para operar una computadora o dispositivo relacionado.

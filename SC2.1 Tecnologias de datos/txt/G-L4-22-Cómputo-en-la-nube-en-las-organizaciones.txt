@@ -1,0 +1,13 @@
+# L4 · Cómputo en la nube en las organizaciones
+Genially 65778d481f028900149c7635 → 65778d42619bca0015814c9e
+
+Cómputo en la nube
+en las organizaciones
+Si la empresa requiere un servidor de alta capacidad para procesar tareas muy complejas, puede rentar un servidor de esas características solamente por el tiempo que realmente se utilizará.
+CODIGO NO BORRAR
+¿Qué hacen las empresas?
+Las empresas, en vez de comprar, gestionar y mantener servidores propios, pagan una cuota anual, mensual, diaria o, incluso, por minuto, para utilizar un servidor o servicio en los centros de datos del proveedor, los cuales se puedan ofrecer a miles de empresas al mismo tiempo alrededor del mundo.
+Amazon Web Services, actualmente el proveedor de servicios de nube más grande del mundo por facturación, tiene centros de datos en 32 regiones geográficas alrededor del mundo, dando servicio a 245 países y territorios (Amazon Web Services, 2023). Microsoft Azure y Google Cloud tienen infraestructura en escalas similares.
+Y no solo se ofrecen servidores para procesamiento de tareas, los proveedores actualmente ofrecen servicios desde almacenamiento hasta inteligencia artificial , todo con una base de pago sobre demanda con la flexibilidad de escalar los servicios, expandiendo o contrayendo servicios para coincidir con la demanda requerida o esperada.
+Todo esto ha generado nuevas oportunidades de negocio , forzando las estrategias comerciales y, al mismo tiempo, creando nuevos desafíos . Las empresas pueden concentrarse en el crecimiento y desarrollo de sus productos y servicios, delegando la gestión de infraestructura y plataformas a los grandes proveedores.
+Continúa con el estudio de la lección.

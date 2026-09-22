@@ -1,0 +1,4 @@
+# 04-L3-Machine-learning
+Vimeo ID: 979239946 · duración 0.8 min
+
+Machine Learning o Aprendizaje Automático Un sistema de aprendizaje automático es aquel que detecta patrones y relaciones de una gran cantidad de datos, y luego, en la presencia de un dato nuevo, puede determinar a cuál patrón o relación se acerca más. Al proceso de detectar estos patrones y relaciones se le conoce como entrenamiento. Aunque el sistema no entiende necesariamente estos patrones o relaciones, pues se trata de un sistema de inteligencia artificial débil, es capaz de procesar grandes cantidades de datos en un corto tiempo, lo que sería una tarea imposible para un ser humano. Los algoritmos que utilizan reconocimiento de voz son un ejemplo del uso de aprendizaje automático, así como los sistemas que detectan fraudes en tiempo real, o las sugerencias personalizadas de productos similares a tus preferencias, en tiendas electrónicas. Muy bien. Continúa con la lección.

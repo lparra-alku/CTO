@@ -1,0 +1,28 @@
+# L2 · Big Data
+Genially 6555b08df14cc700118ccc0e
+
+Cuando la generación de datos supera la capacidad humana y organizacional, estamos frente a Big Data.
+Comencemos a partir de otro ejemplo: una máquina que produce cierta cantidad de producto por semana. Si la máquina cuenta con sensores y sistemas automáticos, la generación de información puede superar por mucho a la tasa con la que un humano puede generar esa misma información de manera manual.
+Cuando el volumen, variedad y velocidad de los datos que se generan supera el ritmo común dentro de la organización, podemos hablar de Big Data. Y, de acuerdo con Oracle (s.f.) esos parámetros son las 3 V del Big Data.
+En Big Data, generalmente se deben procesar grandes volúmenes de datos no estructurados de baja densidad. Para algunas organizaciones, esto puede representar decenas de terabytes de información; para otras, pueden ser cientos de petabytes.
+Velocidad
+La velocidad es la tasa de datos por unidad de tiempo en la que se reciben los datos y, posiblemente, en la que se procesan.
+La variedad se refiere a cuántos tipos de datos están disponibles. Con el nacimiento de Big Data, los datos pueden generarse de manera no estructurada o semiestructurada, por ejemplo, texto, audio o video, lo que requiere procesamiento adicional para derivar significado y soportar metadatos.
+Muchos de los datos generados en grandes volúmenes están disponibles al público para ser explotados, editados o compartidos por cualquier persona. Esto se conoce como datos abiertos, u open data, por su término en inglés. Y los gobiernos son una de las mayores fuentes de datos abiertos.
+Gracias por tu respuesta
+¿En tu organización puedes medir el volumen de datos generado por día, semana o mes?, ¿estos datos están disponibles para la explotación y análisis?, ¿tienen metodologías formales para la recolección, almacenamiento y análisis de datos?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+El término en español sería “grandes datos”, sin embargo, en la industria es más común utilizar el término en inglés.
+Un petabyte equivale de manera aproximada a 1,000 terabytes.
+Metadatos se refiere a un conjunto de datos que describe y da información sobre otros datos. Por ejemplo, la fecha de creación, el propósito, el autor o creador del dato, etc.
+Nuestro procesamiento e interpretación de datos para convertirlos en información sería:
+¿Hay variación entre las cantidades producidas semanalmente? ¿La variación se puede explicar por factores internos a la máquina? ¿La variación se puede explicar por factores externos a la máquina?
+Un terabyte es la capacidad promedio de almacenamiento de una computadora actual. Representa aproximadamente 6.5 millones de páginas en documentos digitales o 500 horas de video (Dropbox, s.f.).
+Los tipos de datos tradicionales se estructuran y ajustan a una base de datos, es decir, un sistema computacional para la gestión formal de datos.
+Dado que estos volúmenes de información no pueden ser procesados de manera manual o tradicional, se deben utilizar herramientas y técnicas informáticas especiales, mismas que también se nombran Big Data.
+Estos datos pueden ser de valor desconocido, como la cantidad de clics en una página web o los datos generados por sensores.
+La Organización para la Cooperación y el Desarrollo Económicos (OCDE), de la cual México forma parte, en su iniciativa de Gobierno Digital impulsa la filosofía y las políticas de datos abiertos, promoviendo la transparencia, rendimiento de cuentas y creación de valor (OCDE, s.f.).

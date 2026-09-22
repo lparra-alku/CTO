@@ -1,0 +1,13 @@
+# L3 · IA débil e IA fuerte
+Genially 655cf672b4d73a00117517a1 → 655cf66d388c6300117e23ec
+
+IA débil e IA fuerte
+¿En qué consiste cada una?
+Aunque esta distinción es importante para la filosofía, desde el punto de vista del científico computacional, si el programa se comporta como inteligente, se ha alcanzado el objetivo (Neapolitan & Xia, 2012).
+CODIGO NO BORRAR
+¿Fuerte o débil?
+Searle formuló la posición de IA fuerte, donde el programa computacional alcanza entendimiento y otros estados cognitivos, pero concluyó que la IA fuerte no es posible. La posición en la que las computadoras pueden comportarse de manera inteligente, pero no necesariamente comprender, es llamada IA débil.
+Desarrollar un sistema de IA fuerte es el propósito de múltiples investigaciones, debido a su habilidad para aprender por sí misma, entender el contexto y adaptarse a situaciones desconocidas. A pesar de los avances de los últimos años, este nivel de desarrollo no se ha alcanzado; además, su aplicación actual en el mundo de los negocios es limitada.
+Así que dentro de un proceso de transformación digital y en la misma posición que los científicos computacionales: si la aplicación del sistema cumple con los requerimientos definidos, el objetivo se ha alcanzado.
+La prueba de esto es la cantidad de empresas que usan programas de aprendizaje automático (machine learning) para agilizar operaciones y abrir áreas de mejora dentro de los negocios. Conoce más al respecto en el siguiente recurso.
+Continúa con el estudio de la lección.

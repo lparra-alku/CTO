@@ -1,0 +1,11 @@
+# L2 · Ideas para llevar
+Genially 655bea004b849e0010c94389
+
+Ideas para llevar
+Continúa con tu aprendizaje en la siguien te lección.
+La información se define como los datos que han sido organizados, procesados e interpretados para la toma de decisiones dentro de la empresa.
+Descarga la versión impresa en el apartado Archivos adjuntos.
+Un proyecto de datos exitoso deberá contar con los medios de divulgación adecuados para la persona que tomará decisiones basándose en la información generada.
+Cuando el volumen, variedad y velocidad de los datos que se generan supera el ritmo común dentro de la organización, podemos hablar de Big Data.
+La ciencia de datos es la disciplina que involucra principios, procesos y técnicas para entender fenómenos a través del análisis de los datos, cuyo fin último es mejorar la toma de decisiones (Provost & Fawcett, 2013).
+Una de las metodologías más conocidas para ejecutar un proyecto de análisis de datos se conoce como CRISP-DM, de la cual IBM es uno de los principales impulsores.

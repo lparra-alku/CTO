@@ -1,0 +1,110 @@
+
+Reto | Generación de un plan de identificación e implementación de tecnologías estratégicas en mi organización
+
+
+
+Entregable final del reto
+Documento editable por el participante
+
+
+
+Nombre del participante:
+
+Indicaciones:
+Al terminar tu reto de aplicación, deberás guardar el archivo en formato PDF con tu nombre de la siguiente manera: tunombre_Reto_CS2.1
+
+Al finalizar el reto, conviértelo en archivo PDF y súbelo como evidencia presionando el botón “Añadir publicación”.
+
+El archivo entregable será evaluado con base en el cumplimiento de los requerimientos y a su contenido.
+
+
+Instrucciones:
+A lo largo de este módulo, te acercaste a ciertas tecnologías estratégicas basadas en datos que tienen diferentes aplicaciones dentro de las industrias. En este reto, seleccionarás una y generarás un plan de implementación aplicable para la organización donde laboras. 
+
+Para elaborar el plan de implementación, seguirás los siguientes cinco pasos. Antes de comenzar, recuerda que tu documento será evaluado con base en el cumplimiento de los requerimientos y a su contenido, pero también por su presentación, por lo que errores ortográficos o de redacción serán penalizados. 
+
+
+
+
+
+
+
+
+PASO 1. 
+Elige una tecnología estratégica basada en datos y elabora un texto de entre 100 y 200 palabras que justifique por qué la eliges. Asegúrate de que tu texto responda las siguientes preguntas base:
+¿Cuál es el estado actual en mi organización con respecto a las tecnologías estratégicas basadas en datos?
+¿Cuál es el problema de la organización que podría ser resuelto con la implementación de la tecnología elegida?
+¿Qué ventajas traería para la organización su implementación?
+¿De qué manera la tecnología se adapta a los objetivos, metas y estrategia general de la organización?
+
+Tecnología estratégica 
+basada en datos seleccionada
+
+Justificación
+
+
+
+PASO 2.
+Ahora es momento de determinar el valor que la tecnología estratégica puede presentar en la organización, sobre todo a corto plazo. Para eso, comenzarás por aclarar cómo se determina el corto plazo en tu organización, es decir, qué periodo de tiempo es comprendido como “corto plazo”. Posteriormente, identifica de qué manera la tecnología generará valor para la organización y enlista, por lo menos, cinco puntos. Toma en cuenta el mercado, la competencia, la estructura interna y la relación externa.
+Anota tus hallazgos a continuación:
+
+Corto plazo
+Generación de valor para la organización
+
+
+
+
+
+
+
+
+
+
+
+
+PASO 3.
+Como sabes, la adopción de cualquier tecnología conlleva retos para la organización. Aunque no pueden eliminarse por completo, es importante que se tengan en cuenta durante el plan de implementación; de esta manera, se mantendrá una visión más clara del panorama general y se podrán tomar mejores decisiones con respecto a la integración. Para esto, enlista los posibles riesgos relacionados a las áreas generales en la siguiente tabla:
+
+¿Cuáles son los posibles riesgos relacionados con?:
+Seguridad de datos
+
+Resistencia al cambio
+
+Integración con sistemas existentes
+
+Costos
+
+
+PASO 4.
+Tomando todo lo anterior como base, es momento de que desarrolles un plan básico de estimaciones para la implementación. No tiene que ser exacto ni exhaustivo, pero sí toma en cuenta todos los elementos revisados en los pasos anteriores, así como la realidad actual de tu organización. En la siguiente tabla, llena los campos requeridos:
+
+Plan básico de implementación de la tecnología estratégica
+Tiempos estimados
+
+Costos estimados
+
+Equipo humano requerido
+
+Equipo tecnológico requerido
+
+
+
+PASO 5.
+Y, finalmente, ¿cómo conseguirá la tecnología la organización? Para eso, necesitarás identificar posibles proveedores que puedan suministrar la tecnología o participar en la implementación. Investiga las características, las ofertas y los planes que mejor se adapten a las necesidades de tu organización y selecciona mínimo tres. Escríbelos a continuación.
+
+Proveedores
+Características
+Oferta y planes
+Ventajas y desventajas
+
+
+
+
+
+
+
+
+
+
+
+

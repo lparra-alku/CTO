@@ -1,0 +1,17 @@
+# L5 · Cómo gestionar los riesgos en una organización
+Genially 659fffdf585e9f00141eb3a1 → 65a0011041a18700143d0c47
+
+¿Cómo gestionar los riesgos
+en una organización?
+La dirección de una organización debe definir, documentar y aprobar la política para gestionar el riesgo y debe ser la última responsable de estas iniciativas en la organización.
+CODIGO NO BORRAR
+Concientización y compromiso
+La European Union Agency for Cybersecurity (ENISA, s.f.) establece que la concientización y compromiso de los equipos de liderazgo en la gestión de riesgos es crítica y se debe prestar especial atención a:
+Obtener soporte activo de la alta dirección para el desarrollo e implementación del plan de gestión de riesgos. Nombrar un administrador para dirigir y promover las iniciativas. Involucrar a la alta dirección en la ejecución del plan de gestión de riesgos.
+Requerimientos y recursos
+Identificar los requerimientos y asignar los recursos necesarios incluye gente, habilidades, procesos, procedimientos, sistemas de información, bases de datos, recursos financieros y cualquier otro recurso requerido para actividades específicas de tratamiento de riesgos. Es necesario contar con un equipo de ciberseguridad preparado y resiliente para desarrollar e implementar las iniciativas de ciberseguridad.
+Gestión de cambio y comunicación
+La aplicación de controles, políticas y procedimientos estrictos suele contraponerse con la comodidad del trabajo día a día. La resistencia a seguir nuevas prácticas es una causa común de fallo en las iniciativas de ciberseguridad. Por ello, es prioritaria la gestión de cambio y comunicación a nivel organizacional.
+Práctica continua
+Por último, es importante tener presente que no hay sistemas o equipos infalibles, pero la ciberseguridad es una práctica continua que busca minimizar el impacto de los riesgos en activos y procesos informáticos. En esta época, donde la información es la materia prima, debe ser parte de la estrategia organizacional.
+Continúa con el estudio de la lección.

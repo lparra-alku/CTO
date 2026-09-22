@@ -1,0 +1,126 @@
+
+--- p1 ---
+Casos de 
+uso
+El cómputo en la nube actual consiste en decenas de 
+servicios y múltiples casos de uso.
+
+--- p2 ---
+El cómputo en la nube se ha convertido en una tecnología 
+emergente con varias aplicaciones, tanto de forma general y 
+común para cualquier giro empresarial o persona individual, 
+como algunos más específicos.
+Casos de uso: Uso común
+Correo electrónico y plataformas colaborativas
+El correo sigue dominando la comunicación corporativa, sin embargo, cada 
+día existen más opciones que facilitan la comunicación y la colaboración 
+entre personas dentro de la misma empresa, incluso con personas fuera de 
+la empresa: desde aplicaciones de mensajería instantánea y 
+videoconferencias remotas hasta documentos compartidos que 
+permiten la modificación en tiempo real por múltiples personas de manera 
+simultánea. 
+Trabajo remoto
+En la actualidad es posible generar escritorios virtuales en la nube con 
+acceso a todas las plataformas colaborativas de la empresa. También 
+existen servicios de nube que permiten el acceso remoto a computadoras 
+dentro de la red corporativa de manera fácil y segura.
+Gestión de proyectos
+Existen múltiples herramientas que permiten llevar el control de 
+muchos tipos de proyecto desde un servicio centralizado en la nube: 
+desde campañas de mercadotecnia hasta proyectos de desarrollo en la 
+nube con metodologías ágiles.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+Almacenamiento de archivos
+El almacenamiento automático en la nube permite que los 
+archivos puedan ser accedidos, almacenados y recuperados 
+desde cualquier lugar del mundo con conexión a internet. También se 
+pueden compartir con múltiples personas y con distintos niveles de acceso.
+Software de gestión empresarial
+La oferta de software de gestión empresarial (ERP, por las siglas en inglés 
+de Enterprise Resource Planning) basado en nube es cada vez más grande, 
+desde opciones de software de pequeña escala y bajo costo para 
+empresas PyMEs, hasta opciones especializadas y reconocidas para 
+grandes transnacionales.
+Firma digital de papelería y contratos
+Existen múltiples proveedores que permiten generar firmas sobre 
+documentos digitales, centralizando y acelerando los procesos 
+administrativos, evitando además el uso de papel y correos electrónicos.
+
+--- p4 ---
+Casos de uso: Uso empresarial del área informática
+Desarrollo, prueba y despliegue de productos de software
+Existen servicios de nube específicos para facilitar y soportar el 
+desarrollo, prueba y despliegue (puesta en producción) de software, 
+ya sea para uso interno de la empresa o software como producto de 
+negocio.
+Respaldos y recuperación de desastres
+El respaldo de servidores e información corporativa puede ser soportado 
+por esquemas de almacenamiento y servicios específicos de 
+respaldo ofrecidos por múltiples proveedores. Estas soluciones permiten 
+tener respaldos incluso en múltiples ubicaciones geográficas, que de otro 
+modo tendría un costo prohibitivo.
+Análisis de datos
+El uso de servicios en la nube permite utilizar herramientas avanzadas 
+de análisis de datos o inteligencia de negocios, compartir tableros de 
+control (dashboards) con múltiples personas y tener acceso a múltiples 
+fuentes de datos propias y de terceros.
+Además de los modelos de IaaS y PaaS, se encuentran:
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Casos de uso: Uso específico
+Herramientas de aprendizaje electrónico (e-learning)
+La implementación de herramientas de aprendizaje electrónico, ya sea 
+para universidades, escuelas o empresas que las deseen aplicar para 
+distribuir contenido de entrenamiento entre sus candidatos o empleados, 
+es factible con proveedores de nube especializados.
+Herramientas para la industria de la manufactura
+Existen proveedores de nube que ofrecen una gran variedad de servicios, 
+desde planificadores de producción hasta herramientas de 
+logística.
+Plataformas de reservaciones
+Hay servicios en nube para reservaciones, desde mesas de restaurante 
+hasta habitaciones de hotel, incluyendo los servicios alrededor de la 
+reservación: cobro en línea, planificación de viajes, encuestas de 
+satisfacción, etc.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Verificación de identidad
+En la actualidad, donde cada vez más servicios y procesos se 
+realizan en línea, es importante poder tener la certeza de quién 
+es la persona o empresa con la que se trata. Existen proveedores de 
+nube especializados en estos servicios que se pueden integrar con otros 
+sistemas o productos.
+Comercio electrónico
+Ya no es necesario desarrollar desde cero una plataforma de comercio 
+electrónico. Hay múltiples opciones para vender productos o servicios 
+a través de internet a través de los proveedores de nube que ofrecen 
+estos servicios y que, generalmente, incluyen la gestión de cobro, el control 
+de inventarios y el control de logística de envíos de productos físicos.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+Reflexiones finales
+¿Qué servicios o productos de nube usan 
+actualmente en tu organización?, ¿utilizas 
+alguno de forma personal?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7

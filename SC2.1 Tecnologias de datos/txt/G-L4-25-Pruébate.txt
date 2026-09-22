@@ -1,0 +1,66 @@
+# L4 · Pruébate
+Genially 6577a05a1f02890014a60442
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Sebastián a resolver algunas problemáticas.
+Sebastián acaba de entrar a una nueva empresa y tiene muchas dudas acerca de algunos procesos que llevan. Te ha pedido que le ayudes a resolver ciertas preguntas sobre el cómputo en la nube, que es donde más perdido se siente . Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Una mezcla de productos y servicios por internet con alta velocidad, confiabilidad y resiliencia
+Para comenzar, Sebastián quiere saber qué es el cómputo en la nube.
+Una arquitectura individual para trabajar de forma remota
+Una tecnología que inició a finales de los 90
+¡Correcto!
+Además, no se trata de un concepto tan nuevo, a mitad de los 90 ya se iba concibiendo la idea.
+¡Incorrecto!
+El cómputo en la nube no es una tecnología o una arquitectura individual. Es una mezcla de productos y servicios, muchos de los cuales han existido por décadas, que son ofrecidos a través de internet.
+Con el fin de prepararse más, Sebastián te pregunta cuáles son los tres modelos principales de servicios en la nube.
+LaaS, PaaS y MaaS
+IaaS, PaaS y SaaS
+Software y hardware
+Los tres modelos principales de servicios en la nube son IaaS ( Infrastructure as a Service ), PaaS ( Platforms as a Service ) y SaaS ( Software as a Service ).
+Recuerda que existen tres modelos principales de servicios en la nube: IaaS (Infrastructure as a Service), PaaS (Platforms as a Service) y SaaS (Software as a Service).
+Para comprender un poco más el cómputo en la nube y sus modelos de servicio, Sebastián te pide un ejemplo de ellos, ¿qué le dirías?
+Una tienda en línea enfocada en consumidor, como Amazon
+Software de contabilidad instalado de manera local
+Servicios de correo electrónico en la web
+Los servicios de correo electrónico en la web, como Outlook y Gmail, son un ejemplo de SaaS.
+Recuerda que los servicios de correo electrónico en la web, como Outlook y Gmail, son un ejemplo de SaaS. Aunque Amazon es un servicio soportado por infraestructura en nube, para el consumidor final no es un servicio que se contrate bajo demanda .
+Sebastián quiere saber cuáles son los errores cruciales en la implementación del cómputo en la nube en las empresas.
+La dificultad del manejo del cómputo en la nube y la resistencia al cambio
+Estafas, pérdidas de información y saturación de datos
+Expectativas irreales y métricas definidas de manera incorrecta
+Cuando se busca el porqué de una migración a la nube salió mal, suele dividirse en estos dos puntos cruciales.
+Recuerda que los dos puntos cruciales de error en migraciones a la nube en las organizaciones son las expectativas irreales y las métricas definidas incorrectamente.
+Sebastián escuchó a su líder hablar del “valor suave”, refiriéndose al beneficio del cómputo en la nube. ¿A qué se refiere?
+Característica transformadora
+Familiarización con los servicios ofrecidos
+Ahorro en costos
+El beneficio del cómputo en la nube radica principalmente en el “valor suave”, que puede ser encontrado en su característica transformadora.
+Recuerda que más que los “valores duros”, el beneficio del cómputo en la nube radica principalmente en el “valor suave”, que puede ser encontrado en su característica transformadora.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.

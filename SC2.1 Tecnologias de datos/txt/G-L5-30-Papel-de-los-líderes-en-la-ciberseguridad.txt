@@ -1,0 +1,16 @@
+# L5 · Papel de los líderes en la ciberseguridad
+Genially 65a0011341a18700143d0e82 → 659fffd1dbbe8f001538146f
+
+Papel de los líderes en la ciberseguridad
+En la era de transformación digital
+El papel de los líderes es gestionar y optimizar los recursos para empatar la gestión de riesgos, controles y políticas con la misión de la organización. Pero ¿cómo empezar?, ¿qué preguntas hacer?
+CODIGO NO BORRAR
+Según un estudio del World Economic Forum (2022), el 81 % de los directivos de empresa piensa que la transformación digital es el principal motivo para mejorar la ciberresiliencia, entendiéndola como la capacidad de las organizaciones para soportar contingencias relacionadas con la ciberseguridad. Además, el 87 % de la misma muestra tiene la intención de establecer objetivos de mejora (Deutsch, 2022).
+¿Qué hacer como líderes?
+El detalle técnico se puede y debe delegar a los especialistas de las áreas de informática y tecnología; sin embargo, a nivel organización, la gestión de riesgos, el establecimiento de controles y la definición de políticas de ciberseguridad requiere involucramiento directo y activo del equipo de liderazgo de la organización. Así pues, la ciberseguridad es responsabilidad y tarea tanto del equipo técnico como del equipo de liderazgo.
+¿Qué preguntas hacer?
+Para guiar la discusión sobre ciberseguridad a nivel liderazgo, el Departamento de Seguridad Nacional de los Estados Unidos de Norteamérica (DHS por las siglas en inglés de Department of Homeland Security) publicó un documento con cinco preguntas clave (DHS, s.f.).
+Preguntas clave de la DHS
+1. ¿Cómo nos informamos los líderes ejecutivos sobre el nivel actual de los ciberriesgos y su impacto en nuestra organización? 2. ¿Cuál es el nivel actual e impacto de negocio de los ciberriesgos en nuestra organización?, ¿cuál es nuestro plan para manejar los riesgos identificados?
+3. ¿Cómo aplica nuestro programa de ciberseguridad los estándares de la industria y las buenas prácticas? 4. ¿Cuántos ciberincidentes detectamos en una semana normal y de qué tipo son?, ¿cuál es el umbral para notificar a los líderes ejecutivos? 5. ¿Qué tan integral o exhaustivo es nuestro plan de respuesta a ciberincidentes?, ¿qué tan seguido se prueba?
+Continúa con el estudio de la lección.

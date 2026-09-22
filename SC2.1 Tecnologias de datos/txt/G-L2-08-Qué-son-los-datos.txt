@@ -1,0 +1,14 @@
+# L2 · Qué son los datos
+Genially 65544e80bc79a60011edb81d → 65544ea1bc79a60011edcef2
+
+los datos?
+Seguramente has escuchado sobre los negocios impulsados por datos, data-driven en su término original, ¿pero a qué se refieren “los datos”?
+CODIGO NO BORRAR
+“Los datos son el nuevo petróleo. Valioso, pero sin refinar no puede ser realmente usado. Tiene que ser cambiado en gas, plástico, químicos, etc, para crear una entidad valiosa que impulsa a una actividad rentable; así, los datos deben ser explotados, analizados para tener valor”
+Los datos han sido llamados el nuevo petróleo por su importancia en la economía digital. La frase se atribuye a Clive Humby, un matemático y emprendedor británico. En esta visión, el dato se considera un activo, se atesora, se protege y se crean cultos alrededor.
+(Citado de Murillo, 2021).
+Pero ¿qué es un dato?
+Un dato se refiere a los hechos y cifras que se coleccionan, analizan y resumen para presentación e interpretación. Pueden ser cuantitativos, que miden la cantidad o el tamaño de algo, o cualitativos, que proveen etiquetas o nombres para categorías de artículos similares (Sweeney, Williams y Anderson, s.f.)
+¿Dónde se generan?
+Los datos se generan en negocios, gobierno, academia y todas las áreas productivas de la actualidad y pueden obtenerse de múltiples fuentes, tales como encuestas, experimentos y observaciones. Esta ubicuidad es parte de la relevancia de la ciencia de datos en cualquier empresa moderna.
+Continúa con el estudio de la lección.

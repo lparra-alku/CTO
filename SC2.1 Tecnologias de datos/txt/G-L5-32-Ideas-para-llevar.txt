@@ -1,0 +1,11 @@
+# L5 · Ideas para llevar
+Genially 659fffd741a18700143c6607
+
+Ideas para llevar
+Continúa con tu aprendizaje en la siguien te lección.
+La criptografía moderna es el arte y la ciencia de mantener un mensaje seguro a través de técnicas matemáticas y computacionales (Schneier, 2015).
+Descarga la versión impresa en el apartado Archivos adjuntos.
+La identificación de los activos informáticos es crucial para la gestión del riesgo en ciberseguridad, pues a partir de ellos se establecen sus riesgos, amenazas y vulnerabilidades.
+La ciberseguridad es el uso de tecnologías, procesos y prácticas para proteger la información, sistemas y aparatos computacionales, redes y programas utilizados para recolectar, procesar y almacenar esa información.
+La gestión de riesgos, el establecimiento de controles y la definición de políticas de ciberseguridad requiere involucramiento directo y activo del equipo de liderazgo de la organización.
+La tríada de ciberseguridad se conoce como CIA, por las siglas en inglés que engloban sus tres conceptos: Confidentiality, Integrity y Availability.

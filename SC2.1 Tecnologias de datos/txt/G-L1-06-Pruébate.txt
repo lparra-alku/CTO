@@ -1,0 +1,63 @@
+# L1 · Pruébate
+Genially 65443021aade830011741b34
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Mario a resolver algunas problemáticas.
+Mario trabaja en la empresa Crew Inc. y tiene en sus manos la decisión de adoptar ciertas tecnologías estratégicas, pero antes de eso quiere aclarar ciertas dudas, por lo que necesita de tu apoyo como líder en transformación digital. Abre sus mensajes y ayúdalo a resolver sus preguntas. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Le ofrecieron a Mario 3 tecnologías, pero una de ellas NO es una tecnología estratégica, ayúdalo a seleccionarla.
+Internet de las cosas
+Cómputo personal
+Cómputo en la nube
+¡Correcto!
+La tecnología estratégica es aquella que tiene potencial de impactar a la organización en un mediano plazo. El cómputo personal es una tecnología plenamente adaptada y que puede considerarse un bien de consumo, por lo que no es una tecnología estratégica.
+¡Incorrecto!
+La respuesta correcta es Cómputo personal. Recuerda que la tecnología estratégica es aquella que tiene potencial de impactar a la organización en un mediano plazo. El cómputo personal es una tecnología plenamente adaptada y que puede considerarse un bien de consumo, por lo que no es una tecnología estratégica.
+A raíz de la última pregunta, Mario quiere identificar las características de una tecnología estratégica, así que enumera 3 características, pero una de ellas no corresponde. Selecciona la que no es característica de una tecnología estratégica.
+Alineación con estrategia organizacional
+Generación de ventajas competitivas
+Larga historia
+Aunque las tecnologías estratégicas tienen un incremento importante, no tienen una larga historia, sino que siguen en desarrollo, por lo que esta no es una característica.
+La respuesta correcta es Larga historia. Recuerda que parte de las características de las tecnologías estratégicas es que deben estar alineadas con la estrategia organizacional y tienen el potencial de generar ventajas competitivas. Sin embargo, siguen en desarrollo y no tienen una larga historia.
+Finalmente, para corroborar, Mario te pregunta el componente principal de una tecnología estratégica basada en datos. ¿Cómo responderías?
+Método de almacenamiento de datos
+Una tecnología que usa los datos como componente principal
+Una herramienta de protección de datos
+Una tecnología estratégica basada en datos utiliza datos como componente fundamental de su operación o funcionalidad para ayudarnos a tomar mejores decisiones, aumentar nuestra eficiencia o crear nuevos productos o servicios.
+La respuesta correcta es Una tecnología que usa los datos como componente principal. Aunque las tecnologías estratégicas basadas en datos requieren almacenar datos y se preocupan por su protección, no son sus características principales. Recuerda que usan los datos como componente principal.
+Mario quiere saber cuál es el beneficio de la adopción de tecnologías estratégicas basadas en datos, ¿qué le dirías?
+Tener acceso a la información y datos de los usuarios y clientes
+Mantener la competitividad de la organización
+Hacer crecer el rendimiento de la inversión
+La adopción de estas tecnologías puede permitir que se mantenga la competitividad en un mundo permanentemente cambiante.
+La respuesta correcta es Mantener la competitividad de la organización. Recuerda que la adopción de estas tecnologías puede permitir que se mantenga la competitividad en un mundo permanentemente cambiante.
+Mario quiere saber qué parte del equipo será el responsable del esfuerzo en la adopción de tecnologías estratégicas, tú le dices que:
+El esfuerzo debe cubrir a toda la organización
+Los líderes y colaboradores internos
+El área de tecnologías de la información
+El esfuerzo para un proyecto de implementación de tecnologías estratégicas debe cubrir a toda la organización: desde los equipos de liderazgo (C-suite) hasta la persona que ejecuta la operación del día a día.
+La respuesta correcta es El esfuerzo debe cubrir a toda la organización. Recuerda que el esfuerzo para un proyecto de implementación de tecnologías estratégicas debe cubrir a toda la organización: desde los equipos de liderazgo (C-suite) hasta la persona que ejecuta la operación del día a día.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Respuesta para cuatro opciones
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

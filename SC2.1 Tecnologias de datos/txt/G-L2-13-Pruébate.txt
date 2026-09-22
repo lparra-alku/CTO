@@ -1,0 +1,66 @@
+# L2 · Pruébate
+Genially 655bea1f03d5c800118f432b
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Saúl a resolver algunas problemáticas.
+Saúl comenzará con la implementación de proyectos basados en Ciencia de datos en su organización. Para ello tiene que tener en claro todo lo que implica el análisis de datos y su impacto en la empresa, así que ha pedido tu ayuda para repasar la información. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Big Data son grandes volúmenes de información y el conjunto de herramientas para procesarlos
+Saúl quiere definir brevemente lo que es el Big Data, a lo que tú le respondes:
+Big Data son datos generados por gobiernos y disponibles al público
+Big Data son datos generados durante un periodo largo de tiempo
+¡Correcto!
+Big Data es información en grandes volúmenes que superan el ritmo común dentro de una organización.
+¡Incorrecto!
+Recuerda que Big Data son los grandes volúmenes de información y el conjunto de herramientas para procesarlos.
+A Saúl no le ha quedado muy claro qué es la información en el contexto de transformación digital, por lo que tú le dices que es:
+Datos que han sido organizados, procesados e interpretados para un propósito en particular
+Datos provenientes de un sensor
+Conjunto de datos no estructurados
+Aunque hay muchas acepciones de información, la que nos compete en el contexto de transformación digital es la de datos que han sido organizados, procesados e interpretados para un propósito en particular.
+Recuerda que para considerarse información, los datos tienen que haber sido organizados, procesados e interpretados para un propósito en particular.
+Saúl seguirá la metodología de CRISP-DM y el primer paso es el conocimiento del dominio del negocio, pero te pide que le recuerdes en qué consiste, así que tu respuesta es:
+Es el conocimiento de trasfondo sobre el negocio u organización
+Es la habilidad que permite controlar un negocio
+Es el conocimiento que permite aumentar ventas
+Es el conocimiento de trasfondo sobre el campo o ambiente en el que se aplicarán los métodos de la ciencia de datos. Además, puede ser conocido también como el conocimiento del negocio.
+Recuerda que es el conocimiento de trasfondo sobre el campo o ambiente en el que se aplicarán los métodos de la ciencia de datos. Además, puede ser conocido también como el conocimiento del negocio.
+Ayuda a Saúl a seleccionar la opción que define la importancia de la etapa de divulgación en el ciclo de vida de los datos.
+Hacer llegar la información a los tomadores de decisión
+Mostrar a los clientes los resultados del análisis
+Generar campañas de mercadotecnia
+La divulgación puede ser el paso más visible dentro de la organización, ya que hace llegar la información generada a los tomadores de decisiones a través de reportes, gráficas o tableros de control (dashboards).
+Recuerda que la etapa de divulgación se trata de hacer llegar la información a los tomadores de decisión de la organización.
+Finalmente, Saúl quiere confirmar que el propósito final de la Ciencia de datos es:
+Mejorar la toma de decisiones informadas
+Crear reportes para la alta dirección
+Promover el uso de datos abiertos
+La Ciencia de datos involucra principios, procesos y técnicas para entender fenómenos a través del análisis de los datos y mejorar la toma de decisiones informadas.
+La creación de reportes es un subproducto del proceso de ciencia de datos, pero el fin último es mejorar la toma de decisiones informadas.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

@@ -1,0 +1,74 @@
+
+--- p1 ---
+Gran parte del crecimiento que ha tenido el uso de datos se debe a la 
+intersección de la estadística con el aprendizaje automático enfocada en 
+aplicaciones comerciales.
+en los negocios
+Aplicaciones 
+de los datos
+
+--- p2 ---
+Desarrollo de producto. Algunas compañías utilizan Big Data para 
+anticipar demanda de producto. Construyen modelos predictivos para nuevos 
+productos y servicios a través de la clasificación de atributos clave pasados y 
+futuros y modelan la relación entre esos atributos y el éxito comercial.  
+Mantenimiento predictivo. Tomando en cuenta información propia de 
+la máquina, así como datos generados por sensores o bitácoras.
+Fraude y cumplimiento. El Big Data permite identificar patrones en los 
+datos que indiquen fraude, además de permitir la agregación de grandes 
+volúmenes de datos para generar reportes de cumplimiento de manera más ágil. 
+Las aplicaciones de los datos en los negocios son sumamente variadas y, en la 
+actualidad, muchas áreas de una empresa pueden beneficiarse de una 
+estrategia donde se incluya el Big Data o la Ciencia de datos en la operación: 
+desde las áreas donde los datos son la materia prima de manera natural, como 
+finanzas o ventas, hasta áreas donde hasta hace unos años no se consideraba 
+que un análisis formal y metódico de los datos pudiera generar valor, como la 
+agricultura.
+Oracle (s.f.) menciona algunas actividades de negocio que pueden ser 
+soportadas por procesos de Big Data, asumiendo que los datos están 
+disponibles, por ejemplo: 
+Experiencia del cliente. Los procesos de Big Data permiten obtener 
+información de múltiples medios, tanto internos, como bitácoras de 
+llamadas o incidentes de soporte, como externos, redes sociales, visitas a 
+sitios web, etc. Esta información permite mejorar la experiencia de 
+interacción con el cliente.  
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Logística. La ciencia de datos se puede utilizar para analizar y planificar 
+rutas óptimas de entrega. 
+Deportes. El uso formal de datos para analizar tendencias, desempeño y 
+pronosticar éxitos se ha incrementado en las últimas dos décadas.
+Banca. Desde las técnicas de análisis antifraude hasta la gestión de riesgo son 
+parte del día a día de cualquier institución bancaria moderna.
+Por otro lado, algunos ejemplos de aplicaciones de proyectos de ciencia de 
+datos son:
+Publicidad. El gran triunfo de algunas empresas se debe, en parte, al 
+exitoso análisis intensivo de grandes volúmenes de datos para elegir cuál 
+anuncio publicitario mostrar a determinadas personas.  
+Agricultura. El uso de datos de estaciones meteorológicas, imágenes 
+satelitales, sensores y más ha permitido un uso más eficiente y responsable de 
+recursos, tales como el agua o los pesticidas.
+Comercio. El uso de datos para pronosticar demanda y consumo, deserción 
+de clientes, recomendación de productos (cross-selling y up-selling).   
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Cada proyecto se ha definido con un objetivo concreto en mente, mismo que se 
+determina a partir de alguna metodología. Continúa con el siguiente recurso 
+y conoce la metodología CRISP-DM. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Reflexiones
+¿En tu organización tienen algún proyecto que sea 
+beneficiado por la aplicación del Big Data o por la 
+Ciencia de datos? 
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5

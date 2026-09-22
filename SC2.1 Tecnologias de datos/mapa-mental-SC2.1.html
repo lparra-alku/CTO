@@ -1,0 +1,251 @@
+<title>Tecnologías de Datos</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600;700&display=swap">
+<style>
+:root{
+  --ground:#F6F7F9; --surface:#FFFFFF; --sunken:#EDF0F4;
+  --ink:#151A21; --ink-2:#3D4753; --ink-3:#6B7684; --line:#D9DEE6;
+  --c1:#0E6F7A; --c1-bg:#E1F1F3;
+  --c2:#2B4FC7; --c2-bg:#E5EAFB;
+  --c3:#6A2FB8; --c3-bg:#EFE7FA;
+  --c4:#0B7A52; --c4-bg:#E0F2EA;
+  --c5:#A02A1D; --c5-bg:#FAE6E2;
+  --flag:#8A5A00; --flag-bg:#FBF1DC; --flag-line:#E4C77E;
+  --star:#0B6E64; --star-bg:#E4F1EE;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#5FD0DC; --c1-bg:#0D2A2E;
+  --c2:#8FAEFF; --c2-bg:#131F3D;
+  --c3:#C3A2FF; --c3-bg:#221638;
+  --c4:#5FD6A6; --c4-bg:#0D2B20;
+  --c5:#F5988A; --c5-bg:#311512;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}}
+:root[data-theme="dark"]{
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#5FD0DC; --c1-bg:#0D2A2E;
+  --c2:#8FAEFF; --c2-bg:#131F3D;
+  --c3:#C3A2FF; --c3-bg:#221638;
+  --c4:#5FD6A6; --c4-bg:#0D2B20;
+  --c5:#F5988A; --c5-bg:#311512;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  line-height:1.5;padding:clamp(20px,4vw,52px) clamp(14px,4vw,44px) 72px;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(22px,3vw,34px)}
+
+header{display:flex;flex-direction:column;gap:10px;padding-bottom:20px;border-bottom:2px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:"IBM Plex Serif",Georgia,serif;font-weight:700;margin:0;
+  font-size:clamp(28px,5.2vw,44px);letter-spacing:-.02em;text-wrap:balance;line-height:1.12}
+.sub{color:var(--ink-2);max-width:62ch;font-size:15.5px;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2);
+  background:var(--sunken);border:1px solid var(--line);border-radius:3px;padding:4px 9px}
+
+.branch{display:grid;grid-template-columns:minmax(150px,200px) 1fr;gap:clamp(14px,2.4vw,30px);
+  align-items:start}
+.stem{position:sticky;top:20px;display:flex;flex-direction:column;gap:7px;
+  padding:13px 15px;border-radius:4px;background:var(--bg);border-left:4px solid var(--hue)}
+.stem .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--hue);font-weight:600}
+.stem h2{font-family:"IBM Plex Serif",Georgia,serif;font-size:18px;font-weight:600;margin:0;
+  line-height:1.24;text-wrap:balance;color:var(--ink)}
+.stem p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.42}
+
+.nodes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));
+  padding-left:clamp(12px,1.6vw,20px);border-left:1px dashed var(--line)}
+.node{background:var(--surface);border:1px solid var(--line);border-radius:4px;
+  padding:13px 15px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.node h3{margin:0;font-size:12.5px;font-weight:600;letter-spacing:.01em;color:var(--hue);
+  display:flex;align-items:baseline;gap:7px}
+.node h3 .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-3);
+  letter-spacing:.06em;font-weight:500}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+li{font-size:13.5px;color:var(--ink-2);padding-left:13px;position:relative;line-height:1.42}
+li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:1.5px;background:var(--hue);opacity:.65}
+li b{color:var(--ink);font-weight:600}
+.seq{counter-reset:s;gap:5px}
+.seq li{padding-left:24px}
+.seq li::before{counter-increment:s;content:counter(s);width:auto;height:auto;background:none;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--hue);font-weight:600;
+  top:1px;opacity:1}
+
+.flag,.star{border-radius:4px;padding:15px 17px;display:flex;flex-direction:column;gap:7px}
+.flag{background:var(--flag-bg);border:1px solid var(--flag-line)}
+.star{background:var(--star-bg);border:1px solid var(--star);border-left-width:4px}
+.flag .lbl,.star .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;font-weight:600}
+.flag .lbl{color:var(--flag)} .star .lbl{color:var(--star)}
+.flag h3,.star h3{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.flag p,.star p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:74ch}
+.flag b,.star b{color:var(--ink)}
+
+.rank{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));margin-top:3px}
+.rk{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:10px 12px;
+  display:flex;flex-direction:column;gap:3px}
+.rk .p{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--star);font-weight:600}
+.rk .t{font-size:13px;font-weight:600;color:var(--ink)}
+.rk .d{font-size:12px;color:var(--ink-3);line-height:1.38}
+
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--ink-3);font-size:12.5px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;font-family:"IBM Plex Mono",monospace}
+@media (max-width:720px){
+  .branch{grid-template-columns:1fr;gap:12px}
+  .stem{position:static;border-left-width:4px}
+  .nodes{padding-left:0;border-left:none}
+}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="eyebrow">Chief Digital Transformation Officer · SC 2.1 · 10 h</div>
+  <h1>Tecnologías Estratégicas de Datos para la Transformación Digital</h1>
+  <p class="sub">Cuatro tecnologías que usan los datos como materia prima —ciencia de datos, IA, nube— y la que las protege. Y la condición que el módulo repite en cada lección: entender el problema antes que la herramienta.</p>
+  <div class="meta">
+    <span class="chip">Evaluación 40 % · 25 preguntas · 3 intentos</span>
+    <span class="chip">Reto 60 %</span>
+    <span class="chip">Experto: Marco Otilio Peña Díaz</span>
+  </div>
+</header>
+
+<section class="branch" style="--hue:var(--c1);--bg:var(--c1-bg)">
+  <div class="stem"><div class="n">LECCIÓN 1</div><h2>Tecnologías basadas en datos</h2><p>Qué las hace estratégicas</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Tecnología estratégica</h3>
+      <ul><li>Usa los <b>datos como componente fundamental</b></li>
+        <li>Impacta a <b>mediano plazo</b></li>
+        <li>Sigue en desarrollo — <b>no tiene “larga historia”</b></li>
+        <li>Alineada a la estrategia · genera ventaja competitiva</li>
+        <li style="color:var(--ink-3)">El cómputo personal ya NO lo es: es bien de consumo</li></ul>
+    </div>
+    <div class="node"><h3>Las cuatro con impacto directo</h3>
+      <ul><li><b>Ciencia de datos</b></li><li><b>Inteligencia artificial</b></li><li><b>Internet de las cosas</b></li><li><b>Cómputo en la nube</b></li></ul>
+      <ul><li>Beneficio: <b>mantener la competitividad</b></li></ul>
+    </div>
+    <div class="node"><h3>Quién es responsable</h3>
+      <ul><li><b>Toda la organización</b> — de la C-suite a la operación diaria</li>
+        <li>Solo <b>1 de 4</b> transformaciones logra lo esperado <span style="color:var(--ink-3)">(BCG 2019)</span></li>
+        <li>Elegir con cuidado al <b>asesor tecnológico</b></li>
+        <li>Evaluar la <b>deuda técnica</b> del proveedor</li></ul>
+    </div>
+  </div>
+</section>
+
+<section class="branch" style="--hue:var(--c2);--bg:var(--c2-bg)">
+  <div class="stem"><div class="n">LECCIÓN 2</div><h2>Ciencia de datos</h2><p>Del dato a la decisión</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Dato → información → Big Data</h3>
+      <ul><li><b>Dato</b> — cuantitativo o cualitativo</li>
+        <li><b>Información</b> — organizado, procesado e interpretado</li>
+        <li><b>Big Data</b> — las 3 V: volumen · variedad · velocidad</li>
+        <li><b>Open data</b> — su mayor fuente: los gobiernos</li>
+        <li style="color:var(--ink-3)">“Los datos son el nuevo petróleo” — Clive Humby</li></ul>
+    </div>
+    <div class="node"><h3>CRISP-DM <span class="tag">no estrictamente lineal</span></h3>
+      <ul class="seq"><li><b>Business understanding</b> — el que detona todo</li><li>Data understanding</li><li>Data preparation</li><li>Modeling</li><li>Evaluation</li><li>Deployment</li></ul>
+      <ul><li>Lo técnico se delega; <b>el negocio requiere al que decide</b></li></ul>
+    </div>
+    <div class="node"><h3>Ciclo de vida <span class="tag">NIST 2018</span></h3>
+      <ul class="seq"><li>Recolección</li><li>Procesamiento</li><li><b>Divulgación</b> — la más visible</li><li>Utilización</li><li>Resguardo</li><li>Eliminación</li></ul>
+    </div>
+    <div class="node"><h3>El caso que hay que recordar</h3>
+      <ul><li><b>“Modelo 99 % preciso, negocio perdiendo dinero”</b></li>
+        <li>Recomendaba lo que el cliente ya iba a comprar</li>
+        <li>Optimizó <b>precisión</b> en vez de <b>margen</b></li>
+        <li>Fin último: <b>mejorar la toma de decisiones</b> — los reportes son subproducto</li></ul>
+    </div>
+  </div>
+</section>
+
+<section class="branch" style="--hue:var(--c3);--bg:var(--c3-bg)">
+  <div class="stem"><div class="n">LECCIÓN 3</div><h2>Inteligencia artificial</h2><p>Débil, útil y suficiente</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Historia mínima</h3>
+      <ul><li><b>1950</b> — Prueba de Turing</li>
+        <li><b>1955</b> — McCarthy acuña el término</li>
+        <li><b>1956</b> — Conferencia de Dartmouth</li>
+        <li><b>1980</b> — Searle, el Cuarto Chino</li></ul>
+    </div>
+    <div class="node"><h3>Fuerte vs. débil</h3>
+      <ul><li><b>Fuerte</b> — entiende de verdad</li>
+        <li><b>Débil</b> — parece inteligente sin comprender</li>
+        <li>“La débil es <b>más que suficiente</b>”</li>
+        <li><b>ML</b> — detecta patrones; ante un dato nuevo, busca a cuál se parece</li></ul>
+    </div>
+    <div class="node"><h3>Dónde da valor</h3>
+      <ul><li><b>Toma de decisiones</b></li><li><b>Experiencia de cliente y personalización</b></li><li><b>Eficiencia y costos</b> — mantenimiento predictivo</li>
+        <li style="color:var(--ink-3)">Apps móviles NO es aplicación de IA</li></ul>
+    </div>
+    <div class="node"><h3>Antes de implementar</h3>
+      <ul class="seq"><li><b>Entender el problema</b></li><li>Calidad de los datos</li><li>Expectativas alcanzables — basta con superar el proceso actual</li></ul>
+      <ul><li>Síntoma de mala base: cambios constantes de requerimientos</li></ul>
+    </div>
+  </div>
+</section>
+
+<section class="branch" style="--hue:var(--c4);--bg:var(--c4-bg)">
+  <div class="stem"><div class="n">LECCIÓN 4</div><h2>Cómputo en la nube</h2><p>No es tecnología: es mezcla de servicios</p></div>
+  <div class="nodes">
+    <div class="node"><h3>Los tres modelos</h3>
+      <ul><li><b>IaaS</b> — infraestructura; tú pones SO, datos, apps</li>
+        <li><b>PaaS</b> — plataforma para desarrollar</li>
+        <li><b>SaaS</b> — la app completa · <b>Gmail, Outlook</b></li>
+        <li style="color:var(--ink-3)">Amazon-tienda NO es SaaS</li></ul>
+    </div>
+    <div class="node"><h3>Origen</h3>
+      <ul><li><b>1996</b> — Compaq, plan de negocios</li><li><b>2006</b> — Google y Amazon lo popularizan</li>
+        <li>Despega por internet rápido, confiable y resiliente</li></ul>
+    </div>
+    <div class="node"><h3>Valor duro vs. suave</h3>
+      <div class="rank" style="grid-template-columns:1fr 1fr">
+        <div class="rk"><span class="p">DURO</span><span class="t">Ahorro</span><span class="d">CAPEX → OPEX. Los sobrecostos son la norma.</span></div>
+        <div class="rk"><span class="p" style="color:var(--hue)">SUAVE ★</span><span class="t">Transformación</span><span class="d">Agilidad, velocidad al mercado, innovación.</span></div>
+      </div>
+      <ul><li>Errores cruciales: <b>expectativas irreales</b> y <b>métricas mal definidas</b></li></ul>
+    </div>
+  </div>
+</section>
+
+<section class="branch" style="--hue:var(--c5);--bg:var(--c5-bg)">
+  <div class="stem"><div class="n">LECCIÓN 5</div><h2>Ciberseguridad</h2><p>Se delega lo técnico, no la responsabilidad</p></div>
+  <div class="nodes">
+    <div class="node"><h3>La tríada CIA</h3>
+      <ul><li><b>Confidentiality</b> — <i>solo</i> los autorizados</li>
+        <li><b>Integrity</b> — sin cambios no autorizados</li>
+        <li><b>Availability</b> — <i>cuando</i> se necesita</li></ul>
+    </div>
+    <div class="node"><h3>Riesgo</h3>
+      <ul><li>Amenaza + vulnerabilidad + probabilidad</li>
+        <li>Respuestas NIST: <b>aceptar · evitar · mitigar · compartir · transferir</b></li>
+        <li>Cada respuesta es un <b>control</b> — y necesita seguimiento</li>
+        <li>Activo intangible: <b>datos de ventas</b>, marca, software</li></ul>
+    </div>
+    <div class="node"><h3>El papel de la dirección</h3>
+      <ul><li>Riesgos, controles y políticas: <b>liderazgo + equipo técnico</b></li>
+        <li>DHS: <b>5 preguntas</b> para el consejo · <b>8 elementos</b> ejecutivos</li>
+        <li><b>Estándares y buenas prácticas, no solo cumplimiento</b></li>
+        <li>La resistencia al cambio es causa común de fallo</li></ul>
+    </div>
+  </div>
+</section>
+
+<div class="flag">
+  <div class="lbl">Lo que encontré al estudiarlo</div>
+  <h3>Un caso sin sustento y dos datos que corregir</h3>
+  <p>La historia de <b>Target y la adolescente embarazada</b> se presenta como hecho: el modelo sí existió, pero la anécdota del padre viene de un empleado anónimo y nunca se probó. El artículo de Regalado sobre el origen de la nube es de <b>2011</b>, no de 2014 como cita un interactivo. Y <b>CRISP-DM</b> lo creó un consorcio en 1996-99; IBM lo heredó al comprar SPSS.</p>
+</div>
+
+<footer>
+  <span>Mapa de estudio · SC 2.1</span>
+  <span>Tec de Monterrey · The Learning Gate</span>
+  <span>Sept 2026</span>
+</footer>
+</div>
