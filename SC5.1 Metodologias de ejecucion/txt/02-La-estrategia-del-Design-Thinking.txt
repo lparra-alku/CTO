@@ -1,0 +1,215 @@
+
+--- p1 ---
+del Design Thinking
+La estrategia
+El Design Thinking, según Brotherad (2021), “es una 
+evolución necesaria, es el perfeccionamiento de 
+soluciones a problemas que de verdad importan”. 
+En esta lectura conocerás la relevancia del Design 
+Thinking, en el mundo de la transformación digital.
+
+--- p2 ---
+Uno de los retos principales en esta estrategia es 
+combinar nuestro pensamiento analítico con el intuitivo. 
+Lo anterior debido a que al pensar de forma analítica 
+tenemos un 100 % de fiabilidad en nuestras decisiones, 
+mientras que al pensar de manera intuitiva obtenemos 
+un 100 % de validez sobre ellas. En ese sentido lo que se 
+busca es mezclar estos dos pensamientos y evitar los 
+extremos, esto con el propósito de mantener dos ópticas en nuestra forma 
+de pensar, sin embargo, no es una tarea fácil, debido a que siempre nos 
+vamos a inclinar por un tipo de pensamiento. En tal caso, ¿qué debemos 
+hacer para que se dé una mezcla homogénea? Lo primero que necesitamos 
+es desaprender, cambiar y reprogramar nuestro cerebro; no obstante, a las 
+personas difícilmente nos gustan los cambios (en el ámbito que sea). 
+La estrategia del Design Thinking se basa en la resolución creativa de 
+problemas, además alienta a las organizaciones a centrarse en las 
+personas y en sus necesidades, lo que conduce a mejores productos, 
+servicios y procesos internos. 
+Con relación a la transformación digital, el Design Thinking está enfocado 
+para que las personas disfrutemos de un mundo conectado, más 
+instantáneo, ágil, preciso y hasta más cómodo, para lograr tal objetivo 
+tenemos que diseñar para personas, no para cosas. El Design Thinking 
+nos ayuda a encontrar el problema y hacer lo correcto para 
+crear valor. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Se puede afirmar que esta estrategia tiene las siguientes 
+características:
+Colaborativo
+Está orientado a resolver problemas de manera 
+colaborativa, debido a que es imprescindible la 
+generación de ideas no solo de una persona, 
+sino de todos los involucrados en el proceso. 
+Creativo
+Se genera a través de entornos creativos, pues se necesita el desarrollo 
+de ideas, no importa qué tan absurdas puedan parecer, las iteraciones 
+son importantes.
+Iterativo
+Según Alba (2022), esta estrategia al ser iterativa implica que “al final lo 
+que se trata es de cómo vas a ir mejorando la idea con el contacto 
+continuo con usuarios, con el feedback continuo del mercado”.
+Si bien el Design Thinking es considerado por Tim Brown (un diseñador 
+industrial inglés, CEO y presidente de IDEO, una consultora internacional 
+de diseño e innovación) como una estrategia que nos ayuda a equilibrar la 
+forma en la que pensamos con la finalidad de resolver problemas, esto no 
+es sencillo, puesto que el pensamiento analítico y el intuitivo son 
+opuestos, es decir, la persona que está acostumbrada a pensar de forma 
+analítica inevitablemente es adversa a lo intuitivo y la persona considerada 
+como intuitiva es adversa a lo analítico. 
+Para tener una referencia de cómo funciona el Design Thinking, 
+comencemos por revisar brevemente la manera en la que trabaja nuestro 
+cerebro. Por herencia genética, todas las personas tenemos un cerebro de 
+iguana o reptiliano, responsable de nuestras acciones instintivas; comer, 
+dormir, eliminar deshechos, tener relaciones sexuales, etcétera. Luego 
+viene el sistema límbico (o el cerebro emocional), el cual nos ayuda a 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+regular nuestras emociones, además tiene un papel 
+importante en nuestra memoria y nuestro aprendizaje. 
+Finalmente, contamos en nuestro cerebro con la neocorteza, 
+es nuestra estructura cerebral más compleja, la cual ayuda 
+a gestionar nuestro racionamiento y resolución de problemas.
+El orden en el que se mezclan nuestros cerebros en cada uno de nosotros 
+no está 100 % definida, no es una regla 30-30-30, cada persona tiene su 
+propia mezcla y, aunque no queramos, lo primero que se manifiesta de 
+nosotros es el cerebro reptiliano, luego el emocional y por último el 
+racional. Justo aquí comienza lo difícil, por naturaleza, no estamos 
+acostumbrados a diseñar para personas, sin embargo, el Design Thinking 
+está enfocado a ello. Generalmente diseñamos para nosotros y nuestras 
+propias necesidades. Creemos que lo que estamos diseñando es lo mejor 
+del mundo y a todos nos va a servir, pero ese precisamente es el primer 
+error para comenzar a hacer Design Thinking.
+Una recomendación importante cuando te sientes a crear una 
+solución para una necesidad comercial debes preguntarte lo 
+siguiente: 
+¿Cuál es la necesidad humana detrás de todo esto?
+En Design Thinking no podemos co-diseñar con un cliente sin el cliente, es 
+vital involucrarlos a ellos y a sus necesidades. Por ejemplo, imagina que un 
+amigo tuyo te invita a la fiesta de cumpleaños de una persona que no 
+conoces, ¿qué le regalarías a esa persona? Si comenzaras a utilizar Design 
+Thinking, seguramente pensarías: “tengo que saber los gustos de esa 
+persona que no conozco para comenzar a idear qué regalarle”. El Design 
+Thinking es así, debe ser pertinente al contexto de nuestros 
+clientes y para ello necesitamos saber sus necesidades, luego pensar y 
+experimentar en las diferentes alternativas para atenderlas.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+El siguiente esquema nos muestra en dónde se encuentra 
+el Design Thinking respecto a tres variables que 
+podemos hallar en cualquiera de nuestros proyectos de 
+negocio: deseo, viabilidad y factibilidad.
+El Design Thinking vive en medio de estos tres factores, es decir, la 
+innovación de la experiencia es lo que corresponde a un pensamiento 
+de diseño, lo que se busca es realizar una innovación que emocione a las 
+personas. Esa emoción la debemos entregar a través de procesos y 
+características de producto o de servicio para que las personas vivan una 
+experiencia. Por ejemplo, existen marcas exitosas de café, de comida 
+rápida, de ropa, etcétera, las cuales nos venden estilos de vida y atención a 
+nuestras necesidades más que el producto en sí y eso es debido a que 
+pensaron en diseñar un producto o servicio adecuado a sus clientes 
+considerando esos tres factores (deseos, viabilidad y factibilidad). 
+Negocio
+VIABILIDAD
+Tecnología
+FACTIBILIDAD
+Personas
+DESEOS
+Innovación 
+emocional
+Marca
+Marketing
+CRM
+Innovación en 
+los procesos
+Innovación funcional
+Pensamiento 
+de diseño
+Innovación en 
+la experiencia
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Porque tiene las siguientes características: 
+Centrado en la persona
+Donde en realidad somos muchas personas 
+las que tenemos necesidades, deseos y metas. 
+Impulsado por posibilidades
+Es importante entender que lo que pensamos sobre el cliente son 
+hipótesis. Estas hipótesis debemos probarlas con personas, y cada 
+persona tiene un punto de vista diferente desde sus disciplinas de 
+procesos. Además, debemos considerar que cada persona (cliente) tiene 
+una forma diferente de interactuar con nosotros, lo que conocemos 
+como Customer Journey. No todos los clientes son iguales, hay 
+diferentes tipos de clientes o lo que conocemos como Buyer Persona.
+Permite crear opciones
+Como si de un laboratorio se tratara en el cual podemos hacer varios 
+experimentos. 
+Iterativo
+Vamos aprendiendo de manera gradual a través de las iteraciones.
+Para el Design Thinking tiene que existir más de una idea, lo cual nos lleva 
+al concepto de Innovación exponencial. Hay experimentos donde se 
+calculan cuántas ideas debo tener para lanzar una idea millonaria. Por 
+ejemplo, las cápsulas de café en su momento fueron una idea millonaria, 
+ellos hicieron 257 experimentos antes de llegar a la idea final que conocemos. 
+¿Por qué se dice que
+el Design Thinking resuelve problemas innovando?
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+Con este ejemplo nos damos cuenta de que a nadie se le 
+ocurre una idea brillante de la nada, tenemos que iterar.
+Osterwalder et al. (2020) en su libro The Invincible 
+Company nos mencionan que el promedio de iteraciones 
+para llegar a productos billonarios es de 253. Entonces 
+imagina 253 ideas para que te salga millonaria. El 
+problema es que así tampoco funciona. Cuando hablamos de posibilidades, 
+significa que tienes que partir de una hipótesis. Esta hipótesis hay que 
+probarla, ¿con quién? Con personas, porque cada uno de nosotros tiene un 
+punto de vista, las personas compramos diferente. A eso le llamamos 
+Buyer persona. Entonces, cuando hablamos de posibilidades, significa 
+que voy a formular hipótesis sobre interacciones en diversos canales para 
+diferentes buyer personas que tienen puntos de vista distintos.
+Porque para los negocios la 
+persona puede ser en sí misma un 
+negocio (cliente B2B). 
+El consumidor también es una 
+persona, en este caso consideremos 
+al consumidor como aquel a quien 
+el B2B atiende.
+También existe la figura del 
+colaborador que atenderá tanto 
+al B2B como al consumidor final. 
+Ese colaborador necesita estar 
+alineado a la experiencia del cliente 
+y del colaborador.
+¿Por qué se dice que
+el Design Thinking está centrado en la persona?
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7
+
+--- p8 ---
+Reflexiones finales
+¿De qué manera fomentas un entorno en el que 
+se promueva la creatividad y la colaboración 
+entre los miembros de tu equipo para aplicar los 
+principios del Design Thinking en tus proyectos?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+8

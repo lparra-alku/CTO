@@ -1,0 +1,324 @@
+﻿Reto | Diseño de un plan de transformación digital
+
+
+
+Entregable final del reto
+Documento editable por el participante
+
+
+Nombre del participante:
+
+Indicaciones:
+
+Guarda este archivo de la siguiente manera: NombreApellido_reto_C5SC1
+Una vez terminado el reto deberás de subirlo a la plataforma.
+
+
+Duración: 2.5 h
+
+Objetivo: Diseñar un plan de transformación digital combinando diferentes metodologías.
+
+
+Introducción:
+
+“Está claro que lo que se está transformando no es la tecnología: la tecnología te está transformando a ti”.
+Jeanne W. Ross, ex directora del Centro de Investigación de Sistemas de Información, MIT Sloan.
+
+La transformación digital no es solo una evolución tecnológica, sino un cambio cultural y operativo integral que permite a las empresas prosperar en la era digital. En ese sentido, las acciones que implementemos deben diseñarse desde las necesidades de quienes intervienen (clientes internos y externos).
+
+Este diseño de plan de transformación digital te facilitará la gestión del cambio, maximizará el retorno de inversión, promoverá la innovación continua y asegurará que tu empresa u organización esté preparada para enfrentar desafíos futuros.
+
+
+Instrucciones:
+
+Este reto pretende ser una guía para tu próximo diseño de plan de transformación digital, pues a través de este módulo conociste la relevancia y las características de varias metodologías, así como su aplicación en varios contextos.
+
+
+
+
+
+Paso 1: Identificación de problemas 
+Realiza un análisis exhaustivo de los procesos y operaciones actuales en tu área.
+Recuerda consultar y establecer con tu equipo de trabajo los procesos que requieren una optimización. La colaboración y comunicación dentro de este diseño de plan es imprescindible.
+
+Nota: puedes basarte en la técnica de How Might We que revisaste en este módulo, la cual se 
+se emplea para abrir el diálogo creativo y generar ideas innovadoras al abordar un desafío o problema específico.
+
+Para comenzar deberás definir el proceso y el problema que se pretende resolver, luego deberás establecer qué recursos son necesarios para llevarlo a cabo (materiales que utilizan, tiempo del proceso, costos, roles que intervienen, etcétera). 
+
+En la primera columna llamada “Procesos”, ordena del 1 al 5 los procesos con mayor potencial de optimización. Toma en cuenta que el 1 es el que necesita con mayor urgencia un cambio o una completa restructuración.
+
+En la segunda columna llamada “¿Qué problema se pretende resolver?”, especifica el problema que se relaciona con el proceso.
+
+En la tercera columna llamada “Recursos”, describe a detalle los recursos (existentes y deseados) que se necesitan para llevarlos a cabo. 
+
+
+Procesos
+¿Qué problema se pretende resolver?
+Recursos
+1
+
+
+
+2
+
+
+
+3
+
+
+
+4
+
+
+
+5
+
+
+
+
+Deberás considerar al menos dos procesos a optimizar con su respectivo problema a resolver.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paso 2. Definición de objetivos
+Realiza entrevistas cortas con los miembros de tu equipo (clientes internos y externos) para comprender sus necesidades y expectativas. A partir de esto, establece objetivos específicos y medibles por cada proceso a optimizar. Recuerda que estos objetivos deben ir alineados a la misión y visión de tu empresa u organización. Por ejemplo: reducir el tiempo de respuesta en la entrega de un pedido.
+
+
+
+Proceso
+Objetivos específicos y medibles
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+
+
+Paso 3. Definir roles y habilidades digitales para la transformación
+Por cada objetivo, define quiénes intervienen en él, así como las habilidades digitales necesarias para cada rol.
+
+
+# de objetivo
+Roles
+Habilidades digitales
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+
+
+Paso 4. Desarrollo de talento
+Establece un plan general de formación (a través de cursos y actividades) para desarrollar aquellas habilidades digitales que los colaboradores necesitan.
+
+Rol
+Habilidades digitales
+Modalidad (presencial, e-learning, b-learning)
+Temporalidad
+(3, 6, 12 meses)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paso 5. Define la integración de tecnología
+De acuerdo con los objetivos que ya estableciste en colaboración con las personas involucradas, selecciona aquella o aquellas tecnologías que respalden tu plan. Te sugerimos las siguientes familias de tecnologías:
+
+Familia de tecnologías digitales
+Tecnologías digitales con un alto potencial para dar forma a la gestión de la innovación
+Inteligencia
+Saber todo acerca de cualquier cosa, en cualquier momento.
+Big data/análisis avanzado
+Internet de las cosas
+Sistemas de autoaprendizaje, bots
+Previsión
+Visualizar y predecir cualquier cosa mejor y más rápido
+Realidad aumentada
+Modelo virtual/simulación
+Fabricación aditiva
+Interacción
+Trabajar sin problemas y sin esfuerzo con cualquier persona, en cualquier lugar
+Lugar de trabajo virtual/4.0
+Inteligencia y abastecimiento colectivo
+Aprendizaje en línea
+
+Vacía la selección de tecnologías que respaldan tu plan en la siguiente tabla:
+Objetivo
+Tecnologías digitales
+
+
+
+
+
+
+Paso 6. Define tu plan 
+Divide tu plan en fases o etapas lógicas y secuenciales.
+Cada fase debería representar un conjunto de actividades que conducen hacia la consecución de un hito significativo.
+
+En la siguiente tabla deberás colocar el número, el nombre y descripción de cada fase. En la descripción deberás especificar las actividades a realizar, así como los roles involucrados:
+
+Nombre del plan (Editar)
+#
+Nombre de la fase
+Descripción 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paso 7. Medición de resultados
+Establece de qué manera medirás los resultados de los objetivos que propusiste al inicio. Puedes apoyarte de los siguientes ejemplos específicos de Key Performance Indicators (KPIs) relacionados con la mejora de la eficiencia operativa, el aumento de la satisfacción del cliente, la reducción de costos y otros aspectos clave en el contexto de una transformación digital:
+
+¿Qué se pretende medir con este indicador?
+Indicador
+Objetivo
+Eficiencia Operativa
+Tiempo de Ciclo de Procesos:
+Medir el tiempo promedio que se tarda en completar un proceso desde el inicio hasta la finalización.
+Reducción del tiempo de ciclo.
+
+Tasa de Utilización de Recursos:
+Evaluar el grado de utilización de recursos, como equipos y personal.
+Optimización de la utilización de recursos.
+
+Porcentaje de Automatización de Procesos:
+Medir la proporción de procesos automatizados en comparación con los manuales.
+Incrementar la automatización para mejorar la eficiencia.
+
+Eficiencia del Flujo de Trabajo:
+Evaluar la eficiencia de los flujos de trabajo mediante la identificación de cuellos de botella y redundancias.
+Optimización continua de los flujos de trabajo.
+
+Satisfacción del cliente
+Net Promoter Score (NPS):
+Medir la disposición de los clientes a recomendar la empresa.
+Aumentar el NPS para indicar una mayor satisfacción y lealtad.
+
+Índice de Satisfacción del Cliente (CSI):
+Evaluar la satisfacción general del cliente con productos y servicios.
+Mejorar constantemente el índice de satisfacción.
+
+
+Número de Quejas o Problemas del Cliente:
+Contabilizar la cantidad de problemas o quejas de los clientes.
+Reducción significativa en el número de problemas reportados.
+
+
+Retención de Clientes:
+Medir la tasa de retención de clientes durante y después de la transformación.
+Aumentar la retención de clientes a largo plazo.
+Reducción de costos
+Costo por Transacción:
+Calcular el costo promedio asociado con cada transacción o proceso.
+Reducción constante del costo por transacción.
+
+Ahorro en Consumo de Recursos:
+Medir la disminución en el consumo de recursos como energía o papel.
+Lograr ahorros significativos en recursos.
+
+Eficiencia en Gastos Operativos:
+Evaluar la eficiencia en el uso de recursos financieros para operaciones.
+Reducción de gastos operativos innecesarios.
+
+Índice de Retorno de la Inversión (ROI):
+Calcular el retorno de la inversión en la transformación digital.
+Lograr un ROI positivo y sostenible.
+Innovación y adaptabilidad
+Índice de Adopción de Nuevas Tecnologías:
+Medir la rapidez con la que los empleados adoptan nuevas tecnologías introducidas.
+Alta adopción para impulsar la innovación.
+
+Número de Ideas o Contribuciones Innovadoras:
+Contabilizar el número de ideas innovadoras presentadas por los empleados.
+Alta adopción para impulsar la innovación.
+
+
+Número de Ideas o Contribuciones Innovadoras:
+Contabilizar el número de ideas innovadoras presentadas por los empleados.
+Fomentar una cultura de innovación.
+
+Tiempo de Desarrollo de Nuevos Productos o Servicios:
+Medir la rapidez con la que la organización desarrolla y lanza nuevos productos o servicios.
+Reducción del tiempo de desarrollo para mayor agilidad.
+
+Estos son solo ejemplos y los KPIs específicos pueden variar según la naturaleza de la organización y los objetivos de la transformación digital. Es importante seleccionar KPIs que estén alineados con los objetivos estratégicos y que proporcionen una visión clara del progreso y el impacto. En la siguiente tabla, deberás colocar aquellos que implementarás dentro de tu plan y justificar la elección de cada indicador.
+
+
+#
+Objetivo
+Indicador
+Justificación
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mediante la elaboración de este diseño de plan, podrás tener la certeza de llevar a cabo acciones concretas y acordes a tu contexto. 
+
+Al finalizar el reto, conviértelo en archivo PDF y súbelo a Plataforma como evidencia dentro de la Lección 9, presionando el botón “Añadir publicación”. 
+ 
+Importante: El tiempo de evaluación y retroalimentación, por parte de nuestro experto acreditado, es de 2 (dos) días hábiles a partir de la fecha y hora de recepción. Fines de semana y días de asueto oficiales en México no son considerados hábiles
+
+
+
+
+
+

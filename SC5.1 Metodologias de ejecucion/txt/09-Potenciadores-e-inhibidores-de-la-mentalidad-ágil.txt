@@ -1,0 +1,173 @@
+
+--- p1 ---
+la mentalidad ágil
+Potenciadores e 
+inhibidores de
+Los habilitadores empresariales son influenciados 
+por dos tipos de agentes o personas de influencia: 
+los potenciadores y los inhibidores. Conoce más en 
+esta lectura.
+
+--- p2 ---
+Los potenciadores de la mentalidad ágil reflejan un 
+efecto positivo que amplifica la agilidad existente. 
+Contrariamente, los inhibidores actúan como bloqueantes 
+causando un efecto negativo sobre la agilidad presente y sobre todo 
+el sistema.
+En el siguiente esquema podemos observar que los agentes no 
+necesariamente están visibles a primera vista.
+Agentes de influencia
+Visible
+Potenciadores
+Inhibidores
+No visible
+Leadership
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+Es probable que existan fuertes agentes (potenciadores o 
+inhibidores) bajo las capas del sistema. Ambos deben ser 
+trabajados, por ejemplo:
+Ejemplos de agentes de influencia
+Plataforma de
+conversaciones
+Espacios continuos
+de aprendizaje
+Seguridad psicológica
+Planes de
+Carrera poco
+claros
+Esquemas de
+medición
+relacionados
+a motivación
+extrínseca
+Cultura de
+miedo y
+exposición
+Command & Control -
+poco empoderamiento
+Visible
+Potenciadores
+Inhibidores
+No visible
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+También existen algunas características que tienen las 
+personas que nos brindarán agilidad, tales como:
+•
+Neutral
+•
+No egocéntrica
+•
+Observadora
+•
+Reflexiva
+•
+Generosa
+•
+Indagadora
+•
+Empática
+•
+Agnóstica
+•
+Influenciadora
+No existe una persona que reúna por completo estas características, por 
+esa razón necesitamos un equipo de trabajo con personas que, en su 
+conjunto, reúnan esas características, así que nuestra primera labor como 
+líderes es preocuparnos y ocuparnos de que existan personas clave en 
+nuestros equipos para estar dentro de un proceso ágil. Sin embargo, lo 
+anterior no garantiza al 100 % un equipo ágil que se mantenga a largo 
+plazo. Por esa razón, nuestra segunda labor como líderes es desarrollar y 
+potenciar las habilidades y características en cada una de las 
+personas de nuestro equipo de trabajo, pues el mundo es cambiante y 
+debemos aprender a iterar con mentalidad ágil.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Aprender a iterar con mentalidad ágil
+Aprender a iterar con mentalidad ágil requiere de equipos de trabajo ágiles, 
+teniendo presente los siguientes conceptos:
+• Iteración
+La iteración implica la repetición de un proceso con el objetivo de 
+mejorar y perfeccionar gradualmente. Aprender iterando significa que el 
+proceso de aprendizaje se realiza de manera incremental y repetitiva. En 
+este contexto, se aprende haciendo, recibiendo retroalimentación, 
+ajustando y repitiendo el proceso para mejorar continuamente.
+• Mentalidad Ágil
+En términos generales, la mentalidad ágil promueve la adaptabilidad, la 
+colaboración, la respuesta rápida al cambio y la entrega continua de 
+productos o resultados de calidad. En lugar de seguir un plan rígido, la 
+mentalidad ágil abraza la flexibilidad y la capacidad de ajustar el enfoque 
+según sea necesario.
+Aprender a iterar con mentalidad ágil sugiere que el proceso de aprendizaje 
+se lleva a cabo de manera flexible y adaptable. Se fomenta la 
+experimentación, la retroalimentación constante y la mejora continua. Las 
+prácticas ágiles buscan optimizar la eficiencia y la efectividad mediante la 
+adaptación constante con las circunstancias cambiantes.
+Por ejemplo, imaginemos un equipo de desarrollo de software que está 
+trabajando en la creación de una nueva aplicación. Aplicar el enfoque de 
+"aprender a iterar con mentalidad ágil" en este contexto podría verse de la 
+siguiente manera:
+1. Iteración en el desarrollo. El equipo comienza con un conjunto 
+inicial de requisitos y desarrolla una versión mínima viable (MVP) de la 
+aplicación.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+2. Retroalimentación constante. Lanzan la MVP a 
+un grupo selecto de usuarios o clientes y recopilan 
+comentarios sobre su experiencia y las características 
+que les gustaría ver.
+3. Ajustes y mejoras. Con base en la retroalimentación recibida, el 
+equipo realiza ajustes y mejoras en la aplicación. Pueden agregar nuevas 
+características, corregir errores y optimizar la interfaz de usuario.
+4. Lanzamientos incrementales. En lugar de esperar a tener una 
+versión "perfecta" de la aplicación, el equipo sigue lanzando versiones 
+incrementales con mejoras periódicas. Cada lanzamiento agrega valor y 
+refleja la retroalimentación recibida.
+5. Adaptación continua. A medida que el equipo aprende más sobre las 
+necesidades y preferencias de los usuarios, adapta la dirección del 
+desarrollo. Pueden cambiar prioridades, agregar o eliminar 
+características según sea necesario.
+6. Colaboración y comunicación constante. El equipo mantiene una 
+comunicación abierta y constante con los stakeholders y entre los 
+miembros del equipo. La colaboración es clave para la adaptabilidad y el 
+intercambio de ideas.
+Este proceso de desarrollo sigue el enfoque ágil 
+al aprovechar la incertidumbre y responder 
+rápidamente a los cambios. La mentalidad ágil 
+se refleja en la disposición del equipo para 
+aprender de cada iteración, adaptarse 
+continuamente y centrarse en la entrega de 
+valor de manera constante. Además, al conocer 
+quiénes son tus potenciadores e inhibidores, 
+tienes la oportunidad de formular estrategias 
+para atender a cada uno con el objetivo de 
+crear un mejor escenario para tus procesos de 
+desarrollo ágil.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+Reflexiones finales
+¿Cuáles son los principales obstáculos que 
+enfrenta tu equipo al intentar cambiar su 
+mentalidad?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7

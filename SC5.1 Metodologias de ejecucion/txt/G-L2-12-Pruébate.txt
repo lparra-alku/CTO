@@ -1,0 +1,62 @@
+# L2 · Pruébate
+Genially 65a06a212b3c5500141fdbde
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Fernanda a resolver algunas problemáticas.
+Fernanda lidera el área de Atención a clientes y próximamente será evaluada para saber qué tanto está involucrada con el customer journey y los diversos canales que tiene la empresa para la cual trabaja, ¿podrías ayudarla a estudiar? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Fernanda necesita especificar a qué tipo de empresa se refiere cuando la segmentación se utiliza solo para elegir al target o público objetivo. Ayúdala a seleccionar la respuesta correcta.
+Empresa centrada en la organización
+Empresa centrada en procesos
+Empresa centrada en el cliente
+¡Correcto!
+Las empresas centradas en la organización limitan la segmentación a conocer a su público objetivo, pero se olvidan de entender sus necesidades.
+¡Incorrecto!
+La respuesta correcta es: empresa centrada en la organización, debido a que este tipo de empresas limitan la segmentación a conocer a su público objetivo, pero se olvidan de entender sus necesidades.
+Ayuda a Fernanda a recordar en qué etapa del modelo de madurez de Jeanne Bliss se ubica el siguiente aspecto: los servicios cognitivos pueden generar múltiples ofertas y están disponibles para la elección de los clientes. Selecciona la repuesta correcta.
+Centrada en el cliente
+Orientado a producto / proceso
+Segmentado
+Además, recuerda que las empresas administran perfiles personales que identifican necesidades y requisitos, todas las interacciones omnicanal y pueden reaccionar en tiempo real para personalizar.
+La respuesta correcta es: centrada en el cliente. Asimismo, es importante lograr que el desarrollo de la experiencia del cliente sea tan importante como el desarrollo de productos .
+De acuerdo con el concepto de customer journey map visto en esta lección, selecciona a cuál paso se refiere la siguiente definición: analizar las estadísticas de otros canales de la marca, como redes sociales o email marketing o realizar encuestas a clientes.
+Elaborar un buyer persona
+Identificar los puntos de contacto
+Investigar a tus clientes potenciales
+Este paso se trata de recopilar toda la información posible sobre cómo es tu cliente y cómo es su experiencia con la marca.
+La respuesta correcta es: investigar a tus clientes potenciales . Recuerda que este paso se trata de recopilar toda la información posible sobre cómo es tu cliente y cómo es su experiencia con la marca.
+¿Qué nivel de implicación tiene un cliente cuando el producto o servicio que compra se basa en la rutina y no compara mucho?
+Los productos o servicios que se consideran como de decisión relativamente sencilla para los usuarios/consumidores no requieren de grandes análisis, es decir, son de baja implicación en el punto de contacto.
+La respuesta correcta es: implicación baja . Recuerda que los productos o servicios que se consideran como de decisión relativamente sencilla para los usuarios/consumidores no requieren de grandes análisis, es decir, son de baja implicación en el punto de contacto.
+Con relación al proceso para crear un customer journey map, ¿a qué paso se refiere cuando se presta atención a la estrategia de comunicación interna para asegurar que el mapa ha llegado a todo el equipo y que todos entienden cómo pueden ayudar en cada punto del proceso?
+Compartir el mapa de experiencia de cliente con tu equipo
+Detectar los posibles puntos de abandono
+Lo ideal es que todos los departamentos de la empresa que interactúan con el cliente estén implicados en la creación del mapa y puedan aportar sus sugerencias.
+La respuesta correcta es: compartir el mapa de experiencia de cliente con tu equipo. Recuerda que lo ideal es que todos los departamentos de la empresa que interactúan con el cliente estén implicados en la creación del mapa y puedan aportar sus sugerencias.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

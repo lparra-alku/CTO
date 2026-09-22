@@ -1,0 +1,141 @@
+
+--- p1 ---
+¿Qué es y cómo
+funciona Lean Startup? 
+Las empresas emergentes necesitan de una 
+metodología que las ayude a generar ventajas 
+competitivas y disminuir riesgos.
+
+--- p2 ---
+Recordemos que las startups son empresas 
+emergentes que poseen un gran potencial de 
+crecimiento. Además, tienen una fuerte relación con la 
+tecnología, más recientemente con la digital.
+Por su parte, el término lean se retoma de la revolución del 
+Lean manufacturing desarrollado en Toyota entre 1960 y 1970. El 
+pensamiento Lean alteró en su momento y de manera radical la forma de 
+organizar los sistemas de producción. Entre sus principios están:
+El diseño del conocimiento y la creatividad de los trabajadores.
+La reducción de las dimensiones de los lotes.
+La producción just-in-time y el control de inventarios.
+Esta forma de producción mostró 
+al mundo la diferencia entre las 
+actividades que crean valor y el 
+derroche, así como incorporar 
+calidad a los productos.
+ 
+Según Ries (2012), “el método 
+Lean Startup es un conjunto de 
+prácticas que ayuda a los 
+emprendedores a incrementar las 
+probabilidades de crear una 
+startup con éxito”.
+Al hablar del método Lean 
+Startup, estamos refiriéndonos a 
+establecer una estructura cíclica 
+a través de los siguientes 
+componentes:
+Tomado de ¿Qué es el método Lean Startup?, por 
+Master Marketing (30 de junio de 2020).
+Método
+Lean Startup
+Crear
+Construir el producto 
+mínimo viable
+Medir
+Probarlo en el
+mercado
+Aprender
+Hacer cambios
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+01
+02
+03
+Crear
+Se trata de construir un producto mínimo viable 
+para poder comprobar nuestra hipótesis lo más 
+rápido posible. Se puede crear un prototipo 
+simple, sin invertir en la infraestructura real.
+Medir
+Se trata de evaluar. Necesitamos un punto de 
+partida que nos sitúe en el contexto, es decir, 
+indicadores que nos digan, por ejemplo, cuántos 
+clientes nuevos tenemos a la semana, al mes, 
+etcétera, para evaluar el comportamiento de 
+nuestros usuarios. Lo anterior funciona para saber 
+si nuestro plan está siendo exitoso.
+Aprender
+Aquí analizaremos y actuaremos. Si la hipótesis 
+inicial no es correcta, entonces es conveniente 
+desechar la idea o el plan. Si la hipótesis es 
+correcta, se lleva a cabo el plan hasta que se tenga 
+que volver a probar.
+Como ves, la metodología Lean Startup fomenta la 
+iteración constante. En lugar de seguir un plan de 
+desarrollo rígido, las empresas deben estar 
+dispuestas a ajustar su enfoque en función de la 
+retroalimentación del cliente y los datos del 
+mercado. Con lo anterior se reduce el riesgo de 
+fracaso y también se ahorran tiempos y recursos al 
+evitar el desarrollo prolongado de productos que 
+pueden no tener demanda.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Spotify es una empresa que comenzó 
+solucionando problemas relacionados 
+con la piratería musical. Hoy en día, 
+de acuerdo con Mena (2023), Spotify 
+ya cuenta con 15 años en el mercado, 
+tiene 550 millones de usuarios y 220 
+millones de suscriptores.
+Dropbox es un servicio de 
+almacenamiento en la nube que fue 
+pionero en su ramo. Como se citó en 
+Hnatyuk (2023), Dropbox abarca 180 
+países en todo el mundo, es 
+compatible con más de veinte 
+idiomas, tiene más de setecientos 
+millones de usuarios y sus 
+fundadores, Drew Houston y Arash 
+Ferdowsi, creen que pronto será 
+posible alcanzar la marca de mil 
+millones de usuarios registrados.
+Airbnb es otra de las empresas que 
+está en la mejora continua de su 
+Producto Mínimo Viable. Según 
+AppMaster (2023), “alberga más de 4 
+millones de anuncios de propiedades 
+en más de 190 países”.
+metodología Lean Startup
+Empresas que utilizan la 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Las empresas mencionadas no son las mismas desde que 
+surgieron, pues han ido innovando y transformándose al 
+escuchar a sus usuarios para generar alternativas que 
+solucionan problemas reales a través de Lean Startup. 
+En el siguiente recurso revisarás la metodología Customer Development, 
+la cual complementa de manera efectiva a la metodología Lean Startup 
+para el desarrollo de productos y servicios centrados en el cliente.
+En tu empresa u organización, ¿cuáles son los 
+desafíos específicos que puedes anticipar para 
+la implementación de esta metodología en el 
+ámbito de desarrollo de soluciones digitales?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5

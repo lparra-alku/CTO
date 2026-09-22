@@ -1,0 +1,42 @@
+# L4 · Ejemplo de desafíos y soluciones en la industria de la construcción
+Genially 659455e7213ddb00142f05b8
+
+Ejemplo de
+desafíos y soluciones en la industria de la construcción
+A continuación, te presentamos el ejemplo de una empresa dedicada a la industria de la construcción, observarás algunas situaciones, los desafíos a los que se enfrenta y las soluciones sugeridas desde una mentalidad ágil.
+Situación: Rigidez en la planificación.
+Desafío: La industria de la construcción tiende a depender fuertemente de una planificación detallada y rigurosa debido a la naturaleza de proyectos a largo plazo.
+Solución: Introducir iteraciones en la planificación , permitiendo ajustes flexibles según se aprende durante la ejecución.
+Desafío: Las estructuras jerárquicas pueden dificultar la toma de decisiones rápida y descentralizada.
+Situación: Jerarquía en la toma de decisiones.
+Solución: Fomentar la toma de decisiones distribuida y empoderar a los equipos de proyecto.
+Situación: Complejidad y coordinación de equipos.
+Desafío: Cumplir con regulaciones y normativas estrictas puede parecer incompatible con la agilidad.
+Desafío: La coordinación de múltiples equipos y subcontratistas puede ser complicada.
+Situación: Regulaciones y normativas.
+Solución: Integrar prácticas ágiles de manera compatible con los requisitos de cumplimiento.
+Solución: Utilizar prácticas ágiles, como la colaboración continua, reuniones diarias cortas para sincronización y herramientas de gestión visual, para mejorar la visibilidad y coordinación entre equipos.
+Situación: Cultura de la seguridad y cumplimiento.
+Desafío: Convencer a stakeholders acostumbrados a enfoques tradicionales puede ser difícil.
+Desafío: La seguridad es crítica en la construcción, por lo que los cambios pueden percibirse como riesgos para la seguridad.
+Situación: Cambio de mentalidad de los stakeholders.
+Solución: Comunicar de manera efectiva los beneficios de la agilidad, como mayor flexibilidad, adaptabilidad y entrega de valor continua.
+Solución: Hacer de la seguridad una prioridad integral en el enfoque ágil.
+Situación: Ciclos de entrega extendidos.
+Situación: Resistencia al cambio.
+Desafío: La entrega de proyectos en la construcción a menudo sigue ciclos extensos, lo que puede parecer opuesto a la entrega continua de la agilidad.
+Desafío: La resistencia al cambio puede provenir de la cultura arraigada en la industria de la construcción.
+Solución: Descomponer proyectos grandes en entregas más pequeñas y frecuentes.
+Solución: Invertir en programas de capacitación y concientización .
+Superar estos desafíos requerirá un enfoque adaptado a las necesidades específicas de la empresa y la industria de la construcción. La clave está en implementar cambios gradualmente, involucrar a los empleados en el proceso y demostrar el valor de la agilidad a medida que se avanza en la transformación.
+Gracias por tu respuesta
+Luego de ver las situaciones, ¿qué otras soluciones puedes proponer para superar los desafíos?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Se recomienda adoptar principios de Lean Construction para eliminar desperdicios y mejorar la eficiencia en cada fase del proyecto.
+Se sugiere capacitar a líderes y fomentar una cultura de comunicación abierta para asegurar que las decisiones puedan tomarse eficientemente en todos los niveles.
+Se recomienda proporcionar evidencia práctica a través de proyectos piloto exitosos para demostrar el valor de la adopción ágil.
+Se sugiere incorporar prácticas de gestión de riesgos en el desarrollo ágil y educar a los equipos sobre cómo mantener altos estándares de seguridad durante la adaptación ágil.
+Se sugiere destacar historias de éxito de otras empresas de construcción que han adoptado con éxito enfoques ágiles. Mostrar los beneficios tangibles y la mejora en la eficiencia.
+Se recomienda implementar planificación ágil con hitos y revisiones regulares para adaptarse a cambios en condiciones y requisitos.
+Se recomienda establecer procesos claros y documentación que satisfagan las regulaciones sin comprometer la agilidad.

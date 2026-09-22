@@ -1,0 +1,31 @@
+# L5 · Principios y limitaciones del modelo bimodal
+Genially 659f24652efc2f0014c6ff74
+
+Principios y
+limitaciones del modelo bimodal
+El modelo bimodal, que aborda la estabilidad y la innovación en tecnología, presenta principios valiosos para la gestión empresarial. Sin embargo, coexisten desafíos como la integración compleja y posibles brechas culturales, requiriendo una implementación cuidadosa.
+2 Escalar
+3 Sintetizar
+Los principios para implantar un modelo bimodal son: Una estrategia Una organización Un equipo Dos formas de trabajo complementarias Observa la siguiente secuencia para implementar el modelo bimodal:
+1 Empezar
+La idea detrás del modelo de TI bimodal es que las organizaciones necesitan equilibrar la estabilidad y la eficiencia con la capacidad de adaptarse rápidamente a los cambios. Al separar las operaciones en dos modos distintos, las empresas pueden gestionar de manera más efectiva tanto las operaciones diarias como la innovación disruptiva. Es importante destacar que el modelo de TI bimodal no está exento de críticas, y algunas personas argumentan que puede llevar a una falta de integración y colaboración entre los dos modos.
+¿Qué perfiles necesito en la organización para implementar el modelo bimodal?
+Aunque el modelo bimodal ofrece beneficios en la gestión de tecnología, también tiene limitaciones: Falta de integración Complejidad en la transición Posible brecha cultural Riesgo de abandono del modo 1 Desafíos en la gobernanza Es esencial abordar estas limitaciones con una planificación cuidadosa, una comunicación efectiva y una adaptación continua para maximizar los beneficios del modelo bimodal.
+Gracias por tu respuesta
+¿Cuáles serían tus primeros pasos para implementar un modelo de TI bimodal en tu empresa u organización?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Centrarse excesivamente en la innovación puede llevar al descuido de las operaciones críticas en el modo 1, afectando la estabilidad y la seguridad.
+Data Science ​ Machine learning e IA​ Generative AI ​ Analítica de redes sociales​ Infografías ​ Storytelling con datos​
+Arquitectos en transformación digital​ Integración Digital​ Realidad Aumentada​ Internet de la Cosas​ Full Stack Agile ​ API Manager​ Apps Móviles​ Identidad-Seguridad​
+Arquitectos Plataformas Digitales​ SAP HANA​ Oracle Fusion Cloud​ SalesForce.com​
+Se enfatiza que la transición de un modo a otro debe ser gestionada cuidadosamente para evitar conflictos y asegurar que ambos modos contribuyan de manera efectiva a los objetivos comerciales globales.
+Mantener un equilibrio adecuado entre la agilidad y la estabilidad puede ser complicado, especialmente en términos de gobernanza y cumplimiento normativo.
+Procesos​ Design Thinking ​
+Proyecto bimodal: La atención se centra en forjar la identidad del modo 2. Los equipos de modo 1 y modo 2 trabajan de forma independiente. Los proyectos son pequeños, con énfasis en el aprendizaje.
+Empresa bimodal: Importante apuesta estructural para todo el negocio. Establecimiento de protocolos de colaboración intermodal. Grandes cambios en el proceso de modo 1 (tecnología y mentalidad).
+Experiencia de Cliente (Persona & ​ Journey + Design Thinking)​ Arquitecto UX​ Diseño Gráfico​
+Puede haber una desconexión entre los modos, lo que lleva a la falta de colaboración y sinergia entre las operaciones estables y las iniciativas de innovación.
+Negocio bimodal: Síntesis nunca “hecha”. La atención se centra en la mejora continua. Postura empresarial proactiva.
+La adopción de enfoques ágiles en el modo 2 puede crear una brecha cultural con las prácticas más tradicionales del modo 1, afectando la cohesión y la comunicación entre equipos.
+La transición entre modos puede resultar complicada, generando conflictos y desafíos en la integración de nuevas tecnologías con sistemas existentes.

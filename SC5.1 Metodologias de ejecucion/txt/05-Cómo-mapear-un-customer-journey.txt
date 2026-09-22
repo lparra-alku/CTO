@@ -1,0 +1,192 @@
+
+--- p1 ---
+¿Cómo mapear un 
+customer journey?
+¿Conoces los factores que intervienen en la 
+experiencia de compra de tus clientes?, ¿cómo 
+puedes mapear un customer journey? Encuentra las 
+respuestas en esta lectura.
+
+--- p2 ---
+Para crear un customer journey, Ribas (2022) nos sugiere 
+una serie de siete pasos:
+Pregúntate qué es lo que buscas conseguir con el customer journey map, 
+qué experiencia quieres analizar y cuál es el cliente que tienes en mente. 
+Puedes crear un mapa sobre una experiencia de cliente real o perfilar cómo 
+podría ser una experiencia futura para orientar tu marketing en función de 
+ella.
+Estos son algunos ejemplos de viajes de cliente típicos que podemos 
+mapear:
+1. Fija tus objetivos
+Target journey: adquisición – conversión – retención. Este viaje de 
+cliente se centra en los objetivos comerciales de la empresa.
+Engagement journey: conocimiento de marca – interés – consideración 
+– compra – post-compra – compra repetida. Este viaje subdivide el 
+proceso de adquisición en diferentes fases para identificar mejor las 
+necesidades específicas del cliente y analizar también el viaje de 
+fidelización.
+Activity journey: búsqueda – reserva – check-in. Aquí avanzamos un 
+paso más y pasamos de considerar el viaje según los objetivos 
+empresariales para pasar a centrarnos en el punto de vista del cliente.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+El segundo paso es recopilar toda la información posible sobre cómo es 
+tu cliente y cómo es su experiencia con la marca. Lo más recomendable es 
+utilizar una combinación de diferentes fuentes:
+2. Investiga a tus clientes potenciales
+El buyer persona es una representación de un cliente ideal de nuestra 
+marca, centrada en su estilo de vida, necesidades y pain points. Debe ser 
+una especie de “retrato robot” centrado en un personaje concreto, 
+incluyendo nombre e, incluso, foto. De esta manera, nos resultará más fácil 
+identificarnos con él y entender qué necesita de nuestra marca.
+3. Elabora un buyer persona
+Recopilar estudios existentes de otras organizaciones.
+Analizar las estadísticas del sitio web: origen de las visitas, páginas 
+visitadas, tiempo de permanencia, páginas de salida.
+Analizar las estadísticas de otros canales de la marca, como redes 
+sociales o email marketing.
+Realizar encuestas a clientes.
+Analizar las opiniones de clientes encontradas en la web.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+4. Identifica los puntos de contacto
+El mapa de experiencia de cliente se articula en torno a una serie de 
+eventos en los que el cliente entra en contacto con la marca, ya sea antes, 
+durante o después de consumir sus productos o servicios, o bien le ayudan 
+a reconocer sus necesidades relacionadas. Por tanto, debemos definir 
+cuáles son estos puntos, a través de qué canal se producen y cómo podemos 
+ayudar al cliente a avanzar en cada uno de ellos.
+En este paso nos podemos ayudar de la siguiente tabla, donde encontrarás 
+las preguntas necesarias para definir y mejorar los puntos de contacto que 
+tú podrás definir dependiendo de las interacciones empresa-cliente:
+MAPEAR LA EXPERIENCIA DEL CLIENTE
+1
+2
+3
+4
+-
+¿Con quién tiene 
+relación?
+¿Qué hacemos 
+nosotros?
+¿Cómo mejorar?
+¿Cómo se siente?
+¿Qué quiere?
+¿Qué hace?
+VIAJE DEL CLIENTE
+CLIENTE
+TOUCHPOINTS
+INTERNO
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Ten presente que si tú asumes alguna respuesta del cliente, 
+seguramente vas a fallar en tu proceso de ser una empresa 
+centrada en el cliente. El cliente es quien debe responder a las 
+preguntas que le correspondan y tú como empresa debes responder a 
+las preguntas que vienen en el apartado de “Interno”.
+Al elaborar el recorrido del cliente, debemos prestar especial atención a los 
+puntos donde se identifiquen posibles problemas o frustraciones que hagan 
+que el cliente abandone la interacción. Es necesario averiguar cuál es la 
+causa de esta frustración y buscar cómo resolverla para que el cliente tenga 
+una experiencia eficiente y satisfactoria.
+5. Detecta los posibles puntos de abandono
+Lo ideal es que todos los departamentos de la empresa que interactúan con 
+el cliente estén implicados en la creación del mapa y puedan aportar sus 
+sugerencias, especialmente los de marketing, ventas y atención al cliente.
+Una vez hayamos creado el mapa, debemos 
+prestar atención a la estrategia de comunicación 
+interna para asegurarnos de que ha llegado a 
+todo el equipo y de que todos entienden cómo 
+pueden ayudar en cada punto del proceso.
+6. Comparte el mapa de experiencia de cliente 
+con tu equipo
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Un mapa de experiencia de cliente 
+no es una imagen fija, ya que todo 
+el ecosistema del marketing digital 
+está en continua evolución. Nuevos 
+hábitos de consumo de los clientes, 
+nuevos productos y servicios, 
+nuevas regulaciones, nuevas 
+empresas en el mercado. 
+Como verás, nos encontramos 
+frente a varios factores que de 
+alguna manera influyen en la 
+experiencia de compra de nuestros 
+clientes. La recomendación es 
+actualizar nuestro customer 
+journey map con el objetivo de 
+ofrecer soluciones pertinentes a las 
+necesidades de nuestros clientes.
+Ahora bien, en la actualidad existe 
+un factor que ya ha venido a 
+transformar la experiencia de 
+nuestros clientes desde hace varios 
+años: la digitalización dentro del 
+proceso de customer journey. 
+Durante la pandemia de COVID-19, 
+las empresas se vieron en la 
+necesidad de tomar con mayor 
+seriedad los canales digitales y 
+tomar responsabilidad en los 
+canales físicos, por esa razón desde 
+hace un par de años se retoma con 
+7. Revisa y actualiza el mapa
+más fuerza el concepto figital, el cual 
+es creado por el especialista en medios 
+digitales Josh Spector en 2013.
+Figital es un término que resulta de la 
+fusión de las palabras físico y digital, 
+este concepto se refiere a que todo lo 
+que nuestros clientes realizan de 
+manera física se puede extender 
+digitalmente, con el propósito de que 
+ellos vivan en dos ambientes, de 
+manera integral (no separada). Lo 
+anterior permite que el viaje del cliente 
+sea fácil, cómodo y autónomo. En ese 
+sentido la omnicanalidad puede ser 
+considerada como figital ya que, como 
+vimos anteriormente, se busca unificar 
+los puntos de contacto para otorgar 
+una mejor experiencia a nuestros 
+clientes.
+A continuación, 
+revisemos 
+algunos 
+ejemplos de 
+aplicación de 
+customer 
+journey en un 
+mundo figital.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+Reflexiones finales
+¿De qué manera identificas y comprendes todos los 
+puntos de contacto que un cliente tiene con tu 
+empresa a lo largo de su customer journey, incluso 
+aquellos que pueden pasar desapercibidos?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Piensa en tu empresa u organización y con base en la información que 
+has revisado hasta el momento, responde a la siguiente pregunta:
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7

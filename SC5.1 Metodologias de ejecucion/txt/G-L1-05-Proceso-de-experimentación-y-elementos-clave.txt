@@ -1,0 +1,40 @@
+# L1 · Proceso de experimentación y elementos clave
+Genially 656001a0ff8bd60012115744
+
+de experimentación y elementos clave
+¿De qué manera llevas a cabo tus procesos de experimentación para mejorar tus productos o servicios? En esta lectura conocerás los elementos clave para escalar hacia mejores soluciones.
+Proceso de experimentación
+Ya hemos visto de qué va la estrategia del Design Thinking y los pasos para desarrollarlo, ahora observa el siguiente flujograma (comenzando por el botón 1) que muestra el proceso de experimentación (un elemento clave con el cual puedes escalar hacia una mejor solución) dentro de este enfoque.
+Aprendizaje
+Prototipo de Negocio
+Hipótesis
+Experimento
+Diagnóstico
+Diseño de Negocio
+Probar ideas de negocio
+Además del proceso de experimentación que viste anteriormente para escalar tus soluciones, te compartimos otro ejemplo de cómo evolucionar tus ideas, el cual se aprecia en el siguiente esquema:
+También existe un elemento adicional llamado Fidelidad de la Experimentación, el cual depende de la cantidad de personas involucradas en las pruebas que realizamos.
+Cantidad de personas + Fidelidad del Experimento
+Incertidumbre y Riesgo
+Este esquema se traduce en la siguiente frase: “en la medida en que yo hago más experimentos, aprendo más y hay menos incertidumbre”.
+¿Por qué para las empresas es difícil innovar?
+Porque las empresas buscan grandes ideas, quieren vender un billón de dólares a la primera, pero eso no existe. Dentro de la mentalidad de las empresas está arraigado el concepto de análisis, están obsesionadas con él y, obviamente, quieren crecer a grandes velocidades. No se tranquilizan con poco y, dicho de otra forma, se quedan atrapadas en el bloqueo de crecimiento, esta mentalidad impide que una empresa pueda innovar. Por esa razón, Design Thinking necesita de 6 elementos clave para su implementación y comenzar a pensar diferente.
+Existe una herramienta llamada Design Brief que nos ayuda a desarrollar nuestro proyecto de Design Thinking hasta la etapa de definición de nuestro problema. Consta de siete características por desglosar. Utiliza esta tabla para guiarte en tus próximos proyectos o actualizar aquellos que necesites retomar.
+Luego de definir el problema sigue la fase de idear, y estas son algunas recomendaciones:
+Invita a más personas y construyan a partir de la colaboración. Motiva ideas locas y salvajes. No juzgues a los demás. Una sola conversación a la vez. Enfócate en un tópico de brainstorming, itera sobre el tópico dos veces más.
+Piensa centrado en el usuario que tiene el problema. Invita a las personas que tienen el problema. Trata de ser visual. Busca muchas soluciones.
+Gracias por tu respuesta
+¿De qué manera puedo aprovechar al máximo el potencial del Design Thinking para la innovación y la resolución de problemas en mi área?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Partes desde una hipótesis; luego experimentas el resultado, el cual te da un aprendizaje; ese aprendizaje lo propones a tus clientes prueba para idear soluciones; después, se realiza un prototipo de negocio y se mide a través de un diagnóstico; y, finalmente, se toman decisiones respecto al resultado obtenido con el propósito de evolucionar.
+Revisa ideas
+Aprende de los datos de tus Clientes
+Haz un pequeño experimento
+Validas hipótesis
+Invalidas hipótesis
+Genera ideas
+Define hipótesis
+Según el esquema, debemos obtener datos para saber si está funcionando nuestro proyecto, después nos enfocaremos en generar ideas para solucionar el o los problemas que tiene nuestro cliente, luego definiremos hipótesis. Nuestro experimento validará o invalidará la hipótesis.
+Si la invalida, aprendemos de lo que no resultó, generamos una nueva idea y repetimos el proceso. Las hipótesis inválidas nos permiten aprender, mientras que las hipótesis válidas nos ayudarán a escalar la solución.
+Empatizar Dejar que la otra persona experimente (no cuentes, no teorices) Experimentar (vivir la experiencia) Ser consciente del problema a resolver Orientar nuestras acciones Colaborar

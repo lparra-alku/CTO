@@ -1,0 +1,53 @@
+# L2 · Ejemplos de aplicación de customer journey en un mundo Figital
+Genially 65a0762adbbe8f00157e6478
+
+Ejemplos de aplicación
+de customer journey en un mundo Figital
+Ahora revisarás algunos ejemplos de aplicación de customer journey en un mundo figital.
+Antes de revisar los ejemplos, debes saber que la evolución de la transformación digital está orientada al cliente bajo estas características: Propuesta de valor para el cliente Gestión omnicanal y CRM Gestión de reclamaciones Operaciones Tales características darán forma a la experiencia de cada uno de nuestros clientes.
+Prevención de reclamaciones digitales
+Primera notificación digital de pérdida
+Gestión automatizada de reclamaciones
+Evaluación y reparación de pérdidas digitales
+Solución automatizada
+Julia​ 58 años de edad​
+Identificar el cambio de comportamiento
+Una roca rompió el parabrisas de su auto
+Ella selecciona una cita de reparación con un taller de reparación cercano. El coche de Julia es recogido en su oficina para repararlo.​
+Su aseguradora recibe digitalmente la factura de reparación, que se verifica y paga automáticamente.
+Julia recibe una notificación push – “Cómo prevenir daños al vidrio durante los meses de invierno.​
+Ella notifica a su aseguradora sobre los daños en el cristal mediante una notificación (online) sencilla e intuitiva en su teléfono.​
+El reclamo de Julia se analiza y verifica en tiempo real y se clasifica como un reclamo simple.​
+Viaje del cliente omnicanal
+Activos digitales relevantes
+Implementación de personalización
+Hoy en día si chocamos o tenemos un incidente con nuestro automóvil y si las circunstancias nos lo permiten, podemos llamar a la aseguradora mientras utilizamos la aplicación, mandar foto de los daños, mandar nuestra ubicación, mandar foto de algún documento a través de la app de la aseguradora, nos responden de manera rápida y tenemos una forma más ágil de ser atendidos. No tenemos que esperar dos o tres horas a que llegue el ajustador.
+1. Búsqueda de información inicial (ubicaciones en Google, reseñas online )
+Veamos otro ejemplo de customer journey map enfocado al concepto figital, pero ahora en un contexto inmobiliario, desarrollado por Simpson (2022). Desde el punto de vista de una persona que decide rentar un departamento para habitar, este sería su customer journey map: Es importante mencionar que los tiempos entre puntos de contacto son específicos de la situación de cada persona.
+2. Reseñas de los departamentos
+4. Análisis comparativo
+5. Negociación y firma de contrato de arrendamiento
+3. Visita a los departamentos
+7. El momento de la mudanza / inspección y reparaciones posteriores a la mudanza
+6. Planeación de la mudanza
+8. Conociendo a los vecinos
+El viaje del cliente no se trata de una recta definida, en términos de omnicanalidad se requiere de atender cada punto de contacto para beneficiar a los usuarios y hacer su camino más fácil, cómodo y autónomo.
+Gracias por tu respuesta
+¿Cuál es tu nivel de compromiso para capacitar a tu equipo y proveerles las herramientas necesarias para ofrecer un servicio consistente y excepcional en todos los puntos de contacto omnicanal?, ¿cómo puedes mantenerlo o incrementarlo?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+Consectetur adipiscing elit
+Momentos negativos: eventos programados durante la jornada laboral o en vacaciones. Emocionalidad: se desea conocer a los vecinos, pero no hay tiempo. Momentos de verdad/mejora: eventos impulsados por los residentes que llevan más tiempo .
+Momentos negativos: el tiempo invertido para realizar un seguimiento de varias opciones y sus respectivos diseños, precio, ubicación, etcétera. Emocionalidad: estrés por tomar una mala decisión. Momentos de verdad/mejora: comparar y evaluar.
+Momentos negativos: mucho tiempo para conciliar refacciones o mantenimiento (iluminación o resanado de paredes). Emocionalidad: el usuario puede estar abrumado y estresado con el seguimiento a refacciones o mantenimiento. Momentos de verdad/mejora: paquetes de bienvenida con listas de verificación. Asignar personal desde el día 1 hasta el 90. Prioridad de línea directa para nuevos residentes.
+De manera digital, se ofrece una solución en efectivo. Oferta digital de reposición de artículos dañados. Verificación automatizada de facturas. Procesamiento de pagos automatizado.
+Momentos negativos: información y fotografías incompletas y desactualizadas. Emocionalidad: el usuario encuentra información que le agrada, pero es necesario filtrar. Momentos de verdad/mejora: más información para poder comparar.
+Momentos negativos: políticas de alquiler poco claras. Largo proceso de trámites de arrendamiento. Emocionalidad: el usuario puede estar ansioso por tarifas extras que se pudieron olvidar de presupuestar en el proceso. Momentos de verdad/mejora: firma en línea de documentos.
+Momentos negativos: falta de flexibilidad en los horarios, el dueño o encargado solo se centra en el recorrido por el departamento y nada más. Las fotos no corresponden con lo visto físicamente. Emocionalidad: el usuario comienza a ponerse ansioso. Momentos de verdad/mejora: se invierte tiempo y esfuerzo en revisar cada opción.
+FNOL (First notice of Loss) automatizado, por ejemplo, mediante telemática.​ FNOL digital intuitivo para el cliente. FNOL digital simple para intermediarios.
+Autoservicio digital de evaluación de daños. Selección digital de la cita con el valuador. Selección digital de la cita en el taller de reparación.
+Momentos negativos: horarios no disponibles para la mudanza, los muebles son muy amplios para subir por el edificio. Emocionalidad: el usuario se estresa por la coordinación entre su antiguo y nuevo departamento durante la mudanza. Momentos de verdad/mejora: realizar mejores listas de verificación, pagar por un servicio especializado en mudanzas.
+Gestión inteligente automatizada de casos. Detección automática de fraudes. Seguimiento digital del progreso en tiempo real.

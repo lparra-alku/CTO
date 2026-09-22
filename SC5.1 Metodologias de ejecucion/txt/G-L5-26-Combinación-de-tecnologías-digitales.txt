@@ -1,0 +1,27 @@
+# L5 · Combinación de tecnologías digitales
+Genially 659f24f9abaf5700141e4338
+
+Combinación
+de tecnologías digitales
+La transformación digital de tu empresa requerirá de una combinación de tecnologías, cambios, métodos y medición de resultados. En ese sentido es indispensable un análisis pertinente a tu contexto.
+Para elegir las mejores herramientas, lo ideal es que tengas un equipo de trabajo que te ayude a definir lo que necesitas aprender e implementar. Para orientarte, en el siguiente esquema podrás observar la clasificación de tres tipos de tecnologías y las herramientas con las que se relacionan.
+Tu transformación digital y la de tu equipo de trabajo necesita decisiones y acciones desde una perspectiva de TI (Tecnologías de la Información) con la finalidad de adaptarte a los recursos existentes, o bien a las demandas del mercado.
+Observa en el siguiente esquema la manera en que evoluciona la transformación digital en las empresas:
+Desde el 2013, las empresas están buscando la manera de “domar al dragón digital”, la cual es una expresión metafórica que se utiliza para describir el proceso de gestionar las complejidades y desafíos asociados con la tecnología y el entorno digital en la era moderna. En este contexto, el "dragón digital" simboliza los problemas, riesgos o dificultades que pueden surgir con el uso de la tecnología, como ciberseguridad, privacidad, dependencia tecnológica, entre otros.
+En el siguiente esquema te compartimos los tres elementos clave para domarlo.
+Por ejemplo, hace algunos años, las editoriales tradicionales se enfrentaron al desafío de adaptarse a la era digital en un mercado donde los consumidores empezaban a preferir contenidos digitales sobre los impresos. Esta transición implicaba digitalizar los libros existentes y replantear toda la cadena de valor, desde la creación hasta la distribución. Esta transición se puede explicar a través de siete puntos relevantes:
+Creación digital de contenido Plataforma de publicación digital Transformación de la cadena de suministro Desarrollo de habilidades digitales Experiencia del lector en línea Estrategias de marketing digital Adaptación a la retroalimentación instantánea
+Lo anterior permitió a las editoriales más innovadoras sobrevivir en un mercado en constante cambio y prosperar al aprovechar las oportunidades que brinda el mundo digital. La adaptación de procesos, la adopción de nuevas tecnologías y el desarrollo de habilidades digitales fueron esenciales para el éxito de esta transición.
+Hasta el momento has observado cómo se relacionan los procesos de innovación con la transformación digital, así como la importancia de las habilidades digitales en una era como la nuestra. Sin embargo, existe un elemento que te mostrará dos modos diferentes de operación para abordar las demandas cambiantes y contrastantes en el entorno empresarial con relación a la transformación digital: el modelo de TI bimodal, el cual revisarás en el siguiente recurso.
+Gracias por tu respuesta
+¿Cuáles son los desafíos a los que te podrías enfrentar en tu empresa u organización con relación a la gestión de habilidades y herramientas para la innovación?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+En ocasiones la tecnología misma será quien cambie el rumbo de tus procesos, mientras que a veces el cliente es quien cambia las reglas del juego.
+La transformación digital permitió una retroalimentación instantánea de los lectores. Las editoriales utilizaron estas respuestas para realizar ajustes rápidos, ya sea en la narrativa de los libros, la presentación visual o las estrategias de marketing.
+Tradicionalmente, la creación de libros involucraba procesos manuales intensivos. Las editoriales tuvieron que adoptar herramientas digitales para facilitar la escritura colaborativa, la edición en línea y la incorporación de multimedia. Los escritores, editores y diseñadores se capacitaron en el uso de software especializado.
+En lugar de depender exclusivamente de la impresión física, las editoriales invirtieron en plataformas digitales para la publicación y distribución de libros electrónicos. Esto implicó la creación de una interfaz fácil de usar para los lectores y la integración de sistemas seguros para la venta y descarga de libros digitales.
+Las editoriales invirtieron en programas de capacitación para su personal, desde escritores hasta equipos de marketing y ventas, para adquirir habilidades digitales. Esto incluyó aprender a utilizar herramientas de análisis de datos para comprender mejor las preferencias de los lectores y adaptar estrategias de marketing digital.
+La cadena de suministro debía modificarse para adaptarse al formato digital. Se implementaron sistemas de gestión de inventarios y distribución electrónicos, reduciendo la dependencia de almacenes físicos y optimizando la entrega instantánea de libros a través de plataformas en línea.
+Los equipos de marketing abandonaron enfoques tradicionales y se sumergieron en estrategias digitales. Esto involucró la utilización de redes sociales, campañas de correo electrónico y publicidad en línea para llegar a audiencias específicas y promover lanzamientos digitales.
+Se diseñaron interfaces de usuario atractivas para las plataformas digitales, asegurando una experiencia de lectura cómoda y enriquecedora. Esto también incluyó la implementación de funciones interactivas, como enlaces a recursos adicionales, comentarios de lectores y opciones de personalización.

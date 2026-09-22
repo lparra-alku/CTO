@@ -1,0 +1,176 @@
+
+--- p1 ---
+para la transformación
+digital
+Modelo de TI
+bimodal
+El modelo de TI bimodal ofrece la ventaja de 
+equilibrar la estabilidad operativa con la agilidad 
+innovadora, permitiendo a las organizaciones 
+adaptarse eficientemente a cambios constantes y 
+demandas variables del mercado.
+
+--- p2 ---
+Para hacer efectivo este modelo, necesitarás implementar el modo 1 en más 
+del 90 %, mientras que el modo 2 de 1 a 10 %. La razón es porque el modo 1 
+te asegura la operación y el modo 2 te llevará a la innovación. 
+El modo 1 (TI Tradicional) se centra en la estabilidad y la eficiencia. Se 
+refiere a las operaciones tradicionales de TI que implican procesos más 
+El modelo bimodal fue creado por Gartner y McKinsey a 
+finales de 2014 y es la práctica de gestionar dos estilos de 
+trabajo separados pero coherentes: uno centrado en la 
+previsibilidad y el otro en la exploración.
+El modo 1
+es predecible, 
+mejorando y 
+renovando en 
+áreas más bien 
+entendidas.
+Bimodal
+El modo 2
+es exploratorio, 
+experimentando 
+para resolver 
+nuevos problemas.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+predecibles y bien establecidos. Las tareas en este modo 
+suelen ser más estructuradas y se gestionan con enfoques 
+más tradicionales de desarrollo y entrega, como los modelos 
+de desarrollo en cascada. 
+El modo 2 (TI Ágil) se enfoca en la agilidad y la innovación. Aquí, el 
+objetivo es responder rápidamente a los cambios en el mercado y a las 
+necesidades del negocio. Se adoptan enfoques más ágiles, como DevOps y 
+metodologías ágiles de desarrollo de software. El énfasis está en la 
+flexibilidad, la experimentación y la entrega rápida de soluciones.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+Por ejemplo, si trabajaras en una organización dedicada 
+al fomento del deporte, donde el objetivo es desarrollar 
+múltiples disciplinas, necesitarías desarrollar tanto al velocista 
+como al maratonista, ambos con entrenamientos opuestos. Observa 
+la siguiente tabla:
+Como puedes observar, los entrenamientos del maratonista y del velocista 
+son opuestos. Al maratonista le interesa tener la vitalidad para poseer la 
+confiabilidad de terminar la carrera. El velocista de 100 metros planos, lo 
+único en lo que piensa es en salir disparado para llegar a la meta. Entonces, 
+la meta, el valor, el enfoque y todos los demás elementos son opuestos.  
+Maratonista
+Modo 1
+Modo 2
+Velocista
+Fiabilidad
+Meta
+Agilidad
+Centrado en TI, 
+enfocado en el 
+consumidor
+Cultura 
+Centrado en los 
+negocios, cercano 
+al consumidor
+Largo plazo 
+(meses)
+Tiempo de ciclo 
+(progreso)
+Corto plazo (días, 
+semanas)
+Buenos en el 
+proceso 
+tradicional
+Talento 
+Buenos en un 
+proyecto nuevo e 
+incierto
+Proveedores 
+empresariales, 
+ofertas a largo 
+plazo
+Abastecimiento 
+Nuevos 
+proveedores, 
+ofertas a corto 
+plazo
+Procesos 
+dirigidos, basados 
+en aprobación
+Principios
+Empírico, basado 
+en procesos 
+continuos
+Modelo en 
+cascada, V-Model 
+(bidireccional)
+Enfoque
+Ágil, Kanban
+Valor por el 
+rendimiento
+Valor
+Beneficios, marca, 
+experiencia
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+Para ganar una guerra necesitas ninjas y samuráis. Necesitas a los samuráis 
+para que vayan de lleno contra la muralla y a los ninjas que, sin que nadie 
+se dé cuenta, suban y te abran las puertas.
+Podríamos afirmar que el modo 1 y el modo 2 son 
+enemigos, compiten entre sí. Si tú eres una persona muy 
+buena en el modo 1, vas a ser pésima en el modo 2 y viceversa, 
+eso es lo difícil del modelo bimodal. 
+¿Cómo haces para que tus colaboradores aprendan las dos cosas?  
+La respuesta corta es que no se puede. Necesitas dos equipos de trabajo.
+Veamos un segundo ejemplo:
+Samurai
+Modo 1
+Resolución de 
+problemas
+Modo 2
+Ideación 
+Mapeo de procesos
+Experimentación
+Mejora continua
+Estudio de viabilidad
+Puntos de referencia
+Aprendizaje 
+inteligente
+Metodología Lean
+Herramientas 
+estándar 
+Controlado, 
+predecible y 
+ultraconfiable 
+Algo inflexible
+Rapidez 
+Único 
+No tan confiable 
+Baja gobernanza
+Innovación abierta
+Ninja
+Armas
+Armas
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Reflexiones finales
+¿De qué manera puedes aprovechar las 
+ventajas del modelo bimodal para mejorar la 
+eficiencia operativa y fomentar la innovación 
+en tus proyectos clave?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6

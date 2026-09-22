@@ -1,0 +1,59 @@
+# L0 · Cuánto sabes
+Genially 65a950a39968030014adb9cd
+
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que ayudes a Bernardo a resolver los siguientes cuestionamientos.
+Bernardo está ajustando los últimos detalles y explicando a cada líder de área la relevancia y beneficios de su propuesta. Por ello, pide tu colaboración para resolver algunas dudas que tienen los líderes, ¿puedes ayudarlo? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Con qué conceptos se puede relacionar al enfoque de Design Thinking?
+Innovación, transformación y colaboración
+Comprender cómo funciona la transformación digital
+Intuición, imaginación e innovación
+¡Correcto!
+Design Thinking se asocia con la innovación, transformación y colaboración porque proporciona un marco que fomenta la comprensión profunda de los usuarios, la creatividad, la iteración continua y la colaboración interdisciplinaria, elementos esenciales para abordar desafíos complejos y desarrollar soluciones efectivas y novedosas.
+¡Incorrecto!
+Es la representación visual con cada una de las etapas, interacciones, canales y elementos por los que atraviesa un cliente durante todo el ciclo de compra
+Es la definición genérica de Customer Journey Map conocida en el mundo de los negocios.
+Es la representación visual con cada uno de los pasos a seguir para atender progresivamente a cada uno de nuestros clientes
+Es la representación visual donde se plasman las ventajas y desventajas de un plan para mejorar el viaje del cliente
+El Customer Journey Map es crucial porque visualiza la experiencia del cliente a lo largo de su interacción con la marca, identificando oportunidades de mejora y optimizando cada punto de contacto para maximizar la satisfacción y lealtad.
+¿Cuál de las siguientes definiciones crees que se acerca más al concepto de Customer Development?
+Son empresas emergentes que poseen un gran potencial de crecimiento y que, además, tienen una fuerte relación con la tecnología, más recientemente con la digital
+Es una herramienta que nos ayudará a construir una representación visual de las necesidades de nuestros clientes con el servicio o producto que le estamos ofreciendo
+Es una metodología enfocada en comprender a fondo los problemas, las necesidades y los deseos de los usuarios antes de lanzar un producto o servicio al mercado
+En esta metodología se requiere de interacciones constantes con nuestros clientes para validar y ajustar nuestros productos y servicios.
+Customer Development es una metodología enfocada en comprender a fondo los problemas, las necesidades y los deseos de los usuarios antes de lanzar un producto o servicio al mercado.
+Con relación a las empresas, ¿cuál crees que sea la definición correcta de “agilidad”?
+Es la habilidad de sistematizar cada proceso para que sea ejecutado conforme a lo establecido, sin modificar algún elemento
+Es la capacidad organizacional de poder percibir, adaptarse y responder a un entorno dinámico
+Es la capacidad que tienen las empresas para obtener resultados en el menor tiempo posible
+La agilidad empresarial busca identificar los límites y remover las restricciones.
+La agilidad en las empresas se refiere a la capacidad organizacional de poder percibir, adaptarse y responder a un entorno dinámico.
+Existen habilidades necesarias para adaptarse a un entorno empresarial en constante evolución, en ese sentido, ¿cuál de las siguientes consideras que se relaciona con habilidades de gestión de relaciones?
+Visión estratégica
+Aprendizaje continuo y adaptación
+Negociación
+Las habilidades para negociar nos llevarán a tomar acuerdos que impulsen la implementación efectiva de iniciativas digitales.
+La negociación es una habilidad de gestión de relaciones la cual nos llevará a tomar acuerdos que impulsen la implementación efectiva de iniciativas digitales.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

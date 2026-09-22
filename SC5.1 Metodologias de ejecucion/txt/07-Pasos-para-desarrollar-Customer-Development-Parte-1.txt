@@ -1,0 +1,297 @@
+
+--- p1 ---
+Pasos para 
+desarrollar 
+Customer Development
+Parte 1
+Aquí encontrarás los primeros dos pasos de los 
+cuatro que conforman el proceso para implementar 
+Customer Development, los cuales te brindarán una 
+guía infalible para reducir riesgos y aumentar la 
+probabilidad de éxito de tus productos o servicios. 
+
+--- p2 ---
+La metodología de Customer Development se divide en 
+dos bloques (búsqueda y ejecución). En esta lectura 
+revisarás las características del primer bloque:
+Descubrimiento de clientes 
+La fase de descubrimiento del cliente consiste en encontrar y probar los 
+problemas que tiene tu cliente, así como tu solución y tu modelo de 
+negocio.
+Imagina que tienes una idea para un negocio, pero no deseas construir uno 
+basado en suposiciones. En cambio, deseas construir un negocio basado en 
+hipótesis validadas para no desperdiciar dinero y tiempo.
+Sólo cuando estés seguro de los problemas del cliente y tengas suficientes 
+datos para respaldarlo, comenzarás a crear un producto o servicio para 
+resolver estos problemas.
+Dentro de esta primera etapa, se encuentra un concepto llamado 
+problem-solution fit, el cual representa la alineación exitosa entre los 
+problemas percibidos por los clientes y las soluciones propuestas por la 
+empresa. 
+01
+Búsqueda
+Ejecución
+Descubrimiento
+de clientes
+Validación
+de clientes
+Pivotar
+o cambiar
+Creación
+de clientes
+Creación
+de empresa
+1
+2
+3
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate
+2
+
+--- p3 ---
+El problem-solution fit implica la validación de 
+que el producto o servicio aborda de manera 
+efectiva las necesidades y frustraciones reales 
+de los clientes. 
+Al lograr un problem-solution fit, se establece 
+una base sólida para el desarrollo posterior, 
+asegurando que la empresa esté enfocada en 
+resolver problemas que realmente importan 
+para su audiencia objetivo. 
+Este enfoque reduce los riesgos y aumenta la 
+probabilidad de éxito al construir una 
+propuesta de valor que impacte positivamente 
+con los clientes, sentando las bases para un 
+product-market fit exitoso (el cual veremos en 
+la siguiente fase) a medida que la empresa 
+evoluciona.
+Un ejemplo de problem-solution fit podría ser 
+una aplicación de gestión de tareas que ayude a 
+organizar las activades diarias (personales y 
+laborales) de una persona. Si la aplicación 
+aborda eficazmente esta necesidad de 
+organización, proporcionando características 
+intuitivas, recordatorios personalizables y una 
+interfaz fácil de usar, entonces ha logrado un 
+problem-solution fit. La validación se 
+evidenciaría por la adopción positiva de la 
+aplicación por parte de los usuarios, indicando 
+que la solución realmente resuelve el problema 
+que los clientes buscaban abordar.
+Puedes apoyarte de las siguientes preguntas 
+para establecer un buen problema-solution fit:
+Tecnológico de Monterrey © 2024 | The Learning Gate
+3
+
+--- p4 ---
+¿El cliente es consciente del 
+problema?
+Cuanto más informado esté el cliente 
+sobre su problema, mejor; incluso 
+puede ser que tu cliente haya 
+solucionado de manera provisional su 
+problema. Intenta tanto como puedas 
+identificar qué tan consciente es tu 
+cliente de su problema.
+¿Cuál es tu producto o 
+servicio? 
+Una vez que hayas encontrado un 
+problema validado, podrás encontrar 
+la solución. 
+¿Cuáles son las soluciones 
+alternas para el cliente? 
+En un océano azul, puede haber pocas 
+o ninguna solución alterna; pero en un 
+océano rojo, es probable que haya 
+competencia que intente resolver el 
+mismo problema. Identifica cuál es la 
+competencia y qué ofrecen.
+¿Quién es tu cliente? 
+Es importante conocer a tu cliente, no sólo conocer 
+sus datos demográficos, sino también los datos 
+sociográficos.
+¿Cuál es el problema del cliente?
+Haz suposiciones sobre los problemas que crees que tiene tu cliente y 
+luego valida con él esas suposiciones. 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+4
+
+--- p5 ---
+¿Cuáles son las consideraciones que tiene 
+tu cliente al elegir una solución?
+Aquí vale la pena hacerse otra pregunta: ¿cuáles son 
+las partes importantes de tu negocio, producto o 
+servicio que le pueden interesar o no a tu cliente? 
+Identifica esas partes y en la medida de lo posible, 
+asegúrate de que tu producto esté optimizado para ese cliente.
+Ciclo Construir – Medir – Aprender
+Si has encontrado un cuello de botella en uno o más de los 6 pasos 
+anteriores, puedes aplicar el ciclo Construir-Medir-Aprender de Lean 
+Startup. Al final, la estrategia es cuestión de hacer suposiciones y 
+validarlas.
+El proceso para el descubrimiento de clientes es el siguiente:
+Hipótesis
+Hipótesis del problema de prueba 
+Hipótesis del  producto de prueba 
+Verificar
+Primeros 
+contactos 
+Presentación 
+del problema 
+Comprensión 
+del cliente 
+Conocimiento 
+del mercado 
+Primer 
+control de 
+calidad 
+Presentación 
+del producto 
+Más visitas 
+de clientes 
+Segundo 
+control de 
+calidad 
+Verificar el 
+producto 
+Verificar el 
+problema 
+Verificar el 
+modelo de 
+negocio 
+Iterar o salir 
+Hipótesis del 
+producto 
+Cliente e 
+hipótesis del 
+problema 
+Distribución 
+e hipótesis 
+de valoración 
+Hipótesis de 
+creación de 
+demanda 
+Hipótesis de 
+tipo de 
+mercado 
+Hipótesis 
+competitiva 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+5
+
+--- p6 ---
+Validación de clientes
+Esta fase viene después de haber establecido un 
+producto validado en la fase de descubrimiento del 
+Cliente. La propuesta de valor responde a tres preguntas:
+¿Qué representa tu empresa?
+¿Qué hace tu producto?
+¿Y por qué debería importarle a alguien?
+Aquí te centrarás en las ventas, así que necesitas aplicar un embudo de 
+ventas para que puedas escalar tu negocio.
+Un aspecto importante dentro de la validación de clientes es el concepto de 
+product-market fit, el cual se refiere al momento en el que un producto o 
+servicio satisface de manera excepcional las necesidades del mercado al 
+que se dirige, generando una demanda significativa y encontrando una 
+conexión sólida con los clientes. En esencia, representa la validación de 
+que el producto o servicio ha encontrado su lugar en el mercado y ha 
+establecido una demanda sustancial.
+Un ejemplo de product-market fit podría 
+ser una aplicación de entrega de alimentos 
+que ha ajustado su propuesta para satisfacer 
+las preferencias y necesidades específicas de 
+un mercado local. Si la aplicación ha 
+identificado correctamente los gustos 
+culinarios locales, ofrece opciones 
+relevantes, proporciona un servicio eficiente 
+y experimenta un aumento constante en la 
+adopción y satisfacción del cliente en esa 
+región, se puede considerar que ha 
+alcanzado el product-market fit. En este 
+punto, la aplicación ha demostrado que ha 
+02
+Tecnológico de Monterrey © 2024 | The Learning Gate
+6
+
+--- p7 ---
+encontrado una demanda significativa en el mercado 
+al adaptarse a las expectativas y preferencias específicas 
+de los usuarios locales.
+El proceso para la validación de clientes es el siguiente:
+En el siguiente recurso descubrirás cómo estructurar una propuesta de 
+valor plasmada en un esquema, lo que te ayudará a visualizar tu plan para 
+la validación de clientes.
+Prepárate para 
+vender 
+Vender a los clientes 
+“más importantes” 
+Desarrollar 
+posicionamiento 
+Verificar
+Contactar a los 
+clientes más 
+importantes 
+Venderle a los 
+clientes más 
+importantes 
+Definir el mapa 
+de ventas 
+Vender a los 
+socios 
+Presentar a 
+analistas 
+Posicionamiento 
+de la empresa 
+Posicionamiento 
+del producto 
+Definir la hoja 
+de ruta 
+Verificar la hoja 
+de ruta del 
+canal 
+Verificar el 
+negocio en la 
+empresa 
+Iterar o salir 
+Verificar las 
+ventas en la 
+hoja de ruta 
+Verificar el 
+producto 
+Estructurar una 
+propuesta de 
+valor 
+Ventas iniciales 
+y materiales 
+secundarios 
+Canal de 
+distribución 
+inicial 
+Contratar un 
+cerrador de 
+ventas 
+Alinear a la 
+gerencia 
+Formalizar un 
+consejo asesor 
+Tecnológico de Monterrey © 2024 | The Learning Gate
+7
+
+--- p8 ---
+Tecnológico de Monterrey © 2024 | The Learning Gate
+8
+Piensa en tu empresa u organización y con base en la 
+información que has revisado hasta el momento, responde a 
+la siguiente pregunta:
+¿De qué manera se pueden adaptar estos dos 
+primeros pasos del Customer Development en tu 
+contexto laboral?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.

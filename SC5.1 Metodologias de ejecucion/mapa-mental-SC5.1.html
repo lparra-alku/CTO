@@ -1,0 +1,107 @@
+<title>Metodologías de Ejecución</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600;700&display=swap">
+<style>
+:root{
+  --ground:#F6F7F9; --surface:#FFFFFF; --sunken:#EDF0F4;
+  --ink:#151A21; --ink-2:#3D4753; --ink-3:#6B7684; --line:#D9DEE6;
+  --c1:#7A4B12; --c1-bg:#F6ECDD;
+  --c2:#2F6A3A; --c2-bg:#E5F1E7;
+  --c3:#8C2F39; --c3-bg:#F7E3E5;
+  --c4:#2C5577; --c4-bg:#E3ECF4;
+  --c5:#5B4A8C; --c5-bg:#ECE8F6;
+  --flag:#8A5A00; --flag-bg:#FBF1DC; --flag-line:#E4C77E;
+  --star:#0B6E64; --star-bg:#E4F1EE;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#E2B06C; --c1-bg:#2B1E0F;
+  --c2:#79C98A; --c2-bg:#12261A;
+  --c3:#EE8E98; --c3-bg:#2E1316;
+  --c4:#86B6E0; --c4-bg:#122130;
+  --c5:#B3A3EA; --c5-bg:#1D1830;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}}
+:root[data-theme="dark"]{
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#E2B06C; --c1-bg:#2B1E0F;
+  --c2:#79C98A; --c2-bg:#12261A;
+  --c3:#EE8E98; --c3-bg:#2E1316;
+  --c4:#86B6E0; --c4-bg:#122130;
+  --c5:#B3A3EA; --c5-bg:#1D1830;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  line-height:1.5;padding:clamp(20px,4vw,52px) clamp(14px,4vw,44px) 72px;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(22px,3vw,34px)}
+
+header{display:flex;flex-direction:column;gap:10px;padding-bottom:20px;border-bottom:2px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:"IBM Plex Serif",Georgia,serif;font-weight:700;margin:0;
+  font-size:clamp(28px,5.2vw,44px);letter-spacing:-.02em;text-wrap:balance;line-height:1.12}
+.sub{color:var(--ink-2);max-width:62ch;font-size:15.5px;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2);
+  background:var(--sunken);border:1px solid var(--line);border-radius:3px;padding:4px 9px}
+
+.branch{display:grid;grid-template-columns:minmax(150px,200px) 1fr;gap:clamp(14px,2.4vw,30px);
+  align-items:start}
+.stem{position:sticky;top:20px;display:flex;flex-direction:column;gap:7px;
+  padding:13px 15px;border-radius:4px;background:var(--bg);border-left:4px solid var(--hue)}
+.stem .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--hue);font-weight:600}
+.stem h2{font-family:"IBM Plex Serif",Georgia,serif;font-size:18px;font-weight:600;margin:0;
+  line-height:1.24;text-wrap:balance;color:var(--ink)}
+.stem p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.42}
+
+.nodes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));
+  padding-left:clamp(12px,1.6vw,20px);border-left:1px dashed var(--line)}
+.node{background:var(--surface);border:1px solid var(--line);border-radius:4px;
+  padding:13px 15px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.node h3{margin:0;font-size:12.5px;font-weight:600;letter-spacing:.01em;color:var(--hue);
+  display:flex;align-items:baseline;gap:7px}
+.node h3 .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-3);
+  letter-spacing:.06em;font-weight:500}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+li{font-size:13.5px;color:var(--ink-2);padding-left:13px;position:relative;line-height:1.42}
+li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:1.5px;background:var(--hue);opacity:.65}
+li b{color:var(--ink);font-weight:600}
+.seq{counter-reset:s;gap:5px}
+.seq li{padding-left:24px}
+.seq li::before{counter-increment:s;content:counter(s);width:auto;height:auto;background:none;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--hue);font-weight:600;
+  top:1px;opacity:1}
+
+.flag,.star{border-radius:4px;padding:15px 17px;display:flex;flex-direction:column;gap:7px}
+.flag{background:var(--flag-bg);border:1px solid var(--flag-line)}
+.star{background:var(--star-bg);border:1px solid var(--star);border-left-width:4px}
+.flag .lbl,.star .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;font-weight:600}
+.flag .lbl{color:var(--flag)} .star .lbl{color:var(--star)}
+.flag h3,.star h3{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.flag p,.star p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:74ch}
+.flag b,.star b{color:var(--ink)}
+
+.rank{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));margin-top:3px}
+.rk{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:10px 12px;
+  display:flex;flex-direction:column;gap:3px}
+.rk .p{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--star);font-weight:600}
+.rk .t{font-size:13px;font-weight:600;color:var(--ink)}
+.rk .d{font-size:12px;color:var(--ink-3);line-height:1.38}
+
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--ink-3);font-size:12.5px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;font-family:"IBM Plex Mono",monospace}
+@media (max-width:720px){
+  .branch{grid-template-columns:1fr;gap:12px}
+  .stem{position:static;border-left-width:4px}
+  .nodes{padding-left:0;border-left:none}
+}
+</style>
+
+<div class="wrap"><header><div class="eyebrow">Chief Digital Transformation Officer · SC 5.1</div><h1>Metodologías de Ejecución de Transformación Digital</h1><p class="sub">La caja de herramientas para ejecutar: Design Thinking para innovar, Customer Journey y empresa centrada en el cliente, Lean Startup + Customer Development (enamórate del problema), agilidad como cualidad organizacional y TI bimodal. Pepe Tam lo resume así: liderazgo, comunicación, experimentación y gestión del cambio.</p><div class="meta"><span class="chip">Evaluación 40 % · 25 preguntas · 3 intentos</span><span class="chip">Reto 60 % · Plan de transformación digital</span><span class="chip">Experto: José Marcelo “Pepe” Tam Málaga</span></div></header><section class="branch" style="--hue:var(--c1);--bg:var(--c1-bg)"><div class="stem"><div class="n">LECCIÓN 1</div><h2>Design Thinking</h2><p>Innovar con personas e incertidumbre</p></div><div class="nodes"><div class="node"><h3>Qué es</h3><ul><li>Analítico (fiabilidad) + intuitivo (validez)</li><li><b>Deseo · viabilidad · factibilidad</b> → innovación en la experiencia</li><li>Innova porque: <b>centrado en la persona · posibilidades · opciones · iterativo</b></li><li style="color:var(--ink-3)">La idea de fiabilidad y validez es de Roger Martin, no de Tim Brown</li></ul></div><div class="node"><h3>6 pasos (González)</h3><ul class="seq"><li>Empatizar</li><li>Definir</li><li>Idear</li><li>Crear prototipos</li><li>Probar prototipos</li><li><b>Implementar</b></li></ul></div><div class="node"><h3>Experimentar</h3><ul><li>Más experimentos = menos incertidumbre</li><li>Hipótesis inválidas enseñan; las válidas escalan</li><li><b>Design Brief</b> · la idea número 250</li><li>HMW: “¿Qué podríamos crear para [grupo] que les ayude a…?”</li></ul></div></div></section><section class="branch" style="--hue:var(--c2);--bg:var(--c2-bg)"><div class="stem"><div class="n">LECCIÓN 2</div><h2>Customer Journey figital</h2><p>Empresa centrada en el cliente</p></div><div class="nodes"><div class="node"><h3>Centrada en el cliente</h3><ul><li>Welch: aprender del cliente y actuar <b>más rápido</b></li><li>El cliente es un <b>fin</b>, no un medio</li><li>Segmentar solo para el target = <b>centrada en la organización</b></li><li>Métricas: CLV · NPS · conversión · retención · CSAT</li></ul></div><div class="node"><h3>Bliss y madurez</h3><ul><li>5 competencias: clientes como activos · experiencia · escuchar · proactividad · cultura</li><li>Madurez: producto → segmentado → <b>centrado</b> (cognitivo, omnicanal) → co-diseño</li><li>6 competencias de CX (Forrester): comprender, priorizar, diseñar, entregar, medir, cultura</li></ul></div><div class="node"><h3>CJM en 7 pasos</h3><ul><li>Objetivos (target · engagement · activity)</li><li><b>Investigar a los clientes</b> · buyer persona</li><li>Puntos de contacto · abandono · <b>compartir con el equipo</b> · actualizar</li><li>Implicación <b>baja</b> (rutina) contra alta · <b>figital</b></li></ul></div></div></section><section class="branch" style="--hue:var(--c3);--bg:var(--c3-bg)"><div class="stem"><div class="n">LECCIÓN 3</div><h2>Enamórate del problema</h2><p>Lean Startup + Customer Development</p></div><div class="nodes"><div class="node"><h3>Mentalidad centrada en el problema</h3><ul><li>9 consejos · <b>apertura a nuevas perspectivas</b></li><li>Pensamiento sistémico · preguntas críticas</li><li>Lean de Toyota: valor contra desperdicio</li></ul></div><div class="node"><h3>Lean Startup (Ries)</h3><ul><li><b>Crear (MVP) → Medir → Aprender</b></li><li>Spotify · Dropbox · Airbnb</li><li>Pivotar o perseverar</li></ul></div><div class="node"><h3>Customer Development (Blank)</h3><ul class="seq"><li><b>Descubrimiento</b> → problem-solution fit</li><li><b>Validación</b> → product-market fit + VPC</li><li><b>Creación de clientes</b>: demanda</li><li><b>Creación de empresa</b>: organizarse para escalar</li></ul></div></div></section><section class="branch" style="--hue:var(--c4);--bg:var(--c4-bg)"><div class="stem"><div class="n">LECCIÓN 4</div><h2>Transformación ágil</h2><p>Agilidad con “a” minúscula</p></div><div class="nodes"><div class="node"><h3>Qué es</h3><ul><li><b>Percibir, adaptarse y responder</b> a un entorno dinámico</li><li>Balance · coordinación · rapidez · reflejos · fuerza · <b>resistencia</b> (ritmo sostenible)</li><li>5 premisas: sistema adaptativo, quitar restricciones, vive en la complejidad</li></ul></div><div class="node"><h3>Habilitadores y agentes</h3><ul><li>6 habilitadores: <b>liderazgo</b> · diseño · gobierno · personas · flujos de valor · tecnología</li><li>Potenciador no visible: <b>seguridad psicológica</b></li><li>Inhibidor no visible: <b>miedo, command & control</b></li><li>Líder: <b>potenciar las habilidades</b> de cada uno</li></ul></div><div class="node"><h3>Iterar y sus límites</h3><ul><li>MVP → retroalimentación → <b>lanzamientos incrementales</b></li><li>Límites: cultura · regulación · complejidad · herramientas obsoletas</li><li>Caso construcción · agilidad con poco presupuesto</li></ul></div></div></section><section class="branch" style="--hue:var(--c5);--bg:var(--c5-bg)"><div class="stem"><div class="n">LECCIÓN 5</div><h2>Habilidades + TI bimodal</h2><p>Ejecutar con el equipo correcto</p></div><div class="nodes"><div class="node"><h3>4 tipos de habilidades</h3><ul><li><b>Técnicas</b>: datos y analítica, ciberseguridad…</li><li>Adaptabilidad y colaboración</li><li>Estratégicas y de liderazgo</li><li><b>Relaciones</b>: stakeholders · negociación · influencia</li></ul></div><div class="node"><h3>TI bimodal (Gartner 2014)</h3><ul><li><b>Modo 1</b> maratonista/samurái: fiabilidad, cascada</li><li><b>Modo 2</b> velocista/ninja: agilidad, DevOps</li><li>Fases: empezar → escalar → <b>sintetizar</b></li><li>Limitación: <b>brecha cultural</b> · dos equipos</li></ul></div><div class="node"><h3>Dragón digital</h3><ul><li><b>Liderazgo digital · renovar el valor · capacidad bimodal</b></li><li>Caso editoriales: 7 puntos</li><li style="color:var(--ink-3)">Gartner dejó de promover el modelo hacia 2019</li></ul></div></div></section><footer><span>Mapa de estudio · SC 5.1</span><span>Tec de Monterrey · The Learning Gate</span><span>Sept 2026</span></footer></div>

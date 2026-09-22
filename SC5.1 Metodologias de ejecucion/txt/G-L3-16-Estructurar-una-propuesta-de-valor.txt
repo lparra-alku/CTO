@@ -1,0 +1,25 @@
+# L3 · Estructurar una propuesta de valor
+Genially 6585d00afa7c8700156a7492
+
+Estructurar
+una propuesta de valor
+Aquí conocerás una herramienta para crear representaciones visuales de tus próximos proyectos en un contexto de Customer Development.
+Una vez que logras tener claro el problema y la solución, significa que ya sabes para qué y cómo lograrlo, entonces el siguiente paso dentro de la validación de clientes es construir una representación visual de las necesidades de tus clientes con el servicio o producto que le estás ofreciendo. Todo esto con la finalidad de que tengas para ti y para tu equipo de trabajo un mapa más certero del qué y del cómo lo vas a lograr. Para ello, existe una herramienta llamada Value Proposition Canvas que te ayudará a plasmar ese mapa o esquema.
+Value Proposition Canvas
+Creadores de valor
+Productos y servicios
+Actividad(es) del cliente
+Frustraciones
+Analgésicos
+Como podrás observar, el Value Proposition Canvas es esencial en la creación y mejora de productos y servicios, ya que proporciona una herramienta visual para comprender y diseñar propuestas de valor efectivas. Si dividimos nuestro lienzo en segmentos como "actividades del cliente", "frustraciones”, "alegrías”, "productos y servicios", entre otros, podemos analizar de manera estructurada las necesidades del cliente y cómo nuestras ofertas abordan esos requisitos. Esta herramienta facilita la identificación de áreas de mejora y la optimización de propuestas de valor para destacarse en el mercado. Además, el Canvas fomenta la alineación interna al permitir que equipos colaboren y compartan una visión clara y coherente de cómo su producto o servicio satisface las demandas del cliente.
+Gracias por tu respuesta
+¿Cuáles son las estrategias que planeas implementar para integrar de manera efectiva la voz del cliente en las fases iniciales del proceso de desarrollo de tus soluciones digitales?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Alegrías o beneficios que obtienen los clientes.
+Creadores de valor. Son elementos que generan beneficios y ventajas adicionales para los clientes al utilizar un producto o servicio específico. Estas características añaden valor positivo, mejorando la experiencia del cliente y cumpliendo con sus expectativas.
+Actividad(es) del cliente. Aquí debemos enlistar aquellas actividades que realizan nuestros clientes para resolver una determinada situación (puede ser laboral o personal). Deben estar de manera explícita sus problemas, necesidades y motivaciones.
+Productos y servicios. Se refieren a los productos y servicios específicos que una empresa ofrece para satisfacer las necesidades y deseos de sus clientes. Estos elementos constituyen la oferta concreta de la empresa e incluyen características, funcionalidades y beneficios que aportan valor al cliente.
+Analgésicos o aliviadores de frustraciones. Son soluciones que alivian o eliminan los problemas y molestias experimentados por los clientes. Estas propuestas de valor abordan los desafíos y dificultades que enfrentan los clientes, ofreciendo soluciones efectivas y mejorando su experiencia.
+En última instancia, el Value Proposition Canvas se convierte en un catalizador para la innovación y la diferenciación competitiva al enfocarse en proporcionar soluciones que resuelvan problemas y agreguen valor tangible a la vida del cliente.
+Frustraciones o situaciones no deseadas que viven los clientes, tales como: aspectos no deseados relacionados con la posible solución a la tarea o actividad, obstáculos para realizarla y riesgos presentes.

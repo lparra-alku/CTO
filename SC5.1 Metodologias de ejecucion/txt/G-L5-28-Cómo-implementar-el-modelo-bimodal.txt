@@ -1,0 +1,15 @@
+# L5 · Cómo implementar el modelo bimodal
+Genially 659f24363026c40015e84013 → 65a555d9c03130001406f874
+
+¿Cómo implementar el
+modelo bimodal?
+Conoce el caso de una empresa de servicios financieros que decide implementar el modelo de TI bimodal para abordar tanto la estabilidad operativa como la necesidad de innovación rápida en un mercado altamente dinámico.
+CODIGO NO BORRAR
+Modo 1 (TI tradicional):
+En el modo 1, la empresa se enfoca en sus sistemas y procesos centrales que garantizan la estabilidad y eficiencia en las operaciones diarias. Por ejemplo, la gestión de cuentas, procesamiento de transacciones y sistemas de gestión interna seguirían utilizando enfoques tradicionales. Los procesos críticos que requieren altos niveles de seguridad y confiabilidad se mantienen bajo este modo.
+Modo 2 (TI ágil):
+Simultáneamente, en el modo 2, la empresa crea equipos ágiles dedicados a la innovación y desarrollo rápido. Estos equipos trabajan en proyectos específicos para mejorar la experiencia del cliente, desarrollar nuevas aplicaciones móviles o implementar tecnologías emergentes como inteligencia artificial o blockchain. Utilizan metodologías ágiles y enfoques de desarrollo más flexibles para garantizar la entrega rápida de soluciones innovadoras.
+Supongamos que la empresa decide lanzar una aplicación móvil innovadora para mejorar la interacción del cliente con sus servicios financieros. Un equipo ágil en el modo 2 se encargaría del desarrollo de esta aplicación, utilizando metodologías ágiles como Scrum. Trabajarían de manera iterativa y colaborativa, permitiendo actualizaciones frecuentes y ajustes según los comentarios de los usuarios.
+Al mismo tiempo, en el modo 1, se garantizaría la integración segura de la nueva aplicación con los sistemas existentes de la empresa, asegurando la coherencia de los datos y la seguridad de la información financiera.
+Esta implementación del modelo de TI bimodal permite a la empresa aprovechar las ventajas de la innovación rápida mientras mantiene la estabilidad en las operaciones críticas. La coexistencia de ambos modos permite a la empresa adaptarse a las demandas cambiantes del mercado sin comprometer la integridad y la confiabilidad de sus operaciones esenciales.
+Continúa con el estudio de la lección.

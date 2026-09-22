@@ -1,0 +1,61 @@
+# L4 · Pruébate
+Genially 659455ee69ffc70013ff2543
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Manuel a resolver algunas problemáticas.
+Manuel lleva dos años como líder del área de Innovación en una empresa dedicada a elaborar botellas reciclables y necesita hacer algunos ajustes a su estrategia de producción de acuerdo con la metodología ágil y para ello es importante clarificar algunos conceptos fundamentales, ¿puedes ayudarlo? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Dentro de aquellas virtudes que se buscan en la agilidad empresarial, a qué virtud corresponde la siguiente aseveración: Entrega de valor y cambio organizacional a ritmo sostenible.
+Coordinación
+Resistencia
+¡Correcto!
+Además, dentro de lo que se busca en la agilidad empresarial está la capacidad de percibir, adaptarse y responder.
+¡Incorrecto!
+La respuesta correcta es: resistencia. Recuerda que dentro de lo que se busca en la agilidad empresarial está la capacidad de percibir, adaptarse y responder.
+A qué habilitador empresarial corresponde la siguiente definición: Toma de decisiones y alineamiento, así como catalizadores de cambio cultural.
+Liderazgo
+Personas y talento
+Tecnología
+El liderazgo ágil funciona como catalizador de cambio cultural.
+La respuesta correcta es: liderazgo. Recuerda que este habilitador funciona como catalizador de cambio cultural.
+A qué tipo de agente corresponden las siguientes características: cultura de miedo y exposición, poco empoderamiento.
+Potenciador invisible
+Potenciador visible
+Inhibidor invisible
+Los inhibidores invisibles son los más difíciles de atender debido a que es complejo revelar y medir qué tan empoderados están nuestros equipos de trabajo.
+La respuesta correcta es: inhibidor invisible. Este tipo de inhibidor es el más difícil de atender debido a que es complejo revelar y medir qué tan empoderados están nuestros equipos de trabajo.
+Es una de las labores de un líder de equipo para desarrollar proyectos con mentalidad ágil.
+Potenciar las habilidades y características clave en cada uno de los colaboradores
+Contratar al mejor talento posible para dejarlos trabajar de manera autosuficiente
+Mantener al mejor colaborador dentro de un equipo de trabajo
+El mundo es cambiante y debemos aprender a iterar con mentalidad ágil, potenciando las habilidades de cada uno de nuestros colaboradores.
+La respuesta correcta es: Potenciar las habilidades y características clave en cada uno de los colaboradores. Recuerda que el mundo es cambiante y debemos aprender a iterar con mentalidad ágil, potenciando las habilidades de todos los colaboradores.
+Dentro del proceso para iterar con mentalidad ágil, a qué punto corresponde la siguiente actividad: En lugar de esperar a tener una versión "perfecta" de la aplicación, el equipo sigue lanzando versiones graduales con mejoras periódicas.
+Iteración en el desarrollo
+Retroalimentación constante
+Lanzamientos incrementales
+Cada lanzamiento agrega valor y refleja la retroalimentación recibida.
+La respuesta correcta es: lanzamientos incrementales. Recuerda que cada lanzamiento agrega valor y refleja la retroalimentación recibida.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
