@@ -1,0 +1,107 @@
+<title>Mejora Continua</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@500;600;700&display=swap">
+<style>
+:root{
+  --ground:#F6F7F9; --surface:#FFFFFF; --sunken:#EDF0F4;
+  --ink:#151A21; --ink-2:#3D4753; --ink-3:#6B7684; --line:#D9DEE6;
+  --c1:#0E6F7A; --c1-bg:#E1F1F3;
+  --c2:#2B4FC7; --c2-bg:#E5EAFB;
+  --c3:#6A2FB8; --c3-bg:#EFE7FA;
+  --c4:#0B7A52; --c4-bg:#E0F2EA;
+  --c5:#A02A1D; --c5-bg:#FAE6E2;
+  --flag:#8A5A00; --flag-bg:#FBF1DC; --flag-line:#E4C77E;
+  --star:#0B6E64; --star-bg:#E4F1EE;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#5FD0DC; --c1-bg:#0D2A2E;
+  --c2:#8FAEFF; --c2-bg:#131F3D;
+  --c3:#C3A2FF; --c3-bg:#221638;
+  --c4:#5FD6A6; --c4-bg:#0D2B20;
+  --c5:#F5988A; --c5-bg:#311512;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}}
+:root[data-theme="dark"]{
+  --ground:#10141A; --surface:#171D25; --sunken:#1E2530;
+  --ink:#E9EDF3; --ink-2:#B7C0CC; --ink-3:#8290A0; --line:#2C3542;
+  --c1:#5FD0DC; --c1-bg:#0D2A2E;
+  --c2:#8FAEFF; --c2-bg:#131F3D;
+  --c3:#C3A2FF; --c3-bg:#221638;
+  --c4:#5FD6A6; --c4-bg:#0D2B20;
+  --c5:#F5988A; --c5-bg:#311512;
+  --flag:#E6BE72; --flag-bg:#2A2113; --flag-line:#5A4620;
+  --star:#4FD1BE; --star-bg:#0E2B28;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  line-height:1.5;padding:clamp(20px,4vw,52px) clamp(14px,4vw,44px) 72px;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(22px,3vw,34px)}
+
+header{display:flex;flex-direction:column;gap:10px;padding-bottom:20px;border-bottom:2px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:"IBM Plex Serif",Georgia,serif;font-weight:700;margin:0;
+  font-size:clamp(28px,5.2vw,44px);letter-spacing:-.02em;text-wrap:balance;line-height:1.12}
+.sub{color:var(--ink-2);max-width:62ch;font-size:15.5px;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2);
+  background:var(--sunken);border:1px solid var(--line);border-radius:3px;padding:4px 9px}
+
+.branch{display:grid;grid-template-columns:minmax(150px,200px) 1fr;gap:clamp(14px,2.4vw,30px);
+  align-items:start}
+.stem{position:sticky;top:20px;display:flex;flex-direction:column;gap:7px;
+  padding:13px 15px;border-radius:4px;background:var(--bg);border-left:4px solid var(--hue)}
+.stem .n{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.12em;color:var(--hue);font-weight:600}
+.stem h2{font-family:"IBM Plex Serif",Georgia,serif;font-size:18px;font-weight:600;margin:0;
+  line-height:1.24;text-wrap:balance;color:var(--ink)}
+.stem p{margin:0;font-size:12.5px;color:var(--ink-2);line-height:1.42}
+
+.nodes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));
+  padding-left:clamp(12px,1.6vw,20px);border-left:1px dashed var(--line)}
+.node{background:var(--surface);border:1px solid var(--line);border-radius:4px;
+  padding:13px 15px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.node h3{margin:0;font-size:12.5px;font-weight:600;letter-spacing:.01em;color:var(--hue);
+  display:flex;align-items:baseline;gap:7px}
+.node h3 .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--ink-3);
+  letter-spacing:.06em;font-weight:500}
+ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+li{font-size:13.5px;color:var(--ink-2);padding-left:13px;position:relative;line-height:1.42}
+li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:1.5px;background:var(--hue);opacity:.65}
+li b{color:var(--ink);font-weight:600}
+.seq{counter-reset:s;gap:5px}
+.seq li{padding-left:24px}
+.seq li::before{counter-increment:s;content:counter(s);width:auto;height:auto;background:none;
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--hue);font-weight:600;
+  top:1px;opacity:1}
+
+.flag,.star{border-radius:4px;padding:15px 17px;display:flex;flex-direction:column;gap:7px}
+.flag{background:var(--flag-bg);border:1px solid var(--flag-line)}
+.star{background:var(--star-bg);border:1px solid var(--star);border-left-width:4px}
+.flag .lbl,.star .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;font-weight:600}
+.flag .lbl{color:var(--flag)} .star .lbl{color:var(--star)}
+.flag h3,.star h3{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:16px;font-weight:600;color:var(--ink)}
+.flag p,.star p{margin:0;font-size:13.5px;color:var(--ink-2);max-width:74ch}
+.flag b,.star b{color:var(--ink)}
+
+.rank{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));margin-top:3px}
+.rk{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:10px 12px;
+  display:flex;flex-direction:column;gap:3px}
+.rk .p{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--star);font-weight:600}
+.rk .t{font-size:13px;font-weight:600;color:var(--ink)}
+.rk .d{font-size:12px;color:var(--ink-3);line-height:1.38}
+
+footer{border-top:1px solid var(--line);padding-top:16px;color:var(--ink-3);font-size:12.5px;
+  display:flex;flex-wrap:wrap;gap:6px 18px;font-family:"IBM Plex Mono",monospace}
+@media (max-width:720px){
+  .branch{grid-template-columns:1fr;gap:12px}
+  .stem{position:static;border-left-width:4px}
+  .nodes{padding-left:0;border-left:none}
+}
+</style>
+
+<div class="wrap"><header><div class="eyebrow">Chief Digital Transformation Officer · SC 3.4</div><h1>Mejora Continua para la Transformación Digital</h1><p class="sub">El ciclo completo de una iniciativa digital: identificar y priorizar, desarrollar e implementar por etapas, gestionar la resistencia, monitorear con KPI y mejorar sobre los resultados. Una iniciativa digital no es un evento: es un proceso que no termina.</p><div class="meta"><span class="chip">Evaluación 40 % · 25 preguntas · 3 intentos</span><span class="chip">Reto 60 % · Plan de implementación</span><span class="chip">Experto: Falconeris J. Marimón Caneda</span></div></header><section class="branch" style="--hue:var(--c1);--bg:var(--c1-bg)"><div class="stem"><div class="n">LECCIÓN 1</div><h2>Identificar y priorizar</h2><p>Qué iniciativas y en qué orden</p></div><div class="nodes"><div class="node"><h3>3 pasos + priorizar</h3><ul class="seq"><li>Comprender los objetivos estratégicos</li><li><b>Evaluar el entorno</b> empresarial e industrial</li><li>Colaboración interdepartamental</li><li>Priorizar: ROI · impacto · viabilidad</li></ul></div><div class="node"><h3>Marco de 8 elementos</h3><ul><li>Alcance · <b>viabilidad técnica</b> · impacto</li><li><b>ROI = (beneficio − costo) / costo × 100</b></li><li>Riesgos · priorización · ejecución · medición</li><li style="color:var(--ink-3)">El curso lo atribuye a Herbert, pero su modelo es BUILD</li></ul></div><div class="node"><h3>Métodos y herramientas</h3><ul><li><b>Puntuación y clasificación</b> = múltiples criterios</li><li><b>Matriz de valor y riesgo</b> · costo-beneficio</li><li><b>Benchmarking</b> · mapa de empatía · escenarios · tendencias</li><li>Tecnología: escalabilidad · seguridad · integración</li></ul></div></div></section><section class="branch" style="--hue:var(--c2);--bg:var(--c2-bg)"><div class="stem"><div class="n">LECCIÓN 2</div><h2>Desarrollar e implementar</h2><p>Los 5 pasos</p></div><div class="nodes"><div class="node"><h3>5 pasos</h3><ul class="seq"><li><b>Objetivos SMART</b> (equipo multidisciplinario)</li><li><b>Diseño y desarrollo</b>: UI/UX, <b>pruebas de funcionalidad</b></li><li><b>Pruebas rigurosas</b>: carga · seguridad · usabilidad</li><li><b>Validación</b>: comparar con los objetivos iniciales</li><li><b>Implementación gradual</b>: piloto → expansión</li></ul></div><div class="node"><h3>Casos</h3><ul><li><b>EcoLogiTech</b>: rutas de residuos, meta de +25 % en 6 meses</li><li><b>IKEA</b>: “un mejor día a día” · app de AR · pilotos</li><li><b>Inventario IoT/RFID</b>: el Reto resuelto (lectura 6)</li></ul></div><div class="node"><h3>Buenas prácticas</h3><ul><li>Prototipado rápido · elegir metodología (Waterfall, Agile, Scrum, Kanban)</li><li>Código limpio · pruebas unitarias y BDD</li><li>Celebrar éxitos · compartir lo aprendido</li></ul></div></div></section><section class="branch" style="--hue:var(--c3);--bg:var(--c3-bg)"><div class="stem"><div class="n">LECCIÓN 3</div><h2>Gestión del cambio</h2><p>Resistencia y cómo superarla</p></div><div class="nodes"><div class="node"><h3>3 desafíos</h3><ul><li><b>Resistencia cultural y psicológica</b></li><li>Falta de habilidades digitales</li><li>Comunicación ineficaz: el porqué y el cómo</li></ul></div><div class="node"><h3>Manifestaciones</h3><ul><li><b>Negación</b> → negociación por intereses</li><li><b>Miedo</b> (control, seguridad, estatus) → formación</li><li><b>Incomprensión</b> → comunicar y demostrar</li><li>Factores: naturaleza del cambio · comunicación · liderazgo</li></ul></div><div class="node"><h3>Estrategias</h3><ul><li><b>Comunicación bidireccional · participación · liderazgo comprometido</b></li><li>Involucrar desde el inicio · diseñar la experiencia del empleado</li><li>Comunicación persuasiva · formación digital personalizada</li><li style="color:var(--ink-3)">Nunca: despedir o ignorar</li></ul></div></div></section><section class="branch" style="--hue:var(--c4);--bg:var(--c4-bg)"><div class="stem"><div class="n">LECCIÓN 4</div><h2>Monitoreo y evaluación</h2><p>KPI, herramientas, datos</p></div><div class="nodes"><div class="node"><h3>Sistema de monitoreo</h3><ul><li style="color:var(--ink-3)">Gartner: casi la mitad de los CEO sin métricas</li><li>Proactivo: detectar antes de que sea crítico</li><li><b>KPI flexibles</b>: evolucionan con la estrategia</li><li>Metas intermedias · <b>KPI de resultado + de proceso</b></li></ul></div><div class="node"><h3>Categorías de KPI</h3><ul><li><b>Organización</b>: % de ingresos digitales, madurez</li><li><b>Cliente y comercial</b>: adquisición, UX, time-to-market</li><li><b>Innovación</b>: % de ingresos por productos nuevos</li><li>Frecuencia: tiempo real para lo de alto riesgo</li></ul></div><div class="node"><h3>Herramientas y fuentes</h3><ul><li>Tableau · Power BI · Jira · Asana · Hotjar</li><li><b>Internas</b>: operativos, clientes, empleados</li><li><b>Externas</b>: industria, mercado</li><li>Reportar según la audiencia · dashboards</li></ul></div></div></section><section class="branch" style="--hue:var(--c5);--bg:var(--c5-bg)"><div class="stem"><div class="n">LECCIÓN 5</div><h2>Mejora continua e innovación</h2><p>Detectar, idear, iterar</p></div><div class="nodes"><div class="node"><h3>Detectar mejoras</h3><ul><li><b>Análisis de datos</b></li><li><b>Revisión de procesos</b> (10 fases)</li><li><b>Mapeo de procesos</b> → CRM centralizado</li></ul></div><div class="node"><h3>Técnicas colaborativas</h3><ul><li><b>Brainstorming</b>: no juzgar · cantidad · colaboración</li><li><b>Design Thinking</b>: empatía → definir → idear → prototipar → probar</li><li><b>Lean Startup</b>: MVP · construir-medir-aprender</li><li style="color:var(--ink-3)">El curso escribe “Minimum Value Product”: es Viable</li></ul></div><div class="node"><h3>Cultura y agilidad</h3><ul><li><b>Condiciones: liderazgo comprometido · aprendizaje · colaboración</b></li><li>Pilares: liderazgo transformador · comunicación · agilidad</li><li><b>Scrum y Kanban</b>: ciclos cortos, más respuesta</li><li>Colaboración en la nube: Teams, Slack, Workspace</li></ul></div></div></section><footer><span>Mapa de estudio · SC 3.4</span><span>Tec de Monterrey · The Learning Gate</span><span>Sept 2026</span></footer></div>

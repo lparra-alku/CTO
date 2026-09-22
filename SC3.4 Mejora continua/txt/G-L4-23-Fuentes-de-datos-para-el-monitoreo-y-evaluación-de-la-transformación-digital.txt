@@ -1,0 +1,30 @@
+# L4 · Fuentes de datos para el monitoreo y evaluación de la transformación digital
+Genially 659d96657adc7d0014596098
+
+Fuentes de
+datos para el monitoreo y evaluación de la transformación digital
+¿De dónde se obtiene la información para el monitoreo y evaluación de la transformación digital? Conoce las fuentes de datos y las mejores prácticas para identificarlas de manera eficaz.
+Las fuentes de datos utilizadas durante el monitoreo y evaluación del proyecto de transformación digital pueden ser internas o externas. Las fuentes internas incluyen tres tipos de datos:
+Datos operativos. Datos de clientes. Datos de empleados.
+Por su parte, las fuentes externas incluyen tipos de datos como:
+Datos de la industria. Datos del mercado.
+Algunos ejemplos de estas fuentes que proporcionan información vital para un proyecto de transformación digital son:
+Para evaluar el progreso de la implementación. Si se quiere evaluar el impacto del proyecto. Si interesa evaluar la satisfacción de los stakeholders.
+A continuación, se detallan las mejores prácticas para identificar y utilizar fuentes de información de manera eficaz:
+Implementar herramientas de análisis de datos en tiempo real para un monitoreo preciso, tomar decisiones de forma ágil y permitir la corrección inmediata de desviaciones. Monitorear indicadores de redes sociales y comentarios en línea, ya que ofrecen una ventana directa a las opiniones del cliente, revelando tendencias emergentes o problemas no detectados.
+Incorporar datos externos de la industria para obtener perspectivas comparativas y contextualizar el rendimiento de la organización en el entorno empresarial más amplio. Analizar el rendimiento de la competencia sobre áreas de oportunidad y buenas prácticas, lo cual ayuda a mejorar las estrategias de transformación digital. Utilizar datos de experiencia del usuario (UX) para evaluar la eficacia de las plataformas digitales, en términos de facilidad de uso y satisfacción del usuario.
+Realizar auditorías y revisiones externas periódicas por parte de expertos independientes, ya que aportarán una perspectiva imparcial y objetiva. Evaluar el impacto financiero de las iniciativas digitales a través de indicadores como el retorno de la inversión (ROI) y el crecimiento de ingresos. Desarrollar paneles de control o dashboards que faciliten la integración de datos de diversas fuentes en un solo lugar.
+Gracias por tu respuesta
+¿Cuáles son las fuentes internas y externas de datos de tu empresa u organización?, ¿qué buenas prácticas se podrían implementar en ella?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Conviene retomar datos de ventas, de la satisfacción de los clientes y de la productividad alcanzada gracias a la transformación digital.
+Se refiere a aquellos datos sobre la demanda de productos y servicios.
+Son aquellos que informan sobre el rendimiento de los procesos y las operaciones.
+Se recomienda obtener datos de sistemas de gestión de proyectos, de encuestas a los empleados o de reuniones con stakeholders.
+Estas herramientas permiten una visualización completa y, por consiguiente, un monitoreo eficiente del rendimiento de la transformación digital.
+Son datos sobre las tendencias de la industria y el desempeño de los principales competidores.
+Se refiere a datos sobre la satisfacción de los colaboradores y su productividad.
+Como informes de mercado y análisis de tendencias tecnológicas.
+Son datos sobre la satisfacción de los clientes y el uso dado a los productos y servicios ofertados.
+Se pueden realizar encuestas y entrevistas a los distintos stakeholders o actores involucrados.

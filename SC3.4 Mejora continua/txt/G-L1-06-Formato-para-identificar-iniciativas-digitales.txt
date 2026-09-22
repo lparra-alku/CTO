@@ -1,0 +1,51 @@
+# L1 · Formato para identificar iniciativas digitales
+Genially 65662ab2235be2001551b5d0
+
+Formato para
+identificar iniciativas digitales
+Si bien no existe un formato específico, único y universal para desarrollar el marco de trabajo revisado anteriormente, te presentamos una propuesta de estructura general que puede ajustarse a tus necesidades.
+La estructura del siguiente formato varía según las necesidades y la cultura empresarial de cada organización, así que cabe la posibilidad de adaptarla y personalizarla:
+1. Portada y título del proyecto.
+Es la primera impresión que da vida a tu iniciativa digital. Debe señalar el nombre del proyecto, la fecha de referencia y el equipo o departamento responsable de su implementación. Veamos el siguiente ejemplo.
+2. Resumen ejecutivo.
+Es una breve descripción de la iniciativa, sus objetivos estratégicos, las razones fundamentales que respaldan su ejecución y los beneficios esperados. Ejemplo:
+3. Alcance de la iniciativa digital.
+Es una descripción detallada de los aspectos específicos del negocio o procesos que se verán impactados por el proyecto. Busca establecer con claridad los límites del proyecto y se presenta en forma de diagrama de flujo o esquema, para visualizar los componentes y fronteras de la iniciativa. Ejemplo:
+4. Viabilidad técnica.
+Implica la evaluación de la tecnología necesaria, la identificación de obstáculos y soluciones, así como la determinación de los recursos tecnológicos necesarios para la iniciativa.
+5. Impacto en objetivos estratégicos.
+Detalla cómo la iniciativa contribuye con el logro de los objetivos y se establecen métricas para medir su impacto. Por ejemplo, crecimiento de ingresos, eficiencia operativa, satisfacción al cliente, retención de clientes, etc.
+6. Análisis del ROI.
+Implica el cálculo del retorno de la inversión, se detallan los costos de implementación y operación, se establecen proyecciones financieras y los plazos para alcanzar el ROI esperado.
+7. Evaluación de riesgos.
+Se identifican y detallan los riesgos de la iniciativa, las estrategias para mitigarlos y los responsables para gestionarlos eficazmente, asegurando el éxito de la iniciativa.
+8. Priorización y selección.
+Es el resultado de seleccionar un método para calificar las iniciativas, tiene forma de una lista ordenada y fundamentada de iniciativas digitales. Este proceso se basa en razones específicas que respaldan la selección de las iniciativas en un orden particular. Ejemplo:
+9. Planificación y ejecución.
+Se define un cronograma para el proyecto, asignando los recursos humanos y financieros necesarios, así como los responsables y encargados de supervisar cada etapa.
+10. Medición y aprendizaje continuo.
+Se determina la frecuencia de las evaluaciones y revisiones del desempeño de la iniciativa, también se desarrollan procedimientos para ajustar la estrategia según se requiera, permitiendo un ciclo de mejora y adaptación continuas.
+Gracias por tu respuesta
+¿Qué elemento del formato presentado te parece más conveniente de llevar cabo?, ¿por qué? ¿Qué elemento presentará mayores dificultades?, ¿por qué?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Es el título de
+la lectura que es corto
+ESTA DESCRIPCIÓN DEBE TENER 35 PALABRAS MÁXIMO ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris .
+Riesgos: Problemas de compatibilidad con navegadores web antiguos y resistencia al cambio.
+Estrategias de mitigación: Garantizar que la nueva interfaz sea compatible con los navegadores más comunes, proporcionar capacitación y comunicación efectiva.
+Consectetur adipiscing elit
+La tecnología necesaria incluye herramientas de diseño web, servidores de alto rendimiento y software de chatbot . Se debe considerar la posible resistencia de los sistemas heredados a las actualizaciones necesarias y la necesidad de capacitar al personal en el uso de nuevas herramientas.
+Se busca mejorar la experiencia del cliente en el sitio web y las aplicaciones móviles .
+También aumentar la retención de clientes en un 15 % durante el próximo año.
+Ya que la satisfacción del cliente ha disminuido y se han identificado áreas de mejora en su experiencia online .
+Se medirá la satisfacción del cliente, la retención de clientes y el aumento de los ingresos en línea. Se realizarán revisiones mensuales del progreso. Se realizarán ajustes en función de los datos de satisfacción del cliente y los resultados financieros.
+Se espera que el proyecto genere un aumento del 10 % en los ingresos en el primer año.
+La inversión estimada es de $500,000 en desarrollo y $50,000 en capacitación y recursos humanos.
+Se espera que se alcance el ROI en 18 meses.
+El proyecto se llevará a cabo durante 12 meses, incluye el diseño, desarrollo e implementación. Se asignará un equipo de 10 personas, incluidos diseñadores, desarrolladores y personal de soporte. El director de Transformación Digital supervisará el proyecto.
+Descripción: La iniciativa incluye revisar y mejorar la interfaz de usuario, optimizar la velocidad del sitio web, introducir un chatbot de atención al cliente y personalizar la experiencia del usuario. Alcance: Todas las páginas del sitio web y las aplicaciones móviles.
+Nombre del proyecto: "Mejora de la Experiencia del Cliente en Línea". Fecha: 1 de octubre de 2023. Equipo a cargo: Departamento de Transformación Digital de EjemploTech.
+Método: Matriz de valor y riesgo
+En relación con ello se priorizaron las siguientes iniciativas:
+Para lograr el aumento de retención de clientes en un 15 %. Se espera que la iniciativa mejore la satisfacción del cliente, lo que se podrá traducir en una mayor retención.

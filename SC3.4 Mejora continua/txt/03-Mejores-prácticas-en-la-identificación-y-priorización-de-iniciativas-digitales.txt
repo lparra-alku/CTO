@@ -1,0 +1,184 @@
+
+--- p1 ---
+Las mejores prácticas en la identificación y priorización de iniciativas 
+digitales consideran aspectos relacionados con la cultura empresarial, 
+ya que el éxito de las iniciativas digitales depende de este aspecto.
+priorización de iniciativas 
+digitales 
+Mejores prácticas en 
+la identificación y 
+
+--- p2 ---
+Es momento de presentar las mejores prácticas al 
+momento de identificar y priorizar iniciativas digitales:
+La visión establece la dirección estratégica, mientras que la cultura define cómo 
+se hacen las cosas. Las iniciativas digitales deben alinearse con ambas para 
+asegurar la adopción y el éxito a largo plazo. También para consolidar esta 
+buena práctica se debe evaluar si la organización tiene las capacidades 
+necesarias para llevar a cabo la visión estratégica. Si no es así, puede ser 
+necesario desarrollar nuevas habilidades o adquirir talento especializado.
+Por otra parte, la comprensión de la visión y estrategia no es un proceso 
+estático, se debe recopilar la retroalimentación de toda la organización y 
+realizar ajustes en la estrategia en caso de ser necesario. Esto permite adaptarse 
+a cambios en el entorno empresarial o en las necesidades del mercado.
+1. Comprender la visión y la cultura organizacional
+Las ideas innovadoras pueden surgir de cualquier nivel y departamento, por lo 
+que se debe fomentar la participación y la colaboración en la identificación de 
+oportunidades digitales desde todas las perspectivas.
+Esto plantea una cultura de la innovación, la cual implica promover la 
+mentalidad de que la innovación no es responsabilidad exclusiva de un 
+departamento o equipo, sino de todos en la organización. Por lo cual, además 
+de promover la innovación en todos los niveles organizacionales, es necesario 
+que toda innovación sea valorada y recompensada.
+2. Fomentar la innovación en todos los niveles
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Cuando los miembros del equipo se 
+sienten capacitados para aportar 
+ideas innovadoras, la organización se 
+posiciona de manera más sólida para 
+afrontar los retos de la 
+transformación digital y aprovechar 
+plenamente las oportunidades que 
+esta conlleva. Revisaremos esta 
+práctica en la siguiente lección.
+Cada iniciativa digital debe estar 
+respaldada por objetivos claros y 
+medibles, ya que proporcionan un 
+marco para evaluar el éxito y 
+garantizan que la iniciativa esté 
+alineada con los resultados 
+comerciales deseados. Revisaremos 
+esta práctica en la siguiente lección.
+3. Definir objetivos medibles
+Un enfoque central para la 
+identificación de iniciativas digitales 
+es el mapa de la experiencia del 
+cliente que implica visualizar y 
+comprender cada punto de contacto
+que un cliente tiene con la 
+organización. Esta práctica 
+también sirve para el desarrollo e 
+implementación de soluciones 
+digitales. Al identificar los puntos 
+de fricción y las oportunidades de 
+mejora es posible inspirar 
+iniciativas digitales que mejoren la 
+experiencia del cliente.
+4. Mapa de la experiencia del 
+cliente
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Evaluar iniciativas digitales es 
+fundamental, sobre todo si del 
+impacto potencial y la viabilidad de 
+implementación se trata. También es 
+necesario realizar análisis de 
+costo-beneficio. Te invitamos a 
+revisar la siguiente lección para saber 
+más al respecto.
+La medición continua del 
+rendimiento es crucial porque 
+permite evaluar la efectividad de las 
+iniciativas digitales implementadas y 
+ajustarlas según sea necesario, para 
+asegurar que estén alineadas con los 
+objetivos estratégicos y puedan 
+generar el valor esperado en el 
+proceso de transformación digital.
+Para ello, se deben utilizar métricas 
+para evaluar el impacto de las 
+iniciativas digitales y ajustarlas según 
+sea necesario. Por ejemplo, en una 
+iniciativa de mejora de la experiencia 
+del cliente en línea, podríamos medir 
+la tasa de conversión de visitantes a 
+compradores y realizar mejoras en el 
+diseño del sitio web o en el proceso 
+de compra en función de los datos 
+recopilados. Por lo tanto, el 
+aprendizaje constante y la adaptación 
+son elementos clave para el éxito de 
+la transformación 
+digital a largo 
+plazo.
+8. Medición y aprendizaje
+5. Evaluación de impacto y 
+viabilidad
+La colaboración entre departamentos 
+es esencial en la identificación y 
+priorización de iniciativas digitales 
+porque las sinergias pueden surgir 
+cuando diferentes equipos comparten 
+conocimientos y recursos para lograr 
+objetivos comunes.
+6. Colaboración 
+interdepartamental
+La implementación de pilotos y 
+experimentos para probar nuevas 
+iniciativas digitales antes de un 
+lanzamiento a gran escala es 
+fundamental porque de esta manera
+las organizaciones aprenden de 
+manera rápida y logran ajustar su 
+estrategia si lo consideran necesario. 
+Esto también es útil para el 
+desarrollo e implementación de 
+soluciones digitales.
+7. Pilotos y experimentación
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+En ese sentido, la cultura organizacional debe abrazar la mejora continua, ya 
+que las iniciativas digitales no son eventos únicos, sino un proceso constante de 
+evolución y adaptación. Un dato ilustrativo de la importancia de la cultura de 
+mejora continua es que, según Smaje y Zemmel (2022), las empresas que han 
+tenido éxito en su transformación digital consideran que la cultura de 
+innovación y mejora continua es uno de los factores clave de su éxito.
+9. Cultura de mejora continua
+Finalmente, una estrategia efectiva para la identificación de iniciativas digitales 
+innovadoras es establecer colaboraciones con start-ups y participar en 
+ecosistemas externos. Los start-ups suelen estar a la vanguardia de la 
+innovación tecnológica y pueden aportar nuevas ideas y enfoques a tu 
+organización.
+10. Colaboración con start-ups y ecosistemas externos
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Por ejemplo, una compañía automotriz tradicional busca impulsar la movilidad 
+eléctrica como parte de su estrategia de transformación digital. Para identificar 
+iniciativas digitales innovadoras, la empresa decide establecer colaboraciones 
+con start-ups de movilidad eléctrica y unirse a un ecosistema externo de 
+innovación en vehículos eléctricos. A través de estas colaboraciones, la empresa 
+adquiere acceso a tecnologías avanzadas de baterías y sistemas de carga 
+desarrolladas por las start-ups. Además, participa en eventos y conferencias 
+dentro del ecosistema de movilidad eléctrica, donde se conecta con expertos y 
+líderes de la industria.
+Como resultado, la empresa puede aprovechar la experiencia de las start-ups 
+para desarrollar vehículos eléctricos de próxima generación con mayor 
+autonomía y tiempos de carga más rápidos. También se beneficia de la red de 
+contactos en el ecosistema externo para establecer alianzas estratégicas con 
+empresas de infraestructura de carga. Esto acelera su transición hacia la 
+movilidad eléctrica y la coloca en una posición competitiva en el mercado de 
+vehículos eléctricos.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones
+En tu organización o empresa, ¿han realizado alguna de 
+estas prácticas al momento de identificar y priorizar 
+iniciativas digitales?, ¿cuáles prácticas consideran que es 
+posible incorporar a corto, mediano y largo plazo en tu 
+empresa u organización?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

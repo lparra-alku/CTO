@@ -1,0 +1,295 @@
+
+--- p1 ---
+Para realizar la detección de oportunidades de mejora e innovación, te 
+sugerimos tres herramientas clave, tales como el análisis de datos, la 
+revisión y el mapeo de procesos.
+Herramientas para la 
+detección de 
+oportunidades de mejora
+
+--- p2 ---
+Recordemos que el análisis de datos ayuda a 
+identificar tendencias y patrones que indican 
+oportunidades de mejora. Por ejemplo, una empresa de venta de 
+productos electrónicos quiere mejorar su satisfacción de clientes. Para 
+ello, decide realizar un análisis de datos de sus encuestas de satisfacción. 
+En el análisis, se encuentran los siguientes datos:
+El 20 % de los clientes están insatisfechos con el tiempo de entrega de los 
+productos.
+El 15 % de los clientes están insatisfechos con la calidad del servicio al 
+cliente.
+Estos datos indican que la empresa tiene dos áreas de oportunidad para 
+mejorar la satisfacción de sus clientes: el tiempo de entrega de los productos y 
+la calidad del servicio.
+Con esta información, la empresa puede tomar medidas para mejorar estas 
+áreas. Por ejemplo, puede establecer plazos de entrega más estrictos para los 
+productos o contratar más personal para el área o departamento de Servicio al 
+Cliente.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+El análisis de datos también puede 
+utilizarse para detectar puntos de 
+mejora en otros ámbitos, como la 
+eficiencia de procesos. Por 
+ejemplo, una empresa puede analizar 
+los datos de sus procesos de 
+fabricación para identificar 
+oportunidades de mejora. Si se 
+identifican pasos ineficientes o 
+innecesarios, se pueden tomar 
+medidas correctivas como: 
+reorganizar el flujo de trabajo, 
+eliminar pasos redundantes o 
+introducir tecnologías más eficientes. 
+Este enfoque basado en datos 
+permite tomar decisiones 
+informadas, optimizar la eficiencia 
+de los procesos y, con ello, mejorar la 
+productividad de la organización.
+También el análisis de datos puede 
+utilizarse para identificar áreas 
+donde se puedan reducir los 
+costos. Por ejemplo, una empresa 
+analiza los datos de sus gastos para 
+identificar oportunidades de ahorro 
+y, con ello, revelar áreas donde los 
+costos son desproporcionadamente 
+altos, por lo que decide implementar 
+estrategias para reducir gastos. Esto 
+incluye renegociar contratos con 
+proveedores, identificar ineficiencias 
+en la cadena de suministro o buscar 
+alternativas más rentables.
+Por último, se pueden identificar 
+áreas en las que mejorar la calidad 
+de los productos o servicios. Por 
+ejemplo, una empresa analiza los 
+datos de sus devoluciones para 
+identificar oportunidades de mejora 
+al analizar tasas de devolución, lo 
+cual revela patrones específicos en 
+defectos recurrentes o problemas de 
+fabricación en determinados 
+productos.
+0
+10
+20
+30
+40
+50
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Por su parte, la revisión de procesos también puede ayudar a las 
+organizaciones a identificar los pasos ineficientes o innecesarios, así como las 
+áreas de oportunidad para mejorar la eficiencia, la eficacia y la productividad.
+Esta herramienta se conforma de los siguientes pasos o fases:
+Definición de
+objetivos
+Identificación de
+procesos a revisar
+Recopilación de
+datos
+Análisis del
+flujo de trabajo
+Evaluación de
+eficiencia y eficacia
+Identificación de
+áreas de oportunidad
+Desarrollo de 
+propuestas de mejora
+Priorización de
+acciones
+Implementación
+y monitoreo
+continuo
+Recopilación de
+retroalimentación
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Por ejemplo, una empresa de 
+fabricación realizó una revisión de su 
+proceso de producción. La revisión le  
+permitió identificar que su proceso 
+actual es demasiado complejo y que 
+hay pasos que podrían eliminarse o 
+simplificarse. La empresa podría 
+entonces implementar los cambios 
+recomendados y, como resultado, 
+mejorar la eficiencia de su proceso de 
+producción.
+Ahora bien, recordemos que el 
+mapeo de procesos es una 
+representación visual que ayuda a las 
+organizaciones a visualizar los 
+procesos y sus distintos pasos o fases 
+constitutivas, lo cual permite 
+identificar oportunidades de mejora.
+Consideremos el caso de una 
+empresa que ofrece servicios de 
+atención al cliente y está 
+considerando la adopción de 
+tecnologías digitales para mejorar la 
+calidad del servicio al cliente. Una de 
+las primeras cosas es realizar un 
+mapeo de procesos de su servicio al 
+cliente actual. Esto le permitirá 
+visualizar los pasos involucrados en 
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+el proceso y comprender dónde se pueden realizar mejoras. El mapeo de 
+procesos puede revelar una serie de puntos de mejora potenciales. Por ejemplo, 
+realizaron su mapeo de procesos de la siguiente manera:
+Paso 1. Identificar las actividades del proceso de atención al cliente:
+Recepción de la solicitud del cliente.
+Verificación de la información proporcionada por el cliente.
+Enrutamiento a los departamentos correspondientes.
+Resolución del problema.
+Seguimiento de la satisfacción del cliente.
+Paso 2. Representar visualmente la secuencia del proceso mediante un 
+diagrama de flujo:
+01
+02
+03
+04
+05
+Verificación de la 
+información 
+proporcionada por 
+el cliente
+Verificación
+información
+Recepción 
+solicitud
+Recepción de la 
+solicitud del 
+cliente
+Recepción
+Información
+correcta
+Ruta
+establecida
+Problema
+resuelto
+Resolución del 
+problema
+Resolución
+Problema
+Seguimiento de la 
+satisfacción del 
+cliente
+Seguimiento
+satisfacción
+Enrutamiento a los 
+departamentos 
+correspondientes
+Enrutamiento
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Paso 3. Identificar los problemas por atender, teniendo en cuenta las 
+siguientes observaciones: 
+Se identifican múltiples departamentos involucrados.
+Se detecta la repetición de información proporcionada por el cliente.
+Se nota que el tiempo de resolución es extenso.
+Paso 4. Proponer acciones correctivas y de mejora:
+Consolidar departamentos para simplificar la ruta del cliente.
+Implementar un sistema centralizado de información del cliente.
+Introducir medidas para acelerar la resolución de problemas.
+Por lo tanto, el mapeo muestra cuando un proceso es demasiado complejo 
+porque comprende pasos que no son necesarios, o bien, apunta a que el 
+proceso es ineficiente, por lo que no está alineado con las necesidades de los 
+clientes.
+01
+02
+03
+01
+02
+03
+CRM
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+Siguiendo el ejemplo de la empresa 
+de servicios, el mapeo de procesos 
+reveló los siguientes puntos de 
+mejora:
+El proceso de atención al cliente es 
+demasiado complejo, ya que el 
+cliente debe pasar por varios 
+departamentos diferentes para 
+resolver su problema.
+Hay pasos innecesarios en el 
+proceso. Esto se traduce en que el 
+cliente debe proporcionar la 
+misma información varias veces.
+El proceso es ineficiente, 
+debido a que el cliente tiene que 
+esperar mucho tiempo para que su 
+problema sea resuelto.
+Estos puntos de mejora pueden 
+abordarse mediante la 
+transformación digital. Por ejemplo, 
+la empresa podría utilizar un 
+software de gestión de clientes para 
+simplificar el proceso y eliminar los 
+pasos innecesarios.
+También se podrían utilizar 
+herramientas de análisis de datos 
+para identificar patrones y tendencias 
+que le permitan mejorar la eficiencia 
+del proceso.
+Y gracias al mapeo de procesos se 
+pueden eliminar los pasos 
+innecesarios. De esta manera, se 
+muestra su utilidad en la 
+identificación de oportunidades de 
+mejora en los procesos y operaciones 
+de una empresa.
+En el contexto de la transformación 
+digital, esta herramienta puede 
+ayudar a las organizaciones a 
+aprovechar de forma estratégica a las 
+nuevas tecnologías para mejorar su 
+eficiencia, eficacia y productividad.
+Otros ejemplos de la utilidad del 
+mapeo de procesos en la detección 
+de puntos de mejora que ameritan 
+procesos de transformación digital 
+son los siguientes:
+El mapeo de procesos puede ayudar 
+a las organizaciones a identificar 
+oportunidades de mejora en sus 
+procesos de producción, como la 
+reducción de los residuos o el 
+aumento de la eficiencia. También 
+puede ayudar a las organizaciones a 
+identificar oportunidades de mejora 
+en sus procesos logísticos, como 
+la reducción de los costos de 
+transporte o la optimización del 
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p9 ---
+¿Qué técnica o herramienta es posible adoptar en tu empresa u 
+organización?, ¿qué implicaciones traería consigo? 
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+tiempo de entrega. En última instancia, también puede ayudar a identificar 
+oportunidades de mejora en sus procesos financieros, como la optimización 
+de gastos, el aumento de la precisión de presupuestos o demás operaciones 
+financieras.
+$
+9
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

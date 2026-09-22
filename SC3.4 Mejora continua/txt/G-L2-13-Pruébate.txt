@@ -1,0 +1,61 @@
+# L2 · Pruébate
+Genially 65697aec74104b001469ae34
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Esteban a resolver algunas problemáticas.
+Esteban trabaja en una empresa de logística y le han pedido mejorar le eficiencia en la gestión de rutas de entrega mediante una solución. Al pedir ayuda, le han orientado sobre el proceso de desarrollo e implementación de soluciones digitales mediante los cinco pasos que propone Lindsay Herbert (2017). Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Cuál es la actividad principal que Esteban debe realizar durante la "Definición de objetivos claros" de la solución digital?
+Desarrollar la interfaz de usuario
+Establecer objetivos específicos
+Realizar pruebas de funcionalidad
+¡Correcto!
+La actividad principal del primer paso es establecer objetivos específicos para la solución digital. Esto implica definir objetivos claros, medibles y con límites de tiempo (objetivos SMART) que proporcionen una dirección clara.
+¡Incorrecto!
+La respuesta correcta es: Establecer objetivos específicos. Recuerda que la actividad principal del primer paso es establecer objetivos SMART que proporcionen una dirección clara a la solución digital.
+¿Cuál de las siguientes actividades debe realizar Esteban para el diseño y desarrollo de la solución digital?
+Reunión de un equipo multidisciplinario
+Identificación de objetivos específicos
+Pruebas de funcionalidad
+Durante el Diseño y desarrollo de la solución, las pruebas de funcionalidad son esenciales para garantizar que la solución funcionará sin errores.
+La respuesta correcta es: Pruebas de funcionalidad. Esteban debe realizar pruebas de funcionalidad en el diseño y desarrollo de la solución digital.
+¿Cuáles son los tipos de pruebas rigurosas que Esteban puede realizar para su solución digital?
+Pruebas de rendimiento y carga, de seguridad, y de usabilidad
+Pruebas de rendimiento y carga, de seguridad, y de velocidad
+Pruebas de usabilidad, de seguridad, y de diseño
+Las pruebas de rendimiento y carga, pruebas de seguridad y pruebas de usabilidad son los tres tipos de pruebas rigurosas comúnmente realizadas en el desarrollo de soluciones digitales.
+La respuesta correcta es: Pruebas de rendimiento y carga, de seguridad, y de usabilidad. Las pruebas rigurosas son la de rendimiento y carga, la de seguridad y la de usabilidad.
+Esteban tiene dudas sobre realizar el cuarto paso, ¿qué le dirías sobre cuál es la importancia de la Validación de Resultados?
+Que permite ignorar cualquier desviación y continuar con la implementación
+Que asegura una implementación rápida sin importar los resultados
+Que ayuda a cumplir con los requisitos iniciales establecidos
+La validación de resultados asegura que la solución digital cumpla con los requisitos iniciales, garantizando su eficacia.
+La respuesta correcta es: Que ayuda a cumplir con los requisitos iniciales establecidos. Recuerda que la validación de los resultados permite asegurar que la solución digital cumple con los requisitos iniciales y garantiza su eficacia.
+Por último, Esteban no tiene claro en qué consiste el quinto paso, ¿qué le dirías sobre el significado de la “implementación gradual”?
+Que significa postergar indefinidamente la implementación de la solución digital
+Que significa lanzar la solución digital simultáneamente en todas las áreas de la empresa
+Que significa introducir la solución de manera progresiva y controlada a través de fases planificadas
+La implementación gradual implica introducir la solución de manera controlada, en fases planificadas, para minimizar riesgos y permitir ajustes.
+La respuesta correcta es: Que significa introducir la solución de manera progresiva y controlada a través de fases planificadas. Recuerda que la implementación gradual significa introducir la solución de manera controlada, en fases planificadas, para minimizar riesgos y permitir ajustes.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

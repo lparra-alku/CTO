@@ -1,0 +1,168 @@
+﻿Reto | Plan de implementación de la transformación digital
+
+
+
+Entregable final del reto
+Documento editable por el participante
+
+
+
+Nombre del participante:
+
+Indicaciones:  
+Genera una copia de este documento y edítala con tu nombre de la siguiente manera: tunombre_Reto_SC3.4
+
+Al finalizar el reto, conviértelo en archivo PDF y súbelo como evidencia presionando el botón “Añadir publicación”.
+
+El archivo entregable será evaluado con base en el cumplimiento de los requerimientos y a su contenido.
+
+
+
+Instrucciones:
+En este reto, desarrollaras un plan de implementación de la transformación digital para tu empresa, con el objetivo de gestionar la implementación de estrategias de cambio a través de la aplicación de iniciativas digitales que propicien el crecimiento de tu empresa. El reto está diseñado para que apliques los pasos generales de una transformación digital efectiva y sostenible.
+
+La evidencia de aprendizaje consistirá en entregar el documento que contenga el plan de implementación de la transformación digital, el cual incluya la identificación y priorización de la iniciativa digital, el desarrollo e implementación de la solución, la gestión del cambio, el monitoreo y evaluación de una solución digital actual y la propuesta de mejoras y oportunidades de innovación de esta última.
+
+A continuación, se describen cada uno de los pasos que conforman al reto:
+
+
+PASO 1. Identificación y priorización de iniciativas digitales
+Mediante una investigación exhaustiva y análisis de iniciativas digitales existentes en áreas clave de tu organización, identificarás los procesos empresariales que pueden ser optimizados.
+Debes centrarte en al menos dos iniciativas digitales que tengan un alto impacto en la transformación digital de tu empresa, priorizando áreas de intervención y su contribución a la visión y estrategia de tu organización.
+Las actividades por realizar son los siguientes: 
+Investiga y analiza los procesos actuales de la empresa para identificar áreas que podrían beneficiarse de la transformación digital. Deberás utilizar datos y métricas relevantes que sirvan de justificación para seleccionar la iniciativa digital.
+Prioriza al menos dos iniciativas digitales basadas en su impacto potencial en la visión y estrategia de la empresa. Te sugerimos utilizar el siguiente formato:
+
+Tabla 1. Priorización de iniciativas digitales.
+#
+Iniciativa Digital
+Justificación
+Prioridad (Alta/Media/Baja)
+1
+Nombre de la iniciativa
+Razones para elegir
+Prioridad asignada
+2
+Nombre de la iniciativa
+Razones para elegir
+Prioridad asignada
+3
+
+
+
+
+Finalmente, selecciona la iniciativa que tenga mayor impacto para realizar una mejora continua en los procesos u operaciones de tu empresa u organización. Señálalo a continuación:
+
+
+
+
+PASO 2. Desarrollo e implementación de la solución digital
+Una vez identificada la iniciativa digital, es hora de darle forma. Para ello deberás describir en qué consiste la iniciativa digital, señalar los recursos necesarios, los posibles desafíos técnicos, organizacionales, culturales, entre otros, para su implementación.
+También elaborarás un cronograma con hitos clave y actividades específicas para cada fase. Este paso sienta las bases para el diseño y ejecución de las soluciones digitales.
+Las actividades por realizar son los siguientes: 
+Especifica los recursos necesarios para el desarrollo de la solución digital descrita.
+Señala los posibles obstáculos o desafíos anticipados para implementar la iniciativa digital seleccionada y descrita anteriormente. Te sugerimos utilizar el siguiente formato (Tabla 2).
+
+Tabla 2. Diseño y desarrollo de la solución digital
+Iniciativa digital
+Descripción de la iniciativa digital
+Recursos necesarios
+Desafíos anticipados
+Nombre de la iniciativa
+La iniciativa consiste en…
+Lista de recursos
+Desafíos previstos
+
+Elabora un cronograma de alto nivel que incluya hitos claves y actividades para cada fase. Debes incorporarlo en la siguiente página. Te sugerimos consultar el Anexo 1.
+
+
+-19050139700 
+0
+
+
+PASO 3. Gestión del cambio y superación de la resistencia
+En este paso, te sumergirás en el desarrollo de un plan de comunicación estratégico, en el cual abordes, de manera proactiva, las posibles resistencias mediante estrategias para su superación, asegurando una transición suave hacia la adopción de la iniciativa digital.
+Las actividades por realizar son los siguientes: 
+Identifica a los stakeholders claves y señala las posibles resistencias que puede presentar esa parte involucrada.
+Aborda las posibles resistencias identificadas, proponiendo estrategias para su superación. Te sugerimos utilizar el siguiente formato (Tabla 3).
+
+Tabla 3. Gestión del cambio
+Stakeholder
+Resistencias identificadas
+Estrategias para superarlas
+Nombre del stakeholder
+Tipos de resistencia
+Descripción
+Estrategias propuestas
+Nombre del stakeholder
+Tipos de resistencia
+Descripción
+Estrategias propuestas
+
+
+
+
+
+
+
+
+
+Desarrolla brevemente un plan estratégico de comunicación para presentar la iniciativa digital, incorporando las distintas estrategias para la superación de resistencias.
+
+
+
+
+PASO 4. Monitoreo y evaluación de la transformación digital
+La implementación no es el final, sino el comienzo de un proceso continuo. En este punto deberás establecer un sistema de monitoreo eficaz, que permita medir el progreso y el impacto de la iniciativa digital propuesta. Para ello, utilizarás Indicadores Clave de Rendimiento (KPI) para evaluar la eficacia a lo largo del tiempo.
+Las actividades por realizar son los siguientes: 
+Establece al menos dos Indicadores Clave de Rendimiento (KPI), en donde nombres el indicador y describas en qué consiste dicho KPI.
+Define las herramientas tecnológicas para medir el progreso y el impacto de la iniciativa digital a partir de los KPI establecidos.
+Desarrolla un plan para evaluar la eficacia a lo largo del tiempo que incluya lo solicitado anteriormente, así como la frecuencia o periodicidad de la evaluación. Te sugerimos utilizar el siguiente formato (Tabla 4).
+
+Tabla 4. Planeación del sistema eficaz de monitoreo
+#
+Indicador Clave de Rendimiento
+Definición del KPI
+Herramienta de monitoreo
+Frecuencia de evaluación
+1
+Nombre del KPI
+
+Descripción de la herramienta 
+Frecuencia de evaluación
+2
+Nombre del KPI
+
+Descripción de la herramienta 
+Frecuencia de evaluación
+
+
+
+
+
+
+
+PASO 5. Mejora continua e innovación: Hacia el futuro digital
+Por último, deberás analizar las áreas de éxito y oportunidades de mejora de una solución digital existente en tu empresa, con un enfoque orientado hacia la mejora continua y la innovación. Debes asegurarte de que tu empresa está preparada para realizar la mejora o incorporar la innovación que propongas, ante un entorno empresarial en constante evolución.
+Las actividades por realizar son los siguientes: 
+Selecciona una solución digital que tenga tiempo de haber sido implementada en tu empresa u organización.
+
+
+
+Solicita información acerca de sus métricas e indicadores, principalmente de KPI que estén asociados a dicha solución.
+
+Analiza los resultados más recientes de los KPI de esa solución digital.
+Señala los puntos de mejora para la solución digital y genera una propuesta de dos innovaciones y/o ajustes a dicha solución. Te sugerimos utilizar el siguiente formato (Tabla 5).
+
+Tabla 5. Puntos de mejora e innovación
+#
+Puntos de mejora
+Ajustes propuestos
+1
+Descripción de puntos de mejora detectados
+Acciones sugeridas de mejora
+2
+Descripción de puntos de mejora detectados
+Acciones sugeridas de mejora
+
+Incorpora la propuesta al plan de implementación realizado en el punto 2 para garantizar la adaptabilidad continua de la empresa.

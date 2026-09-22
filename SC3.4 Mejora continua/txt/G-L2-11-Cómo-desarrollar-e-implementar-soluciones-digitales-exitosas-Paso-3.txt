@@ -1,0 +1,37 @@
+# L2 · Cómo desarrollar e implementar soluciones digitales exitosas Paso 3
+Genially 6566d811ff7dc400135a41c3
+
+¿Cómo desarrollar
+e implementar soluciones digitales exitosas? Paso 3
+Descubre en qué consisten las pruebas rigurosas, a partir de comprender su objetivo, revisar las tareas a realizar y un ejemplo de su aplicación.
+PASO 3. Pruebas rigurosas
+Las pruebas ayudan a garantizar que la solución digital funcione sin problemas, por lo que deben ser exhaustivas para detectar errores y asegurar que todos los componentes funcionen según lo previsto. Las principales actividades por realizar son las siguientes:
+Depuración y corrección de errores
+Cuando se identifican errores o problemas durante las pruebas, es necesario documentarlos y realizar una depuración para identificar la causa raíz. Una vez que se comprende el motivo de los problemas, se procede a corregirlos en el código de la solución digital. Posteriormente, se repiten las pruebas en los casos afectados para verificar que los errores se han solucionado.
+Realización de distintos tipos de pruebas
+Las siguientes pruebas ayudan a garantizar que la solución digital es confiable y efectiva por medio de detectar y corregir problemas antes de que lleguen a los usuarios finales, contribuyendo así a la satisfacción del cliente y el éxito en su implementación:
+Documentación de pruebas
+Durante todo el proceso de pruebas, se deben documentar de forma detallada los casos de prueba y sus resultados, tales como los errores encontrados y las correcciones realizadas. Esta documentación es valiosa para el equipo de desarrollo y para futuras referencias.
+Aprobación para la implementación
+Una vez que las distintas prueban han sido completadas con éxito y se han corregido los errores, la solución digital está lista para su implementación en producción. Veamos la aplicación de estas acciones con el ejemplo de la empresa EcoLogiTech , a continuación:
+Ejemplo práctico: el caso de la empresa EcoLogiTech
+La empresa seleccionó un grupo de prueba, compuesto por conductores de camiones de recolección, supervisores de operaciones y otros involucrados en la gestión de residuos. Las pruebas iniciales ocurrieron en un entorno controlado, utilizando un prototipo en situaciones simuladas para detectar problemas.
+Se realizaron tres tipos de pruebas y se identificaron problemas de conectividad, navegación y demoras en la carga de datos. Durante todo el proceso, EcoLogiTech recopiló retroalimentación, realizó iteraciones en el prototipo, corrigió, optimizó e hizo ajustes en función de los hallazgos. Así se solucionaron los problemas antes de la implementación completa.
+Gracias por tu respuesta
+En tu empresa u organización, ¿realizan los distintos tipos de pruebas rigurosas?, ¿qué acción presenta dificultades para llevarse a cabo en tu empresa u organización?, ¿qué acciones considerar conveniente ejecutar en la fase de pruebas?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Pruebas de rendimiento y carga
+Este tipo de pruebas evalúa cómo la solución se comporta bajo cargas de trabajo simuladas y permite identificar los siguientes problemas: cuellos de botella, problemas de rendimiento y tiempos de respuesta insatisfactorios.
+Pruebas de seguridad
+Las pruebas de seguridad permiten identificar vulnerabilidades y asegurar que la solución está protegida contra amenazas cibernéticas. Estas pruebas pueden incluir: escaneo de vulnerabilidades, pruebas de penetración y análisis de seguridad.
+Ejecución de casos de prueba
+Los probadores ejecutan los casos de prueba según las instrucciones definidas y, durante la ejecución, registran los resultados, así como cualquier anomalía o error encontrado. Las pruebas se realizan con atención y documentan cuidadosamente los resultados para ayudar en la identificación y corrección de problemas.
+Pruebas de usabilidad
+Evaluar la usabilidad de la solución digital implica que los usuarios reales prueben la solución y proporcionen retroalimentación sobre la experiencia de uso. De esta manera, se logran identificar problemas de diseño y navegación que pueden afectar la satisfacción del usuario.
+Preparación del entorno de pruebas
+También se debe configurar un entorno de pruebas que sea similar al entorno de producción en cuanto a infraestructura y configuraciones, es decir, bases de datos, servidores, redes y otros componentes necesarios. Ambos entornos deben encontrarse aislados uno del otro para evitar impactos no deseados.
+Identificación de escenarios de prueba
+Antes de comenzar, se deben identificar y definir los escenarios de prueba, los cuales incluyan interacciones típicas del usuario, situaciones de carga, condiciones de uso extremas y casos de uso críticos. Estos escenarios deben ser exhaustivos y cubrir todas las funcionalidades de la solución.
+Diseño de casos de prueba
+Una vez definidos los escenarios, se diseñan de forma detallada los casos de prueba. Cada caso contendrá la descripción de las acciones, entradas, salidas esperadas y criterios de aceptación que un probador debe seguir para ejecutar un escenario de prueba particular.

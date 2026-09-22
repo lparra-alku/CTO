@@ -1,0 +1,61 @@
+# L4 · Pruébate
+Genially 659d7a9b6c59e500139170b5
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Judith a resolver algunas problemáticas.
+Judith trabaja en Electronic Innovations, una empresa manufacturera que ha decidido empezar su transformación digital automatizando sus procesos de producción mediante el uso de maquinaria inteligente y sistemas de control automatizado, los cuales permiten agilizar la producción y reducir los tiempos de fabricación. Para ello, estableció KPI para medir la eficiencia de la producción. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Por qué es importante que Judith revise constantemente los KPI durante el proceso de transformación digital de Electronic Innovations?
+Para garantizar la alineación de los resultados de transformación digital
+Para adaptar los KPI a la evolución de la estrategia de transformación digital
+Para asegurar la claridad en los objetivos organizacionales
+¡Correcto!
+La revisión constante de los KPI se lleva a cabo para ajustarse a los cambios en la estrategia de transformación digital de Electronic Innovations.
+¡Incorrecto!
+Recuerda que la revisión constante de los KPI se lleva a cabo para ajustarse a los cambios en la estrategia de transformación digital de Electronic Innovations.
+¿Por qué es necesario que los KPI seleccionados por Judith sean flexibles?
+Porque los KPI permiten orientarse hacia el futuro en un entorno empresarial muy cambiante
+Porque su flexibilidad permite garantizar la claridad en los objetivos
+Porque los KPI sirven para reflejar los logros pasados
+La flexibilidad de los KPI seleccionados por Judith le permitirá adaptarse a los constantes cambios del entorno empresarial digital.
+Recuerda que la flexibilidad en los KPI se relaciona con la adaptación a cambios que existen en entorno empresarial digital.
+Judith requiere definir un KPI sobre la automatización de procesos de producción, ¿cuál de los siguientes KPI corresponde a dicho proceso?
+Reducción del tiempo de fabricación
+Eficiencia en mantenimiento preventivo
+Coordinación eficiente
+La reducción del tiempo de fabricación es un indicador clave para evaluar la eficiencia de la automatización de procesos.
+Ten presente que la reducción del tiempo de fabricación es un mejor indicador para evaluar la eficiencia de la automatización de procesos.
+Si Judith emplea datos operativos para la automatización del proceso de producción, ¿de qué tipo de fuente de datos se trata?
+Fuentes internas
+Fuentes externas
+Fuentes mixtas
+Las fuentes internas incluyen datos operativos, además de datos de clientes y empleados, como en el caso de Electronic Innovations.
+Recuerda que las fuentes internas incluyen datos operativos, además de datos de clientes y empleados, como en el caso de Electronic Innovations.
+¿Qué le recomendarías a Judith para evaluar la eficacia, facilidad de uso y satisfacción de los usuarios de plataformas digitales?
+Implementar herramientas de análisis de datos en tiempo real
+Utilizar datos de la experiencia del usuario (UX)
+Desarrollar paneles integrados o dashboards digitales
+Utilizar datos de experiencia del usuario permite evaluar la eficacia de las plataformas digitales en términos de facilidad de uso y satisfacción del usuario.
+Recuerda que utilizar datos de experiencia del usuario permite evaluar la eficacia de las plataformas digitales en términos de facilidad de uso y satisfacción del usuario.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

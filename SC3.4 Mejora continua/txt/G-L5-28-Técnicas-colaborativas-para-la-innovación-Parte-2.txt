@@ -1,0 +1,43 @@
+# L5 · Técnicas colaborativas para la innovación Parte 2
+Genially 65b1060a058ba6001410cbfa
+
+colaborativas para la innovación (Parte 2)
+Al igual que el brainstorming, las siguientes herramientas y técnicas permiten generar nuevas ideas sobre productos, servicios o procesos que permitan a las empresas u organizaciones mantenerse competitivas en el mercado.
+2. Design Thinking
+A grandes rasgos, es un proceso centrado en el usuario que se utiliza para generar nuevas ideas y soluciones. El cual se divide en las siguientes fases:
+1. Empatía.
+2. Definición.
+3. Ideación.
+4. Prototipado.
+5. Prueba.
+Veamos el caso de una empresa financiera. En la fase de empatía, abordaron las necesidades y demandas del cliente. El problema se definió en términos de “procesos internos complejos y experiencias poco fluidas". Se generaron distintas idea s para optimizar los procesos y mejorar la interacción del cliente. Luego se prototipó una aplicación móvil integral con interfaz intuitiva, se puso a prueba con un grupo piloto, ajustando su diseño y funcionalidad.
+Entonces, el Design Thinking tiene tres cualidades clave:
+Se centra en el usuario. Al comprender mejor sus necesidades, es posible generar soluciones realmente útiles y valiosas. Fomenta la creatividad y la colaboración. Se pueden generar ideas nuevas e innovadoras por medio del involucramiento de equipos funcionales de trabajo. Es un proceso iterativo. Esto significa que las ideas se prueban y refinan en diversos ciclos, mientras más se aprende de los usuarios.
+Esta herramienta genera soluciones innovadoras y exitosas, no indetectables de otra manera. Por ejemplo:
+Desarrollar nuevos productos y servicios como el iPhone, un producto que revolucionó la industria de la telefonía móvil. Mejorar los procesos existentes como Amazon, empresa que mejoró significativamente sus procesos de servicio al cliente. Resolver problemas de diversa índole como IDEO que utilizó el Design Thinking para ayudar a niños con discapacidad a leer.
+Aprender.
+Construir.
+3. Lean Startup
+Esta herramienta ayuda a las organizaciones a validar sus ideas de productos o servicios antes de invertir grandes cantidades de tiempo y dinero en su desarrollo. Y se basa en tres principios:
+Lean Startup ayuda a las organizaciones a identificar oportunidades de innovación a partir de las siguientes pautas:
+Construir un MVP ( Minimum Value Product ). El MVP permite a las validar las ideas de productos o servicios sin invertir grandes cantidades de tiempo y dinero. Mirar los datos. El feedback puede mostrar el interés de los clientes en una característica o función específica. Escuchar a los clientes. Los comentarios de los clientes pueden proporcionar ideas valiosas para la innovación.
+Veamos el ejemplo de una empresa de tecnología que desarrolló un nuevo software de gestión de clientes usando Lean Startup:
+Primero construyó un MVP del software que incluyera funciones básicas la administración de clientes. Luego se recopiló el feedback de los clientes revelando oportunidades de innovación. La empresa utilizó esta información para mejorar el software de gestión, satisfaciendo todas las necesidades de sus clientes.
+Gracias por tu respuesta
+¿Cuál de estas técnicas colaborativas presentadas te resultó más adecuada?, ¿cómo se podría llevar a cabo en tu empresa u organización?
+Para continuar con la lección da clic en el botón
+Continúa con el estudio de la lección.
+Lean Startup es una metodología para la creación de nuevos productos y servicios que se basa en la experimentación y el aprendizaje.
+El MVP es un producto o servicio básico que puede utilizarse para recopilar feedback de los clientes.
+Esta fase implica la utilización de la información recopilada en la fase anterior para definir el problema que se está tratando de resolver.
+Las organizaciones deben construir un producto mínimo viable (MVP) lo antes posible para comenzar a obtener feedback de los clientes.
+Tales como: Los clientes quieren que el software sea más fácil de usar. También quieren que incluya más funciones para administrar las relaciones con los clientes.
+Esta fase se centra en la comprensión de las necesidades y deseos de los usuarios, a través de una diversidad de métodos como entrevistas, encuestas y observación.
+Las organizaciones deben aprender del feedback de los clientes para mejorar su producto o servicio.
+De esta manera, el diseño iterativo garantizó la generación de una solución adaptada a los usuarios.
+Se identificaron desafíos de eficiencia y satisfacción del cliente.
+Se platearon chatbots, interfaces simplificadas y flujos de trabajo más eficientes.
+Esta fase se centra en poner a prueba las soluciones con los usuarios para obtener comentarios y refinarlas.
+Esta fase consiste en la creación de prototipos sobre cada una de las ideas priorizadas, para probarlas y obtener comentarios de los usuarios.
+En esta fase, los diseñadores generan ideas para posibles soluciones al problema definido.
+Las organizaciones deben medir el feedback de los clientes para comprender lo que funciona y lo que no.

@@ -1,0 +1,73 @@
+# L0 · ¿Cuánto sabes?
+Genially 65b86454b66b8d001433aebc
+
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que ayudes a Paula a resolver los siguientes cuestionamientos.
+Paula debe elaborar un plan de implementación de soluciones digitales para echar a andar el proceso de transformación digital de OmniMart, pero antes debe resolver algunas dudas sobre los distintos pasos del proceso, desde la identificación y priorización de iniciativas digitales hasta la mejora continua e innovación, ¿puedes ayudarla? Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Cuál es uno de los métodos que Paula podría utilizar para identificar iniciativas digitales?
+Encuestas de satisfacción
+Análisis de competencia
+Análisis de tendencias
+Análisis de inversión
+¡Correcto!
+El análisis de tendencias permitiría identificar las iniciativas digitales con un impacto significativo en OmniMart, basándose en las tendencias actuales del mercado y del sector en cuestión.
+¡Incorrecto!
+El análisis de tendencias es uno de los principales métodos para identificar iniciativas digitales que pueden implementarse en OmniMart.
+¿Qué rasgos tienen las soluciones digitales que se desarrollaron e implementaron en OmniMart para adaptarse a futuras necesidades?
+Conservadurismo y tradición
+Flexibilidad y escalabilidad
+Rigidez y estabilidad
+Complejidad y singularidad
+Las soluciones digitales deben tener flexibilidad y escalabilidad para adaptarse a futuras necesidades, lo que las hace más adecuadas para el entorno cambiante del comercio minorista.
+Ten presente que las soluciones digitales deben tener flexibilidad y escalabilidad para adaptarse a futuras necesidades, lo que las hace más adecuadas para un entorno cambiante como el del comercio minorista.
+¿Qué podría realizar Paula para abordar las resistencias al cambio, generadas por la transformación digital en OmniMart?
+Aumentar la carga de trabajo
+Reducir la comunicación interna
+Aplazar la atención a las resistencias
+Brindar formación continua
+Un plan integral de gestión del cambio incluye elementos como la comunicación efectiva y la formación continua, lo que ayuda a superar las resistencias al cambio dentro de la organización.
+Brindar formación continua es uno de los elementos de un plan integral de gestión del cambio, el cual contribuya a gestionar y superar de forma adecuada las resistencias al cambio que se suscitan al interior de la organización.
+Con una plataforma colaborativa de análisis de datos en tiempo real
+¿Cómo pudo evaluar Paula el progreso de la transformación digital en OmniMart?
+A través de un sistema de monitoreo conformado por KPI relevantes
+A través del análisis de tendencias cada tres meses
+Realizando encuestas esporádicas a clientes
+Paula implementó un sistema de monitoreo continuo para evaluar el progreso de la transformación digital mediante KPI que permitieran medir el rendimiento de las soluciones digitales.
+Para evaluar el progreso de la transformación digital es necesario establecer un sistema de monitoreo conformado por KPI alineados a los objetivos estratégicos de la empresa.
+¿De qué manera podría Paula fomentar la innovación en OmniMart?
+Ignorando las nuevas ideas y enfoques de los colaboradores
+Mediante técnicas colaborativas como el brainstorming
+A través de un ambiente de trabajo rígido y jerárquico
+Con actividades individualistas y competitivas
+Paula puede fomentar la innovación dentro de OmniMart con sesiones periódicas de lluvia de ideas y talleres colaborativos.
+Ten presente que las técnicas colaborativas resultan adecuadas para fomentar la innovación al interior de una organización, tales como las sesiones de brainstorming o los talleres colaborativos.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+¿Puedes identificar a qué actividad corresponden estas dos técnicas?
+Procesamiento de pedidos
+Red o sistema de distribución física
+Control de inventarios

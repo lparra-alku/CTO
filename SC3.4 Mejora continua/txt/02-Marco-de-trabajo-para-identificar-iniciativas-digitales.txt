@@ -1,0 +1,232 @@
+
+--- p1 ---
+iniciativas digitales
+Marco de trabajo 
+para identificar
+A continuación, se detalla el marco de trabajo 
+propuesto por Lindsay Herbert (2017) en Digital 
+Transformation: Build Your Organization's Future for 
+the Innovation Age.
+
+--- p2 ---
+La obra de Herbert (2017) ofrece una estructura integral que abarca 
+distintas tareas como la identificación, priorización y ejecución de 
+iniciativas digitales. Su enfoque en alineación estratégica, análisis del 
+entorno y la evaluación rigurosa ayuda a maximizar el impacto de los 
+esfuerzos de transformación digital en las organizaciones y, a la vez, las 
+mantiene ágiles en un mundo digital en constante cambio.
+Este marco se centra en definir claramente el alcance de la iniciativa digital, 
+es decir, se especifica con claridad qué se espera lograr con la iniciativa 
+digital. En términos de ¿cuáles son los resultados deseados?, ¿cuáles son los 
+indicadores clave de rendimiento (KPI) para medir el éxito? Y finalmente 
+determinar los aspectos, procesos, áreas o componentes de la organización 
+que se verán afectados por la iniciativa digital y cuáles no. Esta definición 
+de alcance ayuda a evitar la ambigüedad y a establecer límites claros para 
+el proyecto.
+1. Alcance de la iniciativa digital
+Antes de embarcarse en una iniciativa digital, es fundamental evaluar la 
+viabilidad técnica, esto significa verificar la disponibilidad, compatibilidad 
+y capacidad del equipo para implementar la tecnología necesaria en una 
+iniciativa digital. También se consideran los recursos financieros, los 
+riesgos tecnológicos y, con base en ello, se recomienda tener un plan de 
+contingencia en caso de problemas inesperados. Todo esto es necesario 
+para asegurar que la tecnología será un habilitador y no un obstáculo para 
+la iniciativa digital.
+2. Evaluación de la viabilidad técnica.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+3
+Para entender a detalle estos aspectos, imagina la siguiente 
+iniciativa digital: la implementación de un sistema de gestión de 
+relaciones con el cliente (CRM) para mejorar la interacción con los 
+clientes y aumentar las ventas. La evaluación de la viabilidad técnica 
+consistiría en considerar la disponibilidad de tecnología, es 
+decir, investigar si existen soluciones de CRM disponibles en el 
+mercado que se adapten a las necesidades específicas de la empresa, 
+después se identifica un proveedor de CRM confiable que ofrezca la 
+tecnología necesaria. La compatibilidad radica en verificar si el 
+sistema CRM es compatible con el sistema de gestión de inventario y 
+el sistema de contabilidad. También se incluyen las capacidades 
+del equipo interno para determinar si poseen las habilidades 
+técnicas que permitan la configuración y administración del sistema 
+CRM, y así decidir si se capacita al personal o se contrata a un 
+consultor especializado.
+Asimismo es necesario establecer un presupuesto para la 
+adquisición del CRM, considerando costos de personal y 
+capacitación, además de gastos asociados a la integración y 
+personalización.  
+También deben considerarse los riesgos tecnológicos como la 
+seguridad de datos, dificultades para su migración o problemas 
+técnicos no previstos como la interrupción del servicio y pérdida de 
+datos. Ante esto será fundamental diseñar un plan de contingencia 
+en el que se describa cómo responderá la empresa a dichas 
+problemáticas.
+CRM
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Se debe valorar cómo cada iniciativa digital contribuirá a los objetivos 
+estratégicos de la empresa. Esto implica considerar aspectos como el 
+crecimiento de ingresos, la eficiencia operativa e incluso la satisfacción 
+y retención de clientes; para lo cual será necesario definir métricas 
+específicas.
+3. Impacto en los objetivos estratégicos
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+El marco de trabajo también incluye la evaluación del ROI 
+esperado, lo cual implica calcular los beneficios financieros 
+proyectados, como el aumento de los ingresos, la reducción de costos 
+o el aumento de la eficiencia y compararlos con los costos de 
+implementación y operación de la iniciativa. Con ello, se busca identificar 
+las iniciativas que generen el mejor retorno de la inversión.
+Retomando el mismo ejemplo, de la implementación de un CRM para la 
+mejora de la gestión de clientes y aumentar las ventas, el cálculo del ROI 
+se realizaría de la siguiente manera:
+Beneficios proyectados:
+Se espera que el nuevo sistema CRM aumente las ventas en un 15 % 
+durante el primer año.
+Y se estima que el sistema reducirá los costos operativos relacionados 
+con la gestión manual de datos y la atención al cliente en un 10 % 
+anual.
+Costos de implementación y operación:
+Costo de adquisición del sistema CRM: $50,000.
+Costos de capacitación del personal: $10,000.
+Costos operativos anuales del sistema: $20,000.
+Cálculo del ROI:
+Beneficios proyectados (Aumento de Ingresos + 
+Reducción de Costos): $ X (por ejemplo, $100,000).
+Costos totales (Costo de Implementación + Costos 
+Operativos Anuales): $ Y (por ejemplo, $80,000).
+4. Retorno de la Inversión (ROI) esperado
+4. Retorno de la Inversión (ROI) esperado
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Cada iniciativa digital conlleva riesgos 
+potenciales como problemas de seguridad, 
+resistencia al cambio o barreras culturales, 
+por ello al identificar y evaluar riesgos, con 
+ayuda del marco de trabajo se pueden 
+desarrollar estrategias para mitigar estos 
+riesgos. Por ejemplo, al implementar una 
+plataforma de comercio electrónico para 
+expandir las ventas en línea, los riesgos de 
+seguridad cibernética pueden ser: ataques 
+cibernéticos, piratería informática o robo de 
+datos de clientes durante las transacciones 
+en línea. Esto lleva a reconocer que la 
+seguridad de los datos es crítica.
+También se identifica la resistencia al 
+cambio, de parte del personal de ventas y 
+otros departamentos a adoptar la nueva 
+plataforma de comercio electrónico. Esto 
+conllevaría a una adopción lenta o 
+incompleta de la tecnología.
+La fórmula del ROI es ROI = [(Beneficios 
+Proyectados - Costos Totales) / Costos 
+Totales] x 100
+En este ejemplo simplificado, el ROI sería: [(100,000 - 80,000) 
+/ 80,000] x 100 = 25 %.
+Entonces, el ROI esperado sería del 25 %, esto significa que por cada $1 
+invertido, según las proyecciones, se espera obtener $1.25 en beneficios 
+financieros.
+5. Evaluación de riesgos
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Y por último, existen barreras culturales en mercados 
+extranjeros donde se planea expandir las operaciones de 
+comercio electrónico. Además, se observa la necesidad de 
+cumplir con regulaciones locales y leyes de privacidad de datos 
+en esos mercados.
+Ante estos riesgos se pueden identificar las siguientes estrategias para 
+mitigar riesgos:
+Inversión en soluciones de seguridad avanzadas, como firewalls y 
+sistemas de detección de intrusiones. Combinado con la 
+implementación de una capacitación en seguridad cibernética para 
+todo el personal.
+Desarrollo de un plan de cambio organizacional que incluye la 
+comunicación efectiva de los beneficios de la plataforma de comercio 
+electrónico y la capacitación para ayudar a los colaboradores a 
+adaptarse a la nueva tecnología.
+Por último, una investigación exhaustiva sobre las diferencias 
+culturales en los mercados objetivo y, en consecuencia, el ajuste de la 
+estrategia de marketing y ventas. Además, el trabajo con expertos 
+legales para garantizar el cumplimiento normativo en todos los 
+mercados que se busca ingresar.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+Una vez que se han evaluado todas las iniciativas digitales 
+utilizando los criterios anteriores, se debe proceder a la 
+priorización y selección. En este punto, se pueden utilizar diferentes 
+métodos, tales como las matrices de valor y riesgo, el análisis de 
+costo-beneficio o la puntuación y clasificación, para determinar cuáles 
+deben implementarse primero.
+Las matrices de valor y riesgo implican crear una matriz en la que se 
+evalúan todas las iniciativas en función de dos criterios clave: el valor 
+potencial que aportarán a la organización y el riesgo asociado a su 
+implementación. Cada iniciativa se puntúa en ambas dimensiones y luego 
+se coloca en la matriz. Aquellas iniciativas que tienen un alto valor y un 
+riesgo manejable se priorizan y seleccionan primero.
+El análisis costo-beneficio consiste en evaluar cada iniciativa en 
+función de sus costos estimados y los beneficios esperados. Aquellas 
+iniciativas que ofrecen un retorno de la inversión (ROI) más alto en 
+términos de beneficios netos se priorizan.
+Por último, la puntuación y clasificación consiste en asignar puntajes 
+a cada iniciativa digital en función de múltiples criterios, como impacto 
+estratégico, costo, tiempo de implementación, complejidad y alineación 
+con los objetivos. Luego, se clasifican las iniciativas según sus puntajes 
+totales.
+6. Priorización y selección
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p9 ---
+Después de la selección de iniciativas digitales, el marco de 
+trabajo proporciona orientación sobre la planificación 
+detallada y la ejecución, aspectos en los que no se profundizará en la 
+lección, pero que implican asignar recursos, definir plazos y supervisar 
+el progreso.
+7. Planificación y ejecución
+Finalmente, el marco de trabajo 
+promueve la medición continua del 
+rendimiento de las iniciativas 
+digitales implementadas. Esto 
+significa que es necesario realizar 
+evaluaciones periódicas para 
+asegurar el cumplimiento de los 
+objetivos estratégicos y hacer los 
+ajustes necesarios. Cabe agregar que 
+el aprendizaje continuo es esencial 
+para adaptarse a un entorno 
+empresarial en constante evolución.
+8. Medición y aprendizaje continuo
+9
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p10 ---
+Reflexiones finales
+¿Consideras viable la aplicación de este marco 
+de trabajo en tu empresa u organización?, 
+¿qué aspecto tiene dificultades para ser 
+implementado?, ¿qué aspecto implementan 
+actualmente?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+10
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

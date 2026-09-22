@@ -1,0 +1,379 @@
+
+--- p1 ---
+El listado previo de mejores prácticas se puede complementar con algunos 
+métodos implementados a lo largo del tiempo en el desarrollo de 
+soluciones digitales en los procesos de transformación digital.
+desarrolladas desde la 
+experiencia 
+Mejores prácticas
+
+--- p2 ---
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Cabe aclarar que estas prácticas y recomendaciones pueden variar según el 
+contexto y la industria, es decir, lo que funciona bien en una empresa puede 
+no ser necesariamente aplicable en otra. Por lo tanto, es esencial adaptar y 
+personalizar estas prácticas según las necesidades y características específicas 
+de cada caso.
+Las prácticas y recomendaciones se organizan en función de los pasos para el 
+desarrollo e implementación de soluciones digitales, vistas con antelación:
+Para la Definición de objetivos claros se hacen las siguientes recomendaciones:
+Cultura de cambio: Fomentar una cultura que esté abierta al cambio y 
+dispuesta a adaptarse a nuevas formas de trabajar.
+Compromiso del liderazgo: El liderazgo debe estar comprometido y 
+dispuesto a apoyar la transformación digital a través de recursos y apoyo, 
+sobre todo en el marco de procesos de cambio organizacional.
+Investigación exhaustiva: Realizar una investigación exhaustiva para 
+identificar oportunidades y desafíos para la transformación digital.
+
+--- p3 ---
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Para el Diseño y desarrollo de la solución digital se hacen las 
+siguientes recomendaciones:
+Análisis de datos: Como una forma de identificar oportunidades de 
+mejora, el análisis de datos ayuda a obtener información valiosa que 
+enriquezca la estrategia de transformación digital.
+Analizar las necesidades de tu negocio: No es posible tomar las 
+decisiones correctas, si se desconocen las necesidades específicas de tu 
+negocio en términos de tecnología. 
+Aprendizaje continuo: Aprender de los errores y éxitos al diseñar y 
+desarrollar una solución permite utilizar este aprendizaje en iteraciones futuras.
+Prototipado rápido: Utilizar técnicas como el prototipado rápido permite 
+probar ideas de forma inmediata y obtener retroalimentación temprana.
+
+--- p4 ---
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Para las Pruebas rigurosas y la Validación de resultados se hacen las 
+siguientes recomendaciones:
+Adaptabilidad: El diseño y desarrollo de soluciones digitales exitosas y de 
+alto impacto conlleva a tener flexibilidad y presentar disposición a cambiar 
+el curso si es necesario.
+Optimización continua: Recuerda que siempre se puede continuar 
+optimizando y, de esta manera, mejorar las soluciones a medida que se 
+implementan.
+Elegir la metodología para tus proyectos: Ten presente que 
+actualmente existen varias metodologías/marcos de desarrollo para elegir, 
+tales como Waterfall, Agile, Scrum y Kanban.
+Integración: Integrar nuevas tecnologías con los sistemas existentes ayudará 
+a maximizar su impacto en tu organización o con tus usuarios finales.
+Implementar buenas prácticas de codificación: En el desarrollo de la 
+solución digital es posible incluir la legibilidad del código, el código limpio, 
+la reducción de la deuda técnica, entre otros.
+
+--- p5 ---
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Para la Implementación gradual se hacen las siguientes recomendaciones:
+Celebrar éxitos: Reconocer y celebrar los éxitos para fomentar una 
+cultura positiva en torno a la transformación digital y así justificar la 
+expansión de su implementación.
+Pruebas periódicas y garantizar la garantía de calidad: Esto incluye 
+pruebas unitarias del código, desarrollo impulsado por el comportamiento, 
+pruebas de aceptación automatizadas, etc.
+Formación continua: La implementación controlada requiere de 
+proporcionar formación continua para ayudar a los empleados a adaptarse a las 
+nuevas tecnologías y procesos, conforme se va expandiendo la implementación 
+de la solución.
+Compartir conocimientos: Las lecciones aprendidas y mejores prácticas, 
+en proyectos previos u otras áreas, se deben compendiar y compartir con el 
+resto de la organización para aprovecharlo en la planificación y minimizar 
+riesgos en proyectos actuales.
+
+--- p6 ---
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Recuerda que estas prácticas sólo son guías para abordar problemas y 
+desafíos comunes y, vistas como recomendaciones representan el 
+conocimiento acumulado, producto de enfoques probados y efectivos para 
+lograr resultados exitosos en la transformación digital.
+Es momento de pasar al caso de la transformación digital de un negocio minorista, 
+¿conoces al gigante minorista sueco de muebles y decoración del hogar?
+Esta empresa ha abrazado las mejores prácticas de transformación digital 
+para satisfacer las demandas cambiantes de sus consumidores y la creciente 
+influencia de la tecnología en la forma actual de comprar y vivir en el hogar.
+Al comprender la visión y la cultura organizacional, el gigante sueco 
+tiene una visión simple, pero poderosa: "Crear un mejor día a día para la 
+mayoría de las personas". Esta visión ha guiado la estrategia de la empresa en 
+su viaje de transformación digital. En primer lugar, se alinearon las iniciativas 
+digitales a esta visión y la cultura organizacional derivada, pues se tiene un 
+compromiso con la sostenibilidad, simplicidad y el diseño accesible en su 
+oferta digital.
+
+--- p7 ---
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Cabe resaltar que la innovación es un pilar fundamental en la transformación 
+digital de esta empresa, por lo que la ha llevado a fomentar la innovación en 
+todos los niveles. Un ejemplo destacado es su aplicación móvil, la cual utiliza 
+realidad aumentada para que los clientes puedan visualizar cómo se verán los 
+muebles en sus propios hogares antes de comprarlos.
+Por otra parte, esta empresa sueca se ha centrado en la definición de 
+objetivos medibles en su viaje de transformación digital, ya que ha 
+establecido metas específicas como aumentar las ventas en línea, mejorar la 
+experiencia del cliente o reducir el impacto ambiental. Estos objetivos sirven 
+como un marco para evaluar el éxito y garantizar que las iniciativas digitales 
+estén alineadas con los resultados comerciales deseados. 
+Además, se reconoció la necesidad de mejorar la experiencia del cliente tanto 
+en línea como en la tienda, lo cual produciría el aumento de las ventas y, 
+sobre todo, generar lealtad de sus clientes. Para ello, se realizó el mapeo de 
+la experiencia del cliente, en el cual se identificaron los puntos de 
+contacto con los clientes en su viaje de compra, desde la búsqueda en línea 
+hasta la entrega de productos. Al analizarlos, se identificaron áreas de fricción 
+y oportunidades de mejora en la experiencia del cliente, con lo cual se 
+realizaron mejoras en la navegación del sitio web, la personalización de 
+recomendaciones y la logística de entrega, así como lograr una integración 
+adecuada entre ambas experiencias de compra, en línea y en tienda.
+
+--- p8 ---
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Posteriormente, se estudió el impacto potencial y la viabilidad de sus 
+iniciativas digitales mediante el análisis del costo de implementación y los 
+beneficios esperados de cada proyecto. También se incluyó la evaluación de la 
+capacidad técnica para llevar a cabo iniciativas como los sistemas de logística 
+avanzados que permiten entregas más eficientes y sostenibles.
+Sin embargo, la colaboración interdepartamental también fue esencial, 
+ya que los equipos de tecnología, marketing, diseño y logística trabajaron 
+juntos para garantizar que las iniciativas digitales abordaran las necesidades 
+de manera integral.
+Por otra parte, se reconoció la importancia de las pruebas piloto y la 
+experimentación previa a la implementación a gran escala, de esta manera 
+se aprendió de manera rápida y se realizaron los ajustes necesarios. Por 
+ejemplo, se introdujeron sistemas de iluminación inteligente que comenzaron 
+como un proyecto piloto en mercados selectos.
+Por último, la medición y el aprendizaje continuo fueron fundamentales 
+en la estrategia de transformación digital de esta empresa de muebles, ya que 
+las métricas clave como la tasa de conversión de visitantes a compradores 
+ayudó a realizar parte de las mejoras.
+ 
+En ese sentido, también la cultura de innovación y mejora continua es 
+un elemento esencial en su estrategia de transformación digital, ya que la 
+empresa alienta a sus empleados a proponer ideas y soluciones digitales 
+innovadoras. Por lo que se ha convertido en un espacio donde la 
+experimentación y la creatividad son bienvenidas, lo que ha llevado a avances 
+significativos en la oferta digital.
+ 
+En conclusión, la transformación digital en el caso de esta empresa es un 
+ejemplo inspirador de cómo una empresa puede adaptarse y prosperar en la 
+era digital, gracias a retomar las mejores prácticas mencionadas en la obra de 
+Herbert (2017).
+
+--- p9 ---
+9
+Mejora continua de iniciativas de transformación digital
+1. Idea a desarrollar
+Nombre de la iniciativa: Sistema de Gestión de Inventarios Basado en IoT 
+(Internet of Things)
+Área / Unidad de negocio: Departamento de Logística y Almacén
+Proceso asociado: Gestión de Inventarios
+Descripción de la situación: Actualmente, la gestión de inventarios en la 
+empresa se realiza de manera manual. Esto genera errores frecuentes en los 
+registros, demoras en la actualización de datos y falta de visibilidad en tiempo real 
+del estado del inventario. Como consecuencia, se producen ineficiencias 
+operativas, riesgos de desabastecimientos o excesos de stock, y costos operativos 
+elevados, afectando negativamente la capacidad de respuesta de la empresa y la 
+satisfacción del cliente.
+Descripción de la idea / solución: Implementar un sistema de gestión de 
+inventarios basado en la tecnología IoT. La solución incluirá sensores y etiquetas 
+RFID (Radio-Frequency Identification) para monitorear el inventario en tiempo 
+real. Estos dispositivos enviarán datos a una plataforma centralizada que 
+permitirá el seguimiento preciso de cada ítem en el almacén. Además, se integrará 
+un software de gestión de inventarios que utilizará análisis predictivo de datos 
+para optimizar los niveles de stock y prever la demanda futura. Esto reducirá los 
+errores, mejorará la eficiencia operativa y disminuirá los costos.
+
+--- p10 ---
+10
+2. Desarrollo de la estrategia de Transformación Digital
+Dominio: Datos/Innovación
+Objetivo: Optimizar la gestión de inventarios, reduciendo los errores y 
+mejorando la visibilidad en tiempo real del estado del inventario para aumentar 
+la eficiencia operativa y reducir costos.
+Herramienta que se debe utilizar: Software de Gestión de Inventarios con 
+integración IoT y análisis predictivo de datos.
+Describe el impacto de la iniciativa:
+• Rotación de inventarios: Aumento en la precisión y velocidad de la 
+rotación de inventarios.
+• Costos operativos: Reducción de costos relacionados con el 
+almacenamiento y la gestión manual del inventario.
+• Satisfacción del cliente: Mejora en la disponibilidad de productos y 
+tiempos de entrega, incrementando la satisfacción del cliente.
+3. Justificación de generación de valor de la iniciativa propuesta
+Pilares
+Personas (clientes internos/externos):
+• Clientes internos: Los empleados de almacén usarán una herramienta 
+eficiente que reduce la carga manual y los errores. Necesitarán capacitación 
+en el uso del nuevo sistema IoT y el software de gestión de inventarios.
+• Clientes externos: Los clientes se beneficiarán de una mayor 
+disponibilidad de productos y tiempos de entrega más rápidos, mejorando la 
+satisfacción y la fidelidad.
+
+--- p11 ---
+11
+Tecnología digital:
+• Requerida: Sensores IoT, etiquetas RFID (Radio-Frequency 
+Identification), software de gestión de inventarios y plataforma de análisis 
+de datos.
+• Disponibilidad: La empresa necesitará adquirir los sensores y etiquetas 
+RFID, así como desarrollar o integrar el software de gestión y la plataforma 
+de análisis de datos.
+Procesos:
+• Afectados: 
+▪
+Eliminados: Registro manual de inventarios.
+▪
+Modificados: Recepción y almacenamiento de productos con sensores y 
+RFID, y actualización de datos en tiempo real.
+▪
+Automatización: Actualización automática de datos de inventario.
+Información:
+• Generación: Datos en tiempo real sobre niveles de inventario, ubicación de 
+productos y tendencias de consumo.
+• Apoyo a decisiones: Información precisa para reordenar productos, 
+optimizar espacio de almacén y prever demandas, mejorando la eficiencia y 
+reduciendo costos.
+4. Monitoreo y Evaluación de la Transformación Digital
+La implementación de la tecnología (sensores y software) no es el final del 
+camino. Para asegurar que el Sistema de Gestión de Inventarios Basado 
+en IoT cumpla con los objetivos estratégicos de reducir errores y optimizar 
+costos, es necesario establecer un "tablero de control".
+En esta fase, se define qué se va a medir (KPIs) y con qué se va a medir 
+(herramientas), asegurando que la inversión tecnológica tenga un retorno 
+claro.
+
+--- p12 ---
+12
+Tabla de Monitoreo y KPIs
+#
+Indicador de 
+Rendimiento (KPI)
+Exactitud del 
+Registro de 
+Inventario (IRA)
+Dashboard de la Plataforma IoT: El 
+sistema compara automáticamente las 
+lecturas de las etiquetas RFID en tiempo 
+real contra los registros teóricos del ERP.
+Semanal
+Con alertas diarias 
+automáticas por 
+discrepancias 
+superiores al 2 %.
+Módulo de Business Intelligence (BI): 
+Análisis histórico de entradas y salidas 
+para medir la velocidad de venta/uso de 
+los productos, identificando ítems de 
+lento movimiento.
+Software de Análisis Predictivo: 
+Monitoreo de niveles mínimos de stock 
+vs. demanda proyectada para identificar 
+fallos en el reabastecimiento antes de que 
+afecten al cliente.
+Sistema WMS (Warehouse Management 
+System): Medición del tiempo exacto 
+transcurrido desde que se recibe un 
+pedido hasta que el sensor confirma que 
+el ítem ha salido de la estantería.
+Tasa de Rotación 
+de Inventario
+Porcentaje de 
+"Stockouts" 
+(Roturas de Stock)
+Tiempo de Ciclo de 
+Pedido Interno
+Mensual
+Mensual
+Trimestral
+Frecuencia de 
+Evaluación
+Herramienta de Monitoreo
+1
+2
+3
+4
+5. Mejora continua e innovación
+La transformación digital es un proceso vivo. Una vez que el sistema IoT está 
+funcionando y arrojando datos, es inevitable encontrar nuevos desafíos o nuevas 
+oportunidades que no eran visibles al principio.
+En este paso, se aplica el ciclo de mejora continua: se analizan los resultados del 
+paso 4, se detectan fricciones o ineficiencias remanentes y se proponen 
+innovaciones (ajustes) para mantener la competitividad.
+
+--- p13 ---
+13
+6. Conclusiones
+La transformación digital del Departamento de Logística, a través de la 
+implementación del Sistema de Gestión de Inventarios IoT, demuestra 
+que la tecnología no es un fin en sí mismo, sino un habilitador de la estrategia 
+empresarial.
+Al conectar la Identificación (Paso 1) de un problema crítico —la ineficiencia 
+manual— con una solución tecnológica robusta, se logra sentar las bases 
+operativas. Sin embargo, el verdadero valor de este proyecto reside en los pasos 
+finales: la Gestión del Cambio, el Monitoreo y la Mejora Continua. Esto 
+transforma un simple proyecto de instalación en un ciclo de innovación constante.
+#
+Interferencia de señal en zonas metálicas
+Durante la operación, se detectaron 
+"puntos ciegos" en los estantes metálicos 
+más densos, donde las etiquetas RFID 
+pasivas no transmiten correctamente, 
+generando lecturas intermitentes.
+Sobrecarga de datos (fatiga por alertas)
+El volumen de datos generado por los 
+sensores en tiempo real es demasiado 
+alto. El equipo de compras recibe 
+demasiadas notificaciones y no puede 
+analizarlas manualmente a tiempo.
+Costos ocultos de mantenimiento
+El reemplazo de baterías de los sensores 
+IoT ambientales (temperatura/humedad) 
+está generando costos operativos y 
+tiempos muertos mayores a los previstos.
+Adopción de IoT "Energy Harvesting"
+Actualizar progresivamente a sensores de 
+nueva generación que recolecten energía 
+del entorno (luz ambiental, vibración o 
+radiofrecuencia) para eliminar el 
+mantenimiento de baterías y asegurar la 
+sostenibilidad del proyecto.
+Integración de IA para compras 
+autónomas
+Incorporar un algoritmo de machine 
+learning que no solo prediga la demanda, 
+sino que ejecute pedidos de 
+reabastecimiento automático (Smart 
+Replenishment) sin intervención humana 
+para los ítems de mayor rotación.
+Implementación de RFID activo y 
+aislamiento
+Migrar a etiquetas activas (con batería 
+propia) para los activos de alto valor y 
+recubrir estanterías clave con material 
+absorbente de interferencias para elevar 
+la tasa de lectura al 99.9 %.
+Frecuencia de Evaluación
+Herramienta de Monitoreo
+1
+2
+3
+Tabla de mejora continua y ajustes
+
+--- p14 ---
+Reflexiones
+¿Cuál de las recomendaciones vistas anteriormente por 
+etapa se podría implementar en el desarrollo de 
+soluciones digitales en tu empresa u organización?, ¿de 
+qué otra manera se han abordado problemas y desafíos 
+de transformación digital en tu sector?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+9
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+Hemos pasado de reaccionar ante los errores de inventario a predecirlos y 
+prevenirlos. La integración de IoT, sumada a los futuros ajustes de Inteligencia 
+Artificial propuestos, posiciona a la organización no solo como más eficiente en 
+costos, sino como una entidad resiliente, capaz de responder en tiempo real a las 
+demandas del mercado y garantizando una experiencia superior al cliente final.

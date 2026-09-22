@@ -1,0 +1,163 @@
+
+--- p1 ---
+y evaluación de la 
+transformación digital
+Mejores prácticas 
+para el monitoreo 
+Conoce las buenas prácticas para el monitoreo y 
+evaluación del proceso de transformación digital, 
+retomadas de la obra de Herbert (2017) y su amplia 
+experiencia en diversas organizaciones.
+
+--- p2 ---
+Recuerda que el primer paso para monitorear y evaluar 
+procesos de transformación digital es definir los objetivos 
+del proceso, los cuales pueden relacionarse con aspectos 
+como el progreso de la implementación, el impacto del 
+proyecto o la satisfacción de los stakeholders.
+Una de las mejores prácticas al establecer objetivos de monitoreo y 
+evaluación, relacionados con la eficacia y la efectividad de las iniciativas 
+digitales, consiste en formular objetivos SMART, es decir, objetivos 
+específicos, medibles, alcanzables, relevantes y con un tiempo definido. 
+Esto proporciona claridad y dirección para realizar una evaluación más 
+precisa del progreso de la transformación digital.
+Aunado a ello, recuerda que los objetivos de la transformación 
+digital siempre deben estar alineados a los objetivos 
+organizacionales, contribuyendo significativamente a la visión y misión 
+de la organización. Con esto se garantiza que cada paso dado de la 
+transformación digital tenga un propósito claro y contribuya al éxito 
+general de la empresa.
+Otra buena práctica es desglosar los 
+objetivos en metas intermedias 
+más pequeñas y alcanzables. Esto 
+facilita el seguimiento y la evaluación 
+progresiva, proporcionando hitos claros 
+para realizar ajustes ágiles, en caso de 
+ser necesario.
+A partir de ello, para cada objetivo se 
+deben establecer KPI que permitan 
+medir su logro, ya que estos 
+proporcionan métricas tangibles que 
+facilitan la evaluación y la identificación 
+de áreas de mejora. Por ejemplo, si el 
+objetivo es mejorar la eficiencia 
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+También se sugiere tener en cuenta factores humanos y culturales al 
+establecer objetivos, ya que esto ayudará a que los objetivos sean 
+comprensibles y aceptables para todos los miembros del equipo.
+operativa un 25 % en los próximos seis meses, el KPI 
+podría ser la reducción del tiempo de procesamiento de 
+procesos u operaciones clave.
+Entonces, al definir objetivos específicos para el monitoreo y 
+evaluación del progreso del proyecto, se debe considerar la revisión 
+periódica de los KPI, la identificación de desviaciones y su corrección 
+oportuna.
+Otra buena práctica es programar revisiones regulares de los 
+objetivos del proceso y realizar ajustes cuando sea necesario. Esto 
+garantiza la relevancia y pertinencia de los objetivos, contribuyendo así al 
+éxito de la transformación digital en un entorno digital empresarial en 
+constante cambio.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Respecto a los Indicadores Clave de 
+Desempeño (KPI), una buena 
+práctica consiste en seleccionarlos 
+considerando factores como los 
+objetivos del proyecto, los datos 
+disponibles, los stakeholders, esto 
+incluye desde el equipo interno hasta 
+los clientes y proveedores. Y, sobre todo, 
+el contexto del negocio y la industria, 
+debido a que los KPI pueden funcionar 
+en un sector, mientras que en otro no.
+Por otro lado, se debe asegurar que 
+los KPI sean cuantificables y 
+medibles, a partir de definir métricas 
+claras con valores numéricos que 
+reflejen el rendimiento. Esto facilitará el 
+seguimiento al progreso y permitirá 
+realizar comparaciones objetivas en 
+diferentes puntos de la transformación 
+digital.
+También se recomienda establecer 
+metas realistas y alcanzables para 
+cada KPI. Esto permite evaluar 
+adecuadamente el progreso y ayudará a 
+mantener la motivación del equipo, a la 
+vez que se identifican desafíos y se 
+generan estrategias para resolverlos.
+Asimismo, se deben incorporar tanto los 
+KPI de resultado como los KPI de 
+proceso; los primeros miden los 
+objetivos finales, mientras que los 
+segundos evalúan la eficacia de los 
+procesos para alcanzar esos objetivos. 
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Esta combinación proporciona una visión completa y 
+sirve para identificar áreas que requieren mejoras.
+Por último, y no menos importante, la frecuencia de 
+monitoreo y evaluación debe ser adecuada para el 
+proyecto y los objetivos establecidos. En general, se recomienda realizar 
+monitoreos periódicos, pero también se pueden realizar evaluaciones más 
+profundas en determinados momentos. Los monitoreos periódicos pueden 
+ser mensual, trimestral o semestralmente, mientras que las evaluaciones 
+más profundas pueden realizarse anualmente o cada dos años. 
+En ese sentido, se debe tener en cuenta que algunos indicadores pueden 
+requerir seguimiento en tiempo real, mientras que otros pueden evaluarse 
+trimestral o anualmente. Por lo que es necesario definir la frecuencia de 
+medición de cada KPI de manera adecuada.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Esto se combina con la necesidad de flexibilidad para 
+ajustar los KPI cuando sea necesario, debido a que la 
+transformación digital es un proceso dinámico y los KPI 
+deben adaptarse a medida que evolucionan las 
+circunstancias del proceso.
+De manera muy breve, se mencionarán algunas recomendaciones para 
+determinar la frecuencia de monitoreo y evaluación de las iniciativas de 
+transformación digital:
+Ajusta la frecuencia de monitoreo según la magnitud y complejidad 
+del proyecto.
+Implementa sistemas de monitoreo en tiempo real para áreas de alto 
+riesgo, abordando sus problemas y desviaciones de manera inmediata.
+Realiza evaluaciones detalladas en momentos cruciales del proyecto.
+Incluye la retroalimentación de los stakeholders, retomando sus 
+perspectivas de percepción y aceptación de la transformación digital.
+Flexibiliza la frecuencia de monitoreo con base en resultados 
+anteriores y según la situación actual del proyecto. Si el proyecto 
+progresa sin problemas significativos, considera una frecuencia 
+menor.
+01
+02
+03
+04
+05
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones finales
+¿Qué buenas prácticas aquí presentadas se 
+podrían realizar en tu empresa u organización?, 
+¿qué otras agregarías?
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

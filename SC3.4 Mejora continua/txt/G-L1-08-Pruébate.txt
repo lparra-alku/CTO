@@ -1,0 +1,66 @@
+# L1 · Pruébate
+Genially 65662aa00be24100142d3336
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Sofía a resolver algunas problemáticas.
+Sofía es una apasionada por la jardinería y decidió implementar un proceso de transformación digital para expandir su negocio a través de conectar con clientes a lo largo y ancho de todo el país. Ayúdala a identificar y priorizar las iniciativas digitales que puede utilizar para ello. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+Tras haber comprendido a fondo los objetivos estratégicos de su emprendimiento digital, ¿cuál es el segundo paso clave para identificar las iniciativas digitales que le ayudarán a conectar con los clientes?
+Evaluar el entorno empresarial e industrial
+Priorizar las iniciativas digitales que encontró en un blog
+Colaborar con start-ups en desarrollo de software
+¡Correcto!
+El segundo paso implica evaluar el entorno empresarial e industrial mediante el análisis de las tendencias tecnológicas, amenazas competitivas y oportunidades emergentes.
+¡Incorrecto!
+Recuerda que el segundo paso clave es evaluar el entorno empresarial e industrial mediante el análisis de las tendencias tecnológicas, amenazas competitivas y oportunidades emergentes.
+Si Sofía tiene pensado comparar el rendimiento de su empresa con respecto a sus competidores o empresas líderes en la venta en línea de plantas, ¿qué herramienta o técnica le recomendarías utilizar?
+Análisis de tendencias
+Benchmarking
+Mapa de empatía
+El benchmarking es un proceso de comparación sistemática del rendimiento, prácticas y resultados de una empresa con respecto a sus competidores o empresas líderes en la industria.
+Recuerda que el benchmarking es un proceso de comparación sistemática de una empresa con respecto a sus competidores o empresas líderes en la industria.
+Sofía acudió con un consultor, el cual le dijo que “las iniciativas digitales deben ser viables y presentar un nivel de riesgo aceptable”, ¿a qué se refiere esa cualidad de toda iniciativa digital?
+A que las iniciativas digitales deben ser realistas, factibles y ejecutables para minimizar la probabilidad de un fracaso costoso
+A que las iniciativas digitales respaldan la visión a largo plazo de la empresa
+A que las iniciativas digitales generan los mayores beneficios para la empresa
+Se refiere a evaluar la factibilidad y capacidad de ejecución de una iniciativa digital para evitar un fracaso costoso.
+Esa cualidad se refiere a que una iniciativa digital debe ser realista, factible y ejecutable, para minimizar la probabilidad de un fracaso costoso.
+Sofía tiene la intención de evaluar cada iniciativa a través de múltiples criterios como impacto estratégico, costo, tiempo de implementación y alineación con los objetivos, ¿qué método de priorización y selección le recomendarías?
+Matriz de valor y riesgo
+Análisis costo – beneficio
+Puntuación y clasificación
+El método de puntuación y clasificación consiste en asignar puntajes a cada iniciativa digital en función de múltiples criterios para luego clasificarlas de acuerdo a sus puntajes totales.
+Recuerda que el método que evalúa cada iniciativa a través de múltiples criterios es la Puntuación y clasificación.
+Por último, ¿a qué buena práctica se refiere la siguiente frase: “las iniciativas digitales no son eventos únicos, sino procesos de constante evolución y adaptación”?
+Comprender la visión y cultura organizacional
+Fomentar la innovación en todos los niveles
+La cultura de la mejora continua
+La cultura de la mejora continuar considera que las iniciativas digitales no son eventos únicos, sino procesos de constante evolución y adaptación.
+Recuerda que la cultura de la mejora continuar considera que las iniciativas digitales no son eventos únicos, sino procesos de constante evolución y adaptación.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce los aprendizajes que lograrás al terminar el curso.
+Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas. Pregunta larga para quiz de varias líneas.
+Respuesta para cuatro opciones
+Dedica unos minutos para responder las siguientes preguntas. Si no conoces la respuesta no te preocupes, este ejercicio te permitirá identificar tus conocimientos previos sobre los temas que estás por estudiar.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a XXXX a resolver algunas problemáticas.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

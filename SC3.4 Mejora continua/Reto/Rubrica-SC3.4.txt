@@ -1,0 +1,314 @@
+Formato de Evaluación  
+La actividad será evaluada utilizando la siguiente lista de criterios: 
+ 
+ 
+No cumplió 
+(0%) 
+Falta desarrollar 
+(50%) 
+En desarrollo 
+(80%) 
+Sobresaliente 
+(100%) 
+Puntuación 
+máxima 
+Priorización de 
+iniciativas 
+digitales 
+0 ptos. 
+No 
+se 
+especifica 
+iniciativas 
+digitales 
+basadas 
+en 
+su 
+impacto potencial. 
+10 ptos. 
+Se especifican al menos 
+dos iniciativas, pero la 
+justificación 
+no 
+está 
+ligada a la visión y 
+estrategia 
+de 
+la 
+organización. 
+No 
+presenta 
+una 
+priorización basada en 
+criterios. 
+16 ptos.  
+Se especifican al menos 
+dos 
+iniciativas 
+y 
+la 
+justificación 
+está 
+asociada a la visión o 
+estrategia 
+de 
+la 
+organización. 
+Sin 
+embargo, no presenta 
+una priorización basada 
+en criterios. 
+20 ptos.  
+Se 
+especifica 
+claramente 
+las 
+iniciativas, 
+su 
+justificación 
+está 
+asociada a la visión y 
+estrategia 
+de 
+la 
+organización. Además, 
+la 
+priorización 
+está 
+basada en criterios. 
+20 ptos. 
+Desarrollo e 
+implementación 
+0 ptos.  
+No se especifica la 
+lista de recursos, los 
+desafíos previstos ni 
+el 
+cronograma 
+de 
+actividades 
+generales. 
+10 ptos.  
+Solo se especifica la lista 
+de recursos necesarios 
+para la implementación 
+de 
+la 
+iniciativa 
+seleccionada, 
+dejando 
+de lado los desafíos 
+previstos 
+o 
+posibles 
+obstáculos 
+y 
+el 
+cronograma 
+de 
+actividades generales. 
+16 ptos.  
+Se especifican la lista de 
+recursos y los desafíos 
+previstos, pero no se 
+presenta de forma clara 
+el 
+cronograma 
+de 
+actividades generales. 
+20 ptos.  
+Se especifican la lista 
+de 
+recursos, 
+los 
+desafíos 
+previstos 
+o 
+posibles obstáculos y el 
+cronograma 
+de 
+actividades generales. 
+20 ptos. 
+Gestión del 
+cambio y 
+superación de 
+resistencias 
+0 ptos.  
+No se especificaron 
+los beneficiarios o 
+stakeholders clave, ni 
+se realiza el análisis 
+de 
+las 
+posibles 
+resistencias. 
+Tampoco 
+presenta 
+un 
+plan 
+de 
+comunicación de la 
+solución digital. 
+10 ptos.  
+Se especifican al menos 
+dos 
+beneficiarios 
+o 
+stakeholders, pero no se 
+mencionan 
+sus 
+resistencias 
+ni 
+estrategias 
+para 
+superarlas. Por lo que el 
+plan de comunicación 
+está incompleto o es 
+impreciso. 
+16 ptos.  
+Se 
+especifican 
+los 
+beneficiarios 
+o 
+stakeholders 
+clave 
+y 
+algunas 
+de 
+sus 
+resistencias 
+identificadas, pero no se 
+mencionan 
+las 
+estrategias para superar 
+dichas resistencias. El 
+plan de comunicación es 
+impreciso. 
+20 ptos.  
+Se 
+especifican 
+los 
+beneficiarios 
+o 
+stakeholders clave, se 
+identifican 
+sus 
+resistencias 
+y 
+se 
+proponen 
+estrategias 
+para superarlas en un 
+plan de comunicación 
+congruente. 
+20 ptos. 
+Monitoreo y 
+evaluación 
+0 ptos.  
+No 
+se 
+establecen 
+KPI, las herramientas 
+tecnológicas para su 
+monitoreo 
+ni 
+la 
+frecuencia 
+de 
+evaluación. 
+10 ptos.  
+Se establecen por lo 
+menos dos KPI, pero 
+está ausente alguno de 
+los siguientes aspectos: 
+definición con claridad, 
+herramientas 
+tecnológicas 
+para 
+su 
+monitoreo o frecuencia 
+de su evaluación. 
+16 ptos.  
+Se establecen los KPI 
+suficientes, se definen 
+con 
+algunas 
+imprecisiones, así como 
+las 
+herramientas 
+tecnológicas 
+para 
+su 
+monitoreo. Sin embargo, 
+no 
+se 
+especifica 
+la 
+frecuencia 
+de 
+evaluación. 
+20 ptos.  
+Se establecen los KPI 
+suficientes, se definen 
+con 
+claridad, 
+se 
+mencionan 
+herramientas 
+tecnológicas 
+adecuadas 
+para 
+su 
+monitoreo 
+y 
+se 
+establece la frecuencia 
+de evaluación. 
+20 ptos. 
+Mejora continua 
+e Innovación 
+0 ptos.  
+No 
+se 
+especifican 
+puntos de mejora ni 
+se 
+hace 
+una 
+propuesta de ajustes 
+a 
+la 
+solución 
+analizada. 
+10 ptos.  
+Se especifican menos de 
+dos puntos de mejora y 
+no se hace la propuesta 
+de ajustes a la solución 
+analizada. 
+16 ptos.  
+Se especifican por lo 
+menos dos puntos de 
+mejora, 
+pero 
+la 
+propuesta de ajustes a la 
+solución digital analizada 
+no es clara, tiene errores 
+o imprecisiones. 
+20 ptos.  
+Se especifican más de 
+dos puntos de mejora 
+de la solución digital 
+analizada previamente 
+y se asocian de manera 
+correcta a dos o más 
+acciones 
+de 
+mejora 
+sugeridas. 
+20 ptos. 
+TOTAL 100 ptos. 
+ 
+ 

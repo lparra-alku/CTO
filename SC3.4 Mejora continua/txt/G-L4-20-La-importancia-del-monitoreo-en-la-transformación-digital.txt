@@ -1,0 +1,17 @@
+# L4 · La importancia del monitoreo en la transformación digital
+Genially 659d7a95a155d8001412c442 → 659d7a987adc7d00144b3703
+
+La importancia del monitoreo en la
+transformación digital
+¿Te has preguntado por qué es necesario evaluar el progreso de la transformación digital? Descubre la importancia de llevar un monitoreo y evaluación del progreso de las iniciativas digitales implementadas.
+CODIGO NO BORRAR
+¿Por qué evaluar el progreso de la transformación digital?
+En los últimos años, se ha enfatizado la necesidad de evaluar y seguir de cerca el avance en las estrategias de transformación digital. Según Gartner (2019), aproximadamente el 50 % de las organizaciones carecen de métricas para evaluar este proceso, ya que el entusiasmo se centra más en el lanzamiento de la iniciativa que en la definición de indicadores.
+Indicadores Clave de Desempeño (KPI) y el monitoreo
+La identificación de Indicadores Clave de Desempeño y un sólido sistema de monitoreo son esenciales para traducir la visión estratégica de la transformación digital en resultados tangibles de procesos y operaciones nuevas u optimizadas. Además, se combina con un enfoque proactivo que permita ajustar la estrategia en tiempo real, asegurando una evolución continua e innovación alineadas a los objetivos organizacionales.
+El monitoreo y la transformación digital
+La transformación digital es un proceso continuo y dinámico que requiere atención constante, por lo que el monitoreo permite la efectiva implementación de las iniciativas y guía la travesía digital, admitiendo ajustes según las condiciones cambiantes, identificando oportunidades de mejora y asegurando la alineación en todo momento.
+Enfoque proactivo de monitoreo
+Al adoptar este enfoque, las organizaciones pueden anticipar y abordar desafíos potenciales antes de que se conviertan en obstáculos insuperables. Esto implica la implementación de sistemas y herramientas que recopilen datos relevantes en tiempo real, identificando desviaciones tempranas respecto a los objetivos establecidos.
+Imagina una empresa que decide implementar Internet de las Cosas (IoT) en sus procesos de producción y, con el monitoreo proactivo, detecta problemas en los sensores desde la fase inicial. Así se toman medidas inmediatas como actualizaciones de firmware y sesiones de capacitación adicionales. Este ejemplo muestra que el monitoreo proactivo permite abordar los problemas antes de que se vuelvan críticos, maximizando las posibilidades de éxito y optimizando los beneficios esperados.
+Continúa con el estudio de la lección.

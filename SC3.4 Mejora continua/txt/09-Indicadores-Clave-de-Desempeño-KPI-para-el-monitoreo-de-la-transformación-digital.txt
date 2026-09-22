@@ -1,0 +1,161 @@
+
+--- p1 ---
+para el monitoreo de la 
+transformación digital
+Indicadores Clave de 
+Desempeño
+El monitoreo efectivo de la transformación digital 
+implica una selección cuidadosa de Indicadores 
+Clave de Desempeño o KPI que abarquen diversos 
+aspectos de la organización.
+
+--- p2 ---
+Se sugiere dividir el plan de transformación digital en 
+proyectos más manejables para tener KPI, es decir, Key 
+Performance Indicators, que ofrezcan una visión completa 
+del progreso y efectividad de la estrategia a largo plazo. 
+Además de los indicadores señalados previamente, concerniente a 
+ingresos, costos y satisfacción del cliente, los KPI pueden incluir las 
+siguientes categorías:
+KPI enfocados en la organización
+Los KPI enfocados en la organización son métricas utilizadas para evaluar 
+el rendimiento y el éxito de una organización en su conjunto. La clave de 
+estos indicadores radica en su alineación directa con los objetivos 
+estratégicos y metas establecidos por la empresa.
+Cantidad de gasto de marketing 
+en canales digitales: Evalúa la 
+inversión en estrategias de 
+marketing digital y su impacto en la 
+visibilidad de la marca.
+Nivel de participación y 
+posicionamiento en el mercado: 
+Mide la presencia e influencia de la 
+organización en el entorno digital en 
+comparación con la competencia.
+Nivel de madurez digital, 
+formación y experiencia del 
+personal: Cuantifica la preparación 
+digital de la organización, incluyendo 
+la formación y competencias digitales 
+de los colaboradores.
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Porcentaje de ingresos mediante canales 
+digitales: Indica la contribución de las ventas en línea 
+al total de los ingresos de la organización.
+Contribución e implicación de departamentos en iniciativas 
+digitales: Evalúa la colaboración y la participación de diferentes 
+departamentos en proyectos digitales.
+Los KPI enfocados en el cliente y la gestión comercial son métricas que 
+permiten evaluar el rendimiento y el éxito de una organización en términos 
+comerciales, proporcionando una medición del desempeño en áreas 
+relacionadas con la satisfacción del cliente y las operaciones comerciales.
+Tasa de adquisición de nuevos clientes: Mide la eficacia de las 
+estrategias digitales para atraer y convertir nuevos clientes.
+Mejora de la experiencia del usuario: Evalúa la satisfacción y la 
+eficiencia en la interacción del cliente con las plataformas digitales.
+KPI enfocados en el cliente y la gestión comercial
+404
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Aumento de la participación del cliente en 
+canales digitales: Indica el grado de 
+involucramiento del cliente en entornos digitales, 
+como redes sociales o aplicaciones móviles.
+Disminución del tiempo de comercialización de nuevos 
+productos: Evalúa la rapidez con la que nuevos productos digitales 
+llegan al mercado.
+Cambio en el comportamiento del cliente/usuario: Observa 
+cambios significativos en los patrones de comportamiento del cliente en 
+respuesta a iniciativas digitales.
+Los KPI enfocados en la innovación son métricas específicas que sirven 
+para evaluar el éxito y la eficacia de las iniciativas y procesos innovadores 
+dentro de una organización. Estos indicadores miden la capacidad de la 
+organización para generar nuevas ideas, implementar cambios disruptivos 
+y mantener una cultura de innovación.
+KPI enfocados en la innovación
+Nivel de éxito de las ideas 
+innovadoras implementadas: 
+Mide la ejecución exitosa de ideas 
+innovadoras, indicando el nivel de 
+adaptación a nuevas prácticas.
+Porcentaje de ingresos de 
+nuevos productos o servicios 
+lanzados al mercado: 
+Cuantifica la contribución de 
+nuevos productos o servicios 
+digitales a los ingresos totales.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Nuevos modelos de negocios adoptados para 
+diferentes mercados: Evalúa la flexibilidad de la 
+organización para adaptarse a modelos de negocio 
+innovadores.
+Aplicaciones, tecnologías y soluciones innovadoras aplicadas: 
+Indica la adopción de tecnologías y soluciones vanguardistas en el 
+proceso de transformación.
+Metodologías innovadoras y adaptación a nuevas situaciones 
+o mercados: Evalúa la capacidad de la organización para aplicar 
+métodos de trabajo innovadores y adaptarse a cambios en el entorno 
+digital.
+Cabe resaltar que esta lista es sólo una sugerencia de la amplia gama de 
+indicadores que es posible incorporar en el proceso de monitoreo y 
+evaluación de la transformación digital. Esperamos que te sirva como 
+referencia para tener un panorama general del progreso de la 
+transformación digital de tu empresa u organización, abarcando desde la 
+eficiencia operativa hasta la capacidad de innovación.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+Tasa de conversión en línea: Medir la proporción de visitantes en 
+línea que realizan una compra, evaluando la eficacia de la plataforma de 
+comercio electrónico.
+Eficiencia en la gestión de inventario: Evaluar la precisión y 
+eficiencia en la gestión de existencias en tiempo real para evitar 
+pérdidas y optimizar los niveles de inventario.
+Índice de satisfacción del cliente (CSAT) en tiendas físicas y 
+en línea: Medir la satisfacción del cliente en ambos canales para 
+garantizar una experiencia coherente.
+Tiempo de entrega de pedidos: Evaluar la eficiencia en la cadena 
+de suministro, midiendo el tiempo desde la realización del pedido hasta 
+la entrega.
+Imagina el siguiente caso: Una empresa de retail se 
+enfrenta a la nueva era del comercio electrónico, por lo 
+que deciden iniciar un proceso de transformación digital 
+para mantenerse competitiva y mejorar la experiencia del 
+cliente. Entre sus objetivos estratégicos incluyeron: la 
+expansión en línea, la optimización de la cadena de suministro 
+y la personalización de la experiencia del cliente.
+ 
+A partir de lo cual, seleccionaron los siguientes Indicadores Clave de 
+Desempeño (KPI):
+01
+02
+03
+04
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+Reflexiones finales
+¿Cómo consideras que podrían llevar a cabo el 
+monitoreo y la evaluación de estos indicadores? 
+Descúbrelo en el siguiente recurso.
+?
+?
+?
+?
+?
+?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®

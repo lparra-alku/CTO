@@ -1,0 +1,61 @@
+# L5 · Pruébate
+Genially 65b104b8e4aeba001478f81a
+
+Dedica unos minutos para comprobar los conocimientos que adquiriste en esta lección.
+Antes de continuar con este curso, es necesario que, con base en los conocimientos que adquiriste, ayudes a Elena a resolver algunas problemáticas.
+TechSolutions emprendió su transformación digital para mantenerse a la vanguardia y le ha encomendado a Elena atender la eficiencia de los procesos, sin dejar de lado las crecientes expectativas de los clientes. Esto implicó la adopción de tecnologías emergentes que aseguraran la mejora continua de toda la cadena de valor. Da clic en el "Mensaje 1" para empezar a resolver las actividades.
+¿Cómo puede Elena fomentar la colaboración entre equipos durante la transformación digital?
+Plataforma de colaboración en la nube
+Implementación de inteligencia artificial
+Reuniones virtuales periódicas
+¡Correcto!
+La plataforma de colaboración en la nube es una solución digital que puede fomentar la colaboración entre los equipos de trabajo.
+¡Incorrecto!
+La respuesta correcta es b) Plataforma de colaboración en la nube. Recuerda que una plataforma de colaboración en la nube es una solución digital que puede fomentar la colaboración entre los equipos de trabajo.
+¿Qué técnicas y herramientas podría emplear Elena para detectar oportunidades de mejora e innovación en la empresa?
+Design Thinking y Lean Startup
+Inteligencia artificial y analítica de datos
+Scrum y Kanban
+El Design Thinking y Lean Startup permiten generar ideas originales sobre nuevos productos, servicios o procesos innovadoras que propicien la competitividad de las empresas en el mercado.
+La respuesta correcta es c) Design Thinking y Lean Startup. Recuerda que el Design Thinking y Lean Startup permiten generar ideas originales sobre nuevos productos, servicios o procesos innovadoras que propicien la competitividad de las empresas en el mercado.
+¿En qué aspecto se podría utilizar el Design Thinking en el marco de la transformación digital de TechSolutions?
+Desarrollo de productos innovadores
+Eficiencia de los procesos internos
+Satisfacción del cliente
+El Design Thinking es una herramienta que permite desarrollar nuevos productos y servicios, mejorar los procesos existentes y resolver problemas de diversa índole.
+La respuesta correcta es c) Desarrollo de productos innovadores. Recuerda que el Design Thinking es una herramienta que permite desarrollar nuevos productos y servicios, mejorar los procesos existentes y resolver problemas de diversa índole.
+Le han pedido a Elena que implemente metodologías ágiles como Scrum o Kanban, ¿qué beneficios tendría en TechSolutions?
+Aumento de la inversión en tecnologías emergentes
+Ciclos de desarrollo más cortos y mayor capacidad de respuesta
+Reducción de costos del servicio al cliente
+La adopción de metodologías ágiles permite ciclos de desarrollo más cortos y mayor capacidad de respuesta a cambios en los requisitos del cliente.
+La respuesta correcta es b) Ciclos de desarrollo más cortos y mayor capacidad de respuesta. Recuerda que la adopción de metodologías ágiles permite ciclos de desarrollo más cortos y mayor capacidad de respuesta a cambios en los requisitos del cliente.
+Por último, Elena considera necesario fomentar una cultura de la mejora continua, ¿qué condiciones se deben reunir para lograrlo?
+Liderazgo comprometido, cultura de aprendizaje y colaboración
+Liderazgo transformador, comunicación y agilidad organizativa
+Liderazgo autoritario, silos y competencia interna
+La cultura de la mejora continua se caracteriza por tres elementos: liderazgo comprometido, cultura de aprendizaje y colaboración.
+La respuesta correcta es a) Liderazgo comprometido, cultura de aprendizaje y colaboración. Recuerda que la cultura de la mejora continua se caracteriza por tres elementos: liderazgo comprometido, cultura de aprendizaje y colaboración.
+¡Buen trabajo!
+Has respondido todos los mensajes. Continúa con el siguiente recurso y conoce las Ideas para llevar de esta lección.
+Función para colocar en cada página donde se use DND
+Tuto DND∞ Parte 1
+Agrupar con un objeto genially. Se puede duplicar. Todos los duplicados son intercambiales, es decir se pueden poner en cualquier CIBLE1
+Todos los elementos se pueden duplicar
+FEEDBACK globales (elementos opcionales)
+Agrupar con un objeto genially. Será el objetivo para el Objet1
+FEEDBACK individuales (elementos opcionales)
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). Ya no volverá. a desaparecer.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 esté sobre el objetivo 1 (cible1). Ya no volverá a desaparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). Ya no volverá a aparecer.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 esté sobre el objetivo 1(cible1). Ya no volverá a aparecer.
+Agrupar con un objeto genially que aparecerá en caso de todos los objects estén sobre sus objetivos (cibles). V olverá a desaparecer en otro caso.
+Agrupar con un objeto genially que aparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, desaparecerá.
+Agrupar con un objeto genially que desaparecerá en caso de que todos los objects estén sobre sus objetivos (cibles). V olverá a aparecer en otro caso.
+Agrupar con un objeto genially que desaparecerá en caso de que el objet 1 está sobre el objetivo 1 (cible1). En caso contrario, aparecerá.
+Tuto DND∞ Parte 2
+Más elementos opcionales
+Botón de verificación que elimina la validación automática Muestra comentarios individuales y comentarios generales. Muestra el comentario negativo WRONG_ON en caso de error. Devuelve los objetos y objetivos a sus posiciones originales en caso de error (si hay corrección).
+Variable opcional que permite corregir errores devolviendo objetivos y objetos a sus posiciones originales.
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para aparecer en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR
+Retroalimentación negativa global : elemento duplicable que se agrupará con un objeto Genially para que aparezca temporalmente (3s) en caso de una respuesta falsa. Solo funciona con el botón VERIFICAR

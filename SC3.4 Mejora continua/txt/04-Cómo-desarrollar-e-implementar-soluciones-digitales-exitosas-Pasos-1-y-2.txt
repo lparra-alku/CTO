@@ -1,0 +1,193 @@
+
+--- p1 ---
+Revisa los primeros pasos del desarrollo e implementación de soluciones 
+digitales a partir de comprender su objetivo, revisar las tareas a realizar y 
+un ejemplo de su aplicación.
+soluciones digitales exitosas?
+Pasos 1 y 2 
+¿Cómo desarrollar
+e implementar
+
+--- p2 ---
+El desarrollo e implementación de soluciones digitales, 
+como aplicaciones, servicios o procedimientos que utilizan 
+tecnologías digitales, no es un proceso fácil ni sencillo, por lo que 
+requiere una planificación cuidadosa y el compromiso de distintas 
+áreas de la empresa. A continuación, se presentan los dos primeros pasos 
+para desarrollar e implementar soluciones digitales.  
+El primer paso en el desarrollo de soluciones digitales es la definición de 
+objetivos claros. Para ello, se debe tener una comprensión precisa de lo que se 
+desea lograr con la solución digital: ¿optimizar procesos, mejorar la 
+experiencia del cliente o resolver un problema específico a través del uso de 
+tecnología digital de vanguardia? 
+Entonces los objetivos proporcionan una dirección clara a la solución, ya que 
+permiten tener en claro lo que se busca lograr y los problemas o desafíos que 
+se pretenden abordar. En razón de ello, los objetivos deben ser claros, 
+medibles, alcanzables y con un límite de tiempo, a esto se le conoce como 
+objetivos SMART. 
+Paso 1. Definición de objetivos claros
+2
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p3 ---
+Este primer paso se conforma de las siguientes actividades: 
+Se debe involucrar a personal de distintas áreas de la organización. Por 
+ejemplo, expertos en Tecnología, Marketing, Operaciones y cualquier otro 
+departamento relevante, ya que la diversidad de sus perspectivas ayudarán 
+a dar comienzo al proceso. 
+Esta actividad implica un análisis a profundidad que permita comprender 
+las necesidades y desafíos que tiene la organización. Por ejemplo, se pueden 
+identificar problemas actuales o áreas de mejora en la operación diaria. 
+Con base en la información recopilada, se deben definir los objetivos que se 
+desean lograr con la solución digital. Recuerda establecer objetivos SMART. 
+Por ejemplo, si tienes una tienda en línea, el objetivo podría ser “aumentar 
+las conversiones en un 20 % en los próximos seis meses. 
+Cabe la posibilidad de que se establezcan varios objetivos, pero es necesario 
+priorizarlos, es decir, identificar aquellos que resulten más urgentes o sean 
+críticos para el desenvolvimiento de la organización.
+B. Identificar necesidades y desafíos de la transformación digital.
+C. Establecer objetivos específicos.
+D. Priorizar los objetivos propuestos.
+3
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p4 ---
+Por último, se debe asegurar que los objetivos están alineados con la visión 
+y la estrategia a largo plazo de la organización, puesto que la solución 
+digital debe ser coherente con la dirección que la organización desea tomar.
+Ahora es momento de visualizar la aplicación de este paso: Imaginemos una 
+empresa de gestión de residuos, llamada EcoLogiTech, la cual busca reducir 
+los residuos no reciclables y aumentar la eficiencia en la recolección de 
+residuos. Para ello, se propone la implementación de una solución digital 
+que mejore la gestión de residuos y permita dar seguimiento en tiempo real 
+a las rutas de recolección.
+Lo primero que realizaron fue reunir a un equipo multidisciplinario, 
+conformado por el CEO, el jefe de operaciones y el director de Tecnología. 
+Entre todos analizaron los desafíos y problemas que enfrenta la 
+organización y observaron la ineficiencia en la recolección de residuos por 
+falta de visibilidad y planificación efectiva de rutas, lo cual representa 
+costos operativos elevados.
+Entonces establecieron como objetivo: “Aumentar la eficiencia en la 
+recolección de residuos en un 25 % en los próximos seis meses”, el cual es 
+específico, claro, medible, alcanzable y con un plazo definido, esto facilitará 
+su seguimiento y evaluación.
+Cabe señalar que la organización tiene otros objetivos y desafíos, pero 
+atender la eficiencia en la recolección de residuos se volvió la prioridad, 
+debido a su impacto en los costos operativos.
+Para cerrar este paso, los líderes se aseguraron de que el objetivo estuviera 
+alineado con la estrategia general de EcoLogiTech: Proporcionar servicios 
+de gestión de residuos de manera más eficiente y sostenible.
+Ejemplo práctico: el caso de la empresa EcoLogiTech
+E. Alinear los objetivos con la estrategia de la organización.
+4
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p5 ---
+Una vez definidos los objetivos, es momento de diseñar y desarrollar la 
+solución digital a partir de un plan detallado que incluya la selección de 
+tecnologías adecuadas. Este paso permitirá crear una solución efectiva y 
+exitosa, en la que su funcionalidad y características estén diseñadas en 
+función de la experiencia del usuario y el objetivo previamente establecido.
+Para ello es necesario realizar las siguientes actividades:
+Antes de comenzar con el desarrollo de la solución digital, es necesario 
+planificar el proyecto a través de un cronograma, establecer los recursos 
+necesarios, designar los roles y responsabilidades del equipo, así como definir 
+los entregables esperados en cada etapa.
+El diseño de la interfaz de usuario es crucial para garantizar una experiencia 
+de usuario positiva. Para ello se deben crear prototipos y maquetas que 
+representen cómo se verá y funcionará la solución. También se deben 
+considerar aspectos como la navegación, la usabilidad y la estética.
+Esta actividad consiste en que los desarrolladores generen la solución digital 
+utilizando tecnologías apropiadas, lo cual deberá basarse en los diseños y 
+especificaciones definidos previamente. Ante esto se sugiere seguir las 
+mejores prácticas de codificación y realizar una programación efectiva.
+Paso 2. Diseño y desarrollo de la solución
+II. Diseño de la Interfaz de Usuario (UI/UX).
+III. Desarrollo del software.
+5
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p6 ---
+También es necesario realizar pruebas de funcionalidad que permitan 
+garantizar que todas las características y funciones estén implementadas 
+correctamente. Esta actividad implica verificar que la solución cumple con los 
+requisitos iniciales y que no hay errores críticos.
+Si la solución digital requiere la integración con sistemas existentes, es 
+fundamental asegurarse de que esta integración se realice sin problemas. Esto 
+puede requerir la colaboración con equipos de TI y la implementación de 
+protocolos de seguridad.
+Por otra parte, si la solución digital utiliza una base de datos para almacenar 
+información, ésta debe ser diseñada y desarrollada de manera eficiente. Para 
+ello, se deben crear tablas, relaciones y consultas que respalden la 
+funcionalidad de la solución digital.
+Es necesario garantizar que la solución digital tendrá un rendimiento óptimo, 
+por lo cual se debe procurar la optimización del código y la infraestructura 
+para garantizar tiempos de respuesta rápidos y eficiencia en el uso de recursos.
+Otro aspecto relevante consiste en la implementación de medidas de 
+seguridad para proteger la solución digital y los datos del usuario. Esto 
+incluye la protección contra ataques cibernéticos, la autenticación de usuarios 
+y el cifrado de datos sensibles.
+IV. Pruebas de funcionalidad.
+V. Integración de tecnologías.
+VI. Desarrollo de base de datos (si aplica).
+VII. Optimización del rendimiento.
+VIII. Medidas de seguridad.
+6
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p7 ---
+A medida que se desarrolla la solución, es esencial mantener una 
+documentación detallada como manuales de usuario, guías técnicas y 
+diagramas de arquitectura, ya que esto facilitará la comprensión del sistema, 
+la resolución de problemas y futuras actualizaciones.
+Durante el proceso de diseño y desarrollo de la solución digital es crucial 
+mantener una comunicación efectiva entre los equipos involucrados, tales 
+como diseñadores, desarrolladores, analistas de negocio y otros interesados. 
+Esta colaboración garantiza que la solución cumpla con las expectativas y 
+objetivos planteados previamente.
+Prosigamos con el ejemplo de la empresa de gestión de residuos. El equipo de 
+líderes decidió colaborar con una empresa de desarrollo de software, 
+especializada en soluciones logísticas. Juntos crearon una aplicación móvil 
+para optimizar las rutas de recolección de residuos y que los conductores 
+recibieran actualizaciones en tiempo real. 
+Se comenzó creando el diseño de la interfaz de usuario (UI) para que fuera 
+intuitivo y fácil de usar para los conductores. Una vez finalizado el diseño, el 
+equipo de desarrollo de software comenzó a construir la aplicación.
+Posteriormente, la solución incluyó la integración de tecnologías avanzadas, 
+tales como sistemas de geolocalización y sensores en los camiones de 
+recolección para rastrear la ubicación y el llenado de los contenedores.
+IX. Documentación del proceso.
+X. Trabajo colaborativo.
+Ejemplo práctico: el caso de la empresa EcoLogiTech
+7
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p8 ---
+También se hicieron pruebas de funcionalidad, por lo que la empresa buscó la 
+retroalimentación de los conductores de los camiones de recolección, ya que 
+eran los usuarios finales. De esta manera, se realizaron ajustes en función de la 
+retroalimentación para asegurar que la aplicación es eficiente y fácil de usar.
+ 
+Por último, EcoLogiTech determinó que la solución fuera escalable, es decir, 
+que la aplicación crezca a medida que la empresa se expande. Esto implica un 
+diseño flexible, con la capacidad de agregar más camiones y rutas sin 
+presentar problema alguno.
+La creación de la solución digital desde cero incluye diversas acciones, desde 
+el diseño de la interfaz de usuario, el desarrollo del software y el 
+cumplimiento de requisitos técnicos y de negocio. Por lo que la planificación y 
+la colaboración son clave para el éxito de este paso.
+8
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
+
+--- p9 ---
+Reflexiones
+¿De qué manera realizan la planeación, el diseño y 
+desarrollo de una solución digital en tu empresa u 
+organización?
+Ante las acciones propuestas para estos pasos, ¿cuáles 
+consideras conveniente implementar?
+Descarga la versión impresa en el 
+apartado de Archivos adjuntos
+de la plataforma.
+9
+Tecnológico de Monterrey © 2024 | The Learning Gate ®
